@@ -2391,5 +2391,35 @@
     "title": "The ROI of Agentic Remediation: Real-World Results with Wiz Green Agent",
     "cves": [],
     "seen_at": "2026-11-03T14:10:53.937487"
+  },
+  "ff2b88b226bb87952ac088529f6e088303c00ae21690e4b7bac333228f1c6b12": {
+    "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+    "cves": [],
+    "seen_at": "2026-11-03T15:45:16.293198"
+  },
+  "bb2b86bf21ecec2d1b01ed49fd1397de2c1c3db41d2730b7194018502c8243b9": {
+    "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
+    "cves": [],
+    "seen_at": "2026-11-03T15:45:16.294282"
+  },
+  "09eebb13661c4071558b64d4b75f32b94a617bac9f740a450b0866832a0b61d3": {
+    "title": "Barracuda warns of critical flaws allowing root access to devices",
+    "cves": [],
+    "seen_at": "2026-11-03T15:45:16.904211"
+  },
+  "24bb448f3e41771c9b4c8b603e2afd707232023965793bf8e6078b2ae9f05aa9": {
+    "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+    "cves": [],
+    "seen_at": "2026-11-03T15:45:16.905613"
+  },
+  "dbddc9b1d0b9b512230b1a2b4954c25eb9c34794ea6ea71f6df1a4b9dcc5efe9": {
+    "title": "Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles",
+    "cves": [],
+    "seen_at": "2026-11-03T15:45:18.269126"
+  },
+  "c6fb809d4b67f4770be53a69458d6d65c3671e615289afc055e6eb1c54c13bcf": {
+    "title": "Defrost and Disrupt | An Assessment of Europe\u2019s Refrigeration Attacks",
+    "cves": [],
+    "seen_at": "2026-11-03T15:45:28.983638"
   }
 }
