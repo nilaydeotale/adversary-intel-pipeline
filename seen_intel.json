@@ -2449,5 +2449,75 @@
       "CVE-2026-63774"
     ],
     "seen_at": "2026-11-03T16:50:43.089854"
+  },
+  "e201f84c3a4ef71661610171ec5762031a0f6dd463d355f4d0c5131a3526e77e": {
+    "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:42.574318"
+  },
+  "06cc78e088fde6b4eaf93bb268628b5981c4e6f23265f56ecf9d7a65fec2542f": {
+    "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+    "cves": [
+      "CVE-2026-116606"
+    ],
+    "seen_at": "2026-11-03T17:44:42.679382"
+  },
+  "bd438b38fd7a0d78f71713347d7ea5e85632081cd127e3cd5edbf7df1eeb0eb5": {
+    "title": "Synology Warns of Ransomware Attacks Targeting NAS Devices Running Outdated DSM Versions",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:45.066739"
+  },
+  "5f3554420c2cd4aa7151a2744f6760f1ebd9efe6ec1b301529729c24e1384ebd": {
+    "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:56.970149"
+  },
+  "df04015b79f99eb74d48d4bc3f8269eecd81cae970f19e2a3bea8088291ef299": {
+    "title": "3 lessons from frontier AI vulnerability research",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:56.971770"
+  },
+  "edaed73b05efd9bbe830e17cb2bffea1adb9349df12d1aa1bcf3a4e3717e9d1d": {
+    "title": "CISO perspectives on managing vulnerability risks in the age of AI",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:56.973410"
+  },
+  "d6eaed256cb07ca3965e439fcaddb381e462f654a3cd597a694c6406c969c113": {
+    "title": "Preparing governments for an era of interconnected cyber risk",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:56.975046"
+  },
+  "945d29c6204dfa760f981f9395b3754dc52294e80900dc95979559d75041c011": {
+    "title": "Insights from the 2026 Microsoft Digital Defense Report",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:56.976722"
+  },
+  "a8c8b33ae0c8aff18f1cd3a84a289f88172ebe4d857ddfde1af587f8f18704f1": {
+    "title": "\u200b\u200bSecure what\u2019s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:56.977987"
+  },
+  "556819c528d1c21604cae443002c8f0fd25de460b84aa969c03f07d6f52c555f": {
+    "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+    "cves": [
+      "CVE-2026-73570",
+      "CVE-2026-73570"
+    ],
+    "seen_at": "2026-11-03T17:44:57.634783"
+  },
+  "d75267abc05f95dab5516ab085c9042891f0075f86567ffa11f5b713143100cb": {
+    "title": "Phishing Abuses RMM Tools for Persistent Access",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:57.636979"
+  },
+  "d988a959d03948fbec1352a57b625210bbea74b98a770f8f2dd13a79f9554c2c": {
+    "title": "\u200b\u200bBeyond source code: A path to the keys to the kingdom",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:57.639037"
+  },
+  "1bbd16e05220e6408c5e9e5bdb2f9ab5b19901cf8f6bf1433b973e156aba391e": {
+    "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+    "cves": [],
+    "seen_at": "2026-11-03T17:44:57.640807"
   }
 }

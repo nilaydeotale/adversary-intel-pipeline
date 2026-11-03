@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-03 16:50 UTC",
+  "updated_utc": "2026-11-03 17:45 UTC",
   "items": [
     {
       "source": "CISA Cyber Alerts",
@@ -324,6 +324,26 @@
       "max_epss": 0.273,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:47.763745"
+    },
+    {
+      "source": "Microsoft Security",
+      "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
+      "score": 75,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2026-73570",
+        "CVE-2026-73570"
+      ],
+      "in_kev": [
+        "CVE-2026-73570",
+        "CVE-2026-73570"
+      ],
+      "max_epss": 0.71663,
+      "mitre": [],
+      "detected_utc": "2026-11-03T17:44:57.080445"
     },
     {
       "source": "Doyensec Blog",

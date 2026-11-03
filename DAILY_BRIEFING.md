@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-03 14:10 UTC | TLP:AMBER*
+*Last Updated: 2026-11-03 17:45 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | BleepingComputer | [UK school estate hit by 3AM ransomware in suspected AI-...](https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/) | - | `Threat` |
+| **CRITICAL** | `75` | Microsoft Security | [Unauthenticated command injection on internet-facing ma...](https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/) | CVE-2026-73570, CVE-2026-73570 🔥**(KEV)** | `Threat` |
