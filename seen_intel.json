@@ -2554,5 +2554,15 @@
     "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
     "cves": [],
     "seen_at": "2026-11-03T19:46:53.745351"
+  },
+  "3fef940f3252ee61da94cc6b9db32f2047077b9c451a13327d71ff087871657b": {
+    "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+    "cves": [],
+    "seen_at": "2026-11-03T20:41:28.587343"
+  },
+  "c918d182e574211aba0480a0474530014c52a26e289e9dcac047a702488ea92b": {
+    "title": "Binance Hack: How Fake Job Interviews and AI Abuse Led to a $6.34 Billion Attack",
+    "cves": [],
+    "seen_at": "2026-11-03T20:41:29.316299"
   }
 }
