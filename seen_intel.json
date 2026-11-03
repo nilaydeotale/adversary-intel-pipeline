@@ -2564,5 +2564,10 @@
     "title": "Binance Hack: How Fake Job Interviews and AI Abuse Led to a $6.34 Billion Attack",
     "cves": [],
     "seen_at": "2026-11-03T20:41:29.316299"
+  },
+  "7478d37a39d5f2f11781fbeb6fefd306ac12e19c3be9105441cca5e724fa07ae": {
+    "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+    "cves": [],
+    "seen_at": "2026-11-03T21:38:58.186860"
   }
 }
