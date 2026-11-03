@@ -1,0 +1,1405 @@
+{
+  "updated_utc": "2026-11-03 01:58 UTC",
+  "items": [
+    {
+      "source": "0day Fans",
+      "title": "CVE-2026-35273: SSRF to RCE in Oracle PeopleSoft",
+      "link": "https://www.thezdi.com/blog/2026/10/20/cve-2026-35273-ssrf-to-rce-in-oracle-peoplesoft",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-35273"
+      ],
+      "in_kev": [
+        "CVE-2026-35273"
+      ],
+      "max_epss": 0.96678,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:12.893710"
+    },
+    {
+      "source": "DoublePulsar",
+      "title": "Merry Christmas Day! Have a MongoDB security incident.",
+      "link": "https://doublepulsar.com/merry-christmas-day-have-a-mongodb-security-incident-9537f54289eb?source=rss----8343faddf0ec---4",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [
+        "aws"
+      ],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2025-14847"
+      ],
+      "in_kev": [
+        "CVE-2025-14847"
+      ],
+      "max_epss": 0.83218,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:15.088243"
+    },
+    {
+      "source": "The DFIR Report",
+      "title": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware",
+      "link": "https://thedfirreport.com/2026/05/11/flash-alert-etherrat-and-tuktuk-c2-end-in-the-gentleman-ransomware/",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [
+        "CVE-2025-55182"
+      ],
+      "in_kev": [
+        "CVE-2025-55182"
+      ],
+      "max_epss": 0.99802,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:25.817704"
+    },
+    {
+      "source": "The DFIR Report",
+      "title": "Apache ActiveMQ Exploit Leads to LockBit Ransomware",
+      "link": "https://thedfirreport.com/2026/02/23/apache-activemq-exploit-leads-to-lockbit-ransomware/",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware",
+        "rce"
+      ],
+      "cves": [
+        "CVE-2023-46604"
+      ],
+      "in_kev": [
+        "CVE-2023-46604"
+      ],
+      "max_epss": 0.99992,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:26.620549"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "ARMORY CASTLE Exploits BeyondTrust",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [
+        "mfa",
+        "saml"
+      ],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [
+        "CVE-2023-46805",
+        "CVE-2024-21887",
+        "CVE-2026-102764"
+      ],
+      "in_kev": [
+        "CVE-2023-46805",
+        "CVE-2024-21887",
+        "CVE-2026-102764"
+      ],
+      "max_epss": 0.99999,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:34.124673"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild",
+        "rce",
+        "zero-day"
+      ],
+      "cves": [
+        "CVE-2025-3248",
+        "CVE-2026-1731",
+        "CVE-2026-42271",
+        "CVE-2026-5027",
+        "CVE-2026-1731",
+        "CVE-2026-42271",
+        "CVE-2026-5027"
+      ],
+      "in_kev": [
+        "CVE-2025-3248",
+        "CVE-2026-1731",
+        "CVE-2026-42271",
+        "CVE-2026-1731",
+        "CVE-2026-42271"
+      ],
+      "max_epss": 0.99993,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:35.112213"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [
+        "CVE-2026-88771",
+        "CVE-2026-88772",
+        "CVE-2026-88771",
+        "CVE-2026-88778"
+      ],
+      "in_kev": [
+        "CVE-2026-88771",
+        "CVE-2026-88772",
+        "CVE-2026-88771"
+      ],
+      "max_epss": 0.8216,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:36.031968"
+    },
+    {
+      "source": "Unit 42 (Palo Alto)",
+      "title": "Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
+      "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [
+        "CVE-2026-0257",
+        "CVE-2026-0257"
+      ],
+      "in_kev": [
+        "CVE-2026-0257",
+        "CVE-2026-0257"
+      ],
+      "max_epss": 0.95642,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:41.653837"
+    },
+    {
+      "source": "Doyensec Blog",
+      "title": "The MCP AuthN/Z Nightmare",
+      "link": "https://blog.doyensec.com/2026/03/05/mcp-nightmare.html",
+      "score": 95,
+      "severity": "CRITICAL",
+      "stack_hits": [
+        "azure",
+        "oauth",
+        "okta",
+        "saml",
+        "sso"
+      ],
+      "exploit_hits": [
+        "in the wild",
+        "rce"
+      ],
+      "cves": [
+        "CVE-2025-4143",
+        "CVE-2025-4144",
+        "CVE-2025-49596",
+        "CVE-2025-53100",
+        "CVE-2025-53818",
+        "CVE-2025-58062",
+        "CVE-2025-6514",
+        "CVE-2025-4143",
+        "CVE-2025-4144"
+      ],
+      "in_kev": [],
+      "max_epss": 0.77027,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:20.982721"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "Metasploit Wrap Up: Langflow, MongoDB, and More",
+      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-langflow-mongodb-and-more",
+      "score": 95,
+      "severity": "CRITICAL",
+      "stack_hits": [
+        "sso"
+      ],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2024-9264",
+        "CVE-2026-0768",
+        "CVE-2026-0769",
+        "CVE-2026-10134",
+        "CVE-2026-27960",
+        "CVE-2026-39980",
+        "CVE-2026-53959",
+        "CVE-2026-7873",
+        "CVE-2026-93674",
+        "CVE-2026-93680",
+        "CVE-2024-9264",
+        "CVE-2026-0768",
+        "CVE-2026-0769",
+        "CVE-2026-10134",
+        "CVE-2026-27960",
+        "CVE-2026-39980",
+        "CVE-2026-53959",
+        "CVE-2026-7873",
+        "CVE-2026-93674",
+        "CVE-2026-93680"
+      ],
+      "in_kev": [],
+      "max_epss": 0.97553,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:46.691962"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "score": 80,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [
+        "CVE-2026-111357"
+      ],
+      "in_kev": [
+        "CVE-2026-111357"
+      ],
+      "max_epss": 0.00533,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:51:29.240023"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "Rapid7 Analysis: GitLab CI/CD Regex Integer Overflow (CVE-2026-97229)",
+      "link": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229",
+      "score": 80,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [
+        "CVE-2026-97229",
+        "CVE-2026-97229"
+      ],
+      "in_kev": [
+        "CVE-2026-97229",
+        "CVE-2026-97229"
+      ],
+      "max_epss": 0.273,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:47.763745"
+    },
+    {
+      "source": "Doyensec Blog",
+      "title": "The skb that wasn't freed - the Fragnesia primitive via Open vSwitch",
+      "link": "https://blog.doyensec.com/2026/09/17/ovs.html",
+      "score": 75,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2016-5195",
+        "CVE-2022-0847",
+        "CVE-2026-31431",
+        "CVE-2026-43284",
+        "CVE-2026-43500",
+        "CVE-2026-46300",
+        "CVE-2026-80977",
+        "CVE-2026-89487",
+        "CVE-2026-90049",
+        "CVE-2026-31635"
+      ],
+      "in_kev": [
+        "CVE-2016-5195",
+        "CVE-2022-0847",
+        "CVE-2026-31431",
+        "CVE-2026-46300"
+      ],
+      "max_epss": 0.98114,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:20.111874"
+    },
+    {
+      "source": "Cisco Talos",
+      "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
+      "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
+      "score": 75,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2026-20127"
+      ],
+      "in_kev": [
+        "CVE-2026-20127"
+      ],
+      "max_epss": 0.89294,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:39.360602"
+    },
+    {
+      "source": "Unit 42 (Palo Alto)",
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+      "score": 75,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2026-109618",
+        "CVE-2026-109619",
+        "CVE-2026-109618",
+        "CVE-2026-109619"
+      ],
+      "in_kev": [
+        "CVE-2026-109618",
+        "CVE-2026-109619",
+        "CVE-2026-109618",
+        "CVE-2026-109619"
+      ],
+      "max_epss": 0.99999,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:40.658794"
+    },
+    {
+      "source": "Unit 42 (Palo Alto)",
+      "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+      "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
+      "score": 75,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2024-47575",
+        "CVE-2024-47575"
+      ],
+      "in_kev": [
+        "CVE-2024-47575",
+        "CVE-2024-47575"
+      ],
+      "max_epss": 0.94766,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:42.583862"
+    },
+    {
+      "source": "Wiz Blog",
+      "title": "Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder Vulnerability",
+      "link": "https://www.wiz.io/blog/cve-2026-111497-brotli-rce-node-js",
+      "score": 75,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2026-111497"
+      ],
+      "in_kev": [
+        "CVE-2026-111497"
+      ],
+      "max_epss": 0.82641,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:44.334501"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
+      "score": 70,
+      "severity": "CRITICAL",
+      "stack_hits": [
+        "mfa",
+        "okta",
+        "saml",
+        "sso"
+      ],
+      "exploit_hits": [
+        "actively exploited",
+        "ransomware",
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [
+        "T1195.001",
+        "T1195.002"
+      ],
+      "detected_utc": "2026-11-02T15:52:38.296129"
+    },
+    {
+      "source": "DoublePulsar",
+      "title": "An update on FortiBleed\u200a\u2014\u200awhat\u2019s happening with victim orgs",
+      "link": "https://doublepulsar.com/an-update-on-fortibleed-whats-happening-with-victim-orgs-c0671a50e7f4?source=rss----8343faddf0ec---4",
+      "score": 60,
+      "severity": "HIGH",
+      "stack_hits": [
+        "active directory",
+        "mfa"
+      ],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:14.072120"
+    },
+    {
+      "source": "DoublePulsar",
+      "title": "What organisations can learn from the record breaking fine over Capita\u2019s ransomware incident",
+      "link": "https://doublepulsar.com/what-organisations-can-learn-from-the-record-breaking-fine-over-capitas-ransomware-incident-6afbdfcdd35b?source=rss----8343faddf0ec---4",
+      "score": 60,
+      "severity": "HIGH",
+      "stack_hits": [
+        "active directory"
+      ],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:15.832669"
+    },
+    {
+      "source": "Rhino Security Labs",
+      "title": "CVE-2024-46506: Unauthenticated RCE in NetAlertx",
+      "link": "https://rhinosecuritylabs.com/research/cve-2024-46506-rce-in-netalertx/",
+      "score": 60,
+      "severity": "HIGH",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2024-46506",
+        "CVE-2024-46506"
+      ],
+      "in_kev": [],
+      "max_epss": 0.62666,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:24.460313"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
+      "score": 60,
+      "severity": "HIGH",
+      "stack_hits": [
+        "active directory",
+        "aws",
+        "azure",
+        "entra",
+        "okta"
+      ],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:33.273523"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "GTIG AI Threat Tracker: From Prompting to Autonomy \u2013 The Evolution of Adversarial AI",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+      "score": 60,
+      "severity": "HIGH",
+      "stack_hits": [
+        "active directory",
+        "azure",
+        "saml"
+      ],
+      "exploit_hits": [
+        "in the wild",
+        "ransomware",
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:36.718992"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
+      "score": 60,
+      "severity": "HIGH",
+      "stack_hits": [
+        "entra",
+        "mfa",
+        "okta",
+        "sso"
+      ],
+      "exploit_hits": [
+        "token theft"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:37.663915"
+    },
+    {
+      "source": "Wiz Blog",
+      "title": "ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors",
+      "link": "https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors",
+      "score": 60,
+      "severity": "HIGH",
+      "stack_hits": [
+        "entra",
+        "okta"
+      ],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:44.978832"
+    },
+    {
+      "source": "Doyensec Blog",
+      "title": "Playing It SFAPE: Code Execution in Isolated User Mode",
+      "link": "https://blog.doyensec.com/2026/10/13/Sfape.html",
+      "score": 50,
+      "severity": "HIGH",
+      "stack_hits": [
+        "azure"
+      ],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2023-36880",
+        "CVE-2024-21423",
+        "CVE-2026-83498"
+      ],
+      "in_kev": [],
+      "max_epss": 0.01616,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:18.942304"
+    },
+    {
+      "source": "Rhino Security Labs",
+      "title": "CVE-2025-0693:  AWS IAM User Enumeration",
+      "link": "https://rhinosecuritylabs.com/research/unauthenticated-username-enumeration-in-aws/",
+      "score": 50,
+      "severity": "HIGH",
+      "stack_hits": [
+        "aws"
+      ],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2025-0693"
+      ],
+      "in_kev": [],
+      "max_epss": 0.0036,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:23.531899"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+      "score": 50,
+      "severity": "HIGH",
+      "stack_hits": [
+        "aws",
+        "azure",
+        "mfa"
+      ],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2026-40217"
+      ],
+      "in_kev": [],
+      "max_epss": 0.15532,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:32.535045"
+    },
+    {
+      "source": "Rhino Security Labs",
+      "title": "CVE-2025-26147: Authenticated RCE In Denodo Scheduler",
+      "link": "https://rhinosecuritylabs.com/research/cve-2025-26147-authenticated-rce-in-denodo/",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2025-26147",
+        "CVE-2025-26147"
+      ],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:23.004476"
+    },
+    {
+      "source": "Rhino Security Labs",
+      "title": "CVE-2024-55963: Unauthenticated RCE in Default-Install of Appsmith",
+      "link": "https://rhinosecuritylabs.com/research/cve-2024-55963-unauthenticated-rce-in-appsmith/",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2024-55963",
+        "CVE-2024-55963"
+      ],
+      "in_kev": [],
+      "max_epss": 0.32863,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:23.276383"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-13242",
+        "CVE-2026-55803"
+      ],
+      "in_kev": [],
+      "max_epss": 0.00353,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "active directory"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:51:28.759824"
+    },
+    {
+      "source": "DoublePulsar",
+      "title": "Microsoft Vibing\u200a\u2014\u200acapturing screenshots and voice samples without governance",
+      "link": "https://doublepulsar.com/microsoft-vibing-capturing-screenshots-and-voice-samples-without-governance-6973c48f03a7?source=rss----8343faddf0ec---4",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "azure"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:14.827756"
+    },
+    {
+      "source": "Doyensec Blog",
+      "title": "Navigating Lax Load Balancers: When an Intersection Gets You Inside",
+      "link": "https://blog.doyensec.com/2026/05/25/cloudsectidbits-elbaph-alb.html",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "aws",
+        "sso"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:20.718930"
+    },
+    {
+      "source": "Doyensec Blog",
+      "title": "The Danger of Multi-SSO AWS Cognito User Pools",
+      "link": "https://blog.doyensec.com/2026/05/05/cloudsectidbits-masso-cognito-sso.html",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "aws",
+        "saml",
+        "sso"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:20.743636"
+    },
+    {
+      "source": "PortSwigger Research",
+      "title": "The Fragile Lock:&nbsp;Novel Bypasses For SAML Authentication",
+      "link": "https://portswigger.net/research/the-fragile-lock",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "saml"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:22.330410"
+    },
+    {
+      "source": "ANY.RUN Blog",
+      "title": "SkyW4lker Exposed: A Growing Microsoft 365 Phishing Threat to American Enterprises",
+      "link": "https://any.run/cybersecurity-blog/skyw4lker-phishing-kit-analysis/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "mfa"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:29.392671"
+    },
+    {
+      "source": "Red Canary",
+      "title": "Investigating suspicious AI workflows in Microsoft Entra Agent ID: Assistive agents",
+      "link": "https://redcanary.com/blog/threat-detection/entra-id-ai-workflows-assistive-agents/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "entra"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:30.114948"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "Shutting the Door on the XCPE Botnet",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "sso"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:33.243530"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "Investigating Ephemeral Supply Chain Tampering",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [
+        "T1001",
+        "T1001.001",
+        "T1016",
+        "T1027",
+        "T1027.013",
+        "T1033",
+        "T1036",
+        "T1036.005",
+        "T1053",
+        "T1053.005",
+        "T1059",
+        "T1059.001",
+        "T1059.006",
+        "T1070",
+        "T1070.004",
+        "T1082",
+        "T1105",
+        "T1140",
+        "T1187",
+        "T1195",
+        "T1195.002",
+        "T1219",
+        "T1219.002",
+        "T1480",
+        "T1559",
+        "T1559.001",
+        "T1564",
+        "T1564.004",
+        "T1571",
+        "T1573",
+        "T1573.001",
+        "T1574",
+        "T1574.001",
+        "T1583",
+        "T1583.001",
+        "T1583.006",
+        "T1608",
+        "T1608.001",
+        "T1614"
+      ],
+      "detected_utc": "2026-11-02T15:52:34.836191"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "mfa",
+        "sso"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:36.681225"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "active directory",
+        "mfa"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:37.341477"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "oauth"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:37.374049"
+    },
+    {
+      "source": "Unit 42 (Palo Alto)",
+      "title": "The Current Landscape of OAuth Attacks",
+      "link": "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "oauth"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:41.394712"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "How Rapid7 InsightGovCloud Supports BOD 22-01 Compliance",
+      "link": "https://www.rapid7.com/blog/post/pt-insightgovcloud-supports-bod-22-01-compliance",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "active directory",
+        "aws",
+        "azure"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:46.550053"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "Simplify User Access Management with SCIM on Rapid7 Command Platform",
+      "link": "https://www.rapid7.com/blog/post/pt-scim-simplifies-user-access-management-uam-command-platform",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "okta",
+        "sso"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:09.892620"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:09.893165"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:09.893621"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:09.894454"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
+      "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:09.895428"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited",
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:10.262346"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:10.262782"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:10.263595"
+    },
+    {
+      "source": "0day Fans",
+      "title": "Infostealer riding the AI Train",
+      "link": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:13.516033"
+    },
+    {
+      "source": "DoublePulsar",
+      "title": "FortiBleed\u200a\u2014\u200a75k Fortinet firewalls have admin passwords cracked",
+      "link": "https://doublepulsar.com/fortibleed-75k-fortinet-firewalls-have-admin-passwords-cracked-60299faa65f8?source=rss----8343faddf0ec---4",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild",
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:14.820730"
+    },
+    {
+      "source": "DoublePulsar",
+      "title": "Microsoft\u2019s stance on zero day exploits is a dumpster fire of their own making",
+      "link": "https://doublepulsar.com/microsofts-stance-on-zero-day-exploits-is-a-dumpster-fire-of-their-own-making-0946117940a4?source=rss----8343faddf0ec---4",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:14.823276"
+    },
+    {
+      "source": "Rhino Security Labs",
+      "title": "Multiple CVEs in Infoblox NetMRI: RCE, Auth Bypass, SQLi, and File Read Vulnerabilities",
+      "link": "https://rhinosecuritylabs.com/research/infoblox-multiple-cves/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:22.736613"
+    },
+    {
+      "source": "The DFIR Report",
+      "title": "From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira",
+      "link": "https://thedfirreport.com/2026/06/29/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira-3/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:25.561042"
+    },
+    {
+      "source": "The DFIR Report",
+      "title": "Cat\u2019s Got Your Files: Lynx Ransomware",
+      "link": "https://thedfirreport.com/2025/12/17/cats-got-your-files-lynx-ransomware/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "credential stuffing",
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:27.251349"
+    },
+    {
+      "source": "The DFIR Report",
+      "title": "Blurring the Lines: Intrusion Shows Connection With Three Major Ransomware Gangs",
+      "link": "https://thedfirreport.com/2025/09/08/blurring-the-lines-intrusion-shows-connection-with-three-major-ransomware-gangs/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:27.253404"
+    },
+    {
+      "source": "The DFIR Report",
+      "title": "KongTuke FileFix Leads to New Interlock RAT Variant",
+      "link": "https://thedfirreport.com/2025/07/14/kongtuke-filefix-leads-to-new-interlock-rat-variant/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:27.255055"
+    },
+    {
+      "source": "Sekoia.io Blog",
+      "title": "Gotta Breach 'Em All! The Journey Of ShinyHunters",
+      "link": "https://www.sekoia.com/blog/gotta-breach-em-all-the-journey-of-shinyhunters",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:28.164259"
+    },
+    {
+      "source": "Recorded Future",
+      "title": "Using Threat Intelligence to Stop Ransomware Attacks",
+      "link": "https://www.recordedfuture.com/blog/ransomware-threat-intelligence",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:29.820177"
+    },
+    {
+      "source": "Cisco Talos",
+      "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
+      "link": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:39.326045"
+    },
+    {
+      "source": "Cisco Talos",
+      "title": "NIK C2: The new AI-enabled command-and-control framework",
+      "link": "https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:39.327057"
+    },
+    {
+      "source": "Unit 42 (Palo Alto)",
+      "title": "Unwrapping Retail Peak Season Cyber Threats",
+      "link": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:41.393200"
+    },
+    {
+      "source": "Wiz Blog",
+      "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+      "link": "https://www.wiz.io/blog/php2shell-php-rce",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:45.592676"
+    },
+    {
+      "source": "Wiz Blog",
+      "title": "Supply Chain Zero Days: Closing the Gap Between Publication and Detection",
+      "link": "https://www.wiz.io/blog/detect-supply-chain-zero-days-at-publication",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:45.597695"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "Q3 2026 Threat Update: Attackers Are Exploiting Vulnerabilities Within 3 Days",
+      "link": "https://www.rapid7.com/blog/post/tr-q3-2026-threat-update-attackers-exploiting-vulnerabilities-within-3-days",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited",
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:47.265243"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "Your Next Insider Threat Won\u2019t be Human: Securing AI Agents From the Outside in",
+      "link": "https://www.rapid7.com/blog/post/ai-inhuman-insider-threats-securing-agents",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:47.272077"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "How Multi-Campus Universities can Build a more Connected Security Program",
+      "link": "https://www.rapid7.com/blog/post/it-multi-campus-universities-building-more-connected-security-programs",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-02T15:52:48.388962"
+    }
+  ]
+}

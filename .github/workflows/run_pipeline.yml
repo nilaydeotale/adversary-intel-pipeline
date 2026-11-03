@@ -1,0 +1,70 @@
+name: Continuous Adversary Intelligence Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pages: write        # Required to deploy GitHub Pages
+  id-token: write     # Required to verify deployment identity
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  collect-intel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Repository Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Threat Intelligence Pipeline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python pipeline.py
+
+      - name: Commit and Push State Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          [ -f seen_intel.json ] && git add seen_intel.json
+          [ -f DAILY_BRIEFING.md ] && git add DAILY_BRIEFING.md
+          [ -f feeds_data.json ] && git add feeds_data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update intelligence state & daily briefing [skip ci]" && git push)
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."  # Deploys index.html and feeds_data.json from the repository root
+
+  deploy-pages:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: collect-intel
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

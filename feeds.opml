@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.1">
+  <head>
+    <title>Enterprise CTI Feeds</title>
+  </head>
+  <body>
+    <outline text="CyberSecurity" title="CyberSecurity">
+      <outline text="News - Security" title="News - Security">
+        <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews" />
+        <outline text="Trend Micro Research" title="Trend Micro Research" type="rss" xmlUrl="https://newsroom.trendmicro.com/news-releases?category=787&amp;pagetemplate=rss" />
+        <outline text="Wired Security" title="Wired Security" type="rss" xmlUrl="https://www.wired.com/feed/category/security/latest/rss/" />
+        <outline text="Dark Reading" title="Dark Reading" type="rss" xmlUrl="https://www.darkreading.com/rss.xml" />
+        <outline text="SecurityWeek" title="SecurityWeek" type="rss" xmlUrl="https://www.securityweek.com/feed/" />
+        <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" />
+        <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom/" />
+        <outline text="BleepingComputer" title="BleepingComputer" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/" />
+        <outline text="Security Affairs" title="Security Affairs" type="rss" xmlUrl="https://securityaffairs.com/feed" />
+      </outline>
+      <outline text="Blogs - Security" title="Blogs - Security">
+        <outline text="0day Fans" title="0day Fans" type="rss" xmlUrl="https://0dayfans.com/feed.rss" />
+        <outline text="Didier Stevens" title="Didier Stevens" type="rss" xmlUrl="https://blog.didierstevens.com/feed/" />
+        <outline text="DoublePulsar" title="DoublePulsar" type="rss" xmlUrl="https://doublepulsar.com/feed" />
+        <outline text="Doyensec Blog" title="Doyensec Blog" type="rss" xmlUrl="https://blog.doyensec.com/atom.xml" />
+        <outline text="Malware Traffic Analysis" title="Malware Traffic Analysis" type="rss" xmlUrl="https://www.malware-traffic-analysis.net/blog-entries.rss" />
+        <outline text="PortSwigger Research" title="PortSwigger Research" type="rss" xmlUrl="https://portswigger.net/research/rss" />
+        <outline text="Rhino Security Labs" title="Rhino Security Labs" type="rss" xmlUrl="https://rhinosecuritylabs.com/feed/" />
+        <outline text="The DFIR Report" title="The DFIR Report" type="rss" xmlUrl="https://thedfirreport.com/feed/" />
+        <outline text="Sekoia.io Blog" title="Sekoia.io Blog" type="rss" xmlUrl="https://blog.sekoia.io/feed/" />
+        <outline text="ANY.RUN Blog" title="ANY.RUN Blog" type="rss" xmlUrl="https://any.run/cybersecurity-blog/feed/" />
+      </outline>
+      <outline text="Blogs - Threat Research" title="Blogs - Threat Research">
+        <outline text="Recorded Future" title="Recorded Future" type="rss" xmlUrl="https://www.recordedfuture.com/feed" />
+        <outline text="Red Canary" title="Red Canary" type="rss" xmlUrl="https://redcanary.com/blog/feed/" />
+        <outline text="CISA Cyber Alerts" title="CISA Cyber Alerts" type="rss" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/all.xml" />
+        <outline text="Google Threat Intelligence" title="Google Threat Intelligence" type="rss" xmlUrl="https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/" />
+        <outline text="Cisco Talos" title="Cisco Talos" type="rss" xmlUrl="https://blog.talosintelligence.com/rss/" />
+        <outline text="Microsoft Security" title="Microsoft Security" type="rss" xmlUrl="https://www.microsoft.com/en-us/security/blog/feed/" />
+        <outline text="Unit 42 (Palo Alto)" title="Unit 42 (Palo Alto)" type="rss" xmlUrl="https://unit42.paloaltonetworks.com/feed/" />
+        <outline text="SentinelLabs" title="SentinelLabs" type="rss" xmlUrl="https://www.sentinelone.com/labs/feed/" />
+        <outline text="Wiz Blog" title="Wiz Blog" type="rss" xmlUrl="https://www.wiz.io/feed/rss.xml" />
+        <outline text="SANS ISC" title="SANS ISC" type="rss" xmlUrl="https://isc.sans.edu/rssfeed_full.xml" />
+        <outline text="Rapid7 Blog" title="Rapid7 Blog" type="rss" xmlUrl="https://www.rapid7.com/blog/rss/" />
+        <outline text="Center for Threat-Informed Defense" title="Center for Threat-Informed Defense" type="rss" xmlUrl="https://ctid.mitre.org/index.xml" />
+      </outline>
+    </outline>
+  </body>
+</opml>

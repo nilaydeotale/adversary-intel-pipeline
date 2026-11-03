@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Adversary Intelligence Feed | Live CTI Radar</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { background-color: #0b0f19; color: #e2e8f0; font-family: ui-sans-serif, system-ui, -apple-system, sans-serif; }
+    .card { background-color: #111827; border: 1px solid #1f2937; transition: all 0.15s ease; }
+    .card:hover { border-color: #374151; transform: translateY(-1px); }
+    .pill-active { background-color: #2563eb !important; color: #ffffff !important; border-color: #3b82f6 !important; }
+  </style>
+</head>
+<body class="min-h-screen pb-16">
+
+  <!-- Top Header -->
+  <header class="border-b border-gray-800 bg-gray-950/90 sticky top-0 z-20 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-4 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+      <div>
+        <div class="flex items-center gap-2">
+          <span class="inline-block w-3 h-3 rounded-full bg-emerald-500 animate-pulse"></span>
+          <h1 class="text-xl font-bold tracking-tight text-white">🛡️ Adversary Intelligence Radar</h1>
+          <span class="text-xs px-2 py-0.5 rounded bg-amber-500/20 text-amber-400 border border-amber-500/30 font-mono">TLP:AMBER</span>
+        </div>
+        <p class="text-xs text-gray-400 mt-1" id="last-updated">Syncing live telemetry from 30+ CTI feeds, CISA KEV & FIRST EPSS...</p>
+      </div>
+
+      <!-- Search Input -->
+      <div class="relative w-full md:w-80">
+        <input id="search-input" type="text" placeholder="Filter by CVE, Okta, AWS, T1078..."
+          class="w-full bg-gray-900 border border-gray-700 rounded-lg px-3.5 py-2 text-sm text-gray-100 placeholder-gray-500 focus:outline-none focus:border-blue-500" />
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-7xl mx-auto px-4 mt-6">
+    <!-- KPI Metric Row -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+      <div class="card rounded-xl p-4">
+        <p class="text-xs text-gray-400 uppercase font-semibold">Total Tracked Intel</p>
+        <p class="text-2xl font-bold text-white mt-1" id="stat-total">0</p>
+      </div>
+      <div class="card rounded-xl p-4 border-l-4 border-l-red-500">
+        <p class="text-xs text-gray-400 uppercase font-semibold">Critical Severity</p>
+        <p class="text-2xl font-bold text-red-400 mt-1" id="stat-critical">0</p>
+      </div>
+      <div class="card rounded-xl p-4 border-l-4 border-l-orange-500">
+        <p class="text-xs text-gray-400 uppercase font-semibold">CISA KEV Exploited</p>
+        <p class="text-2xl font-bold text-orange-400 mt-1" id="stat-kev">0</p>
+      </div>
+      <div class="card rounded-xl p-4 border-l-4 border-l-blue-500">
+        <p class="text-xs text-gray-400 uppercase font-semibold">Identity & Cloud Stack</p>
+        <p class="text-2xl font-bold text-blue-400 mt-1" id="stat-stack">0</p>
+      </div>
+    </div>
+
+    <!-- Filter Buttons -->
+    <div class="flex flex-wrap items-center gap-2 mb-6" id="filter-bar">
+      <button data-filter="ALL" class="filter-btn pill-active text-xs font-medium px-3 py-1.5 rounded-lg bg-gray-900 border border-gray-700 text-gray-300">All Intel</button>
+      <button data-filter="CRITICAL" class="filter-btn text-xs font-medium px-3 py-1.5 rounded-lg bg-gray-900 border border-gray-700 text-red-300">🚨 Critical Only</button>
+      <button data-filter="HIGH" class="filter-btn text-xs font-medium px-3 py-1.5 rounded-lg bg-gray-900 border border-gray-700 text-amber-300">⚡ High Severity</button>
+      <button data-filter="KEV" class="filter-btn text-xs font-medium px-3 py-1.5 rounded-lg bg-gray-900 border border-gray-700 text-orange-300">🔥 CISA KEV</button>
+      <button data-filter="STACK" class="filter-btn text-xs font-medium px-3 py-1.5 rounded-lg bg-gray-900 border border-gray-700 text-blue-300">🎯 IAM & Cloud Stack</button>
+    </div>
+
+    <!-- Feed Grid -->
+    <div id="feed-container" class="grid grid-cols-1 md:grid-cols-2 gap-4"></div>
+  </main>
+
+  <script>
+    let allItems = [];
+    let currentFilter = "ALL";
+
+    function severityBadge(sev, score) {
+      const colors = {
+        CRITICAL: "bg-red-500/20 text-red-400 border-red-500/40",
+        HIGH: "bg-amber-500/20 text-amber-300 border-amber-500/40",
+        MEDIUM: "bg-blue-500/20 text-blue-300 border-blue-500/40",
+        LOW: "bg-gray-700 text-gray-300 border-gray-600"
+      };
+      const cls = colors[sev] || colors.LOW;
+      return `<span class="text-xs font-bold px-2.5 py-0.5 rounded border ${cls}">${sev} · ${score}</span>`;
+    }
+
+    function renderCards() {
+      const container = document.getElementById("feed-container");
+      const query = document.getElementById("search-input").value.toLowerCase().trim();
+
+      const filtered = allItems.filter(item => {
+        if (currentFilter === "CRITICAL" && item.severity !== "CRITICAL") return false;
+        if (currentFilter === "HIGH" && item.severity !== "HIGH") return false;
+        if (currentFilter === "KEV" && (!item.in_kev || item.in_kev.length === 0)) return false;
+        if (currentFilter === "STACK" && (!item.stack_hits || item.stack_hits.length === 0)) return false;
+
+        if (query) {
+          const hay = `${item.title} ${item.source} ${(item.cves||[]).join(" ")} ${(item.stack_hits||[]).join(" ")} ${(item.mitre||[]).join(" ")}`.toLowerCase();
+          return hay.includes(query);
+        }
+        return true;
+      });
+
+      if (filtered.length === 0) {
+        container.innerHTML = `<div class="col-span-2 text-center py-12 text-gray-500">No threat intelligence items match the current filter.</div>`;
+        return;
+      }
+
+      container.innerHTML = filtered.map(item => {
+        const kevHtml = (item.in_kev && item.in_kev.length)
+          ? `<span class="text-xs px-2 py-0.5 rounded bg-orange-500/20 text-orange-300 border border-orange-500/40 font-mono">🔥 CISA KEV: ${item.in_kev.join(", ")}</span>`
+          : "";
+        const epssHtml = (item.max_epss && item.max_epss > 0)
+          ? `<span class="text-xs px-2 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/40 font-mono">EPSS: ${(item.max_epss * 100).toFixed(1)}%</span>`
+          : "";
+        const cveTags = (item.cves || []).map(c => `<span class="text-xs px-2 py-0.5 rounded bg-gray-800 text-gray-200 font-mono">${c}</span>`).join("");
+        const stackTags = (item.stack_hits || []).map(s => `<span class="text-xs px-2 py-0.5 rounded bg-blue-500/15 text-blue-300 border border-blue-500/30 font-mono">${s.toUpperCase()}</span>`).join("");
+        const mitreTags = (item.mitre || []).map(m => `<span class="text-xs px-2 py-0.5 rounded bg-emerald-500/15 text-emerald-300 border border-emerald-500/30 font-mono">ATT&CK: ${m}</span>`).join("");
+
+        return `
+          <article class="card rounded-xl p-5 flex flex-col justify-between gap-3">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-2">
+                <span class="text-xs font-medium text-gray-400">${item.source} · ${item.detected_utc ? item.detected_utc.slice(0,16).replace('T',' ') + ' UTC' : ''}</span>
+                ${severityBadge(item.severity, item.score)}
+              </div>
+              <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="text-base font-semibold text-white hover:text-blue-400 leading-snug block">
+                ${item.title} ↗
+              </a>
+            </div>
+            <div class="flex flex-wrap gap-1.5 pt-2 border-t border-gray-800/80">
+              ${kevHtml} ${epssHtml} ${stackTags} ${cveTags} ${mitreTags}
+            </div>
+          </article>
+        `;
+      }).join("");
+    }
+
+    async function loadData() {
+      try {
+        const res = await fetch("./feeds_data.json?t=" + Date.now());
+        if (!res.ok) throw new Error("feeds_data.json not generated yet");
+        const data = await res.json();
+        allItems = data.items || [];
+        document.getElementById("last-updated").textContent = `Last automated cloud sync: ${data.updated_utc || 'Recently'} · ${allItems.length} enriched stories`;
+        document.getElementById("stat-total").textContent = allItems.length;
+        document.getElementById("stat-critical").textContent = allItems.filter(i => i.severity === "CRITICAL").length;
+        document.getElementById("stat-kev").textContent = allItems.filter(i => i.in_kev && i.in_kev.length > 0).length;
+        document.getElementById("stat-stack").textContent = allItems.filter(i => i.stack_hits && i.stack_hits.length > 0).length;
+        renderCards();
+      } catch (e) {
+        document.getElementById("feed-container").innerHTML = `
+          <div class="col-span-2 card rounded-xl p-8 text-center text-gray-400">
+            <p class="text-base font-semibold text-white mb-1">Waiting for first feeds_data.json snapshot...</p>
+            <p class="text-xs">Run the GitHub Actions workflow once after updating pipeline.py to populate live threat cards.</p>
+          </div>`;
+      }
+    }
+
+    document.getElementById("search-input").addEventListener("input", renderCards);
+    document.querySelectorAll(".filter-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("pill-active"));
+        btn.classList.add("pill-active");
+        currentFilter = btn.dataset.filter;
+        renderCards();
+      });
+    });
+
+    loadData();
+  </script>
+</body>
+</html>

@@ -1,0 +1,2114 @@
+{
+  "cb479606d3b6b85a3da1dac34d12b5c17c68650f3dccbfb7c1dc7e60d85dc4c1": {
+    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.759138"
+  },
+  "596445400d69d07769d2a808bb28cece8f47116fb546e9d932df82c7f67214ab": {
+    "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.759390"
+  },
+  "59cf446b7fcd294f887d497d80f05bc85a14fdf4e6a8961c9b2929564faaad51": {
+    "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.759607"
+  },
+  "668cb6c597754e7167671974b13704e8172ec9b3ad9537d2f6cdb2df3600dd91": {
+    "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.759827"
+  },
+  "bbddb8b3280d0e9ac8dd986fe6acebe8d551376667e7a75087b0a8854657802b": {
+    "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.760037"
+  },
+  "d88408f8c8792787a32b7bd1e9c4b5750eb29a28a89b392a982a7bfc6aa2144a": {
+    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.760251"
+  },
+  "e2ca5df7df8222dc6d4a8587f8ec462a177d4abc90ac8f6440e52c3a977e99f4": {
+    "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.760494"
+  },
+  "50ad64b6ff493da5780f24352a5e5967b3850c0ba6e476f237d29f27bd6b88d9": {
+    "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.760735"
+  },
+  "440e71ba260a114dc69882ccb70cc409508a1c36fd7e5ddb4ebc6a99354edd37": {
+    "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.760965"
+  },
+  "6582a2b3e1c96f0e6eaed499da29bcb9e28fafa1046bca7d2bf1f4ca9de1b86d": {
+    "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.761186"
+  },
+  "9de332c5c8523755d9bf3f4c6f8d1c6142a9028025799dd4abc2b94a03145e08": {
+    "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:28.761427"
+  },
+  "a7368c67cc1dd7fc629595c399103de1c5d36334105c7a44a9d48027257633e5": {
+    "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+    "cves": [
+      "CVE-2026-111357"
+    ],
+    "seen_at": "2026-11-02T15:51:30.027114"
+  },
+  "d05fa86825e19f2890828065aff2eb5b2751e7c7509e4c813d0260d701d615aa": {
+    "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:30.027514"
+  },
+  "14c29f3cecaa7fa17932d25cd7a44472178200dde115a5fb649b6474fcbee8ae": {
+    "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:30.027790"
+  },
+  "62730940b4183cb16e378a8d6a15bb0443f976000a111a3c47244c8ec7d6235e": {
+    "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+    "cves": [],
+    "seen_at": "2026-11-02T15:51:30.028036"
+  },
+  "43df4dbe9283944018363c9c7d693fabdbca2380ae945adfd4939c494a8dff67": {
+    "title": "TrendAI\u2122 Reports Nation-State Activity in H1 2026 APT Activity Roundup",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.718475"
+  },
+  "a03b29fc66e06e65f68526b4dd6b337bfbd4bb5384b5607ccc6e565fbe4d448c": {
+    "title": "TrendAI\u2122 Adopts Claude Opus 5 to Advance Vulnerability Prioritization and Virtual Patching",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.718629"
+  },
+  "63587e40b3db0df213e93a4dc831fa74801386ed462048ddfcfb4ca6d2ec5e90": {
+    "title": "TrendAI\u2122 Named Trusted Partner in the OpenAI Daybreak Cyber Partner Program",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.718753"
+  },
+  "ab26bfb8df8321d964413b9d3ad1bdd79410e8e345ebfe1515cfcabaced0e4cb": {
+    "title": "TrendAI\u2122 Integrates Claude Compliance API Into TrendAI Vision One\u2122",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.718870"
+  },
+  "a90e2240258f3f19b2b8dff47adc8aa51a8c19ba0cb9060684148ec3e6399b5f": {
+    "title": "TrendAI\u2122 Joins Anthropic's Project Glasswing",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.718978"
+  },
+  "f267b6788b8f5376d65dcf2428bd2d75963869b69108a84b7c5cfb0d2baad3e1": {
+    "title": "Organizations Overlook AI Risk as Governance Fails to Keep Up",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.719096"
+  },
+  "60ee72069daa9db6b743fed8dbb6e878caff24fae03c238c9aedb38074bc80a9": {
+    "title": "Trend Micro Predicts 2026 as the Year Scams Become AI-Driven, AI-Scaled, and Emotion-Engineered",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.719233"
+  },
+  "34f20fd4733b4fb67d3b0487072b08a8e6ed07e32d1845c4ba8220b530a45f2b": {
+    "title": "Trend Micro Predicts 2026 as the Year Cybercrime Becomes Fully Industrialized",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.719384"
+  },
+  "bd741f3e4aa12375f5e02183ec796f2a69479a95920bd1588f8b86968dd987e5": {
+    "title": "New Trend Micro Survey Shows Economic Strain and Overconfidence put Holiday Shoppers at Greater Risk of Online Scams",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.719540"
+  },
+  "c86229debfeb8da285dfe8365fe62d24667d101c6a33a16a63a55c71027c8e83": {
+    "title": "Trend Micro Awards Over $1,000,000 to Ethical Hackers",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.719670"
+  },
+  "45e8ae966e0f526d43a1fb9e5eb8365472a0d712905aa1d5f42a224850133d1e": {
+    "title": "Trend Micro Unmasks Global \"Task Scam\" Industry",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.719800"
+  },
+  "0c3e863f639d0cf4806ff33835c630c9f61b68a26ce633fda4f192cbb7bb8461": {
+    "title": "Trend Micro Warns of Thousands of Exposed AI Servers",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.719932"
+  },
+  "90d119a9adf4ddaaec8734c3c32f50119be6ad24c90277382b9c5671fdfa9661": {
+    "title": "AI-Generated Media Drives Real-World Fraud, Identity Theft, and Business Compromise",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.720082"
+  },
+  "e2b92ce997d5cdb85d2660e39e5fb5d84fae639e445afca4092310ed887be187": {
+    "title": "AI on the Frontline: Global Firms Back Innovation, Brace for New Cyber Threats",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.720231"
+  },
+  "bf8e61cc0780e51bbcdfa3cffc1c30ec90f787d929e4f191f62ac96374377952": {
+    "title": "New Research Reveals Three Quarters of Cybersecurity Incidents Occur Due to Unmanaged Assets",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:07.720404"
+  },
+  "f625b21b0b4d9305bb1215902cb471f0cf8cf2cd7ad2f1d9ee3f937439da9fac": {
+    "title": "My Journey to the Center of America\u2019s Political Spam Text Hell",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.070239"
+  },
+  "be530dbaaabc34b69044714a499410080021c1f89dcbfcb71dbd1b7934ec00f4": {
+    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.070520"
+  },
+  "bfd6c623b85c349dcaf33433e1f71254a8781147df2b360980cbd86ae6e115c4": {
+    "title": "Spooky New Infostealer Malware Uses AI to \u2018Autodox\u2019 Victims",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.070767"
+  },
+  "15ec553e9f486a814641e479f3a0eba869088930ad556721898baf9145e39d2e": {
+    "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.071014"
+  },
+  "4076a0eb1083118878142e578130294d67322d7ca8c7b35f4996e7852878a750": {
+    "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.071254"
+  },
+  "f67e7bf36440fe24a3b401a6a4d24efc1f9badaccb611be9a5d18a1a2adc78db": {
+    "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.071530"
+  },
+  "e2eb9288a3e929d19879bcc54dfe59ca81afdda229f2dbc91bba96e9984515e3": {
+    "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.071789"
+  },
+  "9194a48490df26a4e73b1268f07e91bf5a56f3dc87a80f2cc21f115ad6178df9": {
+    "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.072031"
+  },
+  "2dd4c47c75b841a4648ab5684150387c1b8254ca1f75a74612dcd525769a5f52": {
+    "title": "Massive Leak Exposes 41,000 Homeland Security Workers\u2014Including Undercover ICE Agents",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.072302"
+  },
+  "1bb49d9ee9ec4b4c08eeb146c64489e722e0ca06807d83b4f993f5f0ee75a36e": {
+    "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.072585"
+  },
+  "64677f6dba19cbbc695dd1d5b72a2b6044cceab09deb9af12639a83a78efd13e": {
+    "title": "UK Politician Jess Asato Got Deepfaked. Now She\u2019s Taking xAI to Court",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.072852"
+  },
+  "fb249f213ea1aa0c31b63ab823e2a340918581a6a6b975046a019fc826c49b53": {
+    "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.073128"
+  },
+  "0726b7258294162bb5446280216386e930dec58dbd177f74e1e8aad672e05a1b": {
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.073397"
+  },
+  "5a6d5bd0f45eea0ccebcbf1f0c9fca245154970753b21cae462c61471225b052": {
+    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.073669"
+  },
+  "8f5b28c2258e233404d700ae40fa32ff881b8c1ab10d0ca1909617e90ae29f6a": {
+    "title": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.073957"
+  },
+  "3a2b959f80324065841630639c21c2381f2d166a615bc6a2503d2ddac2aaec2f": {
+    "title": "Microsoft's AI Risk Report Misses This Key Detail",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.477230"
+  },
+  "405daa0b8a922453d7b6a70864dbdfa24247394480c9a5b5f7d91a821309a431": {
+    "title": "PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.477549"
+  },
+  "c6f80254c87a262073cf68d441deec1a478d1d09645e2c0101a78375f848dd5c": {
+    "title": "Investors Dish on New Startups &amp; What They'd Back Next",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.477821"
+  },
+  "c742fd07dc4e6382ea3706c1a61b5fd2a21e0bd1037410a72c78b33a76d70c76": {
+    "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.478083"
+  },
+  "da2693d6c25e386cdf6622c9e59ba6b1b980e9997a2b219ac8bfb604f116943f": {
+    "title": "Behind the Scenes of How Operation Blackout Went Down",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.478379"
+  },
+  "a3d6377c44c63d37c27806851d1b24447e2a2539eb740f5d0ef612a8f9c4407b": {
+    "title": "L\u2019Italia \u00e8 afflitta da vulnerabilit\u00e0 informatiche, senza una causa chiara",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.478670"
+  },
+  "8b34ddbdcf913ef09fcb623f07c7cd34f7adf453c080285cfc1888cf56199fcb": {
+    "title": "Undead Software Projects Continue to Raise Security Risks",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.478950"
+  },
+  "cb5acc815421a05fa7755a93c38f2c8a79dc998c08b7101f7be9328240e413f8": {
+    "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.479237"
+  },
+  "092e4b0d3ec7327a83c5cfea23bdf8809c739d84cdb75a4c100c723d0aec01a2": {
+    "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.479530"
+  },
+  "5298d88c24c8fd210de58bf38c0ff259b69990682d46e58551cc594c7aa2453c": {
+    "title": "Rethinking Cybersecurity Awareness in the AI Era",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.479848"
+  },
+  "faed6a4a2f7815182f46f0e41b1e082d5be69ba02a796cda44134ee4168d9ed3": {
+    "title": "Why CTF Competitions May Be More Important Than Ever",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.480126"
+  },
+  "b6c7672c31ef3f11c7612753e0c8e5f1d9cddf06da3ac5b9fdd298d544fa3e28": {
+    "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.480434"
+  },
+  "7d1c50047a16ac9d1f231175794db50f53da086d9cc51ab203ca9c1d5f47251c": {
+    "title": "Threat Modeling With 4 Simple Questions on a White Board",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.480718"
+  },
+  "2ed5ceb21d3e748debcd14473c45cd5672ec4d2c987a5da71927ea4fc123bb47": {
+    "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.481038"
+  },
+  "89f6a602a1825086e107d813a61fe82804fabf76ed896b0af4897a82d37dc515": {
+    "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.481336"
+  },
+  "d429e44cdc1f20b962d2ca28f650830ea808e620fab056c3d0c93fd806f5730a": {
+    "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.684380"
+  },
+  "13d30683d3f858aca5541bd40ba265ab5e8e624a1f6e8c73c28354cbc9ff2f29": {
+    "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.684844"
+  },
+  "35d26aca55b43e26a0e9ce2e99a5bf7fed256bd0b8a948920b17d8cd4c31fcc2": {
+    "title": "Revolve Data Breach Impacts at Least 180,000 People",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.685279"
+  },
+  "8f85045ba27631b2e76e67987c504383e2de818dfceb6fbec6b66735abd7a8a8": {
+    "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.685738"
+  },
+  "3ca754cf4e9a2627b0ab5cc184610540531bd3c9f93982eccaf506e0ef45ec99": {
+    "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.686163"
+  },
+  "b34fced683b2e6bc7aaed3d570efda3e30fded2f960d07753e9207c6613e57f3": {
+    "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.686601"
+  },
+  "6ed2025b4bd66940f49167f3f9e97495416235a580d3907abec8e862df2d0164": {
+    "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.687046"
+  },
+  "1c82b0761bfe5c7eaec9b85ceab36dd69636a7bc37128143feef83bc98349a33": {
+    "title": "FBI Flags Over 600 Addresses Tied to North Korea\u2019s Binance Heist",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.687512"
+  },
+  "a5c693563c15d4bedb57e3a402c616cdbf383efc247b12759ded7a9240c5a680": {
+    "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+    "cves": [
+      "CVE-2026-111357",
+      "CVE-2026-118527"
+    ],
+    "seen_at": "2026-11-02T15:52:09.687601"
+  },
+  "fbcfb450cd47d7be9dcb9535bdb2e180c4e3c4f85049d9fe1d13485e1c57d365": {
+    "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.688066"
+  },
+  "9c86a8ebc89323200a4af974133b97e226cc846b473f352df3bce66e72d3397c": {
+    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.892628"
+  },
+  "495016cfe48dff5c76b75a67530de4a188b2959d419dc12d731d248c13687a4f": {
+    "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.893169"
+  },
+  "b8d648b334ae0e0ba81f2cfe1d1c1b602c5a4f2c3823f4b96ad613f759af2b71": {
+    "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.893624"
+  },
+  "7d5969c0c3e0e61f6d3cd509a9ddcc212610f0c70793a4cf2203347b38f6a2e3": {
+    "title": "Microsoft Patches More Than 1,400 Security Flaws",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.894032"
+  },
+  "68728d8d64e93a28ebfcce95b3da5da587d0736136858080b7e11863d7d2f75f": {
+    "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.894457"
+  },
+  "e303585a32341116b1fa1f37b43d8ad0f2ed0abc6faf2781b806da4782a70d43": {
+    "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.894954"
+  },
+  "d8f5b61916e76f7d31df68322f91851e26d524db3f6a7dda13b1e82294dd34be": {
+    "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.895430"
+  },
+  "6b99ab505228be92101444cb612bce79eae55a9a28f2e87c1cd6cc31668bf0e6": {
+    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.895861"
+  },
+  "f5c0e3aed48edca09aa27560b3a83148caf8a71ddb8f24aaeb57fda6a48df159": {
+    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.896411"
+  },
+  "9258d2026ff7c9cd06f9f567f1eb18580a886d66d2da31e5911ccd59d2752df1": {
+    "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:09.896884"
+  },
+  "62e0a4c1c1bfd5ffcc8bbd85a09fe4ea3e893627f031af7143be22052a9c7ec9": {
+    "title": "AI Vulnerability Finding",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.033105"
+  },
+  "e35279e54c75556cbfec73d3b6cfa5249e570d4034bd827b88ecca57a9452647": {
+    "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.033725"
+  },
+  "5ff39c787426128c9a72343169465fd531455cb101c0abb57f53f39454a2ed70": {
+    "title": "Bloatware in Aftermarket Auto Parts",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.034415"
+  },
+  "521650cf40d688c4b2bbb4c00c05a5d7a9bfa8eacacfecd01fdf8e92e4c1947b": {
+    "title": "Studying Fraudulent North Korean IT Workers",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.034819"
+  },
+  "c51a4ad4bf554f15c84ac0a38e867c5c5bc62904a9489ba2750a2169e49bf4a2": {
+    "title": "Hiding Capabilities in AI Models",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.035649"
+  },
+  "507dfcbf7d23d4e01d176253b1668e855260d7ab3cd60738a34c0826c51ce8f4": {
+    "title": "Bias in Qwen3-Coder Model",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.036255"
+  },
+  "5fdfdc7fb11e2ad038ebed7c92115e2ecb01364d98c88485dc4ff035e63cbdf0": {
+    "title": "Friday Squid Blogging: Increasing Squid Populations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.036799"
+  },
+  "1e536b759f39e7d4befa68c1aded1cd7baceb18794781add38cccc85d710a560": {
+    "title": "Compromised TLS Certificates",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.037426"
+  },
+  "7b434a7cb1056167a113ceddcc0261eaf955643cd43612da114423d004a7961c": {
+    "title": "New Serious PHP Vulnerabilities Released and Patched",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.038007"
+  },
+  "3baa10e695506aed67859b02b5208db827519993668702fc27b5bcf6665cb045": {
+    "title": "Workshop on Economics and Information Security (WEIS) Archive",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.038526"
+  },
+  "bd94a63d6f1510adbbbff491f8d2bb484cc1bbd4cab3d0307acbdaa1166d29d2": {
+    "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.260504"
+  },
+  "80a01a915737f8d351ec930f776f6bd78e8fe73b0900a19442ada6c823e7b60f": {
+    "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.261003"
+  },
+  "cbdc849e52ff45ce23bc05bbf241799585025d5d625112998d422218da0711a8": {
+    "title": "Hackers disrupt refrigeration systems at European supermarkets",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.261468"
+  },
+  "80b1789860c1499f47c8d330daca74559c602a1b33874db7f81415ff776406bb": {
+    "title": "Microsoft fixes Smart App Control broken by October Windows update",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.261907"
+  },
+  "758aa91ab87b8a931f812c015a232d7d7e9a0d379e0b11f77f666c229acea829": {
+    "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.262350"
+  },
+  "25db5ee36252f2079ee4ea51ca02cc22738801e2164d4a978d20a202bb5760eb": {
+    "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.262784"
+  },
+  "4dc3709238ad9eac979b4a454ab03786feb5e6fc49892cccfb807e2fb72c9649": {
+    "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.263053"
+  },
+  "572dbcb31aeb40b63ed7770a7c1929f1dac3ae0248ec8406ded4dac944c17699": {
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.263110"
+  },
+  "ba791b811b054400c50a802a6b584ce146dd874fcd1a24d344efbeace6135b44": {
+    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.263598"
+  },
+  "0d6dce67e59b3099b8bd8d93ed31cdaaf6c37fb533e3ded98820badba4737176": {
+    "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.264049"
+  },
+  "9d88023e0d5c362e3003397f7b2f8cdc55fba292b706bc13d26229b9123e33d1": {
+    "title": "Northflank security breach leads to abuse of customers' AI API keys",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.264551"
+  },
+  "2a4b09e86c0063810201dfccfe9714720d23d1d59255dbadb4919c7ddee60f0c": {
+    "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+    "cves": [
+      "CVE-2026-58882"
+    ],
+    "seen_at": "2026-11-02T15:52:10.521268"
+  },
+  "afcc1ddc625bbf9353fdd25909ffbc207601032e4e588e98ee416b4f395eed3b": {
+    "title": "Reddit to lock content behind logins to fight scrapers",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.521857"
+  },
+  "d465c7b5fbb720ee30de955f3e5785d04cd17c1f71f7182d133d011bc434730e": {
+    "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.522390"
+  },
+  "dfcd3f34b496dca73b9e2b34eedb228facc384d3dca5257fd350f3ccd1cdcbd7": {
+    "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:10.522879"
+  },
+  "a1b42078d4202a9ab810f9fd7912bb4bb5427b31aea9424516e88582af37498b": {
+    "title": "New wave of fridge cyberattacks hits European supermarkets, this time in Belgium, Luxembourg, Sweden and Estonia",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:11.439163"
+  },
+  "7e9a4327538e83ad9bb2c0bbc666070d2ef6c7754148c38a4ab117430d5d73b8": {
+    "title": "Hackers Send Fake Nuclear Threat Alerts to Ukrainian and Russian Citizens",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:11.439767"
+  },
+  "a799434890badcfbe652286e0ed2ce959e29739ddfdf59f151ec163c0acf0728": {
+    "title": "Chainalysis Investigates Security Incident Involving AI-Driven Attack Techniques",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:11.440367"
+  },
+  "1a654c9fa517920a18080c1454754b38074bfeacd1ac743903f98bafceebd4b0": {
+    "title": "FBI Blames North Korea for $6 Billion Binance Crypto Theft",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:11.440919"
+  },
+  "2dff88cb4026f9ee56b525df026de03af242fd5c14ca80e2940d546d57e47b9a": {
+    "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 6",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:11.441501"
+  },
+  "386c31283bfcdffc71338553dde868d189a1297f78a8603b12ee9e15e4b13bb1": {
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 121",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:11.441915"
+  },
+  "8730f416be4eb45be83c0afab1383d8e3a4c488a5cef09292f60f13bc0abdf99": {
+    "title": "Security Affairs newsletter Round 602 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:11.442356"
+  },
+  "b02182dd31f6829da1ae305a1ab65dddb013ca647a09cf0aecca978ec9835d0e": {
+    "title": "SMS of Death: Android under attack, an invisible SMS can block calls and emergency services",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:11.442959"
+  },
+  "9454bb86946b1be0bb5b8c1002292404d89c678fc38a82024cce619b908f01d8": {
+    "title": "U.S. CISA adds Ivanti Connect Secure\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:11.443602"
+  },
+  "9ce085fb8a9e52d87710f246ba1d9e396021d2005e06b8f38999b18fbb97c31b": {
+    "title": "Attackers Exploit Critical Drupal Commerce Core Vulnerability CVE-2026-118539",
+    "cves": [
+      "CVE-2026-118539"
+    ],
+    "seen_at": "2026-11-02T15:52:11.696587"
+  },
+  "d81a8cbf572c261c494764a1bfa5313bf21358d78720bd08942f85675d1e7a3d": {
+    "title": "Dangerous Device: Exploiting CVE-2026-31695 in the Linux Kernel via struct device",
+    "cves": [
+      "CVE-2026-31695"
+    ],
+    "seen_at": "2026-11-02T15:52:12.629644"
+  },
+  "a73c8d970ab9d8d1b3681280e8c38f5753707e2801d74628d6fdf4bd2c98c521": {
+    "title": "Cohere\u2019s Qwen Story: Looks More Like Model Jaggedness",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:12.630452"
+  },
+  "7ac5d652b6139d80b5d25e0bda520d1038fe442b14c8470063f0cd8f7359dab3": {
+    "title": "frangoteam FUXA /nodered authorization bypass vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:12.630903"
+  },
+  "c1983a3f3d1b72c0d7c027cf89d09532619b3d98529bdbfe34b88170a1123ec3": {
+    "title": "frangoteam FUXA /api/runscript authorization bypass vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:12.631340"
+  },
+  "4d3e5ae033a2e4d7ffa1f71cdb87cef84e958da1195cb938e4b2ea96d4909b4f": {
+    "title": "frangoteam FUXA /nodered/fuxa/scripts information disclosure vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:12.631793"
+  },
+  "7db92b71ac19e23d8d836019272ffc8ce8545e95db4b3462a28839412a8f9b17": {
+    "title": "CVE-2026-35273: SSRF to RCE in Oracle PeopleSoft",
+    "cves": [
+      "CVE-2026-35273"
+    ],
+    "seen_at": "2026-11-02T15:52:13.512368"
+  },
+  "ea50e59e077a0f4014873c608e8eda5531952e48ce994b87b7d4143c2954155a": {
+    "title": "Scalable Vector Grief",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.513132"
+  },
+  "b5fb14603e2039b336e92937605095c583c8cbacdca5d7c83059e02cd351a8b9": {
+    "title": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.513913"
+  },
+  "aea83622603c24c42c6517cbec2587585d3090bc38d617714e4fa4216ed2639b": {
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.514421"
+  },
+  "3c2b2d5b2f9b77805e6470b79759061aeee7e167ee09fd76746e10fd3f9d8e15": {
+    "title": "ElectroNG is now open source!",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.514851"
+  },
+  "4c50d3daadb6f1813948d5d04f0f9ae28f48abe0c968403492bbf363adea8750": {
+    "title": "Chromecast with Google TV (4K) - Persistent Secure Boot Bypass",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.515333"
+  },
+  "393dbdb714fd61f87f2b05ce73aab94ff97d8f5dad8e7f04e9e81fcb973afe1b": {
+    "title": "Infostealer riding the AI Train",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.516037"
+  },
+  "55bb32bc4e0d187b3e32ede88ff0094728f3e6a557f748b715bd47a484b39e13": {
+    "title": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.516806"
+  },
+  "9dade503ba4bc4510fe46fb20aa9680202f38a8d1d374bfd544d1e5022b47658": {
+    "title": "Totolink X2000R Mcli stack-based buffer overflow vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.517273"
+  },
+  "405ef2cddbdf25b8a61578f8d8a1d25f9b4d7e3f4f4b56c881baba823ab7dfac": {
+    "title": "Totolink X2000R boa Firmware Update Unsigned Firmware vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.517770"
+  },
+  "f0603fe1e5fb24ed4beaf1e9f48d29dc9beee20e1b5b402682e6b5d668ca758d": {
+    "title": "Overview of Content Published in October",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.720499"
+  },
+  "ad2f4d79ad39a1d7c8734de3390e58d9183e5c90d0bb2c8ae970de9ceacdbb97": {
+    "title": "Quickpost: WT20 Welding Electrodes & Radiation",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.721133"
+  },
+  "7123d3fe26952f4c2b4214b8124791650753be881e820098a6ec58e9f8f44c21": {
+    "title": "Quickpost: Ghost USB-C",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.721756"
+  },
+  "e03a07ecd35522482b1991e6490242ef3d5cf12ef1c889c66022ff43762417ef": {
+    "title": "\u201cA Ring Tone That I Cannot\u00a0Hear\u201d \u2013 Twenty Years Later",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.722385"
+  },
+  "14590021cf65e0b0d8af5f079349a57be5e38fe7b83cbad81cfa2984e7dc71d3": {
+    "title": "Quickpost: Uranium Glass",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.723006"
+  },
+  "efdd075ab8cdba531476fd94daaa81c5393e445591c581982de8062a3c297ec1": {
+    "title": "Update: onedump.py Version 0.0.3",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.723664"
+  },
+  "ccae6285c09967b1b3c369b9b39006c5c8ebfc5c31092d5631ce3cc56384cfcc": {
+    "title": "Overview of Content Published in September",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.724129"
+  },
+  "97cb9fd19f228dc366905ab2557ef08ac769791fec26b23e80f02415d0a54645": {
+    "title": "Update: search-for-compression.py Version 0.0.8",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.724782"
+  },
+  "d968edef6fe571705afb2643eca78663730e24d3f797707d39a6c6eee654ade8": {
+    "title": "Overview of Content Published in August",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.725248"
+  },
+  "370775f3e93eb19de7d4298b519d5d8594d0a994bd22f17b5c5225a7ce5b16cb": {
+    "title": "Update: base64dump.py Version 0.0.31",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:13.725844"
+  },
+  "717c695dbce9cd9484047b465b80569d9dcd6a7b27d5393b00365f16a9619f15": {
+    "title": "Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:14.065415"
+  },
+  "a4fa9457d18ae050c4e751393152286445aa9b50c94ff33e00fb162a1805745e": {
+    "title": "Adform compromised to serve crypto stealer via supply chain attack",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:14.067385"
+  },
+  "6ffb2fb31501869c6b282eaa3a2e1e52f374240a52310865d300e5369c891244": {
+    "title": "An update on FortiBleed\u200a\u2014\u200awhat\u2019s happening with victim orgs",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:14.818142"
+  },
+  "0bc2bfcfac5952e2fb8b17bc9ac1cee16906c2401d96ce1fdfd47952d72d1820": {
+    "title": "FortiBleed\u200a\u2014\u200a75k Fortinet firewalls have admin passwords cracked",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:14.820734"
+  },
+  "56290eba8a0675b8ac3e90177c302eacf6b6dd25a96a165558d4bcbc21c336b0": {
+    "title": "Microsoft\u2019s stance on zero day exploits is a dumpster fire of their own making",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:14.823279"
+  },
+  "9ce78fd238cabaed13bf8cd13c38def581f63650f47bc71562a999ec977315d7": {
+    "title": "Microsoft Vibing\u200a\u2014\u200acapturing screenshots and voice samples without governance",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:14.827760"
+  },
+  "89b9c3bc9e27a4e2a459be7bde6cd27c01c438ff99fae2a316c5745e3f8ef506": {
+    "title": "Merry Christmas Day! Have a MongoDB security incident.",
+    "cves": [
+      "CVE-2025-14847"
+    ],
+    "seen_at": "2026-11-02T15:52:15.821026"
+  },
+  "6ebd371a9f9caa9bf024221a589b9b752db1d6c0d862d4228fc60fa81d9859a4": {
+    "title": "Cybersecurity industry overreacts to React vulnerability, starts panic, burns own house down again",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:15.823263"
+  },
+  "1aa41f2cd0f3ca558046016eb980165b156e895bab257abeb46ce6db69044aff": {
+    "title": "Small numbers of Notepad++ users reporting security woes",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:15.826682"
+  },
+  "42f8858bd7567bba74a8ef015032cd40fdd09e4268941738d02bbddb07cc44a3": {
+    "title": "What organisations can learn from the record breaking fine over Capita\u2019s ransomware incident",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:16.497927"
+  },
+  "2e70159015f35b9a0dec2f9bb1732a1274340e5a202c7f9b9c753952668b28ee": {
+    "title": "Playing It SFAPE: Code Execution in Isolated User Mode",
+    "cves": [
+      "CVE-2023-36880",
+      "CVE-2024-21423",
+      "CVE-2026-83498"
+    ],
+    "seen_at": "2026-11-02T15:52:19.602881"
+  },
+  "ac0c48f4ee1465e2540f300857c4c9380aa74a5dc97b12780378d204e2ccc7e4": {
+    "title": "One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts",
+    "cves": [
+      "CVE-2026-13795",
+      "CVE-2026-13795"
+    ],
+    "seen_at": "2026-11-02T15:52:19.865768"
+  },
+  "9d8d6f56175a41993cda932dda12f82e2b859bc1a2e419edb95b2590c98c32a1": {
+    "title": "The skb that wasn't freed - the Fragnesia primitive via Open vSwitch",
+    "cves": [
+      "CVE-2016-5195",
+      "CVE-2022-0847",
+      "CVE-2026-31431",
+      "CVE-2026-43284",
+      "CVE-2026-43500",
+      "CVE-2026-46300",
+      "CVE-2026-80977",
+      "CVE-2026-89487",
+      "CVE-2026-90049",
+      "CVE-2026-31635"
+    ],
+    "seen_at": "2026-11-02T15:52:20.706680"
+  },
+  "3e38931108c541de6a89aaa65ed5d14015508c0643b612e72f69d83b43a0f0d0": {
+    "title": "Preinstalled but Not Safe. OnePlus OEM App Session Takeover Vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:20.707634"
+  },
+  "818304d352fe8661be176c3f03b7528184af18817fc74e96b738594797fad06d": {
+    "title": "Introducing Session Switcher. Swap Burp Sessions with One Click!",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:20.711502"
+  },
+  "b8cb5b28ace01f3a71e32612c7ea97423f2be3b519152c3a13e1ca00b306fae6": {
+    "title": "Comparing AI Application Security Testing Platforms",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:20.712677"
+  },
+  "f7cce4c716367446738bd5de7d462977d12e1a6248827398a7f0dd400daeb731": {
+    "title": "Navigating Lax Load Balancers: When an Intersection Gets You Inside",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:20.718935"
+  },
+  "5047677ab8a6be834fab4a48e06f76c09bf7a7fad98457b7aac283ef768257ae": {
+    "title": "When Filenames Become Attack Surfaces: Weaponizing NASA's CFITSIO Extended Filename Syntax",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:20.732977"
+  },
+  "6695379f455f1c9e7b31b4774f25817eead32ad82b606bb91704baa434100675": {
+    "title": "The Danger of Multi-SSO AWS Cognito User Pools",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:20.743644"
+  },
+  "24ba5a47bb236915e7012593cd8cfe52f983b464d04a1d59efce6e6a87d4d4fe": {
+    "title": "CFITSIO Fuzzing: Memory Corruptions and a Codex-Assisted Pipeline",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:20.750762"
+  },
+  "4a9f6f7e1735d63ddc215957517157e43608b9185e845fd0316e2ccee764d38c": {
+    "title": "The MCP AuthN/Z Nightmare",
+    "cves": [
+      "CVE-2025-4143",
+      "CVE-2025-4144",
+      "CVE-2025-49596",
+      "CVE-2025-53100",
+      "CVE-2025-53818",
+      "CVE-2025-58062",
+      "CVE-2025-6514",
+      "CVE-2025-4143",
+      "CVE-2025-4144"
+    ],
+    "seen_at": "2026-11-02T15:52:21.626546"
+  },
+  "5b637baea9a9bbde85d7bfda395cb27d956639504192c818dd50375d24f3c8d6": {
+    "title": "Building a Secure Electron Auto-Updater",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.641405"
+  },
+  "c62a431f1b51bd842249c6ceee0987bde65bd7ba860ffd784e671b5b6824dca5": {
+    "title": "Auditing Outline. Firsthand lessons from comparing manual testing and AI security platforms",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.643560"
+  },
+  "1c6f4f2a20703f865a64e86c3eb5e06bd53b194343004214f5d2037c77919caf": {
+    "title": "Intercepting OkHttp at Runtime With Frida - A Practical Guide",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.657580"
+  },
+  "ff448e26dbe9d875e0a4615c3a7b463dee03b2546e7d827594ca72c71bf010e2": {
+    "title": "2026-10-22: Seven days of scans and probes and web traffic hitting my web server",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.929602"
+  },
+  "04347b81cdcd235a074a58449a89c0ab12839dbd18867b18347ee9c866d81af1": {
+    "title": "2026-10-16: Coruna-like iOS exploit kit traffic",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.930208"
+  },
+  "1792331b57130349090d350f03dca2568c26aa11885d19eecff072c72abeeb77": {
+    "title": "2026-10-09: Pcap of infection from Macfinger Clickfix activity",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.930849"
+  },
+  "9103d8f5614d9335efb730f622221d4189fc772d826e92f81ee9412b2ac27fa8": {
+    "title": "2026-10-02: Atomic macOS (AMOS) Stealer infection from malicious ad impersonating Claude Code",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.931495"
+  },
+  "1e4366a6f355e3ee00dcdddfd80ff05b818b36411428e86d0eb846239f9e9e09": {
+    "title": "2026-10-01: Traffic analysis exercise - Natureforce",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.932087"
+  },
+  "be42dcdfa546139d4ef0b1643481508ab62ba8c974c46b4e721db293790be26a": {
+    "title": "2026-09-30: SmartApeSG ClickFix pushes CNCmachineRMS RAT",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.932696"
+  },
+  "bc8cd98061ed03c0864c70721de7244dbcc5a77caeb02acde8384e75df2be4d7": {
+    "title": "2026-09-29: Macfinger ClickFix activity",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.933242"
+  },
+  "07b2a5ce2be027702ab24c512630338c79ebc66129e03b967014a971e7ee50b6": {
+    "title": "2026-09-24: Files for an ISC Diary (Macfinger ClickFix activity)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:21.933836"
+  },
+  "7ab037768ba9db03465d9cc88c72835dfdce90e962b00a6352e0ff7b0cc994ac": {
+    "title": "The model isn't cooperating",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.324149"
+  },
+  "6cfc6117840968b63fd5b1ab4f0e950ea0fe3decf9e872eb72380607522933d7": {
+    "title": "Smashing the token limit with overlapping fragments",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.324878"
+  },
+  "603512e8ab336f8724d1ab0a590807578bc69063d7356a7b7ed00fb1136aeb27": {
+    "title": "HTTP/3 in Burp Suite - it\u2019s time to find a bigger wordlist",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.325601"
+  },
+  "75f4050f9b36a7763d632eaf332577517527966949df628b4783f636a4d34c4d": {
+    "title": "What's in a tag name? JavaScript, apparently",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.326284"
+  },
+  "49479d7f611110a50f13fe048eca6caf3cd1cdc0c01ab7cf6a3f4bc71b0471cc": {
+    "title": "CSS:the bomb inside your inbox",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.326972"
+  },
+  "6b205f6d7fcf67ec71e197a9c0e7499c117ef06ca489ae15810c4eb62b59e379": {
+    "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.327677"
+  },
+  "8fc4c27486a358b8eba7ac9ef4cf63c688cb190c8cc531006130f76d49669714": {
+    "title": "Can AI do novel security research? Meet the HTTP Terminator",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.328385"
+  },
+  "fac5c068abe230e02377f97ac7c596d3a023eeb3bde3dcbdd7d1824142487461": {
+    "title": "Top 10 web hacking techniques of 2025",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.329070"
+  },
+  "fe57d69a8e866edb2c2e2e41c01c99b02f75556b98cfb15567b937cb1385da92": {
+    "title": "Top 10 web hacking techniques of 2025: call for nominations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.329689"
+  },
+  "5616af378bceced0c5fa6fa844b61b4fd0773cc1628e153243557b8621f2b274": {
+    "title": "The Fragile Lock:&nbsp;Novel Bypasses For SAML Authentication",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.330413"
+  },
+  "4f190c6d10931aa8d27bc9d6540bfc4d75b0abd10be938f9f26661a436856547": {
+    "title": "Introducing HTTP Anomaly Rank",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.331096"
+  },
+  "1e8a9d98dd7220cb2b67bcc9dc013e9517e931df33894a94d8f38b8b95b6e111": {
+    "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.331806"
+  },
+  "8e820e61d6a207f0020a4452591a3c0977dc4c50d3e96c03ba022050e9cf8625": {
+    "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.332533"
+  },
+  "29bb2696c899b189cb2c362a102eb19214ef55b0ffcab1f02106fd7e9e524734": {
+    "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.333264"
+  },
+  "79b7e1ca825e53166a720e42a52bf50e29e9582fcd3b37098fbedb7b12308ec1": {
+    "title": "Multiple Vulnerabilities in Frappe LMS Leading to Remote Code Execution",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.734982"
+  },
+  "4ef2bc41be76075fbbf54c657517f16e2e2b6e8cf9ff0a7108c25c996031a004": {
+    "title": "Referral Beware, Your Rewards are Mine (Part 1)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.735785"
+  },
+  "4c04c4e44cd1beee05f44e5a2bd06f42297ee8d711678896e8a9f8e104e7caf6": {
+    "title": "Multiple CVEs in Infoblox NetMRI: RCE, Auth Bypass, SQLi, and File Read Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:22.736616"
+  },
+  "f1cf228cd5d37de39cfdd6f7b9a0e69855faa690d7839ab19c418bf521246b49": {
+    "title": "CVE-2025-26147: Authenticated RCE In Denodo Scheduler",
+    "cves": [
+      "CVE-2025-26147",
+      "CVE-2025-26147"
+    ],
+    "seen_at": "2026-11-02T15:52:23.004486"
+  },
+  "d4d34e2978fa8c8a805da9bf390be05f248ba7c85011dadefad4595c5e25c883": {
+    "title": "New Pacu Module: Secret Enumeration in Elastic Beanstalk",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:23.005483"
+  },
+  "634c837e978df4268650d374442c318d1aa83f770a4fac5466c62819ef87b369": {
+    "title": "CVE-2024-55963: Unauthenticated RCE in Default-Install of Appsmith",
+    "cves": [
+      "CVE-2024-55963",
+      "CVE-2024-55963"
+    ],
+    "seen_at": "2026-11-02T15:52:23.276396"
+  },
+  "adae038ee0e3be8d602035e0ca3878916efca952b1993660cf162ba8af0d5dde": {
+    "title": "CVE-2025-0693:  AWS IAM User Enumeration",
+    "cves": [
+      "CVE-2025-0693"
+    ],
+    "seen_at": "2026-11-02T15:52:24.172191"
+  },
+  "716081c6167b6632ef268f3aa5c0c3cdcf111fb05067f34c610cb4f1e53705a6": {
+    "title": "CVE-2024-46506: Unauthenticated RCE in NetAlertx",
+    "cves": [
+      "CVE-2024-46506",
+      "CVE-2024-46506"
+    ],
+    "seen_at": "2026-11-02T15:52:25.113826"
+  },
+  "822309df8534311a3155b785e1f0d2929bf6f85690e53d3112446c64f1deb188": {
+    "title": "CVE-2024-46507: Yeti Platform  Server-Side Template Injection (SSTI)",
+    "cves": [
+      "CVE-2024-46507",
+      "CVE-2024-46507"
+    ],
+    "seen_at": "2026-11-02T15:52:25.383190"
+  },
+  "9658d85b12c462d0344e7cb000ba2af2d807770b3a7c0e043fb8c9d501e50866": {
+    "title": "CloudGoat Official Walkthrough Series: \u2018sqs_flag_shop\u2019",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:25.384089"
+  },
+  "8fc692092aec0a8b9744b80d8ee4fe4f225b343e6c1c00c626d8d6c5a95f6833": {
+    "title": "BengalSEO Part 1: Anatomy of the Operation",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:25.560037"
+  },
+  "7f6bd115c44500631704ea991c310228e82afee8d6b376f4f4eb3e1764a48dbf": {
+    "title": "From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:25.561045"
+  },
+  "0519a976904eb87521e9e725b1a031bf5ad5f87fe5e0a106132a509ae75a1624": {
+    "title": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware",
+    "cves": [
+      "CVE-2025-55182"
+    ],
+    "seen_at": "2026-11-02T15:52:26.488760"
+  },
+  "c400362ae1316a4d9405e1d6f40d829dd26f9aacafa5184245e0936e7f2583bf": {
+    "title": "Bissa Scanner Exposed: AI-Assisted Mass Exploitation and Credential Harvesting",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:26.489934"
+  },
+  "2584600ec51a8772247fd64be6d82e61775d5bf9667dffcb30e47dc3f8d75b63": {
+    "title": "Apache ActiveMQ Exploit Leads to LockBit Ransomware",
+    "cves": [
+      "CVE-2023-46604"
+    ],
+    "seen_at": "2026-11-02T15:52:27.250095"
+  },
+  "f3f70a0d231d28d787b17dba28190c4fa649739e05acec56e516f60f3657a904": {
+    "title": "Cat\u2019s Got Your Files: Lynx Ransomware",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:27.251353"
+  },
+  "6c8a8aa82b8394006e0f85ab27c98e3449acfe62f4b8946ed2cca82a331acced": {
+    "title": "From a Single Click: How Lunar Spider Enabled a Near Two-Month Intrusion",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:27.252397"
+  },
+  "a1d7e22c647ce2b38c5b925a5f9e4cc225e148655d57a295e003d1ccef91ea16": {
+    "title": "Blurring the Lines: Intrusion Shows Connection With Three Major Ransomware Gangs",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:27.253406"
+  },
+  "1ed0358f172a73d1aef55b23c6cec173ecd16761f7c9325fee4c192ac5642dc1": {
+    "title": "Flash Alert: From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:27.254100"
+  },
+  "49f94fbf95e74c2d6e4257702f7d8788216512f542102d7d041eac4eaadc20fe": {
+    "title": "KongTuke FileFix Leads to New Interlock RAT Variant",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:27.255057"
+  },
+  "a4c3a0c3d3bb28b7a0179d4c1a612f38eff0ba94af27878d365434e58b22a012": {
+    "title": "PHP2Shell Was Exploited Before the Patch",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.155044"
+  },
+  "3955ba54f565f33a4fe1a02f4db79b83d4815929c32f0c09c86c840eb8637b76": {
+    "title": "The Future Of The SOC Is Deployment Freedom",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.155918"
+  },
+  "42672e1c5638207822660589ea686e4728a5ac65f612bbc491cd4efda0fdaf16": {
+    "title": "Self-Hosted SOC Platforms Can Keep Pace With Modern Threats",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.156789"
+  },
+  "e6fff8e41ca26c70b8c4b67f10836e2b568b317d8b18897fe8884f4776b2028e": {
+    "title": "ISOC, AI Agents, And The New Shape Of Security Operations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.157626"
+  },
+  "130e7f5385266b22a0b28bf1e79e86e84f5a1e99071d9379653333c0d732e7ad": {
+    "title": "Sekoia + Zimperium: Investigate Mobile Threats In Your SOC",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.158452"
+  },
+  "868d8c5a03c8fb9b921cd96387dd711a6a67618447e988e45d0a879b60c7e248": {
+    "title": "Integrated Security Operations Center (ISOC): What It Means",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.159275"
+  },
+  "cdba71d801686880407c0b13e2c21e8b5664dbd75247206bb7904662a746c326": {
+    "title": "Sekoia Honeypot Captures an Attack on GenAI Infrastructure",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.160110"
+  },
+  "16484039f9b2beca0a2016cada2d5d798c3b8d25533a36ab1336044e397f4171": {
+    "title": "Introducing Sekoia Digital Risk: Track Identity-Led Breaches",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.160958"
+  },
+  "b579c5b951dcfb510532e6700fe654193581b1cc6870bda2d3e24615352bb415": {
+    "title": "AI And Cybersecurity: An Interview With Cyril Simonnet",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.161780"
+  },
+  "904596596dc1e633b321c9e017111bf50ddd80e28d7d72fc776eac023648d59b": {
+    "title": "Super Intelligence: The Rise of Super-Intelligent Threats",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.162606"
+  },
+  "48be1780dc90589c129e088fc11d2b0199da331a87151ee36f55c82e7eca79de": {
+    "title": "Sekoia Obtains ENS Alta Certification for the Spanish Market",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.163442"
+  },
+  "b3155cad3776205c3f76e2b21de025472b12e61bdfab300a46c2482b526859ed": {
+    "title": "Gotta Breach 'Em All! The Journey Of ShinyHunters",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.164262"
+  },
+  "6dfba6381d22c7c15aff6f29fa615b49a0d78b43f2c04c4a2418ea41410700bc": {
+    "title": "SOC Platform Evaluation Checklist for MSSPs: Key Questions for SOC Providers",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.165102"
+  },
+  "6f1ffdcdc3b769c1f57bbb2a20c1dab89819e3f04a28242890b0ccae5dc78bbb": {
+    "title": "AI in the SOC: EU AI Act and Technology Sovereignty",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.165933"
+  },
+  "15b9249be5f2395cf21346628696f32f9d6ce44eca2007aa93818672a06a1b9b": {
+    "title": "Exvicy: A Copycat of the ErrTraffic Malware Distribution Framework",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:28.166801"
+  },
+  "f51c8671879fd5cb9ba51a42bf6cea4a78417a8acc6f2366c83bbebc17ea60f9": {
+    "title": "it-sa 2026 Recap: Key Trends Shaping Security Operations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.390496"
+  },
+  "8a80ccbe6a4547ff3c18e01cae864a15db11ddab7f57b12914a2bc777366ba02": {
+    "title": "AI-Powered Malware & Phishing Analysis for SOC Teams: Cut Workload and Speed Up Response",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.391590"
+  },
+  "a20ccd2af6b681559c80c7e813a6283382136dc8e72ffb96dff2b132b927128c": {
+    "title": "SkyW4lker Exposed: A Growing Microsoft 365 Phishing Threat to American Enterprises",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.392674"
+  },
+  "4c123b61d975c1dbb1042468bec3f1c766043d7033db4bfbe576775638d9efbf": {
+    "title": "Cyber Threat Context for Early Response: Enriching SOC Telemetry with Real-Time Intel from 16K Organizations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.393757"
+  },
+  "8f83fc18b748be1e1e2e98524cdffa25870e355dc3969ca17667da6514b62a47": {
+    "title": "Your New MTTR Shortcut \u2014 Introducing Related Threat Context: Cut Time-to-Triage with Actionable IOC Context",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.394849"
+  },
+  "627743901e7cbe5625391076b663aca869003daf9d53860c162a2ef4017c0b01": {
+    "title": "76% Faster Triage: How US SOCs Increase ROI Through Visibility and Automation",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.395917"
+  },
+  "e5f8f932c0dcef0b9bb11247868244d795024b76682cd9da2d15fbd0d9c2fd7b": {
+    "title": "DORA TLPT Requirements Explained: Where Threat Intelligence Fits",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.396972"
+  },
+  "2dea5af0a6e7ca77e0659a9f8154b0bedb7f73b08fced334534a3492e0e29579": {
+    "title": "Your MSSP Added 10 New Clients. What Breaks First?",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.398010"
+  },
+  "e524d9c1614e9f7c368aa47e18053850fd476f7f8243876f3c89501327870a2c": {
+    "title": "Fake AI Tools Put US Companies at Risk: Inside Counterfeit Claude, ChatGPT, and Copilot",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.399107"
+  },
+  "37c392ceeb614b8362f0b88787ba9e3a0f650ad437fae420def81f058809dcb5": {
+    "title": "What\u2019s Really Attacking Your Industry? Insights From 74K Sandbox Analyses",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.400189"
+  },
+  "d7e8ce1226803db64582e0f769cb7e3a2d03865b1e8c9aa097b902a4a719b0bd": {
+    "title": "Prediction Markets Emerge as a New Vertical for Traffer Teams",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.807507"
+  },
+  "b0af1aa099a2b7b28662c4efeab41d07c7f039a0727c1834dd7d0f832fccb822": {
+    "title": "Behind Japan\u2019s Warnings of a Cyber Crisis",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.808400"
+  },
+  "8cd92b926f2d3e01675c79c1989403e8b1465d030f237901bec0eb01ffbf0550": {
+    "title": "PHP2Shell Exploitation: Two Critical PHP Flaws Explained",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.809276"
+  },
+  "935f8e2aa0662ee224510600f5e6e431220b8afa90b10c74243cf8501e31bfaa": {
+    "title": "TAG-217 Targets South Korean Financial Services with ARTEX",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.810177"
+  },
+  "773f4329864f0c2fd7422af073b263df07a743647c74c8b1dea9056337c01fb2": {
+    "title": "Working in Boston at the World\u2019s Largest Intelligence Company",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.811084"
+  },
+  "cbc55ee0c04c3766320af47541b5b9b07836f6984ec8aad105a75b72a45ff0dc": {
+    "title": "Russia Is Tightening Internet Controls, Leading to Operational Risks",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.811989"
+  },
+  "130287d4074e9b853bf474cec1903b11debf9c79bd237fda8d78e559a055947e": {
+    "title": "TAG-193\u2019s Regional Espionage Operations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.812879"
+  },
+  "60ec46ca5b99a9175a40b0306f6b7b236800a3ac51a8f2ed443bb1060f0aa213": {
+    "title": "September 2026 CVE Landscape",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.813781"
+  },
+  "c77ac89c9b3c06760674b587076da762706a937d5bb0e2f92574c64d38133753": {
+    "title": "Malware Indicators of Compromise (IoCs) | Recorded Future",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.814685"
+  },
+  "94c31b37b98755be552cfee9ff8fcca517cb3ee8d00c0077900d2cfd86ce1e2e": {
+    "title": "Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.815599"
+  },
+  "ce693c49d8e45ca5dbb0f3ad6462564d78be799618e69149812a422c09676949": {
+    "title": "Japan Adopts Proactive Cyber Defense Strategy",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.816506"
+  },
+  "0f7ab7bfd34b66d568078f2b43feca295e7cec7e8827bee6430d0786f2e34747": {
+    "title": "Recorded Future Debuts Autonomous Defense, Built for Machine-Speed Threats",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.817449"
+  },
+  "2b11009072d8256ac0db498021de4e4b9879f227c1c3d75b75450fbe60374897": {
+    "title": "Social Engineering in the Age of Synthetic Media",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.818307"
+  },
+  "020fe121e123b59b3cd96f5413a5f4bc0bb7c38790d24d015b35f6a3d0ab6281": {
+    "title": "Recorded Future Launches MCP, the Intelligence Layer for Agentic Security Operations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.819258"
+  },
+  "196f81a84e0eed732be4df0ab36b36e5c5cbbde614c12f469cf90a5a9158a1fd": {
+    "title": "Using Threat Intelligence to Stop Ransomware Attacks",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:29.820180"
+  },
+  "3db337dfd4dae5295318734e0630c5b161844871a5dd0c95440d417fb4ee43f3": {
+    "title": "Intelligence Insights: August 2026",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.109472"
+  },
+  "6dc19761de2fbce13cfe0b00b3c1689bbea2be478ab62c5f48aea02518ea32f2": {
+    "title": "Intelligence Insights: July 2026",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.110364"
+  },
+  "cc2bc1fe8cf7887cc536e1993f695c5c701fd7ef180b6eeb0a97faf72e95d8bf": {
+    "title": "Train, triage, repeat: The AI agent changing how we fight phishing",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.111306"
+  },
+  "cdd5cb53d1f5a26993b0e6b8857869c7de8619cc717490da72da8c866d17188d": {
+    "title": "Intelligence Insights: June 2026",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.112150"
+  },
+  "fc394b89b3155495c14e346e5801e448f43e8ec2044f63bb260e727d7057f53a": {
+    "title": "The dual-use dilemma: Rethinking detection for remote access tool abuse",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.113116"
+  },
+  "a274ce827eccca399463281b0b1c5a9e68f6a9b72f81e9b6cd465b88ae2eacd8": {
+    "title": "How threat hunting evolves at scale",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.114015"
+  },
+  "689ae273f860e7902e65cfcf9e727afcd5119c998c92f1c51668020f055a2d19": {
+    "title": "Investigating suspicious AI workflows in Microsoft Entra Agent ID: Assistive agents",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.114951"
+  },
+  "83d8197a0cbf941adc3f9b919ae048620e3d82cd881b051e6b2cf61608efcb80": {
+    "title": "Red Canary CFP tracker: June 2026",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.115862"
+  },
+  "42e76b201fd9110f80c89ba1c02025e8ace8ea382cc8ecb970cc10e0a5d2d3a6": {
+    "title": "Investigating suspicious AI workflows in Microsoft Entra Agent ID: Agent\u2019s user account",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.116732"
+  },
+  "d9b7cf48fc8048dd339f8ce04190dd7f0acedde5b62963d75e908381b6cedad6": {
+    "title": "Grading on a curve: How to assess a pentest",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:30.117650"
+  },
+  "8c845903ff27f7e6562c5f23084681e118dcdb4f23cccd47e47b9290cea40e4d": {
+    "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
+    "cves": [
+      "CVE-2026-40217"
+    ],
+    "seen_at": "2026-11-02T15:52:33.162805"
+  },
+  "1a70696c3daf45f20af80e2763e42da3efdfccf26eb8cb042ac0f3d6ad742d62": {
+    "title": "Shutting the Door on the XCPE Botnet",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:33.243543"
+  },
+  "49046dd2aebc7f51bac6f31fef839b5639e7bfe972f59cda7c957dcd5fbee125": {
+    "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:33.954753"
+  },
+  "194eca13709e7f7262d8b8ba72a683ef43d6e3709d9a965c270f99efcb0ec351": {
+    "title": "ARMORY CASTLE Exploits BeyondTrust",
+    "cves": [
+      "CVE-2023-46805",
+      "CVE-2024-21887",
+      "CVE-2026-102764"
+    ],
+    "seen_at": "2026-11-02T15:52:34.791125"
+  },
+  "7b2b076f635f5ec7dc07d74d0de96c9a72802d2a27d40b520e9d7f2b5eabd58b": {
+    "title": "Investigating Ephemeral Supply Chain Tampering",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:34.836201"
+  },
+  "272ce817c3b0007290e5d84da5e3b4f5ff8380e572fcf8bba0de18ac28bf2560": {
+    "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+    "cves": [
+      "CVE-2025-3248",
+      "CVE-2026-1731",
+      "CVE-2026-42271",
+      "CVE-2026-5027",
+      "CVE-2026-1731",
+      "CVE-2026-42271",
+      "CVE-2026-5027"
+    ],
+    "seen_at": "2026-11-02T15:52:35.748871"
+  },
+  "626a02ffd767f883f258ac0c00423cfcb45c1695d440ac2f2f104659bc913b7a": {
+    "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
+    "cves": [
+      "CVE-2026-88771",
+      "CVE-2026-88772",
+      "CVE-2026-88771",
+      "CVE-2026-88778"
+    ],
+    "seen_at": "2026-11-02T15:52:36.664005"
+  },
+  "b2b41a817df79e542481644135b1d590e91184c069be8cf2d44797cfc563c9e1": {
+    "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+    "cves": [
+      "CVE-2026-35273",
+      "CVE-2026-35273"
+    ],
+    "seen_at": "2026-11-02T15:52:36.666894"
+  },
+  "187a889bc17e260828cca6e266c55239fcdb49f61204f403fb8da20e438b3c35": {
+    "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:36.681233"
+  },
+  "3ad0d2db8e1fbcf69101b7a2d08bade1f4093df9afb3617c4b731e583560fa07": {
+    "title": "GTIG AI Threat Tracker: From Prompting to Autonomy \u2013 The Evolution of Adversarial AI",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:37.324983"
+  },
+  "099bc778a56dea43d4bc56e749fedf7d9f2f6edded20213f741bc34fffd36520": {
+    "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:37.341488"
+  },
+  "0c918e22fff11886f5c8814a2f1d67eec5992db3223c355d134bfdb9f0aa952e": {
+    "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:37.374061"
+  },
+  "27d297db24f55b64d6d5e1a8cfc032cd8ab723cdadb55076716f68c73b451c27": {
+    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+    "cves": [
+      "CVE-2026-13242",
+      "CVE-2026-55803"
+    ],
+    "seen_at": "2026-11-02T15:52:37.623406"
+  },
+  "6486e33ded73b335f61fd0e6509175212e8d6626b369e93bb61ceff2a1119a51": {
+    "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:38.278159"
+  },
+  "80262434d0aff6e6dbb773a35fd30a9d7275336c5d5aeeec4bef55312ca2c63e": {
+    "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:38.908670"
+  },
+  "a23ee2bccf1064ea7fe2eff824b468a06b7973cee8a050e852eb9731504bd48c": {
+    "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:39.323862"
+  },
+  "043264720014eaca38f0460ed835b5d0366fc5becb3a19b10e3dedd4f6ea2673": {
+    "title": "A quiet week in infosec <.<",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:39.324931"
+  },
+  "94fa61e500078c6b4183a8da97c0820802038563ea76b44c814776c06a6dcad7": {
+    "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:39.326048"
+  },
+  "cac3a978d9bb14dd6518bc0ce920bd92e576fcf7e35542c9eedab261c889ab07": {
+    "title": "NIK C2: The new AI-enabled command-and-control framework",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:39.327060"
+  },
+  "04563fe6b7261f190ff94f1521a37f7f711faecabf31b47beddc81ae58bc468b": {
+    "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
+    "cves": [
+      "CVE-2026-20127"
+    ],
+    "seen_at": "2026-11-02T15:52:40.010971"
+  },
+  "dfdb8685322a726a8ec1eb2cc6501af674fea985331fb5c84dcaca284e5293f0": {
+    "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.012424"
+  },
+  "6820b6e493a09281f46ced0c431a18eea048ad53bcc63f49445638da0068da77": {
+    "title": "I had plans for that second",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.013417"
+  },
+  "694057f1c4f8d57de23ffc90e40b4fa50d16a118be6ed1ea24aa9abddf684185": {
+    "title": "Compromised eMudhra intermediate certificates",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.013963"
+  },
+  "a17c40f6ed13e356b76ea6d2edfaa69d67625b82e872092a40e5267c0c861c49": {
+    "title": "Two critical RCEs in PHP core",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.015000"
+  },
+  "46e277fc766e56709188aedee863a316e46ffb99ef53a11e04fb3421ee4aa4aa": {
+    "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.016094"
+  },
+  "ccfb225ce67dba6fdafe5e0cc783a2f82fedc9b125c872407d66b04814a0f4ad": {
+    "title": "There's only so much code: the rise in vulnerability numbers",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.017246"
+  },
+  "3a73dfabb66e727307e66b923bdadd07475379afd0bef6d1ad4790910e47ccbe": {
+    "title": "The Q3 Vulnerability Pulse: Discovery \u2260 Exploitation",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.018124"
+  },
+  "65d84cddb080badf8740de6c6efa823307b44dd61bd0a7ac25a04c673b284ea6": {
+    "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.019187"
+  },
+  "6356d90631eb6158ce5a10ced3c5575e4f6c8dea6701ba2fcb1e0e0c8341414e": {
+    "title": "Microsoft Patch Tuesday for October 2026 \u2014 Snort rules and prominent vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.020260"
+  },
+  "93c2b36ac073c2b22920b0a3154539c71a7902afea048f0ab19b34ea2b264640": {
+    "title": "Making sure the checks get printed",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.021259"
+  },
+  "bb79f7ab2616471685b53286691e050ad1d11d6f3a3f5a6168e64a1042ae3544": {
+    "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.278106"
+  },
+  "eb017682120ade8b2013c64d04ff8415a44f95712387fc84b887c7edc3a49a92": {
+    "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.279406"
+  },
+  "3e140899343bdcd0dcc26f23527e2a49f43c97d415e98653d676f71d0517b104": {
+    "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.280712"
+  },
+  "47eb3c97d6969e32d3e9d64b13763415487370484758ee8784a709dcb0d801b8": {
+    "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.281999"
+  },
+  "46e146084dbe4647e8ea5d1d0085be2e358f123d588ff73be155c0e4be7d888f": {
+    "title": "The CISO\u2019s evolving role: Protecting and defending in the agentic era",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.283250"
+  },
+  "7c321a52199e3e227081c991538bf285d413140e95a2e9caf9c5c9d720ba8e93": {
+    "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.284544"
+  },
+  "0c66f3956bfcf917e0808560fd3aca29898a356e4d34e73114c79957ad76bcec": {
+    "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.285802"
+  },
+  "d70a73a9e249b150cc9376183cd59c0c03222af2240aaac67effca558b0fb5c1": {
+    "title": "Agents are your newest insiders.\u00a0Security must move at their speed.",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.287041"
+  },
+  "985c5a15ddc2a3f056b1e40a903c4b818797a75e7e9ca3b6292a49208384f7e2": {
+    "title": "Managing open-weight model risk in enterprise deployments",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.288294"
+  },
+  "111737fc75dc89711280dcdfd6600d44a8fd7d709a97462c51dd887f49da4157": {
+    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:40.289670"
+  },
+  "e76740a49e9d820834c640169b719ffd79935fdbec0361a89ded2b29f9eb11e7": {
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "seen_at": "2026-11-02T15:52:41.391642"
+  },
+  "53c2db66c3219d30bc433091c8e1a14c746999e194606b8b85cc3a639af73c5b": {
+    "title": "Unwrapping Retail Peak Season Cyber Threats",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:41.393204"
+  },
+  "81732ccc517f839300fbac366533a8e5a93c244154319e477868ca03f5356512": {
+    "title": "EMudhra Intermediate CA Certificates Compromised",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:41.393582"
+  },
+  "38b71c7fdcdb9165698fb1b3c6e7150a2231f22de83fd75d9c68e9b99b7e35d3": {
+    "title": "The Current Landscape of OAuth Attacks",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:41.394715"
+  },
+  "98b9a3a98f418f439bdb6f54e82f4326aa29611bf5412a3aa8bc06579a9f2d59": {
+    "title": "\u201cNext Exploit Opportunities\u201d: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:41.395948"
+  },
+  "a03d04b47da9f14f2f4ef61cb55c847095d96a39288911a0876947df5f360307": {
+    "title": "Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
+    "cves": [
+      "CVE-2026-0257",
+      "CVE-2026-0257"
+    ],
+    "seen_at": "2026-11-02T15:52:42.323176"
+  },
+  "e5b6632c0b42c97564fac88414e6d293bd2342632e9f6bab21ef7b8ad584e0d4": {
+    "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:42.324730"
+  },
+  "3dc4226122ede72eb7d2777080436bacb4174d3649ba4bff314050b143b581a5": {
+    "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:42.325948"
+  },
+  "e02c744511bf5989af4a00e4f2de6d9dde306f8087c698f05ce38a765c85fe02": {
+    "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+    "cves": [
+      "CVE-2024-47575",
+      "CVE-2024-47575"
+    ],
+    "seen_at": "2026-11-02T15:52:43.272397"
+  },
+  "9ae9d0949187a86ccec41004ab948fbe1d8be26516680806df8e07689a941c2f": {
+    "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.274075"
+  },
+  "f679f096d6864d474b49902dcc1ee11339eb99bed9e6cfb869197d03feaa42a6": {
+    "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.275268"
+  },
+  "197e2765830547cc5cbbf47169ffbbdeb3632f986f0e755f02aefb59f7556c7d": {
+    "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.276477"
+  },
+  "e62af7469bccd644c35853a6eb2ece0bf6531a89f4b90da6b33a89b0b33fae99": {
+    "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+    "cves": [
+      "CVE-2026-88771",
+      "CVE-2026-88772"
+    ],
+    "seen_at": "2026-11-02T15:52:43.277411"
+  },
+  "5be18587c89632f2e2d41599f3b8bc202f75d4ed1d3f9fad92136b8710dd26ae": {
+    "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.278598"
+  },
+  "1f407ea4ab5e9ccf5856ae068fd40dda5c68eb8b51d580e8ff4bc67fc89be34c": {
+    "title": "3 Consulting Myths Debunked by Unit 42 Experts",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.279769"
+  },
+  "c4187819e702081da48f5070776dc02a6c29e52503f64d14bfb5bb73376af00e": {
+    "title": "LABScon26 Replay | Keynote: A Sober Analysis of AI Impact",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.724824"
+  },
+  "46a5a184ac9408e78eb2b57044d0606b394832dcb8206afd179c26bd10441efb": {
+    "title": "Don\u2019t Call Us, We\u2019ll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Ties",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.726059"
+  },
+  "f8aa537747626adf2bfdb355e6403267fbc369165dbe8ff56f4fbd68da23f519": {
+    "title": "Agents at Large | Tracing Illicit OpenAI Agent Activity on Hugging Face",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.727245"
+  },
+  "8690a934eb130ffb4ae5bb08ea96a448e2aad35b439fd08768694f7e3876f8e5": {
+    "title": "The Model Is the Malware | What Four Agentic Intrusions Tell Defenders",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.728438"
+  },
+  "7a3b336cde08fa62eeb3e5dec322c3264271751890afac36d06d465dfb0c7d78": {
+    "title": "Sol Searching | Can Frontier Models Tackle Autonomous Long-Horizon Malware Analysis?",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.729616"
+  },
+  "c6ef924627a8e6b471334d885482b7820bbb96dd3d07ca116720143cdccb4d48": {
+    "title": "Iran War Cyber Threat Landscape | A Midyear Assessment on What Matters",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.730808"
+  },
+  "40a17e6c2c7fec993a2c0e3fd2bbe2213eaf08ab9dec53a0935be08a41a6056a": {
+    "title": "Context Engineering | Compaction & Agent Memory for Automated Malware Analysis",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.731989"
+  },
+  "f908ddb8be963c94d59b3315dbf759bacc62e71b433355280941ee3eaf885a6e": {
+    "title": "macOS.Gaslight | Rust Backdoor Turns Prompt Injection on the Analyst, Not the Sandbox",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.733184"
+  },
+  "bdf352f2a54621cd64b354c6870153a32a6cb2b291bb3d74c8db1353bb2e3905": {
+    "title": "LABScon25 Replay | Keynote: Steps to an Ecology of Cyber",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.734364"
+  },
+  "40aca2b06c31fb16dd2805bbb45e22b971ac8bbdb46a8806460c68c41487e415": {
+    "title": "LABScon25 Replay | Gamaredon x Turla: Unveiling a 2025 Espionage Alliance Targeting Ukraine",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:43.735553"
+  },
+  "8d1c43e6d4682b80a9518e7fe392c69cbbc6e17d06430705279561474bf00f00": {
+    "title": "From Reactive to Proactive: Empowering SOC Teams with the Wiz Red and Blue Agents",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:44.314190"
+  },
+  "70f5675bd1de0d9a23cc8a7223857259b129179c4d5b6b365580d615d828aa71": {
+    "title": "\u201cBlack October\u201d for AI Developer Platforms",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:44.315463"
+  },
+  "37a7380b5e4e9e13c715bf2332e4e5a98b9e3a2596c020164b310a64f7e365db": {
+    "title": "Key Takeaways: AI Threat Readiness Survey Report 2026",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:44.316729"
+  },
+  "39f4c2d15e9f3842d4fffc053f839359d6d97ac07ef9d3ff5207203aeeb529ae": {
+    "title": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:44.317994"
+  },
+  "8b2fcc6d2015037308a2c4299839adc75a4c5c8b6945f68362fd0c97aa4ee328": {
+    "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:44.319240"
+  },
+  "2e5f8186a27aa6237969d267f0d51b5ab165bd5efc6e38dffadb9d2b4a7f75c1": {
+    "title": "The Pwn Request Reckoning: What Still Works Against GitHub Actions",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:44.320534"
+  },
+  "cd36048095cc154613dc589f48c02718fa98e056490f9aea2642d9331df93f41": {
+    "title": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:44.321788"
+  },
+  "b0ed51bd0ca05214273e8f20e636ed170805b6d919f99dcc421b8a734f42e4c8": {
+    "title": "Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder Vulnerability",
+    "cves": [
+      "CVE-2026-111497"
+    ],
+    "seen_at": "2026-11-02T15:52:44.976055"
+  },
+  "16c8a7e857364ebc44f16be5f2d00864f6f03b4f6d01839ee09396d22e723775": {
+    "title": "ASPM in the AI Era Part 2: Prioritize Exploitable Risks with Code-to-Cloud Context",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:44.977569"
+  },
+  "5ca490d5ac9293a1e01b2daec53bd13aab689e000c32f4051e12a7f90314ce06": {
+    "title": "ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.591177"
+  },
+  "895eb59bd97abe1377ed50f78640ce3631a1b6eddf813f0e527011792e68a266": {
+    "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.592681"
+  },
+  "d624d1e6a49cc6f58f2836b9331076c595cde3066cf011beabd4e4230f7783ec": {
+    "title": "LiteLLM Compromised, Steals Credentials",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.593908"
+  },
+  "10a3b20bd4f11c7eb9dd4acc0a187c77a4b7f942bfcca941fa21ee1ffc81eac3": {
+    "title": "Wiz Sensor on GKE. 1-Click Runtime Protection, Now Native.",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.595140"
+  },
+  "d92d109751636033d37e292a31997aabce7b9adc9fb99d2ee7871c747517669b": {
+    "title": "From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.596406"
+  },
+  "455a905ab86f9e1020f39541fb2950a96ff361110aee937c51d1265b76a3a66e": {
+    "title": "Supply Chain Zero Days: Closing the Gap Between Publication and Detection",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.597699"
+  },
+  "7f971a96f728f3fe4295ad4d6ca7d2e240b3107bd538ddc86d4bf0ff54a205ac": {
+    "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
+    "cves": [
+      "CVE-2026-98432"
+    ],
+    "seen_at": "2026-11-02T15:52:45.947469"
+  },
+  "df0ab2404cb2cb950a99f3a2e9f172477df41cf1f4b3472fac2644f600bdc41d": {
+    "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.948989"
+  },
+  "9b81483d513b1c6ba6d1fa2918954cf01e3ba52f8f15f3038ccbf60e9d3848e5": {
+    "title": "OneNote File Extraction, (Sun, Nov 1st)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.950245"
+  },
+  "bcd2628a0f673e55f1b7b3633b5e1fab75dc113db5d4ef1d4ec552754b5c3726": {
+    "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.951550"
+  },
+  "093d14c49a4d7f2684a0240e323204feda31237aaa046cffda99daf9ed11edc8": {
+    "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.952817"
+  },
+  "1aad1b9d61e901ac139f2ff8ed97e5966a2cbd7e8bbdf912082fc2e7d1406a62": {
+    "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.954066"
+  },
+  "67c440d86dd3aa857563c807b08142e9b6938c9fe58e771d677f19692deac5c0": {
+    "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.955370"
+  },
+  "bb791fc4337e3d6c37cfa977a0f11a47b785ea0d62657d69b0c6c67d9fc1ee7e": {
+    "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.956800"
+  },
+  "56dfcff3c04c29c0855615fd8368d048ae6978324dc80ecb0b7d7d63bb0a3449": {
+    "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.958091"
+  },
+  "ab1c6969e97aca701a0cfd6bdb7a5408d46e49a3487d145efe867e16b5df6027": {
+    "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:45.959296"
+  },
+  "b07a8f58b059726cfdae087e0f014594a3ba664687af4c5bee0267bdde76523b": {
+    "title": "Additional Ivanti Connect Secure zero-days exploited in the wild (CVE-2026-111357, CVE-2026-118527)",
+    "cves": [
+      "CVE-2026-104935",
+      "CVE-2026-111357",
+      "CVE-2026-118527",
+      "CVE-2025-0282",
+      "CVE-2026-104935",
+      "CVE-2026-111357"
+    ],
+    "seen_at": "2026-11-02T15:52:46.542975"
+  },
+  "af01ac7e1c1bb0b1fe3ed29bef7c6ad182ad1fda01d9b714f3cb1c8ee172b6be": {
+    "title": "Rapid7 Analysis: Unauthenticated File Upload to RCE in BeyondTrust Remote Support (CVE-2026-102764)",
+    "cves": [
+      "CVE-2026-102764"
+    ],
+    "seen_at": "2026-11-02T15:52:46.546612"
+  },
+  "3e41954be46c5ac8020fcc47bbb37fb5333d631e91fa8f717b50072bae79e9bf": {
+    "title": "How Rapid7 InsightGovCloud Supports BOD 22-01 Compliance",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:46.550057"
+  },
+  "247f7b428cae738bde8020d8df928f07f3ac984e91756945f4edb7e30fcd29db": {
+    "title": "Simplify User Access Management with SCIM on Rapid7 Command Platform",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:46.553534"
+  },
+  "effb98d3faf0c03e58fad790f69982fdb75b7a148208788e7b0b3423865c725e": {
+    "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder",
+    "cves": [
+      "CVE-2026-111497",
+      "CVE-2026-111497"
+    ],
+    "seen_at": "2026-11-02T15:52:46.555305"
+  },
+  "900c89e7c344c4442520b645cb5901894a786d0e73972ecf6a145b03be0b0f9f": {
+    "title": "Metasploit Wrap Up: Langflow, MongoDB, and More",
+    "cves": [
+      "CVE-2024-9264",
+      "CVE-2026-0768",
+      "CVE-2026-0769",
+      "CVE-2026-10134",
+      "CVE-2026-27960",
+      "CVE-2026-39980",
+      "CVE-2026-53959",
+      "CVE-2026-7873",
+      "CVE-2026-93674",
+      "CVE-2026-93680",
+      "CVE-2024-9264",
+      "CVE-2026-0768",
+      "CVE-2026-0769",
+      "CVE-2026-10134",
+      "CVE-2026-27960",
+      "CVE-2026-39980",
+      "CVE-2026-53959",
+      "CVE-2026-7873",
+      "CVE-2026-93674",
+      "CVE-2026-93680"
+    ],
+    "seen_at": "2026-11-02T15:52:47.258808"
+  },
+  "c294870ff5b29fbfa308413c0f9d53b55ebf31076a4dba55dae7d3b3028f83d9": {
+    "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "CVE-2026-115560",
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "seen_at": "2026-11-02T15:52:47.261426"
+  },
+  "f998b258cc0e76844af525ea132caa9dad2aff5f09ed28c375c96ee3050d522c": {
+    "title": "Q3 2026 Threat Update: Attackers Are Exploiting Vulnerabilities Within 3 Days",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:47.265247"
+  },
+  "381afd7509a7a9b17383f8961b5beb8989e75f8a5a4256816bdd22c9b335026b": {
+    "title": "Your Next Insider Threat Won\u2019t be Human: Securing AI Agents From the Outside in",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:47.272081"
+  },
+  "4cdeb44361cd44d620025447a826c0ed74d629a3ca8f4479f0c97218f85d0bce": {
+    "title": "Authentication Bypass, Remote Code Execution, and Database Read in Eptura Archibus (FIXED)",
+    "cves": [
+      "CVE-2026-107186",
+      "CVE-2026-107187",
+      "CVE-2026-107188"
+    ],
+    "seen_at": "2026-11-02T15:52:47.517227"
+  },
+  "17074e8eb5522dc05671d55bc08e7c42dd015c1705715704ddf38a2bd7c215ec": {
+    "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+    "cves": [
+      "CVE-2026-88771",
+      "CVE-2026-88779",
+      "CVE-2026-88771",
+      "CVE-2026-88772"
+    ],
+    "seen_at": "2026-11-02T15:52:47.520305"
+  },
+  "be28bc9f597448340f7c1b3acbed553ea86fa638dbbd311761c751ec9e44c969": {
+    "title": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild",
+    "cves": [
+      "CVE-2026-102764",
+      "CVE-2026-1731",
+      "CVE-2026-102764",
+      "CVE-2026-1731"
+    ],
+    "seen_at": "2026-11-02T15:52:47.521980"
+  },
+  "d07eb3837da77e7764289e4c0a47cc2bcec1de6b5ef35a0a56da53bd6ec6073b": {
+    "title": "Rapid7 Analysis: GitLab CI/CD Regex Integer Overflow (CVE-2026-97229)",
+    "cves": [
+      "CVE-2026-97229",
+      "CVE-2026-97229"
+    ],
+    "seen_at": "2026-11-02T15:52:48.378378"
+  },
+  "3c8e09b2abf7944fab4d49f549096fa206638f9090661cc0b75b111f4ebbaedc": {
+    "title": "Rapid7 Intelligence Wins the 2026 P\u00e9ter Sz\u0151r Award for Outstanding Research",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.383537"
+  },
+  "cae6e35baf12181823594757121e1933019d8a16e8dc536c698dbc8426310883": {
+    "title": "How Multi-Campus Universities can Build a more Connected Security Program",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.388967"
+  },
+  "236cb632be2902c66f74e4b2901fbf46c8b2b36d2f5e8e94f6579eb9a0b55ddd": {
+    "title": "Asia-Pacific ATT&CK Community Workshop",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.585577"
+  },
+  "6ad3ce61136e590b356420a2e2e76da0b8bd94993b05bc8b5791282fd66cddf7": {
+    "title": "CIS Controls for Threat Mitigation",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.587131"
+  },
+  "c08a65c9b356954283e136c654bc719cfca8755112e955e005567a20fcf5f9b9": {
+    "title": "CIS Controls for Threat Mitigations",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.588784"
+  },
+  "ba3b6d017b5d0dd86014bc50c7c80ca10010ee9fd554ae706253a2aab56907a0": {
+    "title": "Putting Detection Coverage to the Test: A Windows Security Case Study",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.590261"
+  },
+  "806224a03b1baed33f6aaa38869d701f016b3f2f2e2eede3f293d025a00829ea": {
+    "title": "Beyond the Heatmap: A New Way to Measure Detection Coverage",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.591708"
+  },
+  "1a9821d542b3a029ff3be238f1939ffe21c954c6622e670222d430d176e7fb6e": {
+    "title": "Summiting the Pyramid",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.593163"
+  },
+  "18c35b6b7134b1899d71e6d2de15d3fc8984598eb9a3c631a301df85430a4efc": {
+    "title": "Attack Flow",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.594766"
+  },
+  "69095f97122bf384c7093c2a9cf0066ae091a600021c35092c7ee65544de7fb8": {
+    "title": "Attack Flow: From Diagrams to Decisions",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.596098"
+  },
+  "9fd11f4819f2fde2d2c13970308b9ad779c6ca37a950de769f394be4e4890846": {
+    "title": "EU ATT&CK Community Workshop 2026",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.597567"
+  },
+  "6170c98554ac7aab4a4da39cf01c0766388e4985d0ee7db97f607406c6a43300": {
+    "title": "MITRE ATLAS Grows through Collaboration with CTID and Industry",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.599021"
+  },
+  "b0b19d1e62d998e2080b1b92a8e06bd6a58f45a9a490fd7c5bcbfb827d5dbddd": {
+    "title": "Secure AI",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.599093"
+  },
+  "de20633d1c91dbb4a363ac3351bf5d66e6655fc2e14589f654c117d27e095759": {
+    "title": "2025 Impact Report",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.600665"
+  },
+  "c619932d8399ab63f0a0ed086474ab8d0a73b11082d98dfe846f11f78069b5ea": {
+    "title": "Fight Financial Fraud",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.602070"
+  },
+  "367c50ef7e063bab56105c8e7f7665f8a9c89ddc08cf6dba63f8885dbf7c5e46": {
+    "title": "Fraud Fighters United with MITRE F3",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.603522"
+  },
+  "438eae0a5133d4800ac346f2d4157e611874cfde3cadab8e7dce638feceea4f1": {
+    "title": "RSAC Conference 2026",
+    "cves": [],
+    "seen_at": "2026-11-02T15:52:48.604942"
+  },
+  "e51307aefde2b8a3c6c5ef533c1712178357520d26e0e9c15aa95211caa9740e": {
+    "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+    "cves": [],
+    "seen_at": "2026-11-02T19:06:56.438817"
+  },
+  "e64f9fc2cd48001c1552d0b9fd1d4c199602bdc5158463a632c369a5e858e009": {
+    "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+    "cves": [],
+    "seen_at": "2026-11-02T19:06:56.440044"
+  },
+  "584312065940ae3e159850664b93578e0e745265e1807fbbd071045cda90d736": {
+    "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
+    "cves": [],
+    "seen_at": "2026-11-02T19:06:57.233571"
+  },
+  "bc9b75f55040ee1852dc71b18c4c9bd9a82cdd3225778272f781202cf5b0c0b3": {
+    "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
+    "cves": [],
+    "seen_at": "2026-11-02T19:06:57.862850"
+  },
+  "f949b6556eea34201b6b951f118555fee8f9480acac84b0e2c36a39df37a23e6": {
+    "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-02T19:06:58.537073"
+  },
+  "e56643283374207a04a197a8ebbeeec4641426f0bdfed6ee77ad7d8965faaf48": {
+    "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+    "cves": [],
+    "seen_at": "2026-11-02T19:06:58.538288"
+  },
+  "a80483e829395cbfe56634c375b1ae4476fcb8a82fe25514beb732e3b537fe4c": {
+    "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+    "cves": [],
+    "seen_at": "2026-11-02T19:06:58.538581"
+  },
+  "3cad7181cf7cc03e329a738edaad2383298d4c2b8d886c2a4e05d99885b634ed": {
+    "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+    "cves": [],
+    "seen_at": "2026-11-03T01:58:06.406849"
+  },
+  "2b90ddd9c97f1410359fd676ae78a8d9a9665d5d13f01e2da7a7c24b4ed63507": {
+    "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+    "cves": [],
+    "seen_at": "2026-11-03T01:58:06.684698"
+  },
+  "d3adfed2067f9017b807da838834f002c50e908dbab57a5a21d0915c7ef832f6": {
+    "title": "VOLTA, the infostealer that asks an AI which victims are worth the effort",
+    "cves": [],
+    "seen_at": "2026-11-03T01:58:07.230699"
+  },
+  "c3b75b14972e34ec0ca12785bc1a0d185cb4e3931053eee26658fe0b29c1b867": {
+    "title": "Quickpost: Banana Equivalent Dose",
+    "cves": [],
+    "seen_at": "2026-11-03T01:58:07.456948"
+  },
+  "db6dacd8c2e4754de68b6e9c99cbeac0b06486da3efc2da19fb0caa553f8e937": {
+    "title": "Quickpost: Rad Pro",
+    "cves": [],
+    "seen_at": "2026-11-03T01:58:07.457296"
+  },
+  "96d4d889fde0b16a33fc3ecbd5252f423dcc1fd0c375f991a067cd01dda51dcb": {
+    "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+    "cves": [],
+    "seen_at": "2026-11-03T01:58:14.313860"
+  },
+  "2af56e407a05854100563be3c6836d117aa61b92b865685e5b349d1d543fb4d5": {
+    "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
+    "cves": [],
+    "seen_at": "2026-11-03T01:58:14.379855"
+  }
+}
