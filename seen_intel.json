@@ -2421,5 +2421,33 @@
     "title": "Defrost and Disrupt | An Assessment of Europe\u2019s Refrigeration Attacks",
     "cves": [],
     "seen_at": "2026-11-03T15:45:28.983638"
+  },
+  "dbbaa27ec90ab46f3d0a55a8203c3452b73e8b3654b5eb11f1c43afb15ffaa7f": {
+    "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+    "cves": [],
+    "seen_at": "2026-11-03T16:50:23.696037"
+  },
+  "8c8b21d9181696bdea3e2e7c4467c3cdcbc09783a3567e3606a07e64b7db819c": {
+    "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+    "cves": [],
+    "seen_at": "2026-11-03T16:50:23.697691"
+  },
+  "e65cb058cbcd44eab8d4122f72578cbdf0aa14367064d053315aa2d578fdaa40": {
+    "title": "9 Cyber Awareness Tips That Actually Match Today\u2019s Maze of Threats",
+    "cves": [],
+    "seen_at": "2026-11-03T16:50:29.542734"
+  },
+  "b0f9e3d2980894b364b398e2d49cfbddc4fe3e5bfc665618a3987b9fb1c862bd": {
+    "title": "LLMJacking Emerges as Thriving Cybercriminal Enterprise",
+    "cves": [],
+    "seen_at": "2026-11-03T16:50:29.544243"
+  },
+  "514e054998f28cd000ad2a69e97a7e397d34737732109bc5c100b6d28fd39e76": {
+    "title": "Subnet Solutions PowerSYSTEM Center",
+    "cves": [
+      "CVE-2026-63017",
+      "CVE-2026-63774"
+    ],
+    "seen_at": "2026-11-03T16:50:43.089854"
   }
 }
