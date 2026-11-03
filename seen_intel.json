@@ -2569,5 +2569,34 @@
     "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
     "cves": [],
     "seen_at": "2026-11-03T21:38:58.186860"
+  },
+  "38f235e97b9b8e60f2015a12c5a780f9790691e0e6217c11b8de604288e0bc33": {
+    "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
+    "cves": [],
+    "seen_at": "2026-11-03T22:37:31.809632"
+  },
+  "d326579c41cde03c1f051edc7a2914382353fe3412c71be2a4716e5b85205ff3": {
+    "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
+    "cves": [],
+    "seen_at": "2026-11-03T22:37:31.811367"
+  },
+  "fecc935004149dc3288bdf7859007a22514b9a56e084f950bcafb515c71fa24b": {
+    "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+    "cves": [],
+    "seen_at": "2026-11-03T22:37:32.447020"
+  },
+  "52749520565a3beb27824f755e446d7edc8777ca90ae60149772fb87ce16e927": {
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "cves": [
+      "CVE-2026-119977"
+    ],
+    "seen_at": "2026-11-03T22:37:43.809032"
+  },
+  "5c455e3b13e231127b6c82c8ec262ae199d37361e33f1de77b783b298dd9071d": {
+    "title": "Siemens WinCC",
+    "cves": [
+      "CVE-2026-59241"
+    ],
+    "seen_at": "2026-11-03T22:37:43.908008"
   }
 }
