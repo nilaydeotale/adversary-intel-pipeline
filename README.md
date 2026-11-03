@@ -10,7 +10,7 @@ An automated, serverless **Cyber Threat Intelligence (CTI)** aggregation, enrich
 
 Every hour, this pipeline ingests 30+ high-signal security feeds, deduplicates syndicated stories via fuzzy clustering, enriches CVEs with live **CISA Known Exploited Vulnerabilities (KEV)** and **FIRST.org EPSS** exploit-probability telemetry, maps behaviors to **MITRE ATT&CK**, opens prioritized **GitHub Issues** for high-severity hits, and publishes a live dark-mode web radar via **GitHub Pages**.
 
-👉 **Live Threat Radar Dashboard:** **[https://nilay-deotale-sp.github.io/adversary-intel-pipeline/](https://nilay-deotale-sp.github.io/adversary-intel-pipeline/)**  
+👉 **Live Threat Radar Dashboard:** **[https://nilaydeotale.github.io/adversary-intel-pipeline/](https://nilay-deotale-sp.github.io/adversary-intel-pipeline/)**  
 👉 **24-Hour Executive Summary:** **[View `DAILY_BRIEFING.md`](./DAILY_BRIEFING.md)**
 
 ---
