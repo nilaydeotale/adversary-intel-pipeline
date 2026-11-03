@@ -1,6 +1,29 @@
 {
-  "updated_utc": "2026-11-03 01:58 UTC",
+  "updated_utc": "2026-11-03 12:57 UTC",
   "items": [
+    {
+      "source": "CISA Cyber Alerts",
+      "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "genesis"
+      ],
+      "cves": [
+        "CVE-2023-4863",
+        "CVE-2026-16436",
+        "CVE-2026-16437",
+        "CVE-2026-16438"
+      ],
+      "in_kev": [
+        "CVE-2023-4863"
+      ],
+      "max_epss": 0.99979,
+      "mitre": [],
+      "detected_utc": "2026-11-03T12:57:27.857613"
+    },
     {
       "source": "0day Fans",
       "title": "CVE-2026-35273: SSRF to RCE in Oracle PeopleSoft",
@@ -579,6 +602,47 @@
       "detected_utc": "2026-11-02T15:52:44.978832"
     },
     {
+      "source": "CISA Cyber Alerts",
+      "title": "Siemens Mendix SAML Module",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+      "score": 50,
+      "severity": "HIGH",
+      "stack_hits": [
+        "saml",
+        "sso"
+      ],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2026-89209"
+      ],
+      "in_kev": [],
+      "max_epss": 0.00259,
+      "mitre": [],
+      "detected_utc": "2026-11-03T12:57:26.366077"
+    },
+    {
+      "source": "CISA Cyber Alerts",
+      "title": "Siemens RUGGEDCOM APE1808 Devices",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
+      "score": 50,
+      "severity": "HIGH",
+      "stack_hits": [
+        "saml"
+      ],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2026-33387",
+        "CVE-2026-33388",
+        "CVE-2026-33389",
+        "CVE-2026-33391",
+        "CVE-2026-33920"
+      ],
+      "in_kev": [],
+      "max_epss": 0.00413,
+      "mitre": [],
+      "detected_utc": "2026-11-03T12:57:29.452169"
+    },
+    {
       "source": "Doyensec Blog",
       "title": "Playing It SFAPE: Code Execution in Isolated User Mode",
       "link": "https://blog.doyensec.com/2026/10/13/Sfape.html",
@@ -635,6 +699,25 @@
       "max_epss": 0.15532,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:32.535045"
+    },
+    {
+      "source": "CISA Cyber Alerts",
+      "title": "Hitachi Energy TRO600 series products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-106087",
+        "CVE-2026-10756"
+      ],
+      "in_kev": [],
+      "max_epss": 0.00247,
+      "mitre": [],
+      "detected_utc": "2026-11-03T12:57:26.118178"
     },
     {
       "source": "Rhino Security Labs",
@@ -980,6 +1063,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-03T12:57:12.284087"
     },
     {
       "source": "Krebs on Security",

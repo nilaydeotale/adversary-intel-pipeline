@@ -2110,5 +2110,266 @@
     "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
     "cves": [],
     "seen_at": "2026-11-03T01:58:14.379855"
+  },
+  "e97885382a34e0031c1e6373b5151659f53a706a1873f495e3ab3766bf32ba90": {
+    "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+    "cves": [
+      "CVE-2026-98432"
+    ],
+    "seen_at": "2026-11-03T12:57:12.277053"
+  },
+  "6536d22d2aada1aac97c1ae02b5f3eb765e35c94dcaec746a8fa40459ec21ab0": {
+    "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:12.279243"
+  },
+  "acf32754413fbee4daac8c985c40711095a632eda45247fe644baac4d90db7fb": {
+    "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:12.280877"
+  },
+  "f08c615f5937c60a9fd828f97b4396ef0decd6475f579200e931af45b00e755f": {
+    "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:12.282489"
+  },
+  "e5a81ce8f2ccc28118731e11092bd12533b94cf1661e1ed8263ac34fbb78594d": {
+    "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:12.284110"
+  },
+  "8cee98d22a4cc45289329de87ff71084d6d85e0c4cca89e03444a77a52e50b06": {
+    "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:12.285725"
+  },
+  "9512a4dbef311985b5b8298b98a820f17f63c570181ae9e3f24b1f36c0c8b0c1": {
+    "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+    "cves": [
+      "CVE-2026-58115"
+    ],
+    "seen_at": "2026-11-03T12:57:12.735243"
+  },
+  "63da15da7cad9df3495cba53fd41f6e7213f80f4638bbf915e10830c5fb56c7e": {
+    "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+    "cves": [
+      "CVE-2026-81648"
+    ],
+    "seen_at": "2026-11-03T12:57:12.746444"
+  },
+  "4077bf5a2ada9b7425d54fbc8bbc602222712b8667a7b1caa761f4cecc08848e": {
+    "title": "Android\u2019s November 2026 Updates Patch Over 200 Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:13.976636"
+  },
+  "b6d8441358a3b0a974adf96fe36762ac85a0b37114bd3ff8e12bc793f41b0be0": {
+    "title": "Critical Node-RED Flaw Exploited in Attacks",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:13.978264"
+  },
+  "cc8d58ef7f8acb8ba3a6ac13543e28fcd593e01041723565881ffed0f9e5c943": {
+    "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:13.979885"
+  },
+  "7a4c525325047a347ab64a51f39748f63cc7035370ce9c4b52ed094afe408e3a": {
+    "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:13.981432"
+  },
+  "b87ef249671902ebe53310dfa13699e6352ce07c5fc7673ebe71a560f5e937f5": {
+    "title": "NATO\u2019s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:13.983069"
+  },
+  "9a2d9291c697277b25e73d402a26bef72537587587032b141832d31eb97c5d3c": {
+    "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:13.984641"
+  },
+  "cd9433deb8099995af50f0fd361aa3173c85ad1f7c9773f1cb83198c252e916b": {
+    "title": "Revolve Data Breach Impacts at Least 200,000 People",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:13.984915"
+  },
+  "ddc190b12db922a381fe514f19975c77fdff58f4126954a2f79f8552e41a76c6": {
+    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:14.232000"
+  },
+  "41aeab0a3868826ffa8292d8cecc0bfae953bdf8bc187db4fb9f35c0fe9e9332": {
+    "title": "AIs Hacking the Law",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:14.371996"
+  },
+  "a6cdcc9f8f54555d6fa9e8063ed8f70701c5779b88c20291ec742a83e84c0645": {
+    "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:14.479074"
+  },
+  "2b389d1f0a8f7d216a814fbaf724df8f0183cd32478dbf3b1972c0ec5c7389d4": {
+    "title": "Harvard University data breach exposed info of 851,000 accounts",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:14.480675"
+  },
+  "8fa5724452ae8b3190f1ada9191b3be3fff3aa66b77656e14609d40488c800e8": {
+    "title": "Inside XCPE, the botnet that turned 1.3M\u00a0set-top boxes into proxy servers",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:15.790329"
+  },
+  "d59f2462bf0a0d8527c4a64659e8365cd0b4a163515a0d6efc2732448e4dd314": {
+    "title": "NIS2 Makes Board Members Personally Liable for Access Control Decisions",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:15.792006"
+  },
+  "b4c7e9ab5a92a894b0082344c63d3a13a65ffa345db7b09c2573e483a4e41e84": {
+    "title": "Apple\u2019s spyware notifications reach the Bundestag: what the BSI says to do now",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:15.793630"
+  },
+  "1d07805712fb8fc789e5608003bda3dd917dccf9f3725d89b922e9c55ee65b27": {
+    "title": "Major Cyber Attacks in October 2026: Fake AI, Account Takeovers, and Remote Access Threaten US and EU",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:21.980472"
+  },
+  "6092f69aa7d840392fdca2ed6ee009922c455fc72c4cb3ccb79c638e1ba28dda": {
+    "title": "Release Notes: Related Threat Context for Faster Than Ever SOC Triage and 590+ Coverage Updates",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:21.982314"
+  },
+  "31e502020eba089717c2d8e5ead77f5219a10554d43dadd96c0c128634f400a3": {
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-111357",
+      "CVE-2026-118527"
+    ],
+    "seen_at": "2026-11-03T12:57:25.868367"
+  },
+  "7f2b25ff1a3d7dd7d3325204b62407264132beee26e5ce7a6f584f90dcd802d5": {
+    "title": "Hitachi Energy CoreTec Product",
+    "cves": [
+      "CVE-2026-13162",
+      "CVE-2026-43284"
+    ],
+    "seen_at": "2026-11-03T12:57:25.869540"
+  },
+  "1a95a1f1f4e37be269d8fb95e9942b5df8faaba6da8b0a5097a7086aa0b7deb0": {
+    "title": "Hitachi Energy TRO600 series products",
+    "cves": [
+      "CVE-2026-106087",
+      "CVE-2026-10756"
+    ],
+    "seen_at": "2026-11-03T12:57:26.118189"
+  },
+  "077d32b308ea7549a54f4f6378de4a5ff19a591b62408d76a23ce2f27280cf2a": {
+    "title": "Siemens Mendix SAML Module",
+    "cves": [
+      "CVE-2026-89209"
+    ],
+    "seen_at": "2026-11-03T12:57:27.198579"
+  },
+  "5cff3ff082ffc41e4c0b4029c65c6bccb6daa9a781735084568099c65219aa68": {
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-76418",
+      "CVE-2026-97229"
+    ],
+    "seen_at": "2026-11-03T12:57:27.199245"
+  },
+  "7accc77c51e94c87a8c18f145b99421a3509ba7f7d4f77d9726d2071b2639d7c": {
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-41709",
+      "CVE-2026-46300"
+    ],
+    "seen_at": "2026-11-03T12:57:27.199778"
+  },
+  "a74357ec942ad98cc6c412bb3d9cd5ceadc932c045aee734b51f90b079a76524": {
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-111497",
+      "CVE-2026-48356"
+    ],
+    "seen_at": "2026-11-03T12:57:27.200298"
+  },
+  "568e8c02a8f525542dfbc2b5802ef74486d464590f6cb263b158a920a628397e": {
+    "title": "EPICS Base",
+    "cves": [
+      "CVE-2026-114595",
+      "CVE-2026-114596",
+      "CVE-2026-114597",
+      "CVE-2026-114598"
+    ],
+    "seen_at": "2026-11-03T12:57:27.472550"
+  },
+  "87cd72547278f6cd24bff5ecbc009975222d18c9f64f0d996ff0635d9a3aff2d": {
+    "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+    "cves": [
+      "CVE-2023-4863",
+      "CVE-2026-16436",
+      "CVE-2026-16437",
+      "CVE-2026-16438"
+    ],
+    "seen_at": "2026-11-03T12:57:28.848850"
+  },
+  "718e048342bb1d24cbf2694e4a2b58f0143ce504a05fb9c06ad4b732c8742b07": {
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "seen_at": "2026-11-03T12:57:28.849599"
+  },
+  "bca6b564532a1fed84a85fb9d9f62f3115b4096f2946ee1c32662171fadc20b7": {
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "cves": [
+      "CVE-2026-110447"
+    ],
+    "seen_at": "2026-11-03T12:57:28.850144"
+  },
+  "6d7e8e13bac90186d15b8f97340dc8452b10ccbbe14f650b71242f9dc857bc65": {
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "cves": [
+      "CVE-2026-114625"
+    ],
+    "seen_at": "2026-11-03T12:57:28.850687"
+  },
+  "cfe0cd366f4bdb1d8e8243495d0b52cfd6a1ce1ab36ece9b633a1b950bb02926": {
+    "title": "Siemens RUGGEDCOM CROSSBOW",
+    "cves": [
+      "CVE-2026-89196",
+      "CVE-2026-89197",
+      "CVE-2026-89198",
+      "CVE-2026-89199",
+      "CVE-2026-89200",
+      "CVE-2026-89201",
+      "CVE-2026-89202",
+      "CVE-2026-89203",
+      "CVE-2026-89204",
+      "CVE-2026-89205",
+      "CVE-2026-89206"
+    ],
+    "seen_at": "2026-11-03T12:57:29.111676"
+  },
+  "a9d4f543d9792434e87483f3c5b91509daf41d883f4df78d01af455df77ea3e6": {
+    "title": "Siemens RUGGEDCOM APE1808 Devices",
+    "cves": [
+      "CVE-2026-33387",
+      "CVE-2026-33388",
+      "CVE-2026-33389",
+      "CVE-2026-33391",
+      "CVE-2026-33920"
+    ],
+    "seen_at": "2026-11-03T12:57:29.950040"
+  },
+  "60d765fa1c3fd2402875edc8ceb180903e861f3e3b41bcf370413175b9c2fa44": {
+    "title": "Managing AI Token Consumption for Operational Resilience",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:29.952237"
+  },
+  "b982fb893f783b067752442b520337c4f1c864d7d813609c3f9d9d14f3644718": {
+    "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
+    "cves": [],
+    "seen_at": "2026-11-03T12:57:34.049278"
   }
 }
