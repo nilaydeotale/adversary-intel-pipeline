@@ -2534,5 +2534,25 @@
     "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for AI Agent Management Platforms",
     "cves": [],
     "seen_at": "2026-11-03T18:43:48.150641"
+  },
+  "9c26ee44dd4a5841d892d34212b45ae7a2b9bc762653e34cd38a7eb31b60b422": {
+    "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+    "cves": [],
+    "seen_at": "2026-11-03T19:46:51.334665"
+  },
+  "0201b030195f9c349fd75e0b8f0fd2ff1acf3ddd60ab7f92eec8e7e1f0fe436c": {
+    "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+    "cves": [],
+    "seen_at": "2026-11-03T19:46:51.336105"
+  },
+  "d938084fcc94c4153fd351261492ae154cc03e120f0a9d46a247e43a9c454ea1": {
+    "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+    "cves": [],
+    "seen_at": "2026-11-03T19:46:52.218798"
+  },
+  "08b0f34736ce1d7abd4e56433af2818825b3bb416d689db9782975c510e5d971": {
+    "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+    "cves": [],
+    "seen_at": "2026-11-03T19:46:53.745351"
   }
 }
