@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-03 13:11 UTC",
+  "updated_utc": "2026-11-03 14:10 UTC",
   "items": [
     {
       "source": "CISA Cyber Alerts",
@@ -1063,6 +1063,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-03T14:10:38.711522"
     },
     {
       "source": "The Hacker News",
