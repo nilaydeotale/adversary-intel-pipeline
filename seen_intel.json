@@ -2864,5 +2864,10 @@
       "CVE-2026-116606"
     ],
     "seen_at": "2026-11-04T21:45:15.001346"
+  },
+  "897b9b6ffafcb39b4f0de785a3535168b3b20a61470ed2280929c9c5b50cc2ad": {
+    "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+    "cves": [],
+    "seen_at": "2026-11-04T22:42:31.248237"
   }
 }
