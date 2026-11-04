@@ -2654,5 +2654,62 @@
       "CVE-2026-119977"
     ],
     "seen_at": "2026-11-04T09:55:26.681901"
+  },
+  "132d016d50bcd5d0c1f754ad10d2fb618d1cc6379de832bc791b5f2d32b33161": {
+    "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:48.889512"
+  },
+  "7b24189029144b172410e2cc869471d88f7bd733e6215dca7a3196dcfae0e8ea": {
+    "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:48.890648"
+  },
+  "7c24ce9d7f47142a349489246257764e8d0cb19bcf8ee6d20ae9b658d7aaab40": {
+    "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:48.891775"
+  },
+  "15ee7d813de327d6f0d364e9c4024a443bece134d66ca04decc0bc9e5dfed25f": {
+    "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:48.892885"
+  },
+  "5c11a7679f0ea01d1f56a067bceec64547dab65519e8430792c84f2903724421": {
+    "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:51.176924"
+  },
+  "938dec0f1d9e4fccfc413e0beecd03a7741ec2a5ec0a2ee14e9738775a12f8dd": {
+    "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:51.178026"
+  },
+  "03c3ca044166e0c0bc0a82f3f24f16b13e4fee5eafaf51f86deba6afb914eceb": {
+    "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:51.179111"
+  },
+  "c93b1c02100121dbe229c5b2fa01c49e86fbc13940ed804313241ab72024d9f9": {
+    "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:51.180235"
+  },
+  "8662c955b380a318cff71947bd2173430c891926515a523089ae22cacaf72c77": {
+    "title": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:51.181343"
+  },
+  "8bf99b37d174c900c16275e6b4d886da25ffe1c955f2dee083ce337e57c108b4": {
+    "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+    "cves": [],
+    "seen_at": "2026-11-04T12:53:51.747517"
+  },
+  "dcbdf9391c4cd3f8e424746f64b889c8f06b8de3b7e7e0c9130651d57668310e": {
+    "title": "CVE-2026-58868: Critical Android Bug Could Let Attackers Run Remote Code",
+    "cves": [
+      "CVE-2026-58868"
+    ],
+    "seen_at": "2026-11-04T12:53:52.784811"
   }
 }

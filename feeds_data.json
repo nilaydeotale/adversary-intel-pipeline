@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04 09:55 UTC",
+  "updated_utc": "2026-11-04 12:54 UTC",
   "items": [
     {
       "source": "CISA Cyber Alerts",
@@ -1101,6 +1101,24 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited",
+        "in the wild",
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-04T12:53:51.747511"
     },
     {
       "source": "BleepingComputer",
