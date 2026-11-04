@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04 20:47 UTC",
+  "updated_utc": "2026-11-04 21:47 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1147,6 +1147,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-04T21:45:14.494765"
     },
     {
       "source": "BleepingComputer",

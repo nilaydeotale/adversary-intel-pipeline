@@ -2846,5 +2846,23 @@
     "title": "Cyberattack Hits French Blood Banks as Hackers Target Refrigeration Systems Across Europe",
     "cves": [],
     "seen_at": "2026-11-04T19:52:38.371467"
+  },
+  "f9449bcc2f33d657a496c27ba5badeae2b725a49b484cedd4bb0525d9bb4440b": {
+    "title": "Vercel rolls out new protection against stolen session cookie attacks",
+    "cves": [],
+    "seen_at": "2026-11-04T21:45:14.492789"
+  },
+  "bd9ccbca93c0e94113616487776ba3fe22eaa7e734fc0d1f3b4e5ebed02bae70": {
+    "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+    "cves": [],
+    "seen_at": "2026-11-04T21:45:14.494768"
+  },
+  "47bf0a2d1ceef6d0511a1c717cccbd8f228a5c23f234c01a5a2362dca621ba23": {
+    "title": "Two Barracuda ESG Flaws Could Be Combined for Full Root Access; Patches Released",
+    "cves": [
+      "CVE-2026-111560",
+      "CVE-2026-116606"
+    ],
+    "seen_at": "2026-11-04T21:45:15.001346"
   }
 }
