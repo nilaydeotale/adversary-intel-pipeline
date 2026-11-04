@@ -2711,5 +2711,27 @@
       "CVE-2026-58868"
     ],
     "seen_at": "2026-11-04T12:53:52.784811"
+  },
+  "7ad7e39d5b091ded06d1342868071ec3ac99a4d1420403f20335937d40b92448": {
+    "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
+    "cves": [],
+    "seen_at": "2026-11-04T14:07:50.644063"
+  },
+  "1b824f8f7945f8e28504b9e66c67b3988b854987f81575de073972fdbdbcfcb8": {
+    "title": "US charges two Canadians accused of hacking US universities",
+    "cves": [],
+    "seen_at": "2026-11-04T14:07:51.210014"
+  },
+  "afe9aa59ea85b6d4561e417d54674f789c7e75e97208834e2fe4d747b8684fc2": {
+    "title": "VerifiedIDA | Making LLM-Driven Reverse Engineering Inspectable, Continuable and Reusable",
+    "cves": [],
+    "seen_at": "2026-11-04T14:08:04.928819"
+  },
+  "91f612dc3611f37ee28eeb685837268e3db4a64f7ac3339630af3db7f34f3be7": {
+    "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
+    "cves": [
+      "CVE-2000-0411"
+    ],
+    "seen_at": "2026-11-04T14:08:05.829026"
   }
 }
