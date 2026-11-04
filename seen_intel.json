@@ -2598,5 +2598,15 @@
       "CVE-2026-59241"
     ],
     "seen_at": "2026-11-03T22:37:43.908008"
+  },
+  "70c59a8e9c14e6ca967678e908952953bf5050ac6539a27657b67187f7d0545b": {
+    "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+    "cves": [],
+    "seen_at": "2026-11-04T02:43:38.886649"
+  },
+  "bf394576d93cfdf1db4cbf3747b668b225cb99347ba8f4887c5a9421544ad9df": {
+    "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
+    "cves": [],
+    "seen_at": "2026-11-04T02:43:53.559410"
   }
 }
