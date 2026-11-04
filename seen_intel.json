@@ -2613,5 +2613,17 @@
     "title": "Poisoned Source: APT29 Watering Holes Targets Mobile Devices",
     "cves": [],
     "seen_at": "2026-11-04T07:00:33.679615"
+  },
+  "418e976d59c8a0690875f97a92f5c24534fcea82c7d8c972bef3298f9ccf85b9": {
+    "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+    "cves": [
+      "CVE-2026-119977"
+    ],
+    "seen_at": "2026-11-04T08:51:32.583202"
+  },
+  "382686f90e39b04a56b8cebdbb05f3ed0a678c96d07c7ad82c8e0185c4e09659": {
+    "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+    "cves": [],
+    "seen_at": "2026-11-04T08:51:34.316223"
   }
 }
