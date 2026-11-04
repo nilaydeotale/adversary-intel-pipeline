@@ -2821,5 +2821,15 @@
     "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
     "cves": [],
     "seen_at": "2026-11-04T17:48:34.226247"
+  },
+  "f6d22c6e49a3ff7d68fbaff0898c0a112ee481a1bb731cfb3558d1e78700d099": {
+    "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
+    "cves": [],
+    "seen_at": "2026-11-04T18:50:39.804064"
+  },
+  "77e53bb3764b2fbc9cade16dddf3f6e1c85f0407baadec536591ceabe5643de9": {
+    "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+    "cves": [],
+    "seen_at": "2026-11-04T18:50:40.388472"
   }
 }
