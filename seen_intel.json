@@ -2831,5 +2831,20 @@
     "title": "Cyberattack disrupts blood storage refrigeration systems in France",
     "cves": [],
     "seen_at": "2026-11-04T18:50:40.388472"
+  },
+  "aeff7c080387ca8e1e45b1b997d30af81766e02d7d23cc0919a6b33924246659": {
+    "title": "Hugging Face\u2019s CEO Says His P(Doom) Is \u2018Close to Zero\u2019",
+    "cves": [],
+    "seen_at": "2026-11-04T19:52:36.183601"
+  },
+  "6f9023a718a782d81021e17a01c62a178b1081e51e6fb53e2e733c44f6d5ea2f": {
+    "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+    "cves": [],
+    "seen_at": "2026-11-04T19:52:37.569281"
+  },
+  "27f8977571c78188843ae2de45564bd45db697378d13e4d145bb5031ae8ec606": {
+    "title": "Cyberattack Hits French Blood Banks as Hackers Target Refrigeration Systems Across Europe",
+    "cves": [],
+    "seen_at": "2026-11-04T19:52:38.371467"
   }
 }
