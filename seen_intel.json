@@ -2799,5 +2799,27 @@
     "title": "Rapid7 Achieves ISO/IEC 42001 Certification for its AI Management System",
     "cves": [],
     "seen_at": "2026-11-04T16:51:01.797345"
+  },
+  "04d9e99f58bf5feeb2a13d82e541defe090f92905197d27daf9d67f3d05c1154": {
+    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+    "cves": [],
+    "seen_at": "2026-11-04T17:48:30.438546"
+  },
+  "8724ee6c2dc20aa1fdc7cd47167a09b91c51883fb29babcc70ed646086f7a2d2": {
+    "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+    "cves": [
+      "CVE-2026-109593"
+    ],
+    "seen_at": "2026-11-04T17:48:30.684641"
+  },
+  "c72fc976bed13b29f52b175bc9ac637ed18b5fcd8ad56f7dd9b0027b68da66ff": {
+    "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+    "cves": [],
+    "seen_at": "2026-11-04T17:48:30.686320"
+  },
+  "b4bb5404f4faedbb3a5c6e7ecdf65fbe9a4e7f85c02ae85dad9d80a6b27942bf": {
+    "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+    "cves": [],
+    "seen_at": "2026-11-04T17:48:34.226247"
   }
 }
