@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04 08:51 UTC",
+  "updated_utc": "2026-11-04 09:55 UTC",
   "items": [
     {
       "source": "CISA Cyber Alerts",
@@ -719,6 +719,24 @@
       "max_epss": 0.15532,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:32.535045"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-58868"
+      ],
+      "in_kev": [],
+      "max_epss": 0.00211,
+      "mitre": [],
+      "detected_utc": "2026-11-04T09:55:25.250908"
     },
     {
       "source": "CISA Cyber Alerts",

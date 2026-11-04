@@ -2625,5 +2625,34 @@
     "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
     "cves": [],
     "seen_at": "2026-11-04T08:51:34.316223"
+  },
+  "a76e92682bfed34c1f2c3ca3036558fba4d4c39572c34796aecc01cf9064bfc9": {
+    "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+    "cves": [],
+    "seen_at": "2026-11-04T09:55:25.230039"
+  },
+  "b5deed7cf9adad8819d15697e1bc79ed00393325d8102ba08b44fe001b3b2a40": {
+    "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+    "cves": [
+      "CVE-2026-58868"
+    ],
+    "seen_at": "2026-11-04T09:55:25.250914"
+  },
+  "5970b22badb2c53f535b099cbcd7cf79a3dff364eae535230f8ff1e08a14113f": {
+    "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+    "cves": [],
+    "seen_at": "2026-11-04T09:55:26.068982"
+  },
+  "d0819ad538f54f4f819bcbe029fba6e426f4fa3ee8b086122f75ac8002d3704e": {
+    "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+    "cves": [],
+    "seen_at": "2026-11-04T09:55:26.363535"
+  },
+  "e4c5e702dc3d862767ef7589b7e6fa312bcbe538ac81dcb327c8132af5e224d0": {
+    "title": "U.S. CISA adds WordPress\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+    "cves": [
+      "CVE-2026-119977"
+    ],
+    "seen_at": "2026-11-04T09:55:26.681901"
   }
 }
