@@ -1,6 +1,36 @@
 {
-  "updated_utc": "2026-11-04 14:08 UTC",
+  "updated_utc": "2026-11-04 15:51 UTC",
   "items": [
+    {
+      "source": "Rapid7 Blog",
+      "title": "The Race Against the 3-Day Clock: How Rapid7 Helps Meet BOD 26-04 Compliance",
+      "link": "https://www.rapid7.com/blog/post/it-racing-the-three-day-clock-cisa-bod-26-04",
+      "score": 100,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited",
+        "in the wild",
+        "rce",
+        "zero-day"
+      ],
+      "cves": [
+        "CVE-2026-0300",
+        "CVE-2026-18556",
+        "CVE-2026-18577",
+        "CVE-2026-55040",
+        "CVE-2026-63520"
+      ],
+      "in_kev": [
+        "CVE-2026-0300",
+        "CVE-2026-18556",
+        "CVE-2026-18577",
+        "CVE-2026-55040"
+      ],
+      "max_epss": 0.69536,
+      "mitre": [],
+      "detected_utc": "2026-11-04T15:51:00.813424"
+    },
     {
       "source": "CISA Cyber Alerts",
       "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
@@ -813,6 +843,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "mfa"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-04T15:50:43.392635"
     },
     {
       "source": "The Hacker News",

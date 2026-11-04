@@ -2733,5 +2733,56 @@
       "CVE-2000-0411"
     ],
     "seen_at": "2026-11-04T14:08:05.829026"
+  },
+  "677830f7909eadf7afe67cc64e0a270a53e311c636453e5b18dd04514b29aca8": {
+    "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+    "cves": [],
+    "seen_at": "2026-11-04T15:50:41.117488"
+  },
+  "b0aa1a13049fc0891408ca8cdd13aebb91398280963ca4902d4411c810ed8e32": {
+    "title": "Incidents Move Too Fast for Pen &amp; Paper",
+    "cves": [],
+    "seen_at": "2026-11-04T15:50:42.635872"
+  },
+  "b1103025b7aa1414b725d54f77c2ad0d1943c336c1e01353f267cffbe7c930aa": {
+    "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
+    "cves": [],
+    "seen_at": "2026-11-04T15:50:42.775813"
+  },
+  "0fa568d1e0c6804bcfb4f97c5f20f48b00d23594aef7492585d141aee1d183a7": {
+    "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
+    "cves": [],
+    "seen_at": "2026-11-04T15:50:42.777767"
+  },
+  "3d801104f37e8c1d225b2a655de9ff3fc4e448fce5eca8759671b5e0d042c13b": {
+    "title": "Agentic Data Security Firm Sentra Raises $150 Million",
+    "cves": [],
+    "seen_at": "2026-11-04T15:50:42.779700"
+  },
+  "81d0742248f9407573af69015eb3b25c516b050424c35428af0759ee0d93526e": {
+    "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+    "cves": [],
+    "seen_at": "2026-11-04T15:50:43.392643"
+  },
+  "ecf19ab1326d5f50c0c0650595d3bd0645c1ba98a9155fa40285f8fce293a08a": {
+    "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+    "cves": [],
+    "seen_at": "2026-11-04T15:50:43.394522"
+  },
+  "cc94391a71df20c97ca4a6a54dea4e178f8f6d69864773407a86fe72bdf03b2d": {
+    "title": "Making HTTP header injection critical with one prompt",
+    "cves": [],
+    "seen_at": "2026-11-04T15:50:48.748793"
+  },
+  "48b67c1ba3f9fa51bd32b03a0cc9f29936a45279c4078bc15fb5bb5c871b7a59": {
+    "title": "The Race Against the 3-Day Clock: How Rapid7 Helps Meet BOD 26-04 Compliance",
+    "cves": [
+      "CVE-2026-0300",
+      "CVE-2026-18556",
+      "CVE-2026-18577",
+      "CVE-2026-55040",
+      "CVE-2026-63520"
+    ],
+    "seen_at": "2026-11-04T15:51:01.399409"
   }
 }
