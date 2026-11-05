@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05 14:20 UTC",
+  "updated_utc": "2026-11-05 15:54 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -354,6 +354,24 @@
       "max_epss": 0.273,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:47.763745"
+    },
+    {
+      "source": "SANS ISC",
+      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+      "link": "https://isc.sans.edu/diary/rss/33492",
+      "score": 75,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2023-20198"
+      ],
+      "in_kev": [
+        "CVE-2023-20198"
+      ],
+      "max_epss": 0.99613,
+      "mitre": [],
+      "detected_utc": "2026-11-05T15:54:00.367884"
     },
     {
       "source": "Microsoft Security",
@@ -882,6 +900,22 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "mfa"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-05T15:53:47.580506"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
       "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
       "score": 35,
@@ -1183,6 +1217,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-05T15:53:45.245148"
     },
     {
       "source": "SecurityWeek",

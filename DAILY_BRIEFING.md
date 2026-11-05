@@ -1,6 +1,8 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-05 12:58 UTC | TLP:AMBER*
+*Last Updated: 2026-11-05 15:54 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | SecurityWeek | [Cisco, WatchGuard Release Patches; SonicWall Won’t Fix ...](https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/) | - | `Threat` |
+| **CRITICAL** | `75` | SANS ISC | [Vulnerability Scans for Older Cisco IOS Vulnerability /...](https://isc.sans.edu/diary/rss/33492) | CVE-2023-20198 🔥**(KEV)** | `Threat` |
+| **MEDIUM** | `35` | BleepingComputer | [Closing the Identity Gap at the Service Desk...](https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/) | - | `MFA` |
+| **LOW** | `25` | The Hacker News | [ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Si...](https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html) | - | `Threat` |

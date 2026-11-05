@@ -2990,5 +2990,32 @@
     "title": "Gartner Report: The Attack Path is Closing Faster than Most Teams Can Patch",
     "cves": [],
     "seen_at": "2026-11-05T14:20:58.827465"
+  },
+  "57c04ee73f608af3ee883afff67b5dc16cf823d8b512f996b86a546f4dab0bc3": {
+    "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+    "cves": [],
+    "seen_at": "2026-11-05T15:53:45.245158"
+  },
+  "978ed3bbd757007df53e1ef6ea8961d9b8118e6be5edd7d04f15cd8428ff19c0": {
+    "title": "Closing the Identity Gap at the Service Desk",
+    "cves": [],
+    "seen_at": "2026-11-05T15:53:47.580513"
+  },
+  "66f6c217e8566ca4403a13159a9036b4ee3f3a12119b78337b95c8d28b6a58b7": {
+    "title": "UNM Health Shuts Clinics and Diverts Patients During Security Incident",
+    "cves": [],
+    "seen_at": "2026-11-05T15:53:48.258183"
+  },
+  "9a3d9956ed01e5070d3d7e563893f24d14ed36ff844a9aa442531fe340f41438": {
+    "title": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
+    "cves": [],
+    "seen_at": "2026-11-05T15:53:48.840560"
+  },
+  "822ade60d4f415e40ac80cc0f0e93d21ceb32b04cc0203f26ac0ad8ae8768316": {
+    "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+    "cves": [
+      "CVE-2023-20198"
+    ],
+    "seen_at": "2026-11-05T15:54:00.986623"
   }
 }
