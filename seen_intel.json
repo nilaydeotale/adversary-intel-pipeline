@@ -2874,5 +2874,10 @@
     "title": "Want to Rent an Internet Address at the White House?",
     "cves": [],
     "seen_at": "2026-11-05T04:53:45.375794"
+  },
+  "7a3335027f5e2d615f3492565dd47cf0963da1a37f764016457611064d714aa9": {
+    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+    "cves": [],
+    "seen_at": "2026-11-05T05:55:07.450815"
   }
 }
