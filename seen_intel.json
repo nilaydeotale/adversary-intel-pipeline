@@ -3017,5 +3017,25 @@
       "CVE-2023-20198"
     ],
     "seen_at": "2026-11-05T15:54:00.986623"
+  },
+  "3f620ad88438d18dd32a623a564a1b680004476f5bdfb719a9a6a27a9a5b6635": {
+    "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+    "cves": [],
+    "seen_at": "2026-11-05T17:02:29.689064"
+  },
+  "4c35e6e61ed03c8557c28ada8e7b2811acb3ffc321befd46730215a34cee79e9": {
+    "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+    "cves": [],
+    "seen_at": "2026-11-05T17:02:30.238830"
+  },
+  "9950c9d6beece5a70cb207c6e9cd496e7977446dc925661928f87ef7e4d0e914": {
+    "title": "DigiCert data breach exposes customer information, identity documents",
+    "cves": [],
+    "seen_at": "2026-11-05T17:02:30.240907"
+  },
+  "de164db126c8f61c6aa4ff2b27c9a1eb602b671b639e85ef149a73cf6ee0f021": {
+    "title": "Email threat landscape: Q3 2026 trends and insights",
+    "cves": [],
+    "seen_at": "2026-11-05T17:02:40.899728"
   }
 }
