@@ -2923,5 +2923,25 @@
     "title": "Your Threat Intelligence Stack Has Blind Spots. Here\u2019s How to Close Them",
     "cves": [],
     "seen_at": "2026-11-05T09:55:20.970880"
+  },
+  "51f95b4e4629d58e1af4266245b6815a5ef92cd1e56bbaa8561162b123355d5b": {
+    "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+    "cves": [],
+    "seen_at": "2026-11-05T10:57:15.741681"
+  },
+  "820d559ac62c142bfa4f11d0dad6ea83f674390df85c7c5e88d707c3a86e0e7e": {
+    "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+    "cves": [],
+    "seen_at": "2026-11-05T10:57:17.643217"
+  },
+  "471cf449ee82affbe656e1c129ea9c6f5cae12ceacefd424402951bf2814bbc6": {
+    "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+    "cves": [],
+    "seen_at": "2026-11-05T10:57:17.645317"
+  },
+  "9b946f5f3e1e048a81bc9a26a27c1137c068d68decfea0de5e673a46fde19a87": {
+    "title": "Russian APT29 Targets Mobile Users with Watering Hole Attacks",
+    "cves": [],
+    "seen_at": "2026-11-05T10:57:18.779563"
   }
 }
