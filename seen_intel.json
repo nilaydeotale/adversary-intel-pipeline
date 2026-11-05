@@ -3119,5 +3119,35 @@
     "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
     "cves": [],
     "seen_at": "2026-11-05T21:41:44.256422"
+  },
+  "1d52083c53417780a59a3f55109c2f4113495401efaefc3e999d1e10a4e1a9dc": {
+    "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+    "cves": [],
+    "seen_at": "2026-11-05T22:43:55.338940"
+  },
+  "814db7f9edbe7d345e202600ebc3e9669c3335cf734043193b723c23722e0fd1": {
+    "title": "Barracuda Networks is your new best friend (Barracuda Email Security Gateway Pre-Auth Remote Root RCE CVE-2026-116606 / CVE-2026-111560)",
+    "cves": [
+      "CVE-2026-111560",
+      "CVE-2026-116606"
+    ],
+    "seen_at": "2026-11-05T22:43:57.292385"
+  },
+  "84423919aa6de0817b22d215e2bbfd9bdd82b54cae789833ab73043154d50312": {
+    "title": "Post-Quantum Questions to Ask Your Vendors",
+    "cves": [],
+    "seen_at": "2026-11-05T22:44:03.976923"
+  },
+  "32c7ed6c157338a035520704db449d3c18acb9f39b12328241cf2744ffbb04f4": {
+    "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+    "cves": [],
+    "seen_at": "2026-11-05T22:44:03.982122"
+  },
+  "1355a38f84aaf5339e4782adf13543fb7faaafaa2f198493d5ad9d5c886df617": {
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "cves": [
+      "CVE-2024-27834"
+    ],
+    "seen_at": "2026-11-05T22:44:03.982546"
   }
 }
