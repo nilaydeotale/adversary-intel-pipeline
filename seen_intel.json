@@ -3069,5 +3069,25 @@
     "title": "\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: November 2026",
     "cves": [],
     "seen_at": "2026-11-05T18:49:16.949980"
+  },
+  "12b4d23e0a744f1c94911591842f92212d20bcc9c510c208b4e80427ac607387": {
+    "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+    "cves": [],
+    "seen_at": "2026-11-05T19:48:57.929001"
+  },
+  "1ed9d15d6795ea0dc16fddb737f99802d8a1cc21dcecd760348f9d260b426aab": {
+    "title": "OpenAI\u2019s GPT-6 Astra silently obstructed safety research tasks",
+    "cves": [],
+    "seen_at": "2026-11-05T19:48:58.512161"
+  },
+  "f84c7ff5a15131a67eb8fb7dc669d39408cb05879ddee5a77c2d6c316a69cf92": {
+    "title": "The Shift: Rethinking the Human in the Loop",
+    "cves": [],
+    "seen_at": "2026-11-05T19:49:04.752985"
+  },
+  "01bf5ba0ea80df59900115661968014b9b94e11c617fe9e8a2e3eb760c52a3d3": {
+    "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
+    "cves": [],
+    "seen_at": "2026-11-05T19:49:07.428469"
   }
 }
