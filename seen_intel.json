@@ -2970,5 +2970,25 @@
     "title": "The Agent Smith Dilemma: Governing Agentic Identities",
     "cves": [],
     "seen_at": "2026-11-05T12:58:36.034383"
+  },
+  "6f998ccfa01ebd56dc249c4e2bd69f01bd1168f613155f3954ee96674ea09c72": {
+    "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+    "cves": [],
+    "seen_at": "2026-11-05T14:20:29.168127"
+  },
+  "1ab6d83053a31724bf11cad9ed7df51a8699e7666b588c01035e02ab3b933b8e": {
+    "title": "Bank Phishing Sites Show Fake \u2018Suspended\u2019 Pages to Evade Takedowns",
+    "cves": [],
+    "seen_at": "2026-11-05T14:20:48.406447"
+  },
+  "bbf73bd8680c160a701854e01de0abe8f3fb57e288e4b50202c4322c1d440bbd": {
+    "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+    "cves": [],
+    "seen_at": "2026-11-05T14:20:48.408066"
+  },
+  "3ce0cc4aeac5879a8e81c338f8c003c2eaa4d9c1692794e34bdebf90b52ce855": {
+    "title": "Gartner Report: The Attack Path is Closing Faster than Most Teams Can Patch",
+    "cves": [],
+    "seen_at": "2026-11-05T14:20:58.827465"
   }
 }
