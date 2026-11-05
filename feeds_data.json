@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05 11:55 UTC",
+  "updated_utc": "2026-11-05 12:58 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1183,6 +1183,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Cisco, WatchGuard Release Patches; SonicWall Won\u2019t Fix GMS Flaws",
+      "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-05T12:58:36.032517"
     },
     {
       "source": "The Hacker News",

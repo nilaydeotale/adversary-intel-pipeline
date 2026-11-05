@@ -2960,5 +2960,15 @@
     "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
     "cves": [],
     "seen_at": "2026-11-05T11:55:24.582324"
+  },
+  "db1e9ae1522b3d02085c169fd98b43e29385a7199541662a448d600609193445": {
+    "title": "Cisco, WatchGuard Release Patches; SonicWall Won\u2019t Fix GMS Flaws",
+    "cves": [],
+    "seen_at": "2026-11-05T12:58:36.032529"
+  },
+  "45946ae44eeb3bfb4ef01f33c4e6a98c1d6fea763fbaf29a9a73f1d1014dc42e": {
+    "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+    "cves": [],
+    "seen_at": "2026-11-05T12:58:36.034383"
   }
 }

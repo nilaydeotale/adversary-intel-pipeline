@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-05 11:55 UTC | TLP:AMBER*
+*Last Updated: 2026-11-05 12:58 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `40` | SecurityWeek | [Zyxel Switch Hacks Blamed on Patched Flaw Actually Expl...](https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/) | CVE-2026-107441 | `Threat` |
+| **LOW** | `25` | SecurityWeek | [Cisco, WatchGuard Release Patches; SonicWall Won’t Fix ...](https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/) | - | `Threat` |
