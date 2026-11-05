@@ -2879,5 +2879,17 @@
     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
     "cves": [],
     "seen_at": "2026-11-05T05:55:07.450815"
+  },
+  "83459e1e184469e8f5515a3512934f44ddffb6767123964129afc6c9cc2fb5e3": {
+    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+    "cves": [
+      "CVE-2024-27834"
+    ],
+    "seen_at": "2026-11-05T07:04:55.131046"
+  },
+  "9e223ef535fac965183d910d17bcb62307016ac21d17fc1d56cf182fb6d1f899": {
+    "title": "U.S. Charges Canadian Man in Alleged Hack of University Supercomputers",
+    "cves": [],
+    "seen_at": "2026-11-05T07:04:57.975481"
   }
 }

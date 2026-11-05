@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-04 21:47 UTC | TLP:AMBER*
+*Last Updated: 2026-11-05 07:05 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | BleepingComputer | [Zyxel fixes zero-day exploited to hack nearly 1,000 net...](https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/) | - | `Threat` |
+| **CRITICAL** | `55` | The Hacker News | [Hackers Exploit Patched Apple Flaw to Deliver Info-Stea...](https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html) | CVE-2024-27834 🔥**(KEV)** | `Threat` |

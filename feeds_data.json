@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05 05:55 UTC",
+  "updated_utc": "2026-11-05 07:05 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -650,6 +650,24 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:44.978832"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "score": 55,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2024-27834"
+      ],
+      "in_kev": [
+        "CVE-2024-27834"
+      ],
+      "max_epss": 0.00598,
+      "mitre": [],
+      "detected_utc": "2026-11-05T07:04:54.627394"
     },
     {
       "source": "CISA Cyber Alerts",
