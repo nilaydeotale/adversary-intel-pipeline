@@ -2896,5 +2896,32 @@
     "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
     "cves": [],
     "seen_at": "2026-11-05T08:53:54.104008"
+  },
+  "7b39fff2f6465c24f5d20c4e8c2166cd2f1f0edc44a1e76d6fdbfe9e6b42cb0e": {
+    "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+    "cves": [],
+    "seen_at": "2026-11-05T09:55:11.202551"
+  },
+  "e87f68371062442bce242119b5b9bca2e73f31faade4270593aac4fce2086c3e": {
+    "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+    "cves": [],
+    "seen_at": "2026-11-05T09:55:11.204147"
+  },
+  "3249c713342236776bc4c23f894b9013c1a29de719e17a09bacb576d3d4c89e0": {
+    "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+    "cves": [],
+    "seen_at": "2026-11-05T09:55:13.765246"
+  },
+  "60383e88afcdbf864c868a09b8f09f1cbe60c41646157364a47bc8a3b06cb1fb": {
+    "title": "U.S. CISA adds Apple\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+    "cves": [
+      "CVE-2024-27834"
+    ],
+    "seen_at": "2026-11-05T09:55:14.453695"
+  },
+  "e78ffef0db0fecd36789ee358986d348644b529686757909712019c76c466593": {
+    "title": "Your Threat Intelligence Stack Has Blind Spots. Here\u2019s How to Close Them",
+    "cves": [],
+    "seen_at": "2026-11-05T09:55:20.970880"
   }
 }
