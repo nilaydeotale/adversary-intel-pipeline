@@ -3094,5 +3094,30 @@
     "title": "Truffle Security launches program to revoke 1.4 million live secrets",
     "cves": [],
     "seen_at": "2026-11-05T20:44:00.540778"
+  },
+  "1ba4c78f67fc5d3263cf1e314ca6c9b71fda49988a2a4526346a99d37e1c9cf4": {
+    "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+    "cves": [],
+    "seen_at": "2026-11-05T21:41:41.259527"
+  },
+  "19ff66e8e4a77e32055bc80eb0c56f06d014d2f57dc7a00b8c51c451ea4e87f1": {
+    "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+    "cves": [],
+    "seen_at": "2026-11-05T21:41:41.261221"
+  },
+  "9e013f29a5e2d7695115ad7a8a9cd61f4a3f301ae57067ace000a92b672fef4e": {
+    "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+    "cves": [],
+    "seen_at": "2026-11-05T21:41:43.612228"
+  },
+  "40fd2e3c79ba06cac5feebbbfdeb6a4a79de718766dec1c123d23931692373b5": {
+    "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "cves": [],
+    "seen_at": "2026-11-05T21:41:44.254767"
+  },
+  "9ce2e55dda1d708841d0fb30ae8cf6ae0d91b211135b1d8306714ba244fa3819": {
+    "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+    "cves": [],
+    "seen_at": "2026-11-05T21:41:44.256422"
   }
 }
