@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05 10:57 UTC",
+  "updated_utc": "2026-11-05 11:55 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -767,6 +767,24 @@
       "max_epss": 0.15532,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:32.535045"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+      "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [
+        "CVE-2026-107441"
+      ],
+      "in_kev": [],
+      "max_epss": 0.00293,
+      "mitre": [],
+      "detected_utc": "2026-11-05T11:55:13.008898"
     },
     {
       "source": "The Hacker News",

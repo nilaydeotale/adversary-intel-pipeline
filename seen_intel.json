@@ -2943,5 +2943,22 @@
     "title": "Russian APT29 Targets Mobile Users with Watering Hole Attacks",
     "cves": [],
     "seen_at": "2026-11-05T10:57:18.779563"
+  },
+  "55a1f5c7aaf941c35de53ee774b649f18d838d68ebf3a9dc28891c253484d538": {
+    "title": "CISO Conversations: Ryan Davis \u2013 The Unknown Is Where Security Meets Reality",
+    "cves": [],
+    "seen_at": "2026-11-05T11:55:12.987034"
+  },
+  "75757107b5cfd770b71ba7b5ce0b039f79488b4019ba544acda0a90be025c620": {
+    "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+    "cves": [
+      "CVE-2026-107441"
+    ],
+    "seen_at": "2026-11-05T11:55:13.008905"
+  },
+  "6ac99657f6e92a3aa94f994971f29646f7c48e8f091578e95d9e6f1bf1f04cb4": {
+    "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
+    "cves": [],
+    "seen_at": "2026-11-05T11:55:24.582324"
   }
 }

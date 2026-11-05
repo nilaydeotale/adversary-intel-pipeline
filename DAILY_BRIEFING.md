@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-05 08:54 UTC | TLP:AMBER*
+*Last Updated: 2026-11-05 11:55 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | The Hacker News | [Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allo...](https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html) | - | `Threat` |
+| **MEDIUM** | `40` | SecurityWeek | [Zyxel Switch Hacks Blamed on Patched Flaw Actually Expl...](https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/) | CVE-2026-107441 | `Threat` |
