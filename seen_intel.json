@@ -2891,5 +2891,10 @@
     "title": "U.S. Charges Canadian Man in Alleged Hack of University Supercomputers",
     "cves": [],
     "seen_at": "2026-11-05T07:04:57.975481"
+  },
+  "29a1ab5f031fa9fb7837623106f7491d212fcabde8da5247552e4ebf2d02c068": {
+    "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+    "cves": [],
+    "seen_at": "2026-11-05T08:53:54.104008"
   }
 }

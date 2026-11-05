@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05 07:05 UTC",
+  "updated_utc": "2026-11-05 08:54 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1165,6 +1165,23 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited",
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-05T08:53:54.104002"
     },
     {
       "source": "BleepingComputer",
