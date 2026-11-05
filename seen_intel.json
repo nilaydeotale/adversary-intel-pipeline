@@ -3089,5 +3089,10 @@
     "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
     "cves": [],
     "seen_at": "2026-11-05T19:49:07.428469"
+  },
+  "8a6aa17b8e77b0dbefc6cbf275c7e28769681fe4b86f980169c64ef5b3882dd9": {
+    "title": "Truffle Security launches program to revoke 1.4 million live secrets",
+    "cves": [],
+    "seen_at": "2026-11-05T20:44:00.540778"
   }
 }
