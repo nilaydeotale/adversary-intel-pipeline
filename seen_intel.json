@@ -3037,5 +3037,37 @@
     "title": "Email threat landscape: Q3 2026 trends and insights",
     "cves": [],
     "seen_at": "2026-11-05T17:02:40.899728"
+  },
+  "5f538abe9caa6997eb4cdfc8e0352db075859db3432e30863ab909e577e3945e": {
+    "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+    "cves": [],
+    "seen_at": "2026-11-05T18:49:07.180123"
+  },
+  "a89044dbfefdcd8737247b3498bfd40351567aca9033913607fc5a237583b02b": {
+    "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+    "cves": [],
+    "seen_at": "2026-11-05T18:49:07.417267"
+  },
+  "e2e3309bba7941c8b0eb4f7c3ca041257814a0c019199f9c9c2e0e290c80e50b": {
+    "title": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
+    "cves": [],
+    "seen_at": "2026-11-05T18:49:08.096391"
+  },
+  "3cb267c300d8a4fa187ca5bafa7ff17482c6a9c9c890616456d99af06b0cc01d": {
+    "title": "Dangerous Device: Exploiting CVE-2026-31695 in the Linux Kernel via struct device",
+    "cves": [
+      "CVE-2026-31695"
+    ],
+    "seen_at": "2026-11-05T18:49:08.096885"
+  },
+  "09642776bebf4edd72e34ae0b2d6430c32d37885c520793a5339a4db1ac23719": {
+    "title": "New investments to reduce on-premises security risk",
+    "cves": [],
+    "seen_at": "2026-11-05T18:49:16.948382"
+  },
+  "ebb8c532f89e535569ed8f89fb4c7c63ec143b0c1966a572274952270de16932": {
+    "title": "\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: November 2026",
+    "cves": [],
+    "seen_at": "2026-11-05T18:49:16.949980"
   }
 }
