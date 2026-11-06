@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-06 11:52 UTC",
+  "updated_utc": "2026-11-06 12:54 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -785,6 +785,24 @@
       "max_epss": 0.15532,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:32.535045"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-83844"
+      ],
+      "in_kev": [],
+      "max_epss": 0.00734,
+      "mitre": [],
+      "detected_utc": "2026-11-06T12:54:00.083348"
     },
     {
       "source": "SecurityWeek",

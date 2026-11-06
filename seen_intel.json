@@ -3221,5 +3221,42 @@
     "title": "The Flood is Coming And The Pipes Were Already Full",
     "cves": [],
     "seen_at": "2026-11-06T11:51:43.999118"
+  },
+  "a56ee9f3d7ede00758f76e71c5df510f5c0b67873fca0e14c5c9027e35f2a78f": {
+    "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+    "cves": [
+      "CVE-2026-83844"
+    ],
+    "seen_at": "2026-11-06T12:54:00.083357"
+  },
+  "3e6d03bc72217324b7397f7af680ae13541606b6cb7d280b8da3c2e934c8acdf": {
+    "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+    "cves": [],
+    "seen_at": "2026-11-06T12:54:00.085727"
+  },
+  "9c0eb8a7a4a446d4235857a48fdcf1f76811605831ca4e2de929c0cafb75f9ae": {
+    "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-06T12:54:00.850188"
+  },
+  "c76d35065710c9e6ecb40dc2bb5df4d1691013101e2b7e35f63e04ee5623e508": {
+    "title": "Researchers Find Residential Proxies on White House Network",
+    "cves": [],
+    "seen_at": "2026-11-06T12:54:00.852349"
+  },
+  "7cba284e10d710e3c4f17afbefa450f981d1a767fb494a8077a9d96844d8e941": {
+    "title": "OpenSSH Rushes Patches for \u2018SSHole\u2019 Authentication Bypass",
+    "cves": [],
+    "seen_at": "2026-11-06T12:54:00.854583"
+  },
+  "c51708932a6b20b582fc51191d3ef943a4e2ac4af29421566491804ab6c0e6b6": {
+    "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+    "cves": [],
+    "seen_at": "2026-11-06T12:54:01.156097"
+  },
+  "6e3ac98e9fdf5e6a20a03a91e7908e6dabfd66dbe48ff51c2f1cfd4a5e1317fc": {
+    "title": "OpenAI Rates GPT-6 Cyber Critical After Major Vulnerability Discoveries",
+    "cves": [],
+    "seen_at": "2026-11-06T12:54:01.896932"
   }
 }

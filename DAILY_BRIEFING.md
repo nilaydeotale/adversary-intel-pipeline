@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-06 09:57 UTC | TLP:AMBER*
+*Last Updated: 2026-11-06 12:54 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | SecurityWeek | [OpenAI Model Wrote Its Own Network Code to Get Around S...](https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/) | - | `AWS` |
+| **MEDIUM** | `40` | The Hacker News | [Microsoft Paint RCE Fix Now Available, but Windows Upda...](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html) | CVE-2026-83844 | `Threat` |
