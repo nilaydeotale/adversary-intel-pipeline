@@ -3313,5 +3313,27 @@
     "title": "Groklem: an Android banker that rents Grok to read your texts",
     "cves": [],
     "seen_at": "2026-11-06T16:47:18.143390"
+  },
+  "d9d892207584d44a7463bfcaea663df650e7d7ac851b0e4b7af54d6b4b397f05": {
+    "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+    "cves": [],
+    "seen_at": "2026-11-06T17:43:53.377406"
+  },
+  "c2079b2114109dcc5e796295871106241e888d039f1c6a1c40dc6eef4349437d": {
+    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+    "cves": [
+      "CVE-2026-123158"
+    ],
+    "seen_at": "2026-11-06T17:43:53.475026"
+  },
+  "5991ee2c0eb62a8e5988de877631c92b4cc06d99deccfb82dc946e4d66e270cf": {
+    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+    "cves": [],
+    "seen_at": "2026-11-06T17:43:53.476544"
+  },
+  "11a3f916deabca0fc90c2b9a58e73f9a7865520f2f7346e66f7e50b80f9e4593": {
+    "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+    "cves": [],
+    "seen_at": "2026-11-06T17:43:55.906136"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-06 16:47 UTC",
+  "updated_utc": "2026-11-06 17:44 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1267,6 +1267,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-06T17:43:53.377395"
     },
     {
       "source": "SecurityWeek",
