@@ -3174,5 +3174,17 @@
     "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
     "cves": [],
     "seen_at": "2026-11-06T03:48:28.582782"
+  },
+  "1391421cde81bb025a26bbdeab00ef34b09b16e6a0b67fa53ce3925e5e2372d5": {
+    "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+    "cves": [],
+    "seen_at": "2026-11-06T07:03:32.326164"
+  },
+  "0e4744e594f4cc528cbf8c62d41ad0008a047bc44ba9a9fb58e5d58a89ba7d6c": {
+    "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+    "cves": [
+      "CVE-2026-116606"
+    ],
+    "seen_at": "2026-11-06T07:03:32.327234"
   }
 }
