@@ -3186,5 +3186,10 @@
       "CVE-2026-116606"
     ],
     "seen_at": "2026-11-06T07:03:32.327234"
+  },
+  "602818bacba9c011d2244ad3abbb4ce8df22385960dd7b3cbb02e07c100a95b7": {
+    "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+    "cves": [],
+    "seen_at": "2026-11-06T08:51:18.792173"
   }
 }
