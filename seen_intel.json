@@ -3278,5 +3278,35 @@
     "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
     "cves": [],
     "seen_at": "2026-11-06T14:07:42.096493"
+  },
+  "fd2d60ea9a94cd14a8f38895fd158ff5789b9e7a20a3a438313e129f44406492": {
+    "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+    "cves": [],
+    "seen_at": "2026-11-06T15:44:10.782910"
+  },
+  "930b2257c0e518952887bf986385b9fa44ade7620adefe25bb9e5cb1a487416a": {
+    "title": "Pinpointing Location of Videos from Background Airplane Sounds",
+    "cves": [],
+    "seen_at": "2026-11-06T15:44:11.322963"
+  },
+  "1d92d38f087b0f0ded7a90ef591ffd4e519f10cbe43555681713257a98a33208": {
+    "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+    "cves": [],
+    "seen_at": "2026-11-06T15:44:11.439063"
+  },
+  "68021493d4babe9141244063becba00e9e2b7df9f0a56a2d5f7b417f0749653c": {
+    "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+    "cves": [],
+    "seen_at": "2026-11-06T15:44:11.440331"
+  },
+  "9afe90fde964a6455dcf02f39a4794d3ceb17c357c16862bab7ed6f568b6d406": {
+    "title": "Chainalysis says breach exposed credentials for all customers",
+    "cves": [],
+    "seen_at": "2026-11-06T15:44:11.441565"
+  },
+  "97d1b4a74743297ca37ad90e1c952832e775e1d2c8b2e2a941dcb8956cc90309": {
+    "title": "Metasploit Wrapup: Unauth RCE modules in Network Perimeter Devices and much more",
+    "cves": [],
+    "seen_at": "2026-11-06T15:44:20.681068"
   }
 }

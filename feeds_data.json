@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-06 14:07 UTC",
+  "updated_utc": "2026-11-06 15:44 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1267,6 +1267,38 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+      "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-06T15:44:10.782901"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "Metasploit Wrapup: Unauth RCE modules in Network Perimeter Devices and much more",
+      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrapup-unauth-rce-modules-in-network-perimeter-devices-and-much-more",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-06T15:44:20.681059"
     },
     {
       "source": "The Hacker News",
