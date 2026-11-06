@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-06 08:51 UTC",
+  "updated_utc": "2026-11-06 09:57 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -897,6 +897,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+      "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "aws"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-06T09:56:51.261207"
     },
     {
       "source": "Microsoft Security",

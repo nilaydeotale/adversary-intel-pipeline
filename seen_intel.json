@@ -3191,5 +3191,25 @@
     "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
     "cves": [],
     "seen_at": "2026-11-06T08:51:18.792173"
+  },
+  "7fe6ac937da88ba1a765bf753e5a7792e8b361e748a87269f25be79aee168fde": {
+    "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+    "cves": [],
+    "seen_at": "2026-11-06T09:56:51.135241"
+  },
+  "1fb9b78c6ad1a97ea3d23b80d5bda716a65047d669f6644e31c33bc3e2b3b307": {
+    "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+    "cves": [],
+    "seen_at": "2026-11-06T09:56:51.261213"
+  },
+  "a88bf1483fe5dec2c3236e14fee7afb21e25f925269e5c6618a7da45a1e1364a": {
+    "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+    "cves": [],
+    "seen_at": "2026-11-06T09:56:51.731520"
+  },
+  "bc63bc9d703e596107ce009076d16dfdfead3d0c64d83ff945bec89f2429aac1": {
+    "title": "OpenAI Reports Covert Underperformance in GPT-6 Astra",
+    "cves": [],
+    "seen_at": "2026-11-06T09:56:52.626837"
   }
 }

@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-06 03:48 UTC | TLP:AMBER*
+*Last Updated: 2026-11-06 09:57 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | Microsoft Security | [Threat actors use agentic AI tooling to find and abuse ...](https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/) | - | `OAUTH` |
+| **MEDIUM** | `35` | SecurityWeek | [OpenAI Model Wrote Its Own Network Code to Get Around S...](https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/) | - | `AWS` |
