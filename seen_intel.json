@@ -3258,5 +3258,25 @@
     "title": "OpenAI Rates GPT-6 Cyber Critical After Major Vulnerability Discoveries",
     "cves": [],
     "seen_at": "2026-11-06T12:54:01.896932"
+  },
+  "e6edbd667174a987a2ae4e226b5e9b3aefccf3dce21b4236ab751d94f6a2fe47": {
+    "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+    "cves": [],
+    "seen_at": "2026-11-06T14:07:41.950709"
+  },
+  "4f3763dad4d2e16ea8f85eef80aa354d87083f8d7341c884a320950de44ea335": {
+    "title": "DigiCert Data Breach Impacts Business Customer Information",
+    "cves": [],
+    "seen_at": "2026-11-06T14:07:42.093793"
+  },
+  "49fff221a95e6a2a8b2c1a02ed0005b7a89e0063a270b1053c6e311d3a1b3d6b": {
+    "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+    "cves": [],
+    "seen_at": "2026-11-06T14:07:42.095180"
+  },
+  "f977c91f42f79e0964dd3a88a67f7f155dcdce8e40a8fe31d190524b9bb21372": {
+    "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+    "cves": [],
+    "seen_at": "2026-11-06T14:07:42.096493"
   }
 }
