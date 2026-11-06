@@ -3164,5 +3164,15 @@
     "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
     "cves": [],
     "seen_at": "2026-11-06T02:04:46.718635"
+  },
+  "a2d603a76133b3646869d2d3102b382c4ab90ec87ebcffb26e2df9eac7b74716": {
+    "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+    "cves": [],
+    "seen_at": "2026-11-06T03:48:17.228173"
+  },
+  "411b02dcb0dba74f1ad3351b12d7d08bf59f7fa71bd04ff952bade8f460d86e3": {
+    "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+    "cves": [],
+    "seen_at": "2026-11-06T03:48:28.582782"
   }
 }

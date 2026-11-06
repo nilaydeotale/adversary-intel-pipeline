@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-06 02:04 UTC",
+  "updated_utc": "2026-11-06 03:48 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -897,6 +897,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "Microsoft Security",
+      "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "oauth"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-06T03:48:28.582772"
     },
     {
       "source": "BleepingComputer",
