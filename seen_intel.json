@@ -3365,5 +3365,17 @@
     "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
     "cves": [],
     "seen_at": "2026-11-06T20:41:50.425641"
+  },
+  "8a75c3604d66dcdb7795da612f8afe049235a504cbb579064d4822993a284962": {
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "cves": [
+      "CVE-2026-19868"
+    ],
+    "seen_at": "2026-11-06T21:36:41.976282"
+  },
+  "28e5f387fd938952af1ac091b591bc54efabf9175e13b09a01e0826889fac3ec": {
+    "title": "Turning Up the Heat: Inside the Attacks on Europe\u2019s Refrigeration System",
+    "cves": [],
+    "seen_at": "2026-11-06T21:36:44.472562"
   }
 }
