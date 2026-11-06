@@ -3360,5 +3360,10 @@
     "title": "Fake security tools on GitHub push backdoors and infostealers",
     "cves": [],
     "seen_at": "2026-11-06T19:47:49.523802"
+  },
+  "26e46abc47e51421bd125c15da7e7f4f51fed0d178d56a733cb9b17843efe2aa": {
+    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+    "cves": [],
+    "seen_at": "2026-11-06T20:41:50.425641"
   }
 }
