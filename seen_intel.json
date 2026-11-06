@@ -3335,5 +3335,25 @@
     "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
     "cves": [],
     "seen_at": "2026-11-06T17:43:55.906136"
+  },
+  "e6688c5164821b2196fcf5073872c60919520f568fcb81e101d578e251c1b80e": {
+    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "cves": [],
+    "seen_at": "2026-11-06T18:45:56.688745"
+  },
+  "396ec290c89c56f54df32030787a17912e460c12f2c6f267bf242d4deb16d547": {
+    "title": "AI Gave Your Incident Archive a Second Job",
+    "cves": [],
+    "seen_at": "2026-11-06T18:45:57.125238"
+  },
+  "ad0215969f395aecf1be7755f7c788fd3850cabb9e7e866642500cff626ba2d4": {
+    "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+    "cves": [],
+    "seen_at": "2026-11-06T18:45:57.239127"
+  },
+  "956a1e4bf6c75072722b9b5d3b3c2b4d1f82cd552fa592878e498dfc69993cd5": {
+    "title": "October 2026 CVE Landscape",
+    "cves": [],
+    "seen_at": "2026-11-06T18:46:04.651042"
   }
 }
