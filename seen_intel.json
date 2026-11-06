@@ -3355,5 +3355,10 @@
     "title": "October 2026 CVE Landscape",
     "cves": [],
     "seen_at": "2026-11-06T18:46:04.651042"
+  },
+  "f9e8316d4656ca93844235bb6e1363a0afdd0358f151c35703e7df27acfd6028": {
+    "title": "Fake security tools on GitHub push backdoors and infostealers",
+    "cves": [],
+    "seen_at": "2026-11-06T19:47:49.523802"
   }
 }
