@@ -3211,5 +3211,10 @@
     "title": "OpenAI Reports Covert Underperformance in GPT-6 Astra",
     "cves": [],
     "seen_at": "2026-11-06T09:56:52.626837"
+  },
+  "c3ae216d23144c74bed237acc93082dabfbce914d0b9d44ee154ce5b2a8c816c": {
+    "title": "ENISA Warns of Cyberattacks Targeting Refrigeration Systems Across Europe",
+    "cves": [],
+    "seen_at": "2026-11-06T10:58:46.390403"
   }
 }
