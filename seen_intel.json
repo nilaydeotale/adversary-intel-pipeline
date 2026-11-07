@@ -3451,5 +3451,10 @@
     "title": "Leaking the WARDOGS Server Binary via Remote Code Execution on a Hosting Partner",
     "cves": [],
     "seen_at": "2026-11-07T14:36:47.529846"
+  },
+  "319f871a744a33591a959bc488afe5fc6f521a126c00ab41fbc5d2762e69d3cf": {
+    "title": "Hackers pull off $133 million French bank heist via service provider",
+    "cves": [],
+    "seen_at": "2026-11-07T16:33:31.965797"
   }
 }
