@@ -3424,5 +3424,12 @@
       "CVE-2026-19868"
     ],
     "seen_at": "2026-11-07T09:41:27.418341"
+  },
+  "b84f5980205559cf64a0c4c1c322240f9198ae6d0f2dc57e7ff84a61c8c0c886": {
+    "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+    "cves": [
+      "CVE-2026-19868"
+    ],
+    "seen_at": "2026-11-07T10:37:35.209242"
   }
 }
