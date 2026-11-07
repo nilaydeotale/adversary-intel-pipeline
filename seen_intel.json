@@ -3417,5 +3417,12 @@
     "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
     "cves": [],
     "seen_at": "2026-11-07T07:54:23.366797"
+  },
+  "8555c3c63844f47c8b8ca852c90c69b77e966e5afd1d6efa0fc21adf09b23980": {
+    "title": "U.S. CISA adds SonicWall SonicOS SSLVPN\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+    "cves": [
+      "CVE-2026-19868"
+    ],
+    "seen_at": "2026-11-07T09:41:27.418341"
   }
 }
