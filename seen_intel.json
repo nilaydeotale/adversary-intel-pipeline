@@ -3436,5 +3436,20 @@
     "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
     "cves": [],
     "seen_at": "2026-11-07T13:45:17.183981"
+  },
+  "574cb940ba388ba19082261e7235cce4d1d192469160f1e6787bd07ce86db5d1": {
+    "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+    "cves": [],
+    "seen_at": "2026-11-07T14:36:46.024376"
+  },
+  "3c252c8322d9255170d6b68adb9c3b1dbe3c3c0e9181640a4b5a13a35dd88083": {
+    "title": "Hacking Two Automakers: ForgeRock Path Confusion, RCE, and Remote Vehicle Access",
+    "cves": [],
+    "seen_at": "2026-11-07T14:36:47.527453"
+  },
+  "4b962b93fcffb8c233a0175481c16dd7461205c6c87e9092523c3bf2df6d8c35": {
+    "title": "Leaking the WARDOGS Server Binary via Remote Code Execution on a Hosting Partner",
+    "cves": [],
+    "seen_at": "2026-11-07T14:36:47.529846"
   }
 }
