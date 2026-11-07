@@ -3407,5 +3407,10 @@
     "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
     "cves": [],
     "seen_at": "2026-11-07T00:50:32.248007"
+  },
+  "a1e7442fb91458deb3401c8d4117d6c3da005deee89d2560e7e422409894c8a5": {
+    "title": "ARTEX abuse expands as cybercriminals target financial sector",
+    "cves": [],
+    "seen_at": "2026-11-07T04:47:32.623373"
   }
 }
