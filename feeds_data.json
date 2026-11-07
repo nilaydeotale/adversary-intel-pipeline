@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-06 23:32 UTC",
+  "updated_utc": "2026-11-07 00:50 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -915,6 +915,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "mfa"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-07T00:50:32.247996"
     },
     {
       "source": "SecurityWeek",

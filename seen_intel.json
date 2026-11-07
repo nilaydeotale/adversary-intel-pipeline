@@ -3402,5 +3402,10 @@
     "title": "White House Network Appears in Global Residential Proxy Traffic",
     "cves": [],
     "seen_at": "2026-11-06T22:36:30.499660"
+  },
+  "6dd38f3bb082404a6ae5dd2cd0cb185df50c450688def18e44a9c0ff794b154b": {
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+    "cves": [],
+    "seen_at": "2026-11-07T00:50:32.248007"
   }
 }
