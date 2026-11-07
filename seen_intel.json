@@ -3412,5 +3412,10 @@
     "title": "ARTEX abuse expands as cybercriminals target financial sector",
     "cves": [],
     "seen_at": "2026-11-07T04:47:32.623373"
+  },
+  "376bacc9672373faea3c3a568f3ab357444f978ff8066c50c16e6b83c3063716": {
+    "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    "cves": [],
+    "seen_at": "2026-11-07T07:54:23.366797"
   }
 }
