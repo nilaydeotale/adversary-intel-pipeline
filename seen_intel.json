@@ -3431,5 +3431,10 @@
       "CVE-2026-19868"
     ],
     "seen_at": "2026-11-07T10:37:35.209242"
+  },
+  "0d310d06e7bb2c406aedba43bbb788f978567ed4c10bbdc10c146a78303b44e3": {
+    "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+    "cves": [],
+    "seen_at": "2026-11-07T13:45:17.183981"
   }
 }
