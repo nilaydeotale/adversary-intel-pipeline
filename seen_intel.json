@@ -3466,5 +3466,10 @@
     "title": "Inside ARTEX: AI Hacking Tools, Exposed Servers and South Korean Bank Breaches",
     "cves": [],
     "seen_at": "2026-11-07T21:31:31.401141"
+  },
+  "9994aa8acbc2ccc08a7f1de5650b53e1c5559a78fea6f0c42f1601114edf0f6c": {
+    "title": "Attackers Exploit Third-Party Provider to Raid French Bank Cr\u00e9dit Mutuel Ark\u00e9a",
+    "cves": [],
+    "seen_at": "2026-11-08T11:31:05.151107"
   }
 }
