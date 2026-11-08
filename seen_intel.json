@@ -3471,5 +3471,10 @@
     "title": "Attackers Exploit Third-Party Provider to Raid French Bank Cr\u00e9dit Mutuel Ark\u00e9a",
     "cves": [],
     "seen_at": "2026-11-08T11:31:05.151107"
+  },
+  "c6228a7d5cc71dd71d309d8cb9750ff55d198393ad00695bcba1bcb68b51cec6": {
+    "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+    "cves": [],
+    "seen_at": "2026-11-08T12:40:46.076992"
   }
 }
