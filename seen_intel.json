@@ -3503,5 +3503,10 @@
       "CVE-2026-123158"
     ],
     "seen_at": "2026-11-08T16:34:02.854737"
+  },
+  "5a3579d2231f70ac904047d9635f6f954f022d58c6ad23620305d169b1e88988": {
+    "title": "Don\u2019t Hand Propaganda a Gift: Reading the Brenner Base Tunnel SE Breach Calmly",
+    "cves": [],
+    "seen_at": "2026-11-08T19:39:32.395148"
   }
 }
