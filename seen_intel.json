@@ -3702,5 +3702,30 @@
     "title": "The Cold Chain on Fire : Unpatched Danfoss controllers exploited",
     "cves": [],
     "seen_at": "2026-11-09T17:57:24.509138"
+  },
+  "483823e0fec446e520c525dcde7abb8aa1372aace994b100cb65b7df22f1dc31": {
+    "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+    "cves": [],
+    "seen_at": "2026-11-09T18:52:42.004592"
+  },
+  "17593d2f9881b8b5fa205d960e1e37b590b6b4d1a693f444d110101e6ae50488": {
+    "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+    "cves": [],
+    "seen_at": "2026-11-09T18:52:42.007218"
+  },
+  "f4abb8f65e76c31c614eca570dfe74e2daac181d1af3630eb8bbbf7c8c613922": {
+    "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
+    "cves": [],
+    "seen_at": "2026-11-09T18:52:44.027193"
+  },
+  "2f863fe91211d1a3b5639f17008010fc9a31bd2621132b0cf3dd24bbf5a720c7": {
+    "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+    "cves": [],
+    "seen_at": "2026-11-09T18:52:44.705894"
+  },
+  "04db70fb9333cf08282a5e835c7ba240b1f7faf96d96b8f92fad3e9be40db205": {
+    "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
+    "cves": [],
+    "seen_at": "2026-11-09T18:53:00.257719"
   }
 }

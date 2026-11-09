@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-09 17:57 UTC",
+  "updated_utc": "2026-11-09 18:53 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -933,6 +933,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "aws"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-09T18:52:42.004582"
     },
     {
       "source": "BleepingComputer",
