@@ -3565,5 +3565,20 @@
     "title": "Over 3 Million People Hit by Frontline Education Data Breach",
     "cves": [],
     "seen_at": "2026-11-09T10:52:14.808507"
+  },
+  "02698b2e3058b5f0050ae5274dcab769590dd9c42d292cabdbbd473f484887c0": {
+    "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+    "cves": [],
+    "seen_at": "2026-11-09T11:50:58.243349"
+  },
+  "b8de4a2ec50ffac2b12180895f0931ecabb9111b6595981530c1ec1203b2ad45": {
+    "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+    "cves": [],
+    "seen_at": "2026-11-09T11:50:58.245941"
+  },
+  "dd1a7a3a6df1a9803cde7a27d6e6a9238cb7d1fe520b10030f12a026b5ab8f0b": {
+    "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
+    "cves": [],
+    "seen_at": "2026-11-09T11:50:59.822952"
   }
 }
