@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-09 14:21 UTC",
+  "updated_utc": "2026-11-09 15:55 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -528,6 +528,24 @@
         "T1195.002"
       ],
       "detected_utc": "2026-11-02T15:52:38.296129"
+    },
+    {
+      "source": "Wiz Blog",
+      "title": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+      "link": "https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild",
+      "score": 60,
+      "severity": "HIGH",
+      "stack_hits": [
+        "aws"
+      ],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-09T15:55:08.648859"
     },
     {
       "source": "DoublePulsar",

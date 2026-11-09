@@ -3630,5 +3630,40 @@
     "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
     "cves": [],
     "seen_at": "2026-11-09T14:21:24.459279"
+  },
+  "d730cd250aa82ecd8e24305371cdf5f66ffe1dc2d770dfa3e001c469cb06ec89": {
+    "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+    "cves": [],
+    "seen_at": "2026-11-09T15:54:54.394356"
+  },
+  "5e9a2961178da9e4dc2ed5fb4018adcb5b090f8660f3adf438e451aab8eea7a7": {
+    "title": "The Biggest Threat to Your GRC Job Isn\u2019t AI. It\u2019s Ignoring AI.",
+    "cves": [],
+    "seen_at": "2026-11-09T15:54:56.177217"
+  },
+  "f8cb6174862c1f648c5cb927b77636b7916d8da85cee8c1089d8f5d069b9b9ff": {
+    "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+    "cves": [],
+    "seen_at": "2026-11-09T15:54:56.179246"
+  },
+  "096ca08279f18a93d024825d2951fdd73934a35da64b6fe31130cffa4ec64112": {
+    "title": "QNAP Warns Users as Plex2Shell Flaws Are Used to Hack NAS Devices",
+    "cves": [],
+    "seen_at": "2026-11-09T15:54:56.751529"
+  },
+  "003e24a639b680a5d1528a9e0af8c66a62b297366a62680c4e8b4a85c71f88a3": {
+    "title": "Star Wars Episode I: Racer",
+    "cves": [],
+    "seen_at": "2026-11-09T15:54:57.230523"
+  },
+  "27cc07b5886278b04101b3a9300e4693df86f1350b019c79ed975fdd7b4ff79c": {
+    "title": "Turning Up the Heat: Inside the Attacks on Europe\u2019s Refrigeration Systems",
+    "cves": [],
+    "seen_at": "2026-11-09T15:55:07.672227"
+  },
+  "c491cda014ceb9ce6ad4f3d06757550ba19f438aac82f2f2d0ca205f299998a7": {
+    "title": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+    "cves": [],
+    "seen_at": "2026-11-09T15:55:09.197755"
   }
 }
