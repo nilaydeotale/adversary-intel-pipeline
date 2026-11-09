@@ -3550,5 +3550,20 @@
     "title": "Fake GitHub Security Tools Infect Over 2,000 PCs With Malware",
     "cves": [],
     "seen_at": "2026-11-09T09:55:00.441015"
+  },
+  "1505ece3913935e431222eda5a1e11b94732b44ae93949fba6548a0b153c51a0": {
+    "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+    "cves": [],
+    "seen_at": "2026-11-09T10:52:12.752333"
+  },
+  "efe9583daa641ac64f5deadb4ced5ce0a3f0f1fc828c09597adc4df2c41d10c1": {
+    "title": "DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office",
+    "cves": [],
+    "seen_at": "2026-11-09T10:52:14.311987"
+  },
+  "d9e78a31f0610d7f36ca7c9ac640fd126a20762ffbc78f1563cdbf5452cadd03": {
+    "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+    "cves": [],
+    "seen_at": "2026-11-09T10:52:14.808507"
   }
 }
