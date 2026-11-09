@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-07 00:50 UTC | TLP:AMBER*
+*Last Updated: 2026-11-09 14:21 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | BleepingComputer | [SonicWall warns of new SSL-VPN MFA bypass flaw exploite...](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/) | - | `MFA` |
+| **LOW** | `25` | The Hacker News | [⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot T...](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html) | - | `Threat` |

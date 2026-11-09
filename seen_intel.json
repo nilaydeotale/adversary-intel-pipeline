@@ -3610,5 +3610,25 @@
     "title": "CISA and the FBI Warn Of Attacks against Industrial Refrigeration Controllers",
     "cves": [],
     "seen_at": "2026-11-09T13:00:00.845635"
+  },
+  "e56c2731a076a3cc27dd482bac81a5648bc8e3940d93c85be68b221368330f61": {
+    "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+    "cves": [],
+    "seen_at": "2026-11-09T14:21:22.077229"
+  },
+  "52811819761bc82d6e33466c340bd6b424cada308f8274b4db7ff1949759f3a2": {
+    "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+    "cves": [],
+    "seen_at": "2026-11-09T14:21:23.964450"
+  },
+  "ad5096421f65dbba4d605ddfeb10886aaf3f57bf445ea8dcb92a7d285ac12ac7": {
+    "title": "Plex2Shell Exploited Against QNAP NAS Users",
+    "cves": [],
+    "seen_at": "2026-11-09T14:21:23.966900"
+  },
+  "0fe352ec9853a5206146cfc5b2fa52c0acd4129921de8dd9b64d3431fd5a7b19": {
+    "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+    "cves": [],
+    "seen_at": "2026-11-09T14:21:24.459279"
   }
 }
