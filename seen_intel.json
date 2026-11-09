@@ -3687,5 +3687,20 @@
     "title": "EU ATT&CK Community Workshop 2027",
     "cves": [],
     "seen_at": "2026-11-09T17:00:05.842689"
+  },
+  "2e6751dce27302404ae061fe4d6860ecda334761237947fdbd15b3592ce40cd4": {
+    "title": "PwC's CISO on AI, Robots &amp; What's Next for Security",
+    "cves": [],
+    "seen_at": "2026-11-09T17:57:18.263613"
+  },
+  "f57dd1c7172502e9f222edb9496b584c4df46c8c82827e9bbf51cbc16ad0abec": {
+    "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+    "cves": [],
+    "seen_at": "2026-11-09T17:57:18.938800"
+  },
+  "d91e37bb0325c38b9579804492c109f5145d10184bda228fc4a4363ac45fd33e": {
+    "title": "The Cold Chain on Fire : Unpatched Danfoss controllers exploited",
+    "cves": [],
+    "seen_at": "2026-11-09T17:57:24.509138"
   }
 }
