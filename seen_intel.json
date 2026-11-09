@@ -3772,5 +3772,10 @@
     "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
     "cves": [],
     "seen_at": "2026-11-09T21:45:00.536870"
+  },
+  "81a7a5553f992b2cba70e15a4cf5d6ca27cab05d2ac2839d7d1b6fa831852978": {
+    "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+    "cves": [],
+    "seen_at": "2026-11-09T22:40:54.011089"
   }
 }
