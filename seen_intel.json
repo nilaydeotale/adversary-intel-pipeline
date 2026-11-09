@@ -3513,5 +3513,27 @@
     "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
     "cves": [],
     "seen_at": "2026-11-09T03:51:56.613383"
+  },
+  "4ac87b48ba5f641e10dfef2163e0668e70810258d4c4d2b69273056751069738": {
+    "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+    "cves": [],
+    "seen_at": "2026-11-09T08:23:41.833611"
+  },
+  "c2e803ba4e5bc835e2609099dc1af34f3f73648f72eba5db9a65d1c5e81477de": {
+    "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+    "cves": [],
+    "seen_at": "2026-11-09T08:23:41.836111"
+  },
+  "acd548f5f61b136f50bf9425c0db7f12e13918985bd0974cd971af75220b5bf4": {
+    "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+    "cves": [
+      "CVE-2026-19868"
+    ],
+    "seen_at": "2026-11-09T08:23:41.838324"
+  },
+  "eac525e636f99cbfdc8bb036c6a7fe5e273e4b57feaf4b2bebeabda45b408a9f": {
+    "title": "The BBC has a plan for a Black Sky event, and it runs on FM radio",
+    "cves": [],
+    "seen_at": "2026-11-09T08:23:44.955957"
   }
 }
