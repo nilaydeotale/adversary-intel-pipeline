@@ -3535,5 +3535,20 @@
     "title": "The BBC has a plan for a Black Sky event, and it runs on FM radio",
     "cves": [],
     "seen_at": "2026-11-09T08:23:44.955957"
+  },
+  "5a9567b069ca65bbbf3bef3e9dbda5bd6c54b8666c2d1685d910a64bbd02e086": {
+    "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+    "cves": [],
+    "seen_at": "2026-11-09T09:54:54.584436"
+  },
+  "2b979baabeb2504c29136c1b15c4aebc83c25072181a1c6c274edb1fbb21b08e": {
+    "title": "Google DeepMind\u2019s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+    "cves": [],
+    "seen_at": "2026-11-09T09:54:58.863364"
+  },
+  "f5de04aebdbbd71679d001603cbc90ccb7464e6117bab9828374f5972910e6bf": {
+    "title": "Fake GitHub Security Tools Infect Over 2,000 PCs With Malware",
+    "cves": [],
+    "seen_at": "2026-11-09T09:55:00.441015"
   }
 }
