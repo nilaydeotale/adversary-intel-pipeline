@@ -3665,5 +3665,27 @@
     "title": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
     "cves": [],
     "seen_at": "2026-11-09T15:55:09.197755"
+  },
+  "4843cb42da1b1f9b6f42a57a168e472483d9ae723ecce4a78a5a56a66e47f684": {
+    "title": "NIST: Solo Shouldn't Mean Less Secure",
+    "cves": [],
+    "seen_at": "2026-11-09T16:59:49.429463"
+  },
+  "eba5484871ec3956818dbcf984299a570cd0f20353db9c3052d8ee52e02e1e2a": {
+    "title": "Binance denies data breach after alleged ShinyHunters claims",
+    "cves": [],
+    "seen_at": "2026-11-09T16:59:50.029356"
+  },
+  "b16a1611a22fa3eae74f3387bdbb7c4008f36a888e7fab25678421269695011a": {
+    "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+    "cves": [
+      "CVE-2026-123158"
+    ],
+    "seen_at": "2026-11-09T16:59:50.031449"
+  },
+  "3fa5144161feb8ee03abf3ed8b8d666306210259c940403466ccc56383eaeb99": {
+    "title": "EU ATT&CK Community Workshop 2027",
+    "cves": [],
+    "seen_at": "2026-11-09T17:00:05.842689"
   }
 }
