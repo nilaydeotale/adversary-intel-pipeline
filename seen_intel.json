@@ -3732,5 +3732,45 @@
     "title": "France Blames Iran for the Supermarket Fridge Attacks",
     "cves": [],
     "seen_at": "2026-11-09T19:51:27.715800"
+  },
+  "84064b857dca2188f39f44965fdde4cf64fc3e691eea3195c8fa50bdb39bf17d": {
+    "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+    "cves": [],
+    "seen_at": "2026-11-09T21:44:46.251791"
+  },
+  "3ce37ef8070aac99e550e41b8078dc6958b0d2b7f32175723789e2c8306a54e0": {
+    "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+    "cves": [],
+    "seen_at": "2026-11-09T21:44:46.254418"
+  },
+  "153a91cc3cff3a8d450ff2df6e2395e9ee467625ab736d25de1cabf8225313c5": {
+    "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+    "cves": [],
+    "seen_at": "2026-11-09T21:44:46.257088"
+  },
+  "4f74f5b3248b1e6914d37406054934eed3cec741626c57823d0c018a1a2f5865": {
+    "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+    "cves": [],
+    "seen_at": "2026-11-09T21:44:46.953331"
+  },
+  "9c440d4196254422d9c352dd993cf3f463201677b85e02e2207fc93502e352af": {
+    "title": "York University breach exposed personal information dating to 2007",
+    "cves": [],
+    "seen_at": "2026-11-09T21:44:46.955909"
+  },
+  "6d17d05be9ca694889d4e0853b1974428d3a46a78d67d4d4a5c0845e0d85d7a0": {
+    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-102895",
+      "CVE-2026-116779",
+      "CVE-2026-123158",
+      "CVE-2026-123218"
+    ],
+    "seen_at": "2026-11-09T21:44:57.789560"
+  },
+  "719645bfed1a510d894dcd887470fd7d135945e5c64ba8c54682f57888b1326a": {
+    "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
+    "cves": [],
+    "seen_at": "2026-11-09T21:45:00.536870"
   }
 }
