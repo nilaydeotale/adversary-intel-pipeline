@@ -4008,5 +4008,38 @@
     "title": "Windows Security Case Study Part 2: What Volt Typhoon Behavior Reveals",
     "cves": [],
     "seen_at": "2026-11-10T15:42:40.602615"
+  },
+  "af8cc6cb76df8e633ad1a95ba38bfb51a3ff22a698f3fd4aaf14a11df5a915fa": {
+    "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+    "cves": [
+      "CVE-2026-105133",
+      "CVE-2026-105134"
+    ],
+    "seen_at": "2026-11-10T16:46:17.817717"
+  },
+  "0afabeae8a4ccfcf37dd1c5cdad826c9c23157f77b411e3352f2e7bb2c42c3ff": {
+    "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+    "cves": [],
+    "seen_at": "2026-11-10T16:46:17.820679"
+  },
+  "416ab58135d4976014e26b3b64855c98bd01cfac00fcae57c814dbd23e9106e6": {
+    "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+    "cves": [],
+    "seen_at": "2026-11-10T16:46:17.823550"
+  },
+  "eebef8e098c49535fdb22b493f39e768e15a1be1bc7246a0f0a2df205b997312": {
+    "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+    "cves": [],
+    "seen_at": "2026-11-10T16:46:19.684626"
+  },
+  "0c54ed55e543541f500bce5902ba8af6a0098bbc8c4eff5ed6f323bff0b88871": {
+    "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+    "cves": [],
+    "seen_at": "2026-11-10T16:46:19.687460"
+  },
+  "aca3b019b64a4a47e24c5296d9697a842467da84a4606d436cd0fe950cc96539": {
+    "title": "iOS Sandbox Escape Is Public, and Apple Hasn\u2019t Confirmed a Fix",
+    "cves": [],
+    "seen_at": "2026-11-10T16:46:20.570688"
   }
 }

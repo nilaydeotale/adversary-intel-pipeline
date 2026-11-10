@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10 15:42 UTC",
+  "updated_utc": "2026-11-10 16:46 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -354,6 +354,26 @@
       "max_epss": 0.273,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:47.763745"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "score": 75,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2026-105133",
+        "CVE-2026-105134"
+      ],
+      "in_kev": [
+        "CVE-2026-105133",
+        "CVE-2026-105134"
+      ],
+      "max_epss": 0.84478,
+      "mitre": [],
+      "detected_utc": "2026-11-10T16:46:17.371830"
     },
     {
       "source": "SANS ISC",
@@ -1317,6 +1337,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T16:46:19.684620"
     },
     {
       "source": "BleepingComputer",
