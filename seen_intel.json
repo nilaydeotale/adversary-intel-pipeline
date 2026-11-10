@@ -3931,5 +3931,15 @@
     "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
     "cves": [],
     "seen_at": "2026-11-10T12:54:51.066576"
+  },
+  "023c648db09e1cbed9d1f932dcf8da18182862ffb115e3b3d84bafffa930cc76": {
+    "title": "AI Makes Reverse Engineering Mainstream Software &amp; Malware Far Easier",
+    "cves": [],
+    "seen_at": "2026-11-10T14:05:38.115615"
+  },
+  "d871610187067ce8aeb2bb726a175a44955ecf6679e84397353fc0feb83f5195": {
+    "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
+    "cves": [],
+    "seen_at": "2026-11-10T14:05:38.271674"
   }
 }
