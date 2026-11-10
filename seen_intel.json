@@ -3787,5 +3787,10 @@
     "title": "ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)",
     "cves": [],
     "seen_at": "2026-11-10T02:49:39.849607"
+  },
+  "266b0c2e1d027be9edfd0757af1b0b5f046043fb9cae1a7ac9f6d73856ae0380": {
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "cves": [],
+    "seen_at": "2026-11-10T05:49:12.576566"
   }
 }
