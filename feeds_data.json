@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10 22:37 UTC",
+  "updated_utc": "2026-11-10 23:30 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1373,6 +1373,23 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited",
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T23:30:12.281367"
     },
     {
       "source": "The Hacker News",

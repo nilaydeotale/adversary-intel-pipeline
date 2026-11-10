@@ -4192,5 +4192,19 @@
     "title": "U.S. CISA adds IBM, SignalWire FreeSwitch,\u00a0OpenSSH, and GPUStack\u00a0flaws to its Known Exploited Vulnerabilities catalog",
     "cves": [],
     "seen_at": "2026-11-10T22:37:16.785895"
+  },
+  "e02e1baf97b62452c34d5f8e152dcbf0f4a0488d5a8b0039159536b9be9129e6": {
+    "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+    "cves": [],
+    "seen_at": "2026-11-10T23:30:12.281377"
+  },
+  "11acf5d345325647ca9a66ef9cab3edee6f452fbfdc36714622290b3dae6a9e0": {
+    "title": "Patch Tuesday - November 2026",
+    "cves": [
+      "CVE-2026-116928",
+      "CVE-2026-119952",
+      "CVE-2026-124194"
+    ],
+    "seen_at": "2026-11-10T23:30:25.746054"
   }
 }
