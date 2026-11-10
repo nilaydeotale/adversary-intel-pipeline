@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10 18:43 UTC",
+  "updated_utc": "2026-11-10 19:47 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -312,6 +312,26 @@
       "max_epss": 0.97553,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.691962"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+      "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+      "score": 80,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [
+        "CVE-2026-124194"
+      ],
+      "in_kev": [
+        "CVE-2026-124194"
+      ],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T19:47:40.513185"
     },
     {
       "source": "The Hacker News",
@@ -955,6 +975,22 @@
       "detected_utc": "2026-11-02T15:52:37.623396"
     },
     {
+      "source": "BleepingComputer",
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "aws"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T19:47:41.575236"
+    },
+    {
       "source": "The Hacker News",
       "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
@@ -1337,6 +1373,56 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T19:47:39.371352"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited",
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T19:47:39.372952"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited",
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T19:47:41.576777"
     },
     {
       "source": "BleepingComputer",

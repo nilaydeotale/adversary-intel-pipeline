@@ -4066,5 +4066,69 @@
     "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
     "cves": [],
     "seen_at": "2026-11-10T18:43:21.942985"
+  },
+  "18f1a6abca3afba7ad79bb309f294a570ee43faafccdc3d40eed0d47cb68f458": {
+    "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+    "cves": [
+      "CVE-2026-111760"
+    ],
+    "seen_at": "2026-11-10T19:47:39.369695"
+  },
+  "9d69bf9573e04f31c49a89bae7e0f276ece2c3fb08c4dbc2a13300b4f97f3139": {
+    "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:39.371354"
+  },
+  "40d794fae7f03dae207ba04121d7ec87527e64b35d179ecacf3caf99c522d6c1": {
+    "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:39.372953"
+  },
+  "b6595f124acc2aea4f0a9bc07d496e7a11fc9ea35deb42b546bdc85c8e68181c": {
+    "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:39.374516"
+  },
+  "9c292c19e29e9a9d7a459c4166ec506243ba93d269b5cc36021f53a286d02db7": {
+    "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:39.376095"
+  },
+  "ae620b24f3f6256105f0d7263b3e638e19a49f71655a3fff79a8ba2d27e99d19": {
+    "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:40.262675"
+  },
+  "2a7c9b20b4e48531443eb97a7643c8d5b7f4ea7584799a7e1af7028995fcfa5d": {
+    "title": "People Are Getting Weird About AI",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:40.264124"
+  },
+  "ad42e3e6e235696aff4432411fe24e944ebcb7b4feeae9cd237202720a586705": {
+    "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+    "cves": [
+      "CVE-2026-124194"
+    ],
+    "seen_at": "2026-11-10T19:47:40.978335"
+  },
+  "b848143bd409e9b4484c079b2671d134d28eb3e68ae2d3cc33874418300ebd84": {
+    "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:41.575239"
+  },
+  "6ec2d4f00b6ea03457c60bbcaba8b2977b79e96f241aece8d06a574733af9127": {
+    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:41.576779"
+  },
+  "187aacb34288a734af292ae3275b6c5a7ad7ab55858846bb40dc62a9f0ab419a": {
+    "title": "DoppelCart Fraud Network Grows to More Than 250,000 Domains",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:47.955400"
+  },
+  "665024a9fc122faa97fe3c3102867b666f9f0c0484e64d3dc195f5bb7679d0c6": {
+    "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
+    "cves": [],
+    "seen_at": "2026-11-10T19:47:53.418086"
   }
 }
