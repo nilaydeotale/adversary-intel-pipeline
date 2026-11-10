@@ -4172,5 +4172,25 @@
       "CVE-2026-20320"
     ],
     "seen_at": "2026-11-10T21:36:46.670730"
+  },
+  "7e7e1b1fcc8223c3c187bd8a9777a9f7a3cd4476cf4d12818b7b0fc99f5330db": {
+    "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+    "cves": [],
+    "seen_at": "2026-11-10T22:37:15.109724"
+  },
+  "64f698376d9c32bc69be8925d3a097f0e44b417117778a480cca608ef1db65da": {
+    "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-10T22:37:15.492840"
+  },
+  "b7a9ca730c7e65e2702499a5a4c4cec89614a7071a8649581ea2430587aafa74": {
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "cves": [],
+    "seen_at": "2026-11-10T22:37:15.833237"
+  },
+  "d4e01cd9c6c0f05da0df294cd7d0d69bf435930705eebdb70de0fd975612e7ce": {
+    "title": "U.S. CISA adds IBM, SignalWire FreeSwitch,\u00a0OpenSSH, and GPUStack\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+    "cves": [],
+    "seen_at": "2026-11-10T22:37:16.785895"
   }
 }
