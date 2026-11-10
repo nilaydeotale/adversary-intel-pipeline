@@ -4056,5 +4056,15 @@
     "title": "How to Evaluate AI Agent Cybersecurity Capabilities",
     "cves": [],
     "seen_at": "2026-11-10T17:43:18.114690"
+  },
+  "227a7d1d7bbbb01cb5eaf01979866b7bff377211538a34364610fe69399f9c85": {
+    "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
+    "cves": [],
+    "seen_at": "2026-11-10T18:43:21.471939"
+  },
+  "4bf37f8332a4f2e6e64d37eb0a6319c26770ee61bf3556111ac1f3d7d39cceff": {
+    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+    "cves": [],
+    "seen_at": "2026-11-10T18:43:21.942985"
   }
 }
