@@ -3896,5 +3896,40 @@
     "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
     "cves": [],
     "seen_at": "2026-11-10T11:46:19.840020"
+  },
+  "6246a61d7e27ab2ddf12bd2cfc9b743198931efa3f5b4212a17270d5754c75c1": {
+    "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+    "cves": [],
+    "seen_at": "2026-11-10T12:54:38.189819"
+  },
+  "da2632e646b0b3d3788d1b2b11605e7cda09fe93cb367a273550df2b7623760d": {
+    "title": "Beyond the Alert: The Case for Rich Network Data",
+    "cves": [],
+    "seen_at": "2026-11-10T12:54:38.191896"
+  },
+  "261843669b4b96d35e4a0787e10f861549a32bc9af7ea982ed07e86930e0f76a": {
+    "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
+    "cves": [],
+    "seen_at": "2026-11-10T12:54:38.958316"
+  },
+  "6f86d1700e5b386a9a40671900d79206d132fb5f6ec780d96391969aea11dc99": {
+    "title": "New OpenSSH Vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-10T12:54:39.167362"
+  },
+  "8461a074dd212d5950f73503d841227879920d3ac0249f9c612d9d3c0434922d": {
+    "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+    "cves": [],
+    "seen_at": "2026-11-10T12:54:39.289686"
+  },
+  "44e6bae049440c1fbb926caf4eee297028e8e2ba860bf9b65aaf39935ec5baaa": {
+    "title": "Formbook Targets European Manufacturing and Technology Businesses with Localized Order Lures",
+    "cves": [],
+    "seen_at": "2026-11-10T12:54:44.907098"
+  },
+  "c21089b5b79600238ec6acfc2ffcc10f0931d821279eeabaa77c248e1835abf2": {
+    "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
+    "cves": [],
+    "seen_at": "2026-11-10T12:54:51.066576"
   }
 }
