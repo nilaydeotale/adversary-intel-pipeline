@@ -4041,5 +4041,20 @@
     "title": "iOS Sandbox Escape Is Public, and Apple Hasn\u2019t Confirmed a Fix",
     "cves": [],
     "seen_at": "2026-11-10T16:46:20.570688"
+  },
+  "f7df5660b6d172ac44e28e5226bc5f3b9f8801923d4d29ca63d3198c317dd476": {
+    "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
+    "cves": [],
+    "seen_at": "2026-11-10T17:42:55.752514"
+  },
+  "308e1be0e42ce912b7e11895801fa9bf1e20b948de3f9ed5b29065a59ffcc1d3": {
+    "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
+    "cves": [],
+    "seen_at": "2026-11-10T17:42:55.755428"
+  },
+  "407c29fea1ab1cd78c71b386389a7b866d47be1be8f33234db05a135405bfe13": {
+    "title": "How to Evaluate AI Agent Cybersecurity Capabilities",
+    "cves": [],
+    "seen_at": "2026-11-10T17:43:18.114690"
   }
 }
