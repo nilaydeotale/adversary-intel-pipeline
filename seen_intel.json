@@ -3886,5 +3886,15 @@
       "CVE-2026-125350"
     ],
     "seen_at": "2026-11-10T10:50:28.129250"
+  },
+  "a2cdd7462debc4409aa53f3c2c1ca648c4e52b1a04366b7ea334197d4680499c": {
+    "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-10T11:46:19.837408"
+  },
+  "78865e2424718c18c9d74c2aa9b0457e29247168acacf5cce9112bef84659238": {
+    "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+    "cves": [],
+    "seen_at": "2026-11-10T11:46:19.840020"
   }
 }
