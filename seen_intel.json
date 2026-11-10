@@ -4130,5 +4130,15 @@
     "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
     "cves": [],
     "seen_at": "2026-11-10T19:47:53.418086"
+  },
+  "27373d87d97bd2d57092f0a5ff8eee0fb9a55964b00a63b4f573f906d06efa58": {
+    "title": "How to Assess OT Incident Response Preparedness",
+    "cves": [],
+    "seen_at": "2026-11-10T20:39:38.097059"
+  },
+  "6641d558132a9fa0da8cf4953b98e92bb9cfe89b24ba67d3d1e97c05024f0c79": {
+    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+    "cves": [],
+    "seen_at": "2026-11-10T20:39:38.528868"
   }
 }
