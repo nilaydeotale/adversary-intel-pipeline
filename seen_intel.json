@@ -3859,5 +3859,32 @@
     "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
     "cves": [],
     "seen_at": "2026-11-10T09:51:38.977820"
+  },
+  "1e42e874336f7d5154fd60d3c05f7b87efef02470ebb2b629a343a247c5c0fd7": {
+    "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+    "cves": [],
+    "seen_at": "2026-11-10T10:50:25.972022"
+  },
+  "b273e6e4e954a304733e4e825274c2696a2b0126e14e3af084e125d93f5ac6f3": {
+    "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+    "cves": [],
+    "seen_at": "2026-11-10T10:50:27.233874"
+  },
+  "3097f08a3138eeed9fcd3304c926c6a2ae0e635b673b6d14d97f4909ab452599": {
+    "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+    "cves": [],
+    "seen_at": "2026-11-10T10:50:27.653747"
+  },
+  "0d71813883da96de9dca9f1288af4b0696744823b62863b839ee8e21d2cbef3a": {
+    "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+    "cves": [],
+    "seen_at": "2026-11-10T10:50:27.656409"
+  },
+  "49adcae2d5fd879dcf115c040b5dc998f586dd22dadd8be0bb9b81773ea8ee32": {
+    "title": "Google fixes the eighth actively exploited Chrome zero-day of 2026",
+    "cves": [
+      "CVE-2026-125350"
+    ],
+    "seen_at": "2026-11-10T10:50:28.129250"
   }
 }
