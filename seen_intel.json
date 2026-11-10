@@ -4140,5 +4140,37 @@
     "title": "Microsoft releases Windows 10 KB5131096 extended security update",
     "cves": [],
     "seen_at": "2026-11-10T20:39:38.528868"
+  },
+  "31f062f2d33e7785b3bbe12453ceb6ebfd9d11c31c03080ddd8abcd43e344b3d": {
+    "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+    "cves": [],
+    "seen_at": "2026-11-10T21:36:39.106793"
+  },
+  "e9988c8cd5ebd5117eceaa0772afb6de7671f9782728ed8ee4cd83f328442e46": {
+    "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+    "cves": [],
+    "seen_at": "2026-11-10T21:36:39.108149"
+  },
+  "020b937b3f2ef600271b7b83e22b6aff98c7a364d45c45e7926c1ebf9bf591d9": {
+    "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+    "cves": [],
+    "seen_at": "2026-11-10T21:36:39.758657"
+  },
+  "81269700fcc12786adb14057ed77648ac48cc7d576f7db0fa6b10d1dd53a68ac": {
+    "title": "Russia-Linked APT Turla Turned Exchange Servers Into Their Own Control Room",
+    "cves": [],
+    "seen_at": "2026-11-10T21:36:40.336488"
+  },
+  "61b7d24f27464e653f4e1f87dc4a6653862ddceb1254e54bd49249ec9d11941d": {
+    "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-111560",
+      "CVE-2026-111793",
+      "CVE-2026-116606",
+      "CVE-2026-124194",
+      "CVE-2026-125350",
+      "CVE-2026-20320"
+    ],
+    "seen_at": "2026-11-10T21:36:46.670730"
   }
 }
