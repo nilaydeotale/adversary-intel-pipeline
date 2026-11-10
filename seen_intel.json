@@ -3777,5 +3777,10 @@
     "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
     "cves": [],
     "seen_at": "2026-11-09T22:40:54.011089"
+  },
+  "a6b137ad77c57f0a695611f5d9f698ded33cebbbc89a5196efa5d98db7e955fd": {
+    "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+    "cves": [],
+    "seen_at": "2026-11-10T00:52:20.416094"
   }
 }

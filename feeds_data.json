@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-09 23:35 UTC",
+  "updated_utc": "2026-11-10 00:52 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1317,6 +1317,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T00:52:20.416085"
     },
     {
       "source": "Dark Reading",
