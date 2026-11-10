@@ -3836,5 +3836,28 @@
     "title": "Fireworks AI discloses new breach after cloud provider hack",
     "cves": [],
     "seen_at": "2026-11-10T08:13:14.723334"
+  },
+  "cf8f416bb4b2c7e4a083bc12f06564b71279c6de6beeb7ef18a42b8746068a3a": {
+    "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+    "cves": [],
+    "seen_at": "2026-11-10T09:51:37.098087"
+  },
+  "6059d6b38866028ea5e93391b11c3a116c5a7e99f50031b7c94f3a9544b7fe60": {
+    "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+    "cves": [],
+    "seen_at": "2026-11-10T09:51:37.099745"
+  },
+  "405ca167392a8ac61212a1f1243f09714d646b3db5bbdea64804a0518c52132d": {
+    "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+    "cves": [
+      "CVE-2026-116779",
+      "CVE-2026-123218"
+    ],
+    "seen_at": "2026-11-10T09:51:38.486180"
+  },
+  "b2d492864baa58c8e759ccde32aa3cec9847c2c97b77b46d4272b64e503e2e1c": {
+    "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+    "cves": [],
+    "seen_at": "2026-11-10T09:51:38.977820"
   }
 }
