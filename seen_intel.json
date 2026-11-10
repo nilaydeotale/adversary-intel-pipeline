@@ -3941,5 +3941,72 @@
     "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
     "cves": [],
     "seen_at": "2026-11-10T14:05:38.271674"
+  },
+  "f51e583b5a35caadfd3cdab32fb6f758b1d5535b97f3f744ecd495eef49a8382": {
+    "title": "Today: CISO Forum Virtual Summit 2026 \u2013 Join Global Cybersecurity Leaders",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:25.145972"
+  },
+  "5629291dc77cd3d34407da4501152c32e566b6acca3ef74522d9f25f49839380": {
+    "title": "WhiteMatter Raises $20 Million in Series A Funding",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:25.148784"
+  },
+  "60130d8e204e89719bff7e3bbc388eef975dee9eb885a13211147a0725ec8ed1": {
+    "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:25.151552"
+  },
+  "0c59f435e309867b3847a292842765f26151c90215b5b723fd35091139eb28e6": {
+    "title": "Ransomware recovery is now a client retention metric",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:25.617643"
+  },
+  "a0112304b401e74f08e6f69cc888e75d50f45e550a5550393c1eda27e9c807f2": {
+    "title": "Kubernetes Non-Core Security Audit",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:26.466611"
+  },
+  "40983c76fbe95992418d3689725092338cd408b1cb3035a8c23fd2d0c551b6b0": {
+    "title": "Not All That Glitters Is Gold: Tracking CopperDragon\u2019s Sparrow Framework Around the Globe",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:26.469655"
+  },
+  "64742d0fb3a0d7844297a014f1acb46700c1de336dbae40d90004639bde3f728": {
+    "title": "From Bug Hunting to Bug Prevention with Rust and Verus",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:26.472422"
+  },
+  "434c2a22f7b40cb4b88bb4c9adc9154e4ddb32265abddc035af8e0ecc7e5c683": {
+    "title": "Cold Chain Attack: Unpatched Danfoss Controllers Exploited",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:31.349487"
+  },
+  "d8ffa8cf7a809eecab41b9605e85dd0680ddf76511ee200ded0cbc65f7f60a7c": {
+    "title": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:32.553242"
+  },
+  "50bcb2de9f8728c31bced4abf84100293dccd54efc9040c21afb203460116b94": {
+    "title": "Wiz and ISMAP: Building the Foundation for Japan's Public Sector",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:39.602194"
+  },
+  "29bc9fad027d8d508b290fba17ca78c87380b865ddbdabb054d23291f759bdef": {
+    "title": "Critical vulnerabilities in N-able N-central prompt hosted shutdown",
+    "cves": [
+      "CVE-2026-18577"
+    ],
+    "seen_at": "2026-11-10T15:42:40.329517"
+  },
+  "4633036422ae031cf8b46ac66ba5f61fd74be99b946d41afb0d209038f4bbe09": {
+    "title": "Five Signs Your MDR is All Alert, No Action",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:40.334383"
+  },
+  "028f25acf90cb59f544ccbf7a0090b978697811f532c05e6f9f0f8586c323be8": {
+    "title": "Windows Security Case Study Part 2: What Volt Typhoon Behavior Reveals",
+    "cves": [],
+    "seen_at": "2026-11-10T15:42:40.602615"
   }
 }

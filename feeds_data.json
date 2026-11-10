@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10 14:05 UTC",
+  "updated_utc": "2026-11-10 15:42 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1317,6 +1317,38 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ransomware recovery is now a client retention metric",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T15:42:25.617635"
+    },
+    {
+      "source": "Recorded Future",
+      "title": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+      "link": "https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-10T15:42:32.553232"
     },
     {
       "source": "SecurityWeek",
