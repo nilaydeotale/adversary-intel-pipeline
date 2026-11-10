@@ -3792,5 +3792,22 @@
     "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
     "cves": [],
     "seen_at": "2026-11-10T05:49:12.576566"
+  },
+  "558fc62d78311dfc1810abaf7ccfb5886f9aad43e9f336aebafc8bffd299099d": {
+    "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+    "cves": [
+      "CVE-2026-123218"
+    ],
+    "seen_at": "2026-11-10T06:57:25.282687"
+  },
+  "7be31303232b8f272e26ae042bebbc8a948813cb83616161d75dde77b82d30df": {
+    "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+    "cves": [],
+    "seen_at": "2026-11-10T06:57:26.861846"
+  },
+  "10d665f4f110f8db1dd1ef34bbdfc04a05caa5df60e140ef61a6c3d361a8f789": {
+    "title": "Iris Ohyama data breach may expose personal information of 7.7 million people",
+    "cves": [],
+    "seen_at": "2026-11-10T06:57:27.980214"
   }
 }
