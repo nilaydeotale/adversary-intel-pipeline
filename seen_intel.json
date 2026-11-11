@@ -4415,5 +4415,20 @@
     "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
     "cves": [],
     "seen_at": "2026-11-11T15:45:35.401140"
+  },
+  "cb3946259d4a38de6644da6f61eb10f4efeb5cda41d24bd487dfca7b13b7e604": {
+    "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+    "cves": [],
+    "seen_at": "2026-11-11T16:50:21.461586"
+  },
+  "ee0645d36fc6296a00f98e242a1f39c18ea54b95e8d54c148cfd5ca03cd00fe5": {
+    "title": "Today: CISO Forum Virtual Summit 2026 Day 2 \u2013 Join Cybersecurity Leaders Online",
+    "cves": [],
+    "seen_at": "2026-11-11T16:50:23.466150"
+  },
+  "3dfd1cf58248bc5d07c22a2d21726b2bfaa374548f34d903d7e1cf7cd7dc21f3": {
+    "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+    "cves": [],
+    "seen_at": "2026-11-11T16:50:23.911481"
   }
 }

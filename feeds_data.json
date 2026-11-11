@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11 15:45 UTC",
+  "updated_utc": "2026-11-11 16:50 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -975,6 +975,22 @@
       "detected_utc": "2026-11-02T15:52:37.623396"
     },
     {
+      "source": "The Hacker News",
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "aws"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-11T16:50:21.461575"
+    },
+    {
       "source": "BleepingComputer",
       "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
@@ -1389,6 +1405,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-11T16:50:23.911473"
     },
     {
       "source": "Dark Reading",
