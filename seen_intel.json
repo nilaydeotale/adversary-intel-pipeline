@@ -4330,5 +4330,40 @@
     "title": "Microsoft fixes audio issues caused by September security updates",
     "cves": [],
     "seen_at": "2026-11-11T11:50:46.373958"
+  },
+  "d1114dcc488bfb89a05b632b35280b56cb5d87bb55ebf7d96b75554828a2414a": {
+    "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+    "cves": [],
+    "seen_at": "2026-11-11T12:57:30.734318"
+  },
+  "07ab63be138e5d59af2343379f1d8fd3f0bd55e44f6e38171bf1013a6dbdd727": {
+    "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+    "cves": [],
+    "seen_at": "2026-11-11T12:57:30.737918"
+  },
+  "70ae4b90ef3924ba0c8327b73fad241be806945e2824d7743a6776cb53461b1c": {
+    "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
+    "cves": [],
+    "seen_at": "2026-11-11T12:57:32.287188"
+  },
+  "96fdd3184ad4388ecd579731ff83e6f4ae973134a258a841ee5fb958987dfad0": {
+    "title": "Fortinet Patches Nearly 100 Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-11T12:57:32.290203"
+  },
+  "4430712c630d39d7f6a342d81e9e8519192e9580a2438211fe79495483cda95e": {
+    "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
+    "cves": [],
+    "seen_at": "2026-11-11T12:57:32.293254"
+  },
+  "30c61f726bed248f1ae4c2fa5b7cb0f8d337e10f436be87bc9eeda4ea29fdb16": {
+    "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
+    "cves": [],
+    "seen_at": "2026-11-11T12:57:32.478213"
+  },
+  "6460809e966c7dbec2e79a44ee94e32113ad1e35af44a76f178093b64a5adcdc": {
+    "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-11T12:57:32.546528"
   }
 }
