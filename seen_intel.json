@@ -4220,5 +4220,20 @@
       "CVE-2026-124194"
     ],
     "seen_at": "2026-11-11T00:51:44.572140"
+  },
+  "13794ac32ff45e19fc9bf999067b774a83642745b6b2d77cc910af71b8ee493d": {
+    "title": "mackron dr_libs dr_mp3 drmp3_init_internal out-of-bounds read vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-11T01:55:53.013950"
+  },
+  "e85603ea2e5c1b2905827f0fa41634168f429a5ffc928054f19d08181740b524": {
+    "title": "mackron dr_libs dr_wav drwav__read_cue_to_metadata_obj out-of-bounds write vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-11T01:55:53.016439"
+  },
+  "c84b596db66d964edab0d9d661680d268103f2379348999571744857147b4df6": {
+    "title": "Microsoft Patch Tuesday for November 2026 \u2014 Snort rules and prominent vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-11T01:56:02.266664"
   }
 }
