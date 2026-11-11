@@ -4235,5 +4235,15 @@
     "title": "Microsoft Patch Tuesday for November 2026 \u2014 Snort rules and prominent vulnerabilities",
     "cves": [],
     "seen_at": "2026-11-11T01:56:02.266664"
+  },
+  "43f9993a16dcb2c2c5db1552397fc2da8b52dbf197b735f51e2eb722414a0d6e": {
+    "title": "2026-11-10: Traffic Analysis Exercise: The Lucky Turkey",
+    "cves": [],
+    "seen_at": "2026-11-11T02:45:27.823558"
+  },
+  "d8dd16073443c1a626662cd8088ff86e700dc9fbaa1573533a4178477f4882dd": {
+    "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
+    "cves": [],
+    "seen_at": "2026-11-11T02:45:35.287130"
   }
 }
