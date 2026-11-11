@@ -4282,5 +4282,28 @@
     "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
     "cves": [],
     "seen_at": "2026-11-11T08:51:36.888705"
+  },
+  "0739593f2400301ee2273fd0ece539474514e7e7a5b7e5e67a1877b08a45e6e2": {
+    "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+    "cves": [
+      "CVE-2026-111793",
+      "CVE-2026-20320"
+    ],
+    "seen_at": "2026-11-11T09:53:39.925002"
+  },
+  "23108d98805e0b8ebf28c36a49697f2e4bf0f4aa8f5ccfc8357c62f43159100a": {
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "cves": [],
+    "seen_at": "2026-11-11T09:53:40.218293"
+  },
+  "0125cb0f430ef56f41ef910e57a04e3aae04c37f99b7862163410b4322c009d3": {
+    "title": "Microsoft November Patch Tuesday: one exploited Outlook bug and 30 wormable flaws",
+    "cves": [],
+    "seen_at": "2026-11-11T09:53:40.684637"
+  },
+  "07606d01dcbb6d069561ba8eb254d3daafa6dab0e4dfd8266a587b0ec2c9367d": {
+    "title": "American MSSP Company on Integrating Threat Intelligence to Scale Without Sacrificing Quality",
+    "cves": [],
+    "seen_at": "2026-11-11T09:53:45.774525"
   }
 }
