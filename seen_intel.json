@@ -4365,5 +4365,20 @@
     "title": "N-able releases security hotfixes for zero-day vulnerabilities",
     "cves": [],
     "seen_at": "2026-11-11T12:57:32.546528"
+  },
+  "49ccdc12d325ef73ce3b02f465b589d49aede1275090af34d799a9b659a9820e": {
+    "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+    "cves": [],
+    "seen_at": "2026-11-11T14:14:47.848001"
+  },
+  "e5e3a9cfde2eb79454c727f966d2191a8bcc7df65fdcab9a5b9def7fd417f33d": {
+    "title": "Asus, Zoom Release Security Patches",
+    "cves": [],
+    "seen_at": "2026-11-11T14:14:49.919312"
+  },
+  "d7db215bcd689ff010bbbf828d3c169f008264c2ca01b55660e181c489bd6bda": {
+    "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-11T14:14:49.922461"
   }
 }
