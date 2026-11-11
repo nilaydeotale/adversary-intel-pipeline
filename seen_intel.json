@@ -4252,5 +4252,35 @@
       "CVE-2026-20320"
     ],
     "seen_at": "2026-11-11T07:00:36.179101"
+  },
+  "cfb5b54e5c28976a126f6b7bf30c88adee4dbf799b6eb0ea675b24c531a075ab": {
+    "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+    "cves": [],
+    "seen_at": "2026-11-11T08:51:35.400178"
+  },
+  "c1decdb0b76187a5dd111d797ee5050aad920646eed44755ccc1d880dfb371d1": {
+    "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+    "cves": [],
+    "seen_at": "2026-11-11T08:51:35.403238"
+  },
+  "241b6d9b3ffc30f35e95ea25fa4f9972b0fc6aeb06163f94e97f4f5463b0c736": {
+    "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+    "cves": [],
+    "seen_at": "2026-11-11T08:51:35.406285"
+  },
+  "b94d4d81bfa68244296292d98c3592e5bc676a29837e7f391f085cb7377dc486": {
+    "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+    "cves": [],
+    "seen_at": "2026-11-11T08:51:36.879680"
+  },
+  "d2ff719bb6bcbaa54ddd02219dd4ffeebb079f03f79f0a35869411cab46ac9ff": {
+    "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+    "cves": [],
+    "seen_at": "2026-11-11T08:51:36.884165"
+  },
+  "7176673299c8e7d8d7b502ab0ca17e776b8506a88776a0bd1cc3ea9427fcab5d": {
+    "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+    "cves": [],
+    "seen_at": "2026-11-11T08:51:36.888705"
   }
 }
