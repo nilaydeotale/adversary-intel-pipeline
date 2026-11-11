@@ -4245,5 +4245,12 @@
     "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
     "cves": [],
     "seen_at": "2026-11-11T02:45:35.287130"
+  },
+  "da107806fc6801864d17639b5003396765d5d38a91f87123416a2871a1874d08": {
+    "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+    "cves": [
+      "CVE-2026-20320"
+    ],
+    "seen_at": "2026-11-11T07:00:36.179101"
   }
 }
