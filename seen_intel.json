@@ -4489,5 +4489,15 @@
       "CVE-2026-119618"
     ],
     "seen_at": "2026-11-11T21:28:36.108065"
+  },
+  "bfb939a334df4127c69206b8a49ea2b621f38fcf8699ae7e08b12a12a354432d": {
+    "title": "AI Raises the Stakes for Cyber Resilience",
+    "cves": [],
+    "seen_at": "2026-11-11T22:46:46.925495"
+  },
+  "8e5e2abcdbca6ad7312189901f938a253eb821e4ec36d0ab2bcc38448d608ca3": {
+    "title": "AI Pentest Tool AntiFox Abused To Steal AWS Credentials",
+    "cves": [],
+    "seen_at": "2026-11-11T22:46:48.304607"
   }
 }

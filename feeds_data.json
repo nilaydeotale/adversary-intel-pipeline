@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11 21:28 UTC",
+  "updated_utc": "2026-11-11 22:47 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -991,6 +991,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "Security Affairs",
+      "title": "AI Pentest Tool AntiFox Abused To Steal AWS Credentials",
+      "link": "https://securityaffairs.com/202880/hacking/ai-pentest-tool-antifox-abused-to-steal-aws-credentials.html",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "aws"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-11T22:46:48.304600"
     },
     {
       "source": "The Hacker News",
