@@ -4499,5 +4499,20 @@
     "title": "AI Pentest Tool AntiFox Abused To Steal AWS Credentials",
     "cves": [],
     "seen_at": "2026-11-11T22:46:48.304607"
+  },
+  "434586acab34665ad33f6b1aba8d7028c00412a14d4ca58a1c7e0bea1972748e": {
+    "title": "Baker Tilly notifies clients of data breach at third-party provider",
+    "cves": [],
+    "seen_at": "2026-11-11T23:44:29.120183"
+  },
+  "83bb6ef5ae45151e5c247109bf7d7d238c399fa0bc8aaa28bb782a936371c170": {
+    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+    "cves": [],
+    "seen_at": "2026-11-11T23:44:29.123185"
+  },
+  "f06ea0def99e026d89933caf33c6e92f2901ba0fbcdf485cc8137d6351dfa8f7": {
+    "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
+    "cves": [],
+    "seen_at": "2026-11-11T23:44:40.775552"
   }
 }
