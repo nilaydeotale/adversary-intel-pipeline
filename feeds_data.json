@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11 19:54 UTC",
+  "updated_utc": "2026-11-11 21:28 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -843,6 +843,24 @@
       "max_epss": 0.15532,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:32.535045"
+    },
+    {
+      "source": "Wiz Blog",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know",
+      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-119618"
+      ],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-11T21:28:36.108059"
     },
     {
       "source": "The Hacker News",

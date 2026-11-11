@@ -4452,5 +4452,42 @@
     "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
     "cves": [],
     "seen_at": "2026-11-11T18:50:26.550113"
+  },
+  "ca49457db2c7b7c45381b3c0680338c02e795ed1019b00ed38f6408b9ab5c738": {
+    "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+    "cves": [],
+    "seen_at": "2026-11-11T21:28:25.123854"
+  },
+  "4bd535456ea956d75d10ff8f638f8ca5d9f49e16cd3b2b327db5236c1d58606a": {
+    "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+    "cves": [],
+    "seen_at": "2026-11-11T21:28:25.125830"
+  },
+  "6783e58c3551a80065ead5315a2cc2cb2da29cfb9e56b23db599c1162151da46": {
+    "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+    "cves": [],
+    "seen_at": "2026-11-11T21:28:25.727952"
+  },
+  "2451f5166b38e0795f9537a2edf3f2d4e3940682afb59ea75aebb3c4a2837009": {
+    "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+    "cves": [],
+    "seen_at": "2026-11-11T21:28:25.729968"
+  },
+  "b8802872920953da36f3931845fd854dc7393eea76c54e506fbe59662c0f0bf9": {
+    "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data",
+    "cves": [],
+    "seen_at": "2026-11-11T21:28:26.772168"
+  },
+  "4c1dedda3aa10bc5bbc9c23426cf76d43928527d3bbab9fa16cf42efa9217da8": {
+    "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+    "cves": [],
+    "seen_at": "2026-11-11T21:28:35.209733"
+  },
+  "a9112e472c3a8bfe333b99f7d9c897e2c405ea32ebae7f42b990a2e7705cce2c": {
+    "title": "Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know",
+    "cves": [
+      "CVE-2026-119618"
+    ],
+    "seen_at": "2026-11-11T21:28:36.108065"
   }
 }
