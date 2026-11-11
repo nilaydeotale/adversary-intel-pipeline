@@ -4320,5 +4320,15 @@
     "title": "Hackers Advertise a $1,000 Gmail Tool That Allegedly Survives Password Resets",
     "cves": [],
     "seen_at": "2026-11-11T10:54:31.277291"
+  },
+  "7b162aaa70eb64c80b96f4bac7a441df687b80c413e4e1cb40c3869cea586994": {
+    "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
+    "cves": [],
+    "seen_at": "2026-11-11T11:50:45.847210"
+  },
+  "76d0a878b10090260a91b81834286facd416ad5e8883a397295c069b7be273b7": {
+    "title": "Microsoft fixes audio issues caused by September security updates",
+    "cves": [],
+    "seen_at": "2026-11-11T11:50:46.373958"
   }
 }
