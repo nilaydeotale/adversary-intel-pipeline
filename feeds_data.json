@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11 17:51 UTC",
+  "updated_utc": "2026-11-11 18:50 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1405,6 +1405,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-11T18:50:15.963282"
     },
     {
       "source": "BleepingComputer",

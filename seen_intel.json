@@ -4437,5 +4437,20 @@
       "CVE-2026-108186"
     ],
     "seen_at": "2026-11-11T17:51:14.009845"
+  },
+  "b084e4066672466622135afb6dbd01ed8cf383ea5a8f52386e86c1e8e3e4a377": {
+    "title": "Who Runs the Ransomware Group Qilin?",
+    "cves": [],
+    "seen_at": "2026-11-11T18:50:15.963291"
+  },
+  "0d8e7eaabe8ee5a59e798c41ca4b1275def981f9add7e3e5cba99a63cbb36208": {
+    "title": "Lessons from 59 Linux Kernel Bug Reports",
+    "cves": [],
+    "seen_at": "2026-11-11T18:50:25.156369"
+  },
+  "01f92955331d00f07750d3eb35707e04f8f0e8e47dfe560183a11c4d378514e8": {
+    "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
+    "cves": [],
+    "seen_at": "2026-11-11T18:50:26.550113"
   }
 }
