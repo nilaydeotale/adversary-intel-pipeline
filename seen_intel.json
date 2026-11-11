@@ -4206,5 +4206,19 @@
       "CVE-2026-124194"
     ],
     "seen_at": "2026-11-10T23:30:25.746054"
+  },
+  "5623807f3314073ae84d8f849744a528dbd02d2e9941b6655d3cc24ca288860a": {
+    "title": "Detecting sleeper agents hiding in AI model neurons",
+    "cves": [],
+    "seen_at": "2026-11-11T00:51:42.750126"
+  },
+  "85cf5e53f2acd63243daf3a2214a17e4ee5896e496ed24a758f1f56c3b5d54fe": {
+    "title": "Patch Tuesday - November 2026",
+    "cves": [
+      "CVE-2026-116928",
+      "CVE-2026-119952",
+      "CVE-2026-124194"
+    ],
+    "seen_at": "2026-11-11T00:51:44.572140"
   }
 }
