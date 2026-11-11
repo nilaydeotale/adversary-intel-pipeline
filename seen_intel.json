@@ -4430,5 +4430,12 @@
     "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
     "cves": [],
     "seen_at": "2026-11-11T16:50:23.911481"
+  },
+  "1b2f555ae0273b91903b658d35ed69b5a6eb870bbd27c11fbbfe24e93965027a": {
+    "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+    "cves": [
+      "CVE-2026-108186"
+    ],
+    "seen_at": "2026-11-11T17:51:14.009845"
   }
 }
