@@ -4380,5 +4380,40 @@
     "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
     "cves": [],
     "seen_at": "2026-11-11T14:14:49.922461"
+  },
+  "a93aedd3d89de26a495c8be88c3c744c32fe752b06dc2a12dff3e62c0e9295f5": {
+    "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+    "cves": [],
+    "seen_at": "2026-11-11T15:45:22.961721"
+  },
+  "711d41712899e3a794b0d203276bfa7d2bf0034e439b047cf898222cc15230d7": {
+    "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+    "cves": [],
+    "seen_at": "2026-11-11T15:45:24.444838"
+  },
+  "76f09401dfc5a1771b9ce955d8871ead83fc2f4a345a976e762f04334e8e9896": {
+    "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+    "cves": [],
+    "seen_at": "2026-11-11T15:45:24.902226"
+  },
+  "cfa8e6a2603d230b99783c94f23f6204000ba725d3186f65ac4a9b7457477eb5": {
+    "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+    "cves": [],
+    "seen_at": "2026-11-11T15:45:24.904194"
+  },
+  "9068c37787decf5e3363606659640bac7932abafb37560f2a17b25b5d264fc9d": {
+    "title": "Blind trust: stealing credentials through CSP",
+    "cves": [],
+    "seen_at": "2026-11-11T15:45:25.860251"
+  },
+  "5db2644f9ff31e44c49c301893a6a075d3633467e933b3c15a215cbe30a26be9": {
+    "title": "AI Is Both Target and Tool for Threat Actors",
+    "cves": [],
+    "seen_at": "2026-11-11T15:45:32.082530"
+  },
+  "8b118a8b8559bb655fcc211dc005a3b5ccfaf18da45d7d9653dd414dadb2b9c5": {
+    "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
+    "cves": [],
+    "seen_at": "2026-11-11T15:45:35.401140"
   }
 }

@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-10 23:30 UTC | TLP:AMBER*
+*Last Updated: 2026-11-11 15:45 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | Dark Reading | [November Patch Tuesday: An Overflowing Cornucopia of CV...](https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves) | - | `Threat` |
+| **MEDIUM** | `35` | BleepingComputer | [Hackers use AntiFox AI agents in AWS credential-theft a...](https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/) | - | `AWS` |
