@@ -4305,5 +4305,20 @@
     "title": "American MSSP Company on Integrating Threat Intelligence to Scale Without Sacrificing Quality",
     "cves": [],
     "seen_at": "2026-11-11T09:53:45.774525"
+  },
+  "3c56694bc3e20243937a365b745f4a3b72f92239f608ff7dc7ee82f3a24f0ccb": {
+    "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+    "cves": [],
+    "seen_at": "2026-11-11T10:54:30.363247"
+  },
+  "11437aa6152ae4a8cb069b135d23453376b881d846a9d66080e884fafca31ce6": {
+    "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+    "cves": [],
+    "seen_at": "2026-11-11T10:54:30.695593"
+  },
+  "5614c04485a8d72ffad01dd885eef0e936c019913fdcbaebc2d4a31c62750191": {
+    "title": "Hackers Advertise a $1,000 Gmail Tool That Allegedly Survives Password Resets",
+    "cves": [],
+    "seen_at": "2026-11-11T10:54:31.277291"
   }
 }
