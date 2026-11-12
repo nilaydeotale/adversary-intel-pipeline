@@ -4529,5 +4529,22 @@
     "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
     "cves": [],
     "seen_at": "2026-11-12T02:14:37.569837"
+  },
+  "3bda4778ef224f6df9aa90a7c824c0d5e5dfd7c9fe4e4bb5c8ebba32a021d327": {
+    "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+    "cves": [
+      "CVE-2026-119618"
+    ],
+    "seen_at": "2026-11-12T05:55:56.493966"
+  },
+  "55f53291c2cfe9a30a46ce7584e21f0a740c0f0b0f3920994fcc5e48aaeeb928": {
+    "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+    "cves": [],
+    "seen_at": "2026-11-12T05:55:56.496821"
+  },
+  "eaf8ce49292854b5eee044db1fc1368a3e5be29371b752b59ac2fc9fdb7cfebd": {
+    "title": "Secure Exclaves and Ambient Sensing",
+    "cves": [],
+    "seen_at": "2026-11-12T05:56:00.109355"
   }
 }
