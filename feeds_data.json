@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12 18:48 UTC",
+  "updated_utc": "2026-11-12 19:50 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1473,6 +1473,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-12T19:50:10.922284"
     },
     {
       "source": "BleepingComputer",

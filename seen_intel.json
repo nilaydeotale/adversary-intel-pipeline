@@ -4823,5 +4823,20 @@
     "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
     "cves": [],
     "seen_at": "2026-11-12T18:48:38.011166"
+  },
+  "8f1c1dbe693898ee25549822299793c981829af3a588ec468c7d5b396e057cb1": {
+    "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+    "cves": [],
+    "seen_at": "2026-11-12T19:50:10.922294"
+  },
+  "73c71cb444960bc38f07493b76be467880153bc26bcf570549f274162b837881": {
+    "title": "Never be afraid to ask questions",
+    "cves": [],
+    "seen_at": "2026-11-12T19:50:24.944404"
+  },
+  "72a6d3db3813603bdca7d39dacd3e6b37fb28a03bd3f497d355ac9d8e88cc1f1": {
+    "title": "ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code",
+    "cves": [],
+    "seen_at": "2026-11-12T19:50:25.968522"
   }
 }
