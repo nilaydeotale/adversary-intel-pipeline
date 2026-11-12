@@ -4736,5 +4736,77 @@
     "title": "LABScon26 Replay | Let\u2019s Get Physical: Why Cybersecurity Needs Hardware-Based Security to Survive AI",
     "cves": [],
     "seen_at": "2026-11-12T15:55:23.077162"
+  },
+  "1b24eb1e9ed9a321d8085f2b4ab9c24606be48dbd963466c9b7987480c036863": {
+    "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+    "cves": [],
+    "seen_at": "2026-11-12T16:56:08.096180"
+  },
+  "7ea6a68a4ef1bad73184b61a157bf6111259bd17121651b5407ce322f129f2f5": {
+    "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+    "cves": [
+      "CVE-2026-120868"
+    ],
+    "seen_at": "2026-11-12T16:56:08.097044"
+  },
+  "c93d99392c6d6b2df2ea1eeaef7a145378b8036b6e6e6098bb31d18933e8bf27": {
+    "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+    "cves": [],
+    "seen_at": "2026-11-12T16:56:08.099084"
+  },
+  "66f6a2368c53aa25cd2562afb92a06b7d1a232cee282ef64a95a4f177c2acf75": {
+    "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+    "cves": [
+      "CVE-2026-84869"
+    ],
+    "seen_at": "2026-11-12T16:56:08.907799"
+  },
+  "95ed4f63b6bc07d51c2d83a85919142da935869fc118013a74e114c5f538f680": {
+    "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+    "cves": [],
+    "seen_at": "2026-11-12T16:56:11.858396"
+  },
+  "02988e39c636ec42bdc2329698ca9ea90eb1098a078aff3e7c60d9d2cfcd7dfd": {
+    "title": "Introducing ProtoSpector: A Burp Suite Extension for Analyzing, Tampering With, and Testing Protobuf and gRPC Traffic",
+    "cves": [],
+    "seen_at": "2026-11-12T16:56:15.065577"
+  },
+  "c00a40f080875e9dc39bef2388800b99a6ff2d219882ba3db18ae9946cb57a08": {
+    "title": "Siemens Desigo, Gridscale",
+    "cves": [
+      "CVE-2026-111497"
+    ],
+    "seen_at": "2026-11-12T16:56:20.847978"
+  },
+  "e52c900202bfbb9bc5afbf69bbe24057b61906c433d872bf14d43beb0828f079": {
+    "title": "Siemens RUGGEDCOM APE1808",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "CVE-2026-109618"
+    ],
+    "seen_at": "2026-11-12T16:56:20.848948"
+  },
+  "a3474b5522266810e30da8728db6078429877d4ca2f3d68fbe31f8faa7ee6785": {
+    "title": "Siemens RUGGEDCOM APE1808",
+    "cves": [
+      "CVE-2026-111497"
+    ],
+    "seen_at": "2026-11-12T16:56:20.849879"
+  },
+  "c46d0c6f4d748639f643a77785db8568be91e9a19dfc3949cc738ddb7b523698": {
+    "title": "Siemens Building Automation and Energy Products",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "seen_at": "2026-11-12T16:56:20.851110"
+  },
+  "1fe86104878f0f5c68e8b276313b3e08010069370e732dc6ff548a36f5546279": {
+    "title": "Siemens Industrial Edge Management",
+    "cves": [
+      "CVE-2026-111497"
+    ],
+    "seen_at": "2026-11-12T16:56:20.852136"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12 15:55 UTC",
+  "updated_utc": "2026-11-12 16:56 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -729,6 +729,24 @@
     },
     {
       "source": "The Hacker News",
+      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+      "score": 55,
+      "severity": "CRITICAL",
+      "stack_hits": [],
+      "exploit_hits": [],
+      "cves": [
+        "CVE-2026-84869"
+      ],
+      "in_kev": [
+        "CVE-2026-84869"
+      ],
+      "max_epss": 0.00924,
+      "mitre": [],
+      "detected_utc": "2026-11-12T16:56:08.162846"
+    },
+    {
+      "source": "The Hacker News",
       "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
       "score": 55,
@@ -1455,6 +1473,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-12T16:56:11.858390"
     },
     {
       "source": "Wired Security",
