@@ -4662,5 +4662,30 @@
     "title": "Zoom Fixes Critical Windows Vulnerability Allowing Privilege Escalation",
     "cves": [],
     "seen_at": "2026-11-12T12:59:19.450878"
+  },
+  "d322630ae40bf05cc43e242eb43c6c003033c4f2a1cfe323fff032c4b7aefd09": {
+    "title": "Apple\u2019s HomeView Tries Face Authentication Without FaceID",
+    "cves": [],
+    "seen_at": "2026-11-12T14:20:14.007732"
+  },
+  "3c61926f14bbdba2c85057331ba9d66c1661c273184b14da755aa50c592aae82": {
+    "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-12T14:20:14.736831"
+  },
+  "2cf5723e181ac0faa78730c2c3d25f773bac355a97d1bae3892fcae5f8ba2f6c": {
+    "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+    "cves": [],
+    "seen_at": "2026-11-12T14:20:14.740187"
+  },
+  "54bcea17501971808d418ea52edba7eeb908e59fd217c71ed27409c94ea9f622": {
+    "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
+    "cves": [],
+    "seen_at": "2026-11-12T14:20:14.742557"
+  },
+  "5d0474d4578118fb54e72177a7714debbe1b04aa6a0ad86db26e43d81a672b59": {
+    "title": "Intelligence Asymmetry: The Strategic Case For Autonomous Defensive Intelligence",
+    "cves": [],
+    "seen_at": "2026-11-12T14:20:21.439357"
   }
 }
