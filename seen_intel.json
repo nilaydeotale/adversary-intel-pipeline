@@ -4561,5 +4561,32 @@
     "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
     "cves": [],
     "seen_at": "2026-11-12T08:54:46.639242"
+  },
+  "edb9158bb922995a96558ccdd775e0bc4f91db589131448fb84ab288a4149df0": {
+    "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+    "cves": [
+      "CVE-2026-118383"
+    ],
+    "seen_at": "2026-11-12T09:54:25.793878"
+  },
+  "759c6f848ae92d039e2a607e61cd474e8f7c0725a00eb438d7527257179da417": {
+    "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+    "cves": [],
+    "seen_at": "2026-11-12T09:54:25.797335"
+  },
+  "e4d3eef8da8db218d0b62c05cf44fc157a7077f77154f0294f50ef291db477ae": {
+    "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+    "cves": [],
+    "seen_at": "2026-11-12T09:54:31.471288"
+  },
+  "fab2640f76965b7d6a51817ed6fbb49301ddcfe25d5fb1e89b941fcd5eed454f": {
+    "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+    "cves": [],
+    "seen_at": "2026-11-12T09:54:31.474506"
+  },
+  "0f7c7d8cc5667239d811c34f7d8acae4725ee0a411b98a69349b4896dceda313": {
+    "title": "Hackers plant GSocket on Linux servers for persistent access",
+    "cves": [],
+    "seen_at": "2026-11-12T09:54:31.966165"
   }
 }
