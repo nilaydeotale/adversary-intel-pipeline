@@ -4546,5 +4546,10 @@
     "title": "Secure Exclaves and Ambient Sensing",
     "cves": [],
     "seen_at": "2026-11-12T05:56:00.109355"
+  },
+  "b343e9a2f24422966a7765517d411f65cc4f72ac362dc47b9f5a8bd6c4c07c9c": {
+    "title": "Poland takes its national e-government platform offline after a cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-12T07:07:46.273906"
   }
 }
