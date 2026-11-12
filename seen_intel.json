@@ -4588,5 +4588,20 @@
     "title": "Hackers plant GSocket on Linux servers for persistent access",
     "cves": [],
     "seen_at": "2026-11-12T09:54:31.966165"
+  },
+  "c135dfb14a65ecbf9110fd46a86c00b1fda09611667ad9b8b8035aa51d28d0f6": {
+    "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+    "cves": [],
+    "seen_at": "2026-11-12T10:56:17.938027"
+  },
+  "aca6431809dccb64d1851539c1f48283f5cba88de098991a81a75f592beefa0c": {
+    "title": "Microsoft confirms Windows security updates installation issues",
+    "cves": [],
+    "seen_at": "2026-11-12T10:56:18.439768"
+  },
+  "26050ccea133b1960676f7d7c2bc8f71f4f16aec3abd56766bc37a8f274ac6cd": {
+    "title": "Threat Intelligence for NIS2 Compliance: Is Your Security Stack Giving You the Full Picture?",
+    "cves": [],
+    "seen_at": "2026-11-12T10:56:25.154752"
   }
 }
