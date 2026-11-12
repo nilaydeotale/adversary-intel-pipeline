@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12 11:54 UTC",
+  "updated_utc": "2026-11-12 12:59 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1439,6 +1439,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-12T12:59:16.799986"
     },
     {
       "source": "SecurityWeek",

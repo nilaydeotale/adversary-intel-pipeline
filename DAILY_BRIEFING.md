@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-12 08:54 UTC | TLP:AMBER*
+*Last Updated: 2026-11-12 12:59 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | SecurityWeek | [Maersk Confirms Data Theft Amid $5 Million Extortion At...](https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/) | - | `Threat` |
+| **LOW** | `25` | The Hacker News | [New N-central Exploits Work Against Patched Servers, En...](https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html) | - | `Threat` |

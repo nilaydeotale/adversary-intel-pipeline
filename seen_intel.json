@@ -4620,5 +4620,47 @@
       "CVE-2026-102895"
     ],
     "seen_at": "2026-11-12T11:54:17.635703"
+  },
+  "0707c83081e2560493c682ef4306604e52ec395ab478dd1db5ea5022a7c590e2": {
+    "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+    "cves": [],
+    "seen_at": "2026-11-12T12:59:16.794897"
+  },
+  "6cf2cd26e91de4a9c8ae50b097b1e69cb2cd232080809791e7f22302af9cd439": {
+    "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+    "cves": [],
+    "seen_at": "2026-11-12T12:59:16.797451"
+  },
+  "e50cf5ce9af3663172c75809a202338a94c7ca84402c17d1cf217a3e0ed54919": {
+    "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+    "cves": [],
+    "seen_at": "2026-11-12T12:59:16.799988"
+  },
+  "47daea5a4bb5b860755530616f49bbff132588ec0d87f0ca95ff12f79d28817e": {
+    "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+    "cves": [],
+    "seen_at": "2026-11-12T12:59:16.802527"
+  },
+  "56e63f94c783423a76f079789876ca963e01ff5089c3ba741aadbcbccf46fc47": {
+    "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+    "cves": [
+      "CVE-2026-126325"
+    ],
+    "seen_at": "2026-11-12T12:59:16.980999"
+  },
+  "e545583bf470afd3e69e10102cab6ae52797b37289deeab78c9f6d427e7211d2": {
+    "title": "Another Way Police Are Locating People from Their Smartphones",
+    "cves": [],
+    "seen_at": "2026-11-12T12:59:18.568292"
+  },
+  "df989ae5e9b4e04a199ca32f9b421851dde0635b184f97376b9c34d0dd8bbb2a": {
+    "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+    "cves": [],
+    "seen_at": "2026-11-12T12:59:18.785073"
+  },
+  "b8d0ad3abf2fcbfd7ab5d62cd1204441e62ebce5ce52e405ef279778bf3619f0": {
+    "title": "Zoom Fixes Critical Windows Vulnerability Allowing Privilege Escalation",
+    "cves": [],
+    "seen_at": "2026-11-12T12:59:19.450878"
   }
 }
