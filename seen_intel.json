@@ -4551,5 +4551,15 @@
     "title": "Poland takes its national e-government platform offline after a cyberattack",
     "cves": [],
     "seen_at": "2026-11-12T07:07:46.273906"
+  },
+  "371df58998f308e23bc9c22bc62cbaf7ca6f20ffab6ec5da84ca151879c45076": {
+    "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+    "cves": [],
+    "seen_at": "2026-11-12T08:54:45.460717"
+  },
+  "08e8af9e06ca8c9cca6cc4a2a66b1306221c3219bb2c04eed5b97677d9328d7d": {
+    "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+    "cves": [],
+    "seen_at": "2026-11-12T08:54:46.639242"
   }
 }

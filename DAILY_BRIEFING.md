@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-11 22:47 UTC | TLP:AMBER*
+*Last Updated: 2026-11-12 08:54 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | Security Affairs | [AI Pentest Tool AntiFox Abused To Steal AWS Credentials...](https://securityaffairs.com/202880/hacking/ai-pentest-tool-antifox-abused-to-steal-aws-credentials.html) | - | `AWS` |
+| **LOW** | `25` | SecurityWeek | [Maersk Confirms Data Theft Amid $5 Million Extortion At...](https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/) | - | `Threat` |

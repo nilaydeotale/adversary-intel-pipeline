@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12 07:07 UTC",
+  "updated_utc": "2026-11-12 08:54 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1439,6 +1439,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+      "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-12T08:54:46.639236"
     },
     {
       "source": "Krebs on Security",
