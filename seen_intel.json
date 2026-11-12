@@ -4858,5 +4858,15 @@
     "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
     "cves": [],
     "seen_at": "2026-11-12T20:44:37.010829"
+  },
+  "e631b3a275a85991a721f67dc14b33f8ecea1e0c29c8fabc94c6487fc1a7d9d7": {
+    "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
+    "cves": [],
+    "seen_at": "2026-11-12T21:41:31.661051"
+  },
+  "e01ab6b5112b0f2292269cc65ba418c6d641facb1cb40b51182bae8798097958": {
+    "title": "Microsoft Cloud Outage Hits Outlook, Teams, Copilot and AI Services",
+    "cves": [],
+    "seen_at": "2026-11-12T21:41:32.710638"
   }
 }
