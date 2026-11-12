@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-12 14:20 UTC | TLP:AMBER*
+*Last Updated: 2026-11-12 15:55 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | Wired Security | [Apple’s HomeView Tries Face Authentication Without Face...](https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/) | - | `Threat` |
+| **MEDIUM** | `35` | BleepingComputer | [Apify rotates API tokens, prompts 2FA resets after brea...](https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/) | - | `OAUTH` |

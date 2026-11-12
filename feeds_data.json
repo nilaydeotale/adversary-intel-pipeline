@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12 14:20 UTC",
+  "updated_utc": "2026-11-12 15:55 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -991,6 +991,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "oauth"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-12T15:55:10.982523"
     },
     {
       "source": "Security Affairs",

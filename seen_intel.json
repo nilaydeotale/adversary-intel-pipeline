@@ -4687,5 +4687,54 @@
     "title": "Intelligence Asymmetry: The Strategic Case For Autonomous Defensive Intelligence",
     "cves": [],
     "seen_at": "2026-11-12T14:20:21.439357"
+  },
+  "bf5a86fe26714f850b4e6f93d1b7589dae96b1303624aec76a0616a5f86c97fd": {
+    "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
+    "cves": [
+      "CVE-2026-119618"
+    ],
+    "seen_at": "2026-11-12T15:55:10.455506"
+  },
+  "0a13cb57a44740c1100535d7ae27b8e6643d1ec3d24f19c8554bc5e985caecea": {
+    "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+    "cves": [],
+    "seen_at": "2026-11-12T15:55:10.976856"
+  },
+  "ef0dfd01a2a0935567c6c33914229b39be5b3121581645cd69cfbec89a524e71": {
+    "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+    "cves": [],
+    "seen_at": "2026-11-12T15:55:10.979310"
+  },
+  "7addeea60433aa527aa38c9d18eaa294f623f80317e6fec3c0e8e09848c5b17a": {
+    "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+    "cves": [],
+    "seen_at": "2026-11-12T15:55:10.982527"
+  },
+  "684cb6281303280b027569f9752202bd5529438805fae592ed7a87a569fad266": {
+    "title": "Predator, Pegasus and Graphite: Governments Accused of Spyware Abuse Face Little Accountability",
+    "cves": [],
+    "seen_at": "2026-11-12T15:55:12.032442"
+  },
+  "e1b89b5b1bd073e113b6f5d59cfcf99d0809753e0f0f31492b1387c07a530edf": {
+    "title": "PHP2Shell Exploitation on Check Point Gateway",
+    "cves": [
+      "CVE-2026-123039"
+    ],
+    "seen_at": "2026-11-12T15:55:13.106030"
+  },
+  "db8f160293fbb09777e6736ea73f3cd16090bf2ddfa0dff806df516f17c99487": {
+    "title": "Five Findings From the 2027 State of Threat Intelligence",
+    "cves": [],
+    "seen_at": "2026-11-12T15:55:19.092619"
+  },
+  "b99ac792ace4206d4451f1b51d9c84b339694efd7d994a0945486193b46a14b6": {
+    "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
+    "cves": [],
+    "seen_at": "2026-11-12T15:55:22.785952"
+  },
+  "fd4fb5de91ae700c62baafa412550e1b98f99eaf890b0603b78c6fabc944802d": {
+    "title": "LABScon26 Replay | Let\u2019s Get Physical: Why Cybersecurity Needs Hardware-Based Security to Survive AI",
+    "cves": [],
+    "seen_at": "2026-11-12T15:55:23.077162"
   }
 }
