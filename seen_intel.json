@@ -4838,5 +4838,25 @@
     "title": "ASPM in the AI Era Part 3: Fixing Risk at the Speed of Code",
     "cves": [],
     "seen_at": "2026-11-12T19:50:25.968522"
+  },
+  "c904ce4b902bae00e82586a21086c46c6c94952e1fdf56cdb31d93f38478ffa3": {
+    "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+    "cves": [],
+    "seen_at": "2026-11-12T20:44:34.875544"
+  },
+  "8c5e558354344be09dbaa916c2af4d306a5944f41d0c1dc2d73e8bbfe7c6dda9": {
+    "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+    "cves": [],
+    "seen_at": "2026-11-12T20:44:36.406311"
+  },
+  "7d7d74cef93b11d0bf138cd9e6dff9c8ac980e4f7961f12ceb93e3453b7dfc71": {
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "cves": [],
+    "seen_at": "2026-11-12T20:44:37.008961"
+  },
+  "a3c4a74621ad6689431d6e3247f8d89207eb0b8493d7c6c3f38eecb3b32065f4": {
+    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+    "cves": [],
+    "seen_at": "2026-11-12T20:44:37.010829"
   }
 }

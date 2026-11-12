@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12 19:50 UTC",
+  "updated_utc": "2026-11-12 20:44 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1473,6 +1473,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-12T20:44:37.010827"
     },
     {
       "source": "BleepingComputer",
