@@ -4883,5 +4883,15 @@
     "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
     "cves": [],
     "seen_at": "2026-11-12T22:41:04.650214"
+  },
+  "d0da3c3db7b76ec67d40547a76edd4cb524c7815b5a16498a70d597dc5404de6": {
+    "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+    "cves": [],
+    "seen_at": "2026-11-12T23:38:30.572274"
+  },
+  "b0eadc87bd0c9d519d973007bf5c705e2510ec3598aafa2985e8426912fd4c26": {
+    "title": "The School Bomb Threats Came From Accounts Already in Stolen Data",
+    "cves": [],
+    "seen_at": "2026-11-12T23:38:31.313433"
   }
 }
