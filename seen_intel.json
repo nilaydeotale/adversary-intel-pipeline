@@ -4603,5 +4603,22 @@
     "title": "Threat Intelligence for NIS2 Compliance: Is Your Security Stack Giving You the Full Picture?",
     "cves": [],
     "seen_at": "2026-11-12T10:56:25.154752"
+  },
+  "58c80f589cc6e05223f5909e9aad7db91bdf5146312b1c7d2b499e3f4f85aaae": {
+    "title": "Inside an AI Attack Against a US Retailer",
+    "cves": [],
+    "seen_at": "2026-11-12T11:54:05.261533"
+  },
+  "15f75e655107c75c25d72c36b2e2ce40435458254d5af03436a295dd854cc9ee": {
+    "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+    "cves": [],
+    "seen_at": "2026-11-12T11:54:05.344137"
+  },
+  "3a59b6f6a3d0b7b6b278724d57cbf973b7d0e3ca940e9282cc77fe9c944f712c": {
+    "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
+    "cves": [
+      "CVE-2026-102895"
+    ],
+    "seen_at": "2026-11-12T11:54:17.635703"
   }
 }
