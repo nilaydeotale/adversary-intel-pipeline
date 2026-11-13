@@ -4923,5 +4923,32 @@
     "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
     "cves": [],
     "seen_at": "2026-11-13T05:54:56.604547"
+  },
+  "6fb15564f8a1a5164265078c6c5b0d56fd908cca123bff3ca24a348c9512abc0": {
+    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+    "cves": [],
+    "seen_at": "2026-11-13T08:53:06.215705"
+  },
+  "2d1968b39a934684e6f3dcdeac1ceb60bc8c559314419108f01b9da8a3039516": {
+    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit \u2018SignDrop\u2019",
+    "cves": [],
+    "seen_at": "2026-11-13T08:53:07.500660"
+  },
+  "04b56a14025197eee23f07850d20cf1c9048c1d5caadc8b701dd3c9db5b6de84": {
+    "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+    "cves": [
+      "CVE-2026-123039"
+    ],
+    "seen_at": "2026-11-13T08:53:07.503099"
+  },
+  "d0e379c05187e551e80afef4c95cfb388e41236f4519c6c0b031678a93f4c292": {
+    "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+    "cves": [],
+    "seen_at": "2026-11-13T08:53:07.505782"
+  },
+  "7b40629fd2f86e483a4a029609e800f74d077f5b347b8b0b1b8dbf897cadd4db": {
+    "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+    "cves": [],
+    "seen_at": "2026-11-13T08:53:07.861146"
   }
 }

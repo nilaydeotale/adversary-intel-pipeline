@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-13 07:03 UTC",
+  "updated_utc": "2026-11-13 08:53 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1473,6 +1473,38 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit \u2018SignDrop\u2019",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-13T08:53:07.500655"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+      "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-13T08:53:07.505779"
     },
     {
       "source": "BleepingComputer",

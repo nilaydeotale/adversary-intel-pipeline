@@ -1,6 +1,7 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-12 20:44 UTC | TLP:AMBER*
+*Last Updated: 2026-11-13 08:53 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | BleepingComputer | [New N-able "4EverAble2Shell" zero-day exploited hours a...](https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/) | - | `Threat` |
+| **LOW** | `25` | SecurityWeek | [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignD...](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/) | - | `Threat` |
+| **LOW** | `25` | SecurityWeek | [Hackers Exploit New N-central Zero-Day Hours After PoC ...](https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/) | - | `Threat` |
