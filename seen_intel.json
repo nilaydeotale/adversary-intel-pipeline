@@ -5025,5 +5025,10 @@
     "title": "Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell",
     "cves": [],
     "seen_at": "2026-11-13T12:56:50.716348"
+  },
+  "8c430d589e494ae2f4127b0c56b2693e97bbeebee9e512d883499c8f8f212282": {
+    "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+    "cves": [],
+    "seen_at": "2026-11-13T14:12:17.759879"
   }
 }
