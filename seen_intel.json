@@ -4898,5 +4898,10 @@
     "title": "2026-11-12: SmartApeSG ClickFix campaign pushes CNCmachineRMS RAT",
     "cves": [],
     "seen_at": "2026-11-13T00:56:49.957869"
+  },
+  "4a5ac151ab92232ceacb4380faee83cf1e99586b42986fa169d656a94c7432ff": {
+    "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
+    "cves": [],
+    "seen_at": "2026-11-13T02:02:36.244308"
   }
 }
