@@ -5135,5 +5135,25 @@
     "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
     "cves": [],
     "seen_at": "2026-11-13T21:43:07.645146"
+  },
+  "344c6e55b9ad8009ff04831c609793ffae74ac02d2e8877ae68d7f79261b9b62": {
+    "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+    "cves": [],
+    "seen_at": "2026-11-13T22:39:36.583528"
+  },
+  "8927c21ae9e2764de04448842400ab77c441cbff141f450a4d703c6c0a75c9c8": {
+    "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
+    "cves": [],
+    "seen_at": "2026-11-13T22:39:36.861973"
+  },
+  "ae81518442ec9549ffed11e2fdcf3490f0e8bbaf176e7654c8207110115a8a9e": {
+    "title": "North Korea \u2018s Crypto Theft Operations: DOJ Seizes $1.2 Billion and Disrupts Hacker Infrastructure",
+    "cves": [],
+    "seen_at": "2026-11-13T22:39:37.264062"
+  },
+  "9010fd99b241ea2c2c097866bd2eb356ce6e7e1721f050d79eb775974d12b2ed": {
+    "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+    "cves": [],
+    "seen_at": "2026-11-13T22:39:52.930093"
   }
 }
