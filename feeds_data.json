@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-13 09:53 UTC",
+  "updated_utc": "2026-11-13 10:54 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1473,6 +1473,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-13T10:54:32.158858"
     },
     {
       "source": "SecurityWeek",

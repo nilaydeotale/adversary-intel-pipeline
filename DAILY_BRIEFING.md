@@ -1,7 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-13 08:53 UTC | TLP:AMBER*
+*Last Updated: 2026-11-13 10:54 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | SecurityWeek | [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignD...](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/) | - | `Threat` |
-| **LOW** | `25` | SecurityWeek | [Hackers Exploit New N-central Zero-Day Hours After PoC ...](https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/) | - | `Threat` |
+| **LOW** | `25` | BleepingComputer | [Check Point warns of zero-day flaw exploited for root a...](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/) | - | `Threat` |

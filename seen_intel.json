@@ -4965,5 +4965,15 @@
     "title": "Microsoft confirms Windows activation failures after November updates",
     "cves": [],
     "seen_at": "2026-11-13T09:53:44.067461"
+  },
+  "073b65fae487361880eafaa4571722f662b5a2c3a05a80c32b3328601d1d3ed6": {
+    "title": "Check Point warns of zero-day flaw exploited for root access",
+    "cves": [],
+    "seen_at": "2026-11-13T10:54:32.158865"
+  },
+  "37d98bf0585aab62c10aebeac147bd6a72242e3f2b3e49306a02e312536a57a3": {
+    "title": "New SignDrop Exploit Can Abuse Windows Defender to Bypass Security Protections",
+    "cves": [],
+    "seen_at": "2026-11-13T10:54:32.810931"
   }
 }
