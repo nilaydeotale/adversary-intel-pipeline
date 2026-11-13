@@ -4893,5 +4893,10 @@
     "title": "The School Bomb Threats Came From Accounts Already in Stolen Data",
     "cves": [],
     "seen_at": "2026-11-12T23:38:31.313433"
+  },
+  "da7d5b9fe02a4fb34e87737b12c56d412c46c39c57553dc7993654da340f7049": {
+    "title": "2026-11-12: SmartApeSG ClickFix campaign pushes CNCmachineRMS RAT",
+    "cves": [],
+    "seen_at": "2026-11-13T00:56:49.957869"
   }
 }
