@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-13 11:50 UTC",
+  "updated_utc": "2026-11-13 12:57 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1473,6 +1473,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-13T12:56:47.203867"
     },
     {
       "source": "BleepingComputer",

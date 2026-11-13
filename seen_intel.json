@@ -4980,5 +4980,50 @@
     "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
     "cves": [],
     "seen_at": "2026-11-13T11:50:27.951515"
+  },
+  "b8706449a4bec7027356cc347898d943b404ad4263ebaea791f171ab424aa09e": {
+    "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+    "cves": [],
+    "seen_at": "2026-11-13T12:56:47.197146"
+  },
+  "594e6e1da4b03671a3322dbc0c1c152ca878e42206f7bf3f0f7f0d0a7387d356": {
+    "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+    "cves": [],
+    "seen_at": "2026-11-13T12:56:47.200527"
+  },
+  "d6c6f321487194d5d2909eb836eb04fee0ecb822384d860391edaaceab006d4f": {
+    "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+    "cves": [],
+    "seen_at": "2026-11-13T12:56:47.203870"
+  },
+  "97176674bfcd0b99c9e2c1aecab223aaa9d2c8bc29c3c556e93717470afc6cbd": {
+    "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+    "cves": [],
+    "seen_at": "2026-11-13T12:56:48.767868"
+  },
+  "cb0a5c6209b015a5b8215eecd82528b6ebf7528ee1ce2f24f2c030df9eff6a12": {
+    "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-13T12:56:48.934267"
+  },
+  "dfab2a321d2e385f7befe0e3cb4425581d6f566704f8e053cec53e36742a257b": {
+    "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+    "cves": [],
+    "seen_at": "2026-11-13T12:56:48.937496"
+  },
+  "b8b5cff14ae86a30ea7fcfbc6a12bceb31f67dfac91ed681519196c2958b7b8e": {
+    "title": "AI Doesn\u2019t Have to Go Rogue to Break the World",
+    "cves": [],
+    "seen_at": "2026-11-13T12:56:49.274403"
+  },
+  "d4ac8c782880ddf3cbbf560dd85bf1f0e72e9205b2e06f7d2fe4e59b17cd0bbd": {
+    "title": "Microsoft says November security updates cause printing issues",
+    "cves": [],
+    "seen_at": "2026-11-13T12:56:49.488628"
+  },
+  "310c0942e94d7f5de6f12290dc7a413b5a3d62df8cdfa8d6aacb7cbb61f047cf": {
+    "title": "Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell",
+    "cves": [],
+    "seen_at": "2026-11-13T12:56:50.716348"
   }
 }
