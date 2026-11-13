@@ -4918,5 +4918,10 @@
     "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
     "cves": [],
     "seen_at": "2026-11-13T03:49:27.639367"
+  },
+  "be50495dd227d8050b79a7f0a0239aa84204f9c14ad5484b46dbf953860649ff": {
+    "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+    "cves": [],
+    "seen_at": "2026-11-13T05:54:56.604547"
   }
 }
