@@ -5102,5 +5102,10 @@
     "title": "Who needs permissions and the orange dot that never lit",
     "cves": [],
     "seen_at": "2026-11-13T17:45:34.657149"
+  },
+  "adf8853633d3804107eb67ea5f1b7d3775dba01101a84f9c73dc70828001292d": {
+    "title": "The Green Agent POV: Formulating the Fix for an Internet-Facing Container with Sensitive Data Access",
+    "cves": [],
+    "seen_at": "2026-11-13T18:46:19.323620"
   }
 }
