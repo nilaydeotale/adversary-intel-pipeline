@@ -4975,5 +4975,10 @@
     "title": "New SignDrop Exploit Can Abuse Windows Defender to Bypass Security Protections",
     "cves": [],
     "seen_at": "2026-11-13T10:54:32.810931"
+  },
+  "d8315083d53c903f34af5fe76adf09046ec688655c36c988812e9b7a3fd262b2": {
+    "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
+    "cves": [],
+    "seen_at": "2026-11-13T11:50:27.951515"
   }
 }
