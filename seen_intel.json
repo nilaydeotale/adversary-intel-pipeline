@@ -5125,5 +5125,15 @@
       "CVE-2026-123039"
     ],
     "seen_at": "2026-11-13T20:48:49.151721"
+  },
+  "86fdfde50c47ec0741e4c97cc0c799b46dae2ba43ab946a59aaac0952d384398": {
+    "title": "FAA Ground Stop Issued Due to \u2018Extraordinary Circumstances\u2019",
+    "cves": [],
+    "seen_at": "2026-11-13T21:42:53.991963"
+  },
+  "4eb137dc9fe6cc91da3139b0245534b7276579f6baad90a63918bdac755acc4d": {
+    "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
+    "cves": [],
+    "seen_at": "2026-11-13T21:43:07.645146"
   }
 }
