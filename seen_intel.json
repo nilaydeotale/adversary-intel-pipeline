@@ -5030,5 +5030,35 @@
     "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
     "cves": [],
     "seen_at": "2026-11-13T14:12:17.759879"
+  },
+  "2569e2baca4b024db65bb65be939e8bff7de3a2cd3f1242291d763406affe24d": {
+    "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+    "cves": [],
+    "seen_at": "2026-11-13T15:43:54.940122"
+  },
+  "668c8b44a3733601a2fb53fb3fd6c1c4e87428b66bd243f1d000237cfde4afee": {
+    "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+    "cves": [],
+    "seen_at": "2026-11-13T15:43:54.943374"
+  },
+  "9546eb0d9c5b45b211fd90c43658656cba64d3f6943dfd50ca81c90f4a7c5d15": {
+    "title": "As Test Takers Turn to AI for Answers, Exam Security Must Catch Up",
+    "cves": [],
+    "seen_at": "2026-11-13T15:43:56.198114"
+  },
+  "5085679addb9c7eb064dd7ed6684292b41979afaeb86aa5556c15143a34085ba": {
+    "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+    "cves": [],
+    "seen_at": "2026-11-13T15:43:56.319197"
+  },
+  "7ac02cecf83a63aabe74699552bdf1f4d731aa0eaba6dc3b6b93a3237afc8146": {
+    "title": "How one AI agent exposed five critical enterprise security gaps",
+    "cves": [],
+    "seen_at": "2026-11-13T15:43:56.740339"
+  },
+  "871f7f5817c46771b02a5c7d8b7ccfade4f36704d8c3ffa7b9eea07603c82ded": {
+    "title": "Gootloader Malware Disrupted After Infecting 25,000 Computers",
+    "cves": [],
+    "seen_at": "2026-11-13T15:43:57.677246"
   }
 }
