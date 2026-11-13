@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-13 16:49 UTC",
+  "updated_utc": "2026-11-13 17:45 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -861,6 +861,24 @@
       "max_epss": 0.15532,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:32.535045"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-6460"
+      ],
+      "in_kev": [],
+      "max_epss": 0.0059,
+      "mitre": [],
+      "detected_utc": "2026-11-13T17:45:31.680847"
     },
     {
       "source": "Wiz Blog",

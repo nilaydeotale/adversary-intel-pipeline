@@ -5075,5 +5075,32 @@
     "title": "MDR Pricing: Comparing Asset-Based and Ingestion-Based Costs",
     "cves": [],
     "seen_at": "2026-11-13T16:49:12.959111"
+  },
+  "130ae52b54d6ae477aeb52396eec6a29cefde7013238b4aa143e1b2b518da5be": {
+    "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+    "cves": [
+      "CVE-2026-6460"
+    ],
+    "seen_at": "2026-11-13T17:45:31.680858"
+  },
+  "23b8d55a6bcadbca229882cd4e470ac285e0f68ed77defc9ac2ed95c4860f3f9": {
+    "title": "The Microsoft Outage Is a Warning for the World",
+    "cves": [],
+    "seen_at": "2026-11-13T17:45:32.297532"
+  },
+  "ccda187abf9a94e309743f224377f18185890f3e7a16908ad735358a38e8b11c": {
+    "title": "German military drone operations disrupted by cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-13T17:45:33.548986"
+  },
+  "e165eb3e2373cfb1b4ec60ee40c2592c08ce4872698f7db295b337465b47b948": {
+    "title": "Policy and Disclosure: 2026 Edition",
+    "cves": [],
+    "seen_at": "2026-11-13T17:45:34.654253"
+  },
+  "26a77335e41e8125b4dbb1b9c6b9b0d16c923053d5b57d0538154f6badd28f01": {
+    "title": "Who needs permissions and the orange dot that never lit",
+    "cves": [],
+    "seen_at": "2026-11-13T17:45:34.657149"
   }
 }
