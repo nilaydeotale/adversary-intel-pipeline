@@ -5107,5 +5107,15 @@
     "title": "The Green Agent POV: Formulating the Fix for an Internet-Facing Container with Sensitive Data Access",
     "cves": [],
     "seen_at": "2026-11-13T18:46:19.323620"
+  },
+  "e2d2eccfda746a08d77061e467438fa2e545ef14a1e546dc6bfebd66ac3bc7ec": {
+    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "cves": [],
+    "seen_at": "2026-11-13T19:49:43.839524"
+  },
+  "1e608b275192c19c53bae7df58ea955d5f90d2970f17bbff044e46da0326303b": {
+    "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+    "cves": [],
+    "seen_at": "2026-11-13T19:49:44.920297"
   }
 }
