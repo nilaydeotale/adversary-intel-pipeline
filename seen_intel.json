@@ -4950,5 +4950,20 @@
     "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
     "cves": [],
     "seen_at": "2026-11-13T08:53:07.861146"
+  },
+  "a9dbbf88b84c5acff678b9eefc5e44b1c4d4e9cf0b8bf6273b9f91551719fcdb": {
+    "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-13T09:53:43.902229"
+  },
+  "2369d9b7bf256529c11bff13d902b91d2a904f5cceb89ce7b857100dd0f4e614": {
+    "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+    "cves": [],
+    "seen_at": "2026-11-13T09:53:43.903873"
+  },
+  "38df902d5709ba9c295d262a49d51377e068e1c354b92eedc77de40aade16f37": {
+    "title": "Microsoft confirms Windows activation failures after November updates",
+    "cves": [],
+    "seen_at": "2026-11-13T09:53:44.067461"
   }
 }
