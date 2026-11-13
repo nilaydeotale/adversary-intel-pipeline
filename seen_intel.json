@@ -4903,5 +4903,20 @@
     "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
     "cves": [],
     "seen_at": "2026-11-13T02:02:36.244308"
+  },
+  "e2362a7ce853535cd608c340017ae5c83d5f9ab84c21ae4ad94b8e7f446ae766": {
+    "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
+    "cves": [],
+    "seen_at": "2026-11-13T03:49:14.756753"
+  },
+  "0a3c9e0d719c170901df3e0575786a1a4f5f26f41a318543c0fee901085c30f8": {
+    "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+    "cves": [],
+    "seen_at": "2026-11-13T03:49:14.918564"
+  },
+  "91430614f8663f3b7611e7fd535c15606941d74fd58132dcc7d7edf9bbe4e675": {
+    "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
+    "cves": [],
+    "seen_at": "2026-11-13T03:49:27.639367"
   }
 }
