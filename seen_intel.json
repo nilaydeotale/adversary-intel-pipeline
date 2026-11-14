@@ -5172,5 +5172,10 @@
       "CVE-2026-114713"
     ],
     "seen_at": "2026-11-14T10:37:02.399501"
+  },
+  "6726705ff62719e16828441f5233225d4809638815a84eeaab4d2b90fa5c7446": {
+    "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+    "cves": [],
+    "seen_at": "2026-11-14T11:31:20.704071"
   }
 }
