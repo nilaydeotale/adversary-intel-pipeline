@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-14 12:40 UTC",
+  "updated_utc": "2026-11-14 13:46 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1491,6 +1491,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Wired Security",
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-14T13:46:25.686879"
     },
     {
       "source": "The Hacker News",

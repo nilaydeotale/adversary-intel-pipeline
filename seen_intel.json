@@ -5177,5 +5177,17 @@
     "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
     "cves": [],
     "seen_at": "2026-11-14T11:31:20.704071"
+  },
+  "2c4c7052eaf15b108c38318b816551b6578528baf9e0fb9fb394bdde2a29a1b5": {
+    "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+    "cves": [
+      "CVE-2026-114713"
+    ],
+    "seen_at": "2026-11-14T13:46:24.206495"
+  },
+  "2457ae4db5b58473eb6d3917866829e18f1c0779998938697c91f4f27e4ad563": {
+    "title": "Beware the New AI-Fueled Ransomware Boom",
+    "cves": [],
+    "seen_at": "2026-11-14T13:46:25.686884"
   }
 }
