@@ -5160,5 +5160,10 @@
     "title": "The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive Data Access",
     "cves": [],
     "seen_at": "2026-11-14T03:45:09.892709"
+  },
+  "c81ce354ce37f1588c387ffbdc8e44a98b2a3a8ddcc3c6cd6a885368d989e504": {
+    "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+    "cves": [],
+    "seen_at": "2026-11-14T08:45:37.835359"
   }
 }
