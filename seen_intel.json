@@ -5165,5 +5165,12 @@
     "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
     "cves": [],
     "seen_at": "2026-11-14T08:45:37.835359"
+  },
+  "55c72e8c4e0195fab53f8931df87cda340cfae66a9a6d7c89281fd756e3e0fad": {
+    "title": "U.S. CISA adds Check Point and UnrealIRCd\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+    "cves": [
+      "CVE-2026-114713"
+    ],
+    "seen_at": "2026-11-14T10:37:02.399501"
   }
 }
