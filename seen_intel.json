@@ -5155,5 +5155,10 @@
     "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
     "cves": [],
     "seen_at": "2026-11-13T22:39:52.930093"
+  },
+  "cd819a4908f2294474e6d3efe7ed30298379519ed1f91d3cf8319df4fc8106da": {
+    "title": "The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive Data Access",
+    "cves": [],
+    "seen_at": "2026-11-14T03:45:09.892709"
   }
 }
