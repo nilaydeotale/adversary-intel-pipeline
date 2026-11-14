@@ -5199,5 +5199,20 @@
     "title": "US disrupts North Korean campaign behind $400 million crypto theft",
     "cves": [],
     "seen_at": "2026-11-14T15:31:49.905550"
+  },
+  "876464228cee6f3faed312a82ce0d27f679640a45e2f891d50e37241948bb2bb": {
+    "title": "Upcoming Speaking Engagements",
+    "cves": [],
+    "seen_at": "2026-11-14T17:30:10.188937"
+  },
+  "1a60e806acbcb4386cf339b4a4cbb2c3675612b87a19b7675dbcd86ac31cbece": {
+    "title": "Cursor confirms security breach led to malicious Claude Code extension",
+    "cves": [],
+    "seen_at": "2026-11-14T17:30:10.316980"
+  },
+  "31b110305c26834eede7aaff7946c4b8695814f7c02791f4ad95febfae4838d3": {
+    "title": "Extortion Group Claims Theft of Nearly One Billion Expedia Traveler Records",
+    "cves": [],
+    "seen_at": "2026-11-14T17:30:11.568817"
   }
 }
