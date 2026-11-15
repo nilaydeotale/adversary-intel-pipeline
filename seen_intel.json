@@ -5214,5 +5214,10 @@
     "title": "Extortion Group Claims Theft of Nearly One Billion Expedia Traveler Records",
     "cves": [],
     "seen_at": "2026-11-14T17:30:11.568817"
+  },
+  "cb6e5dec1d216709eed8bfbf04139113bdb5820ae00b0c2a21a773e5a0a5f900": {
+    "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+    "cves": [],
+    "seen_at": "2026-11-15T09:42:42.805056"
   }
 }
