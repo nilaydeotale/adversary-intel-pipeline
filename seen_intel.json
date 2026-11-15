@@ -5272,5 +5272,15 @@
     "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 8",
     "cves": [],
     "seen_at": "2026-11-15T17:31:32.773989"
+  },
+  "9273cf2049967f9733de18565af5236bd6a83b710574977c90a3b1bfd8e7f4f1": {
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "cves": [],
+    "seen_at": "2026-11-15T18:38:26.055798"
+  },
+  "eecf5c0d968c39f3277e4c79e2941e137024e96f786568e97095df3e303e1e3b": {
+    "title": "YARA-X 1.23.0 Release, (Sun, Nov 15th)",
+    "cves": [],
+    "seen_at": "2026-11-15T18:38:41.185886"
   }
 }
