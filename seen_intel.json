@@ -5252,5 +5252,15 @@
       "CVE-2026-50658"
     ],
     "seen_at": "2026-11-15T14:39:25.738260"
+  },
+  "82deb31dba27f42792b09989cab7b5dc9f99ccd8f80e27846a1ebf73a928d08e": {
+    "title": "TSMC employee data breach linked to cloud provider",
+    "cves": [],
+    "seen_at": "2026-11-15T15:35:00.990193"
+  },
+  "59c7a965b6dac17ed7d67ef832bbfa23b40fd8af23654fe8faf7439edf1ed5dd": {
+    "title": "Security Affairs newsletter Round 604 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+    "cves": [],
+    "seen_at": "2026-11-15T15:35:02.287700"
   }
 }
