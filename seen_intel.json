@@ -5224,5 +5224,15 @@
     "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
     "cves": [],
     "seen_at": "2026-11-15T10:39:56.112440"
+  },
+  "09b448c53cdaba59b66c2cf9e8bca03d76a2229c0c8cdff7b6b8e551338a16ca": {
+    "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+    "cves": [],
+    "seen_at": "2026-11-15T11:35:42.180233"
+  },
+  "4ef408a4933fea5f0bdeba50550b88d459fe9b4715dc8746b7216a5b1860b662": {
+    "title": "Data Breach at La Poste Subsidiary Maileva Affects 22 Million People in France",
+    "cves": [],
+    "seen_at": "2026-11-15T11:35:43.835498"
   }
 }
