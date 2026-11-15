@@ -5234,5 +5234,10 @@
     "title": "Data Breach at La Poste Subsidiary Maileva Affects 22 Million People in France",
     "cves": [],
     "seen_at": "2026-11-15T11:35:43.835498"
+  },
+  "b140d183aa1668bf85f864eacab12860bce6d4dc74ecf9a38049b49a573de139": {
+    "title": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+    "cves": [],
+    "seen_at": "2026-11-15T12:42:30.170159"
   }
 }
