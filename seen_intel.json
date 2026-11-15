@@ -5244,5 +5244,13 @@
     "title": "Pentagon Renames CDAO \u2018Super Intelligence Office\u2019",
     "cves": [],
     "seen_at": "2026-11-15T13:48:55.435699"
+  },
+  "722a92571503a31b7b661104586b32a1d525d6974b54dfa66e6efe6910948d50": {
+    "title": "Race Against the (Mac)hine: Local Privilege Escalation in Microsoft Defender for macOS",
+    "cves": [
+      "CVE-2026-50657",
+      "CVE-2026-50658"
+    ],
+    "seen_at": "2026-11-15T14:39:25.738260"
   }
 }
