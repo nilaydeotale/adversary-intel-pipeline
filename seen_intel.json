@@ -5219,5 +5219,10 @@
     "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
     "cves": [],
     "seen_at": "2026-11-15T09:42:42.805056"
+  },
+  "2e368d5a956e7a1c310b755151ec7b1e95d986a53141a7ae14c3ff196d3fb1cc": {
+    "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+    "cves": [],
+    "seen_at": "2026-11-15T10:39:56.112440"
   }
 }
