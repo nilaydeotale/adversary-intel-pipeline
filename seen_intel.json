@@ -5537,5 +5537,15 @@
     "title": "Google GTIG Warns AI Agents Automate Exploits, Steal Credentials and Scale Cybercrime",
     "cves": [],
     "seen_at": "2026-11-16T20:45:56.544103"
+  },
+  "1fd22900933e58cc7559f3f551280d5c95f8cf9e18f73a5a51f6449bd7926a1d": {
+    "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+    "cves": [],
+    "seen_at": "2026-11-16T21:43:42.179614"
+  },
+  "e2faf8dc594b74cedd93e95c5980cdcda0ead43c0a6af2332de227281aca5493": {
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "cves": [],
+    "seen_at": "2026-11-16T21:43:42.180414"
   }
 }
