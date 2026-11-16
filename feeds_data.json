@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-16 17:56 UTC",
+  "updated_utc": "2026-11-16 18:52 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -861,6 +861,28 @@
       "max_epss": 0.15532,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:32.535045"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "Rapid7 Detected Exploitation of CVE-2026-90436 against Atlassian Confluence Data Center, N-able N-central also Exploited",
+      "link": "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "actively exploited",
+        "in the wild",
+        "rce",
+        "zero-day"
+      ],
+      "cves": [
+        "CVE-2026-90436",
+        "CVE-2026-90436"
+      ],
+      "in_kev": [],
+      "max_epss": 0.01128,
+      "mitre": [],
+      "detected_utc": "2026-11-16T18:52:34.067646"
     },
     {
       "source": "The Hacker News",

@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-16 16:39 UTC | TLP:AMBER*
+*Last Updated: 2026-11-16 18:52 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | BleepingComputer | [7 Tips For Complying with CJIS Password and MFA Require...](https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/) | - | `MFA` |
+| **MEDIUM** | `40` | Rapid7 Blog | [Rapid7 Detected Exploitation of CVE-2026-90436 against ...](https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited) | CVE-2026-90436, CVE-2026-90436 | `Threat` |

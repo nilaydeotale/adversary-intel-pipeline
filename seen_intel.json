@@ -5504,5 +5504,13 @@
       "CVE-2026-97727"
     ],
     "seen_at": "2026-11-16T17:56:56.666117"
+  },
+  "9785cc21b4c7a97752229f8287abf046bd4367c4358bc634d76f4dc31eb999fe": {
+    "title": "Rapid7 Detected Exploitation of CVE-2026-90436 against Atlassian Confluence Data Center, N-able N-central also Exploited",
+    "cves": [
+      "CVE-2026-90436",
+      "CVE-2026-90436"
+    ],
+    "seen_at": "2026-11-16T18:52:34.067661"
   }
 }
