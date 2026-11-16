@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-16 14:56 UTC",
+  "updated_utc": "2026-11-16 16:39 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1027,6 +1027,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "mfa"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-16T16:39:26.744176"
     },
     {
       "source": "BleepingComputer",

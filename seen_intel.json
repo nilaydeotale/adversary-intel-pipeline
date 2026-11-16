@@ -5438,5 +5438,35 @@
       "CVE-2026-48710"
     ],
     "seen_at": "2026-11-16T14:56:51.490347"
+  },
+  "ced99a065ad2cfb6a771f0991a524e37f1f77fbc280869e97664f6f41227e1ea": {
+    "title": "Cursor Supply Chain Attack Started at Fireworks AI",
+    "cves": [],
+    "seen_at": "2026-11-16T16:39:26.601577"
+  },
+  "8ef31d0e511795e4a5e30930836261edeea14ec8f7f681eb912c5b28ab42dbe4": {
+    "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
+    "cves": [],
+    "seen_at": "2026-11-16T16:39:26.604112"
+  },
+  "f10892d2308dd4aa10fe4cec9f65d3423c78349131240b07e3d05d0652b3ae0e": {
+    "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
+    "cves": [],
+    "seen_at": "2026-11-16T16:39:26.606673"
+  },
+  "ae87b420ef67878dad2c2e9892daa4b6f862319a1d56bedce2dd56d1512d55c6": {
+    "title": "Fandango says hackers stole payment card details from checkout pages",
+    "cves": [],
+    "seen_at": "2026-11-16T16:39:26.741471"
+  },
+  "3ce9a567bc2cda7b73bef36b42745b6e8ee0e5486299f6c8759a550ffda60a2a": {
+    "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+    "cves": [],
+    "seen_at": "2026-11-16T16:39:26.744179"
+  },
+  "23bf041cf50d7cf183862fcaaba01d4f69dfd7fc2407b86797a5fb61ae55f702": {
+    "title": "Cognitive warfare: the new battlefield is the human mind",
+    "cves": [],
+    "seen_at": "2026-11-16T16:39:27.253190"
   }
 }

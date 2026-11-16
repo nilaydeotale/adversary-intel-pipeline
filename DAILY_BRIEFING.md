@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-16 14:56 UTC | TLP:AMBER*
+*Last Updated: 2026-11-16 16:39 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | SecurityWeek | [Telegram Widgets Hit by RCE Demos, Malware Warning Days...](https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/) | - | `Threat` |
+| **MEDIUM** | `35` | BleepingComputer | [7 Tips For Complying with CJIS Password and MFA Require...](https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/) | - | `MFA` |
