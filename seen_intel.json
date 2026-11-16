@@ -5562,5 +5562,15 @@
     "title": "U.S. Banks Struggle With Outages Amid Wider Technology Disruptions",
     "cves": [],
     "seen_at": "2026-11-16T22:43:10.499134"
+  },
+  "f7aac866f226b3eb4b2e7fb572b9b27a8e0bd973aae01e60ad4545f9255f5218": {
+    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+    "cves": [],
+    "seen_at": "2026-11-16T23:39:13.818130"
+  },
+  "44fe41bb1bfecc7493c3ca89a7acbec39a8d547366e004c4a7ff5086f108141b": {
+    "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+    "cves": [],
+    "seen_at": "2026-11-16T23:39:29.769399"
   }
 }
