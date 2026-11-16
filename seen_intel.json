@@ -5547,5 +5547,20 @@
     "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
     "cves": [],
     "seen_at": "2026-11-16T21:43:42.180414"
+  },
+  "d80d0654619e2bbb01297b2ea81a171daef26b79f7e48d99122476e93622e61f": {
+    "title": "The Bank Outage May Have Nothing to Do With Your Bank",
+    "cves": [],
+    "seen_at": "2026-11-16T22:43:09.014190"
+  },
+  "ffa6cc909f241ae8123d0bc2d76739d3377187ee7f05b1bbb8892a10bd362d04": {
+    "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+    "cves": [],
+    "seen_at": "2026-11-16T22:43:09.396148"
+  },
+  "b0800b39adaf6ee03807badc44510dd17853e3ea4b8ea11d026892cb052ba0ef": {
+    "title": "U.S. Banks Struggle With Outages Amid Wider Technology Disruptions",
+    "cves": [],
+    "seen_at": "2026-11-16T22:43:10.499134"
   }
 }
