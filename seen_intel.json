@@ -5297,5 +5297,40 @@
     "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
     "cves": [],
     "seen_at": "2026-11-16T02:51:02.887895"
+  },
+  "073fa2ba49e0d3b878d669c0b114bf519afe77417a676becf1595159f3798d19": {
+    "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+    "cves": [],
+    "seen_at": "2026-11-16T09:35:06.718379"
+  },
+  "5680a972d2044de1690cb52715da2e8ac595de452f1bc1ce5dabb768a0cb5624": {
+    "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+    "cves": [],
+    "seen_at": "2026-11-16T09:35:06.721757"
+  },
+  "7e79d30252284556796d384ca560db5ad57c4587a6e74c20ed342979da3ffc3e": {
+    "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+    "cves": [],
+    "seen_at": "2026-11-16T09:35:07.991519"
+  },
+  "be33589af12da2aa1a5fc6892e2287232fad31cffd9253375eef9af7d21199c1": {
+    "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+    "cves": [],
+    "seen_at": "2026-11-16T09:35:07.994785"
+  },
+  "7647df76e6aed68251f0914381786607616377f1364c359d6ac6e47b3155e39a": {
+    "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+    "cves": [],
+    "seen_at": "2026-11-16T09:35:08.479852"
+  },
+  "fb047fa7b4d8d6daa71d57fc9b8a166680231b8c1f76f596d852195fe6cfebc4": {
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+    "cves": [],
+    "seen_at": "2026-11-16T09:35:08.483172"
+  },
+  "4e24f29370470e24099d557d5c103ff3ea50cc5e4dc3710aee763e45dcb6789e": {
+    "title": "SilentAir and LIMINAL PANDA Target Telecom Networks to Spy on Subscribers",
+    "cves": [],
+    "seen_at": "2026-11-16T09:35:09.386929"
   }
 }
