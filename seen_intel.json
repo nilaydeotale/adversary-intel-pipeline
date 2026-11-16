@@ -5332,5 +5332,35 @@
     "title": "SilentAir and LIMINAL PANDA Target Telecom Networks to Spy on Subscribers",
     "cves": [],
     "seen_at": "2026-11-16T09:35:09.386929"
+  },
+  "4491316d9cf0d66d638abf9151bf7496ca57af2db00cb908fdbb25574f8535cf": {
+    "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+    "cves": [],
+    "seen_at": "2026-11-16T11:14:13.871328"
+  },
+  "6a8ec9cdac41d7a9fcd5c6317a4560ffa8c3ccb4cb00740984c96b9f609102b7": {
+    "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
+    "cves": [],
+    "seen_at": "2026-11-16T11:14:15.379544"
+  },
+  "cb4a468f10a2392874fc9c203f5d6f51fc5b7817ba6db0d37a68d64096937dfe": {
+    "title": "Uber Data Breach Impacts 150,000 People",
+    "cves": [],
+    "seen_at": "2026-11-16T11:14:15.379756"
+  },
+  "ba0184f1e491144e84d2a08d72f64092ae7bc7e8ccd134b3616c2b58ba6ecc66": {
+    "title": "Anthropic\u2019s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+    "cves": [],
+    "seen_at": "2026-11-16T11:14:15.658990"
+  },
+  "c9bf755c5a0940659cb434e07466d123c2802ef6554e9226463213d625a59700": {
+    "title": "ARTEX: How Cybercriminals Use AI Agents to Scale Their Attacks",
+    "cves": [],
+    "seen_at": "2026-11-16T11:14:16.328187"
+  },
+  "710540873cc4671d007f44c7761affbfb39920e36bc7549a2c8c335afdb663e2": {
+    "title": "German Military Grounds Quantum Systems Drones Following Reported Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-16T11:14:16.331077"
   }
 }
