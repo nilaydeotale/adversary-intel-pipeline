@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-16 19:52 UTC",
+  "updated_utc": "2026-11-16 20:46 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1529,6 +1529,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+      "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-16T20:45:55.243302"
     },
     {
       "source": "SecurityWeek",

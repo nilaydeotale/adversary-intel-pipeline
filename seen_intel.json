@@ -5517,5 +5517,25 @@
     "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
     "cves": [],
     "seen_at": "2026-11-16T19:52:42.656460"
+  },
+  "49e885f42c0ede55cad96db7efa0734c2d7891a92a8ee19bfd9d39fbc1751fd5": {
+    "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+    "cves": [],
+    "seen_at": "2026-11-16T20:45:55.243309"
+  },
+  "ca3c844a98685fdb4d7cb836e7abc99d2d51d5a3cd60ff910b3d4b3693d855b3": {
+    "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
+    "cves": [],
+    "seen_at": "2026-11-16T20:45:55.438544"
+  },
+  "cb6cdbd5d31bf94bf26630b4fad87238076a71e07424e279cd1a65df258086cc": {
+    "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-16T20:45:56.002552"
+  },
+  "7957c8fd3e93f4edfee7ed9c90b76b7c0d1d5598f01992eb587874592c3a73cc": {
+    "title": "Google GTIG Warns AI Agents Automate Exploits, Steal Credentials and Scale Cybercrime",
+    "cves": [],
+    "seen_at": "2026-11-16T20:45:56.544103"
   }
 }
