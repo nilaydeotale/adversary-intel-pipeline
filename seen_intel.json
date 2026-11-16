@@ -5362,5 +5362,81 @@
     "title": "German Military Grounds Quantum Systems Drones Following Reported Cyberattack",
     "cves": [],
     "seen_at": "2026-11-16T11:14:16.331077"
+  },
+  "fdfe1d9ee66fc1775a42ab0deee1b12bba46f7f498cf7bc491f440553749c089": {
+    "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:30.413750"
+  },
+  "df39e103a38b09ec14db8409d328bda2352e56839028a23097c044e59ad4ecb8": {
+    "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:30.415923"
+  },
+  "b0fd42da7ccaf4cefab7bdb533738a59b8c5706447233e485cac4d7e0cfed88d": {
+    "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:33.105506"
+  },
+  "46633b5c12e41eebb04932eb158d15d55ed6b54960190c946157daaefc7f97a3": {
+    "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+    "cves": [
+      "CVE-2026-114713"
+    ],
+    "seen_at": "2026-11-16T14:56:33.107443"
+  },
+  "bcbffb7e748bbd8a6cf05859d63fa9f460a2277db150dc243efc615c877d93a0": {
+    "title": "Usable Security at Luxury Hotels",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:33.425704"
+  },
+  "379e3c5884f4215a47384640171b1c31c2bfdc420553443905be10ad94257b0e": {
+    "title": "Google warns that fully-automated AI attacks are coming soon",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:33.586426"
+  },
+  "efa138f5d2a675133908ac910d3aec1cef505e7820ed64cd110efc84a8caba60": {
+    "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:33.588506"
+  },
+  "d1e29b59e514a0492ce6f7ca7a364516bb67f54a3b115ad7b4faceac7ae3f5bf": {
+    "title": "Australian retail giant Coles investigates cybersecurity incident",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:33.590578"
+  },
+  "159d09ce818af351202e1f225bec51bf3d008cc3ae41f57447d3c2e9511c9b1e": {
+    "title": "From Report to Tested Detection in Hours: The ARTEX Signature Pack",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:34.316578"
+  },
+  "4825e2df80c79e37c312cee29d2c81fd82be7dd3ae6d2e7f0ce0bbf1c0f6a86f": {
+    "title": "Reducing the Opportunity for Exploitation with Edge Lockdown Mode",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:34.824379"
+  },
+  "f869f614674eec33b33f6582a6cb92dba8d3b37029bcf19abb86c762d3eb2820": {
+    "title": "ANY.RUN & KnowBe4 PhishER: Accelerate Phishing Triage with Behavioral Analysis",
+    "cves": [],
+    "seen_at": "2026-11-16T14:56:40.187133"
+  },
+  "349d3098759c6e2b13cc01c084ca194fd439b2a8aeae2e5760195a7a65009c86": {
+    "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "CVE-2026-40217",
+      "CVE-2026-81578",
+      "CVE-2026-82078"
+    ],
+    "seen_at": "2026-11-16T14:56:49.475553"
+  },
+  "ba724a9609b6d5c2f696fb5d0f6d57633a1f28aabe7c6e5cb2489801430b3140": {
+    "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+    "cves": [
+      "CVE-2026-42271",
+      "CVE-2026-48710"
+    ],
+    "seen_at": "2026-11-16T14:56:51.490347"
   }
 }
