@@ -5512,5 +5512,10 @@
       "CVE-2026-90436"
     ],
     "seen_at": "2026-11-16T18:52:34.067661"
+  },
+  "226d423ceb52da7491aea68867ec9915230b1e97bc9a089fad6e7c6aff476036": {
+    "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+    "cves": [],
+    "seen_at": "2026-11-16T19:52:42.656460"
   }
 }
