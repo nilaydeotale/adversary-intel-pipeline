@@ -5468,5 +5468,41 @@
     "title": "Cognitive warfare: the new battlefield is the human mind",
     "cves": [],
     "seen_at": "2026-11-16T16:39:27.253190"
+  },
+  "cad51bf95fc5d06ad9f6d2d8ecdd8f57ade76600c97d7433ce7a24ec0f41b6ec": {
+    "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+    "cves": [],
+    "seen_at": "2026-11-16T17:56:39.760043"
+  },
+  "61b3db15c85adeab22908205a8a053b3a5bc6b97414eebe707fe1464cef32e92": {
+    "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+    "cves": [],
+    "seen_at": "2026-11-16T17:56:39.763026"
+  },
+  "a42032c3fbe52449798f8154ab3cce2598c10bcdeea245a4c105cea32e0238db": {
+    "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+    "cves": [],
+    "seen_at": "2026-11-16T17:56:41.120684"
+  },
+  "03cc67f32e75bdef7a19b3a644f37687d644e85dc839e62d23b564851f788085": {
+    "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+    "cves": [],
+    "seen_at": "2026-11-16T17:56:41.816549"
+  },
+  "ab4377a47c829967500ae9e62a5ab217b04c62624a76b5eb8eda61e11e364c63": {
+    "title": "Introducing the Wiz AI Security Agent",
+    "cves": [],
+    "seen_at": "2026-11-16T17:56:55.206309"
+  },
+  "8eabd809d9c1cc3aa2340845bae283465dc7635777fcb670e0dec67b9f18be0d": {
+    "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)",
+    "cves": [
+      "CVE-2026-110385",
+      "CVE-2026-113627",
+      "CVE-2026-113630",
+      "CVE-2026-113631",
+      "CVE-2026-97727"
+    ],
+    "seen_at": "2026-11-16T17:56:56.666117"
   }
 }
