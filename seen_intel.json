@@ -5957,5 +5957,47 @@
     "title": "Security for the agentic era, powered by Microsoft Perception",
     "cves": [],
     "seen_at": "2026-11-17T20:03:58.720139"
+  },
+  "e32109cdda08632bec3170e2a68d4c9182f71b13a4c1ac892ffc9a11870eb40e": {
+    "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses",
+    "cves": [],
+    "seen_at": "2026-11-17T21:48:24.045670"
+  },
+  "c6bdba21ccec2ebb1df648d3ce5b94747f551da34587a9ad91833db205eda0a6": {
+    "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+    "cves": [],
+    "seen_at": "2026-11-17T21:48:25.446863"
+  },
+  "7a4c969eb9bc62eb6e3f4eda641a1aae411c3568d7a1c4b2cdc1923504108b0e": {
+    "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+    "cves": [],
+    "seen_at": "2026-11-17T21:48:26.033148"
+  },
+  "62f59d6ce769654984a4fe46bb64cf790ef7fe9b1f9364d2d475c58f259695c3": {
+    "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-17T21:48:26.037974"
+  },
+  "0a8bfc0c734f1d3f4b10d3e5873ece8544be1fb03a3bf77171230e0cff22c5f3": {
+    "title": "Apple Services Disrupted as NSA Network Goes Down and Equinor Faces Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-17T21:48:27.324035"
+  },
+  "b54db2dfb40751d062ab3f85361f9be2fa6080291060a7508eca89b25502a151": {
+    "title": "Fireworks AI Breach Exposes Uber Data and Highlights Supply Chain Risks",
+    "cves": [],
+    "seen_at": "2026-11-17T21:48:27.328445"
+  },
+  "14d4d10940baae935767f58c00efdc86b5150103380fbc6f9d61d89731737c42": {
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "cves": [
+      "CVE-2026-115731"
+    ],
+    "seen_at": "2026-11-17T21:48:35.622288"
+  },
+  "0c2b311ddc0d78e088cab5465259a30c771c2f46b7ef6d878ed39280f7d3aac0": {
+    "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+    "cves": [],
+    "seen_at": "2026-11-17T21:48:38.859349"
   }
 }

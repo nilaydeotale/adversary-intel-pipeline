@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-17 20:04 UTC",
+  "updated_utc": "2026-11-17 21:48 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1562,6 +1562,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses",
+      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-17T21:48:24.045661"
     },
     {
       "source": "SecurityWeek",
