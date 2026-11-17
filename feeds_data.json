@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-17 15:51 UTC",
+  "updated_utc": "2026-11-17 16:57 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -861,6 +861,39 @@
       "max_epss": 0.15532,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:32.535045"
+    },
+    {
+      "source": "Google Threat Intelligence",
+      "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
+      "score": 45,
+      "severity": "HIGH",
+      "stack_hits": [
+        "entra",
+        "mfa",
+        "oauth",
+        "sso"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [
+        "T1078.004",
+        "T1082",
+        "T1083",
+        "T1087.004",
+        "T1098.005",
+        "T1114.002",
+        "T1119",
+        "T1528",
+        "T1530",
+        "T1552.001",
+        "T1562.008",
+        "T1567.002",
+        "T1621"
+      ],
+      "detected_utc": "2026-11-17T16:57:33.471615"
     },
     {
       "source": "Rapid7 Blog",

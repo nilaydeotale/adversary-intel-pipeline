@@ -5794,5 +5794,109 @@
     "title": "Who Has Access to Claude? Bring AI Identity and Access Context Into Surface Command",
     "cves": [],
     "seen_at": "2026-11-17T15:51:30.855893"
+  },
+  "f91cd25f09eff292e1303eeeee816ff2dec64bd19b83d22d5b0c24fcb9856f37": {
+    "title": "Flipper Devices launches $399 \u2018Flipper One\u2019 Linux-based multi-tool",
+    "cves": [],
+    "seen_at": "2026-11-17T16:57:24.945078"
+  },
+  "ffd9529952ef5b19c1075997fabc23cd0494d4b1146fb1f96429e600271fdf1a": {
+    "title": "What Is Threat Intelligence Worth? 142 Security Teams Did the Math.",
+    "cves": [],
+    "seen_at": "2026-11-17T16:57:30.899121"
+  },
+  "5dad1659fb770cfd98baede022dea247b49c50dcab374de98054ef4ffa08826c": {
+    "title": "Siemens Mendix Studio Pro",
+    "cves": [
+      "CVE-2026-112136",
+      "CVE-2026-112137"
+    ],
+    "seen_at": "2026-11-17T16:57:31.301720"
+  },
+  "aa67ebafce14be3098b3c135c4e2540305002d624ff26cfa90b9c4e89f7090e8": {
+    "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+    "cves": [
+      "CVE-2026-85114",
+      "CVE-2026-85115"
+    ],
+    "seen_at": "2026-11-17T16:57:31.360245"
+  },
+  "e7c232fbbaabd3a390cf1514cb04d656f3d3f04c7963ad8a6f3013da2fbf7a81": {
+    "title": "Siemens meta-iot2050",
+    "cves": [
+      "CVE-2026-109830"
+    ],
+    "seen_at": "2026-11-17T16:57:31.392472"
+  },
+  "a3c952bc1c8321dc551430eebe843152fcd08f8c6831e4afd799ef355e8a3636": {
+    "title": "Siemens SIMATIC WinCC",
+    "cves": [
+      "CVE-2026-59082"
+    ],
+    "seen_at": "2026-11-17T16:57:31.394078"
+  },
+  "7a5f87c7366a4460e3126e36993ae6a2b4950dddb33c643cda0f56e1272038ca": {
+    "title": "Siemens RUGGEDCOM APE1808",
+    "cves": [
+      "CVE-2026-106175"
+    ],
+    "seen_at": "2026-11-17T16:57:31.395418"
+  },
+  "f6694bec9b4f76014ea21c17934c2d5116d55b5d321ee7fe8fa6fb891d1dcf92": {
+    "title": "Dorsett Controls InfoScan",
+    "cves": [
+      "CVE-2026-117659",
+      "CVE-2026-120157",
+      "CVE-2026-120255",
+      "CVE-2026-120260",
+      "CVE-2026-120271",
+      "CVE-2026-120298"
+    ],
+    "seen_at": "2026-11-17T16:57:31.456531"
+  },
+  "4f96cb3bd9c199854ce1d1f930ec71a098acabaa0ef3135f7a1bcf3759d8a399": {
+    "title": "Siemens Industrial Software Products",
+    "cves": [
+      "CVE-2026-111497"
+    ],
+    "seen_at": "2026-11-17T16:57:31.458187"
+  },
+  "f6212f97485b3883bbffd72d0ac78072c5eed995ecef17367885d918e4e6a723": {
+    "title": "Siemens Industrial Automation Software Products",
+    "cves": [
+      "CVE-2026-111497"
+    ],
+    "seen_at": "2026-11-17T16:57:31.459619"
+  },
+  "3d9e7bd0aed0b99613e0db92fa9f34139c4f7f8e32c436094ff63d2c5b910639": {
+    "title": "Siemens SIMATIC",
+    "cves": [
+      "CVE-2026-58114"
+    ],
+    "seen_at": "2026-11-17T16:57:31.462963"
+  },
+  "af037714f5a44a662679114ddafd723d8c8ada4bdbf1bbf51858e15cd867f78d": {
+    "title": "Siemens ROS#",
+    "cves": [
+      "CVE-2026-109097"
+    ],
+    "seen_at": "2026-11-17T16:57:31.464252"
+  },
+  "ec0da9ccb4abced13a438062dff6a7b01b602c575773e20196b4b4f9216f4654": {
+    "title": "Siemens Simcenter Femap",
+    "cves": [
+      "CVE-2026-64629"
+    ],
+    "seen_at": "2026-11-17T16:57:31.467363"
+  },
+  "6c8e28efeaa19660e9185ce38a1ff88ee21e1099c778ccc2170cf68187cd795b": {
+    "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
+    "cves": [],
+    "seen_at": "2026-11-17T16:57:34.014898"
+  },
+  "52d0c751f032c6b31071a35e7a6b486c49cbb92035aae948411e37c185d14f9d": {
+    "title": "The risks of device code authentication for AI coding agents",
+    "cves": [],
+    "seen_at": "2026-11-17T16:57:34.332520"
   }
 }
