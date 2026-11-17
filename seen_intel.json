@@ -5999,5 +5999,17 @@
     "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
     "cves": [],
     "seen_at": "2026-11-17T21:48:38.859349"
+  },
+  "1da75c9d2c1d4e38029bc86b47137e75459a353024cf52760038a3c9863eba03": {
+    "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+    "cves": [],
+    "seen_at": "2026-11-17T22:49:41.680035"
+  },
+  "a07df3224fdecae6428080b4c89edcdf9b474b73746ee3e8eb852b8ad7f09b1f": {
+    "title": "Critical Java Vulnerability Requires Immediate Patching",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-17T22:49:49.254789"
   }
 }
