@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-17 22:49 UTC",
+  "updated_utc": "2026-11-17 23:46 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1084,6 +1084,22 @@
       "detected_utc": "2026-11-02T15:52:37.623396"
     },
     {
+      "source": "Wiz Blog",
+      "title": "Microsoft agent-framework Compromised: Credential Stealer Targets Azure and CI Pipelines",
+      "link": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "azure"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-17T23:46:12.274166"
+    },
+    {
       "source": "BleepingComputer",
       "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
       "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
@@ -1562,6 +1578,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-17T23:46:03.957633"
     },
     {
       "source": "The Hacker News",

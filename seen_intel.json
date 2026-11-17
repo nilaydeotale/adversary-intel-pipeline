@@ -6011,5 +6011,22 @@
       "CVE-2026-114938"
     ],
     "seen_at": "2026-11-17T22:49:49.254789"
+  },
+  "401294525f4d8601c226dd33c08f7b62b91d80e29af73005d1dbf8cf7f4fecaa": {
+    "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+    "cves": [],
+    "seen_at": "2026-11-17T23:46:03.957641"
+  },
+  "415273661b562cf9366cdb6df5c92c69485edd74b80095ef04dfcfdf87cce604": {
+    "title": "CVE-2026-114938 RCE in OpenJDK: Everything You Need to Know",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-17T23:46:12.271245"
+  },
+  "6141dc9f6e0959f9ac8d415969af050ba69c2f39d76420b1aaabbd93cfa35a38": {
+    "title": "Microsoft agent-framework Compromised: Credential Stealer Targets Azure and CI Pipelines",
+    "cves": [],
+    "seen_at": "2026-11-17T23:46:12.274169"
   }
 }
