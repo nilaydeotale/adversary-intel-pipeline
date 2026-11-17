@@ -5592,5 +5592,10 @@
     "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
     "cves": [],
     "seen_at": "2026-11-17T02:09:21.717493"
+  },
+  "3ed2e2cbd2f9313761ae0ae192276277322fd9e177c41ced2c072af77bbe6142": {
+    "title": "Optimizely supply chain attack infects major brands' sites with malware",
+    "cves": [],
+    "seen_at": "2026-11-17T03:50:10.206751"
   }
 }
