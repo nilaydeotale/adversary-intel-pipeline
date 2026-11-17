@@ -5898,5 +5898,32 @@
     "title": "The risks of device code authentication for AI coding agents",
     "cves": [],
     "seen_at": "2026-11-17T16:57:34.332520"
+  },
+  "090e738efcf3210ceb800bd046bc4f815da4b07ebadff4a2cc6564d9efd66a9d": {
+    "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+    "cves": [],
+    "seen_at": "2026-11-17T18:58:35.744118"
+  },
+  "625cb74af016e909b774b21cd73cbe087b91e00758ce303fffa7b28ce4d5e6d8": {
+    "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+    "cves": [],
+    "seen_at": "2026-11-17T18:58:35.912095"
+  },
+  "152df9629c33e0bcb1732e9258d67e462ece57538d9481de2dbb4ffa415684be": {
+    "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+    "cves": [],
+    "seen_at": "2026-11-17T18:58:36.241117"
+  },
+  "edc078b990ac1606a10d8b8e3e23e89f38208c5f2a96df879640821efb87fba5": {
+    "title": "Tor releases emergency update amid ongoing DDoS attack",
+    "cves": [],
+    "seen_at": "2026-11-17T18:58:36.245019"
+  },
+  "f4908231b2fe24886f48cdce126e236c28c0c65b7c6794550b079e025972d19b": {
+    "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-17T19:01:04.474669"
   }
 }
