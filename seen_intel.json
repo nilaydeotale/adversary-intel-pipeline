@@ -5617,5 +5617,10 @@
     "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
     "cves": [],
     "seen_at": "2026-11-17T05:55:51.445368"
+  },
+  "1b4ded4a5698cb489589887c8899724c3a56f56226681f4c4f29fa151b6ccf5f": {
+    "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+    "cves": [],
+    "seen_at": "2026-11-17T07:08:54.245178"
   }
 }
