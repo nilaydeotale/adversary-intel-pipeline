@@ -5925,5 +5925,37 @@
       "CVE-2026-114938"
     ],
     "seen_at": "2026-11-17T19:01:04.474669"
+  },
+  "906bd5be88b234c57bc6fb2eddb9f0b44e1c0260ac3918fbba2e160ce7a9871d": {
+    "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-17T20:03:40.390882"
+  },
+  "854ae49bcf478b065ddae11abcb43819e5737f429414be8aab5d976f2758b9c5": {
+    "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+    "cves": [],
+    "seen_at": "2026-11-17T20:03:40.393522"
+  },
+  "482ef54281fe72a73db4975b2d3815691b47d41a7b75d03c21166da097dc9ecc": {
+    "title": "How to Tell If It\u2019s a Cyberattack or Just an Outage",
+    "cves": [],
+    "seen_at": "2026-11-17T20:03:41.146721"
+  },
+  "ac6a488391862f6f68fc70bf54e35d9c7a907ad932764a1758e5e81063a4aca5": {
+    "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+    "cves": [],
+    "seen_at": "2026-11-17T20:03:42.639157"
+  },
+  "0f9cec88ee1b2d5c3708faac21b2b028292138d5002f469345bdd19417609163": {
+    "title": "Maintainers don\u2019t need more AI bug reports. They need fixes.",
+    "cves": [],
+    "seen_at": "2026-11-17T20:03:43.683166"
+  },
+  "5daa1d7017985c485a76ea124868c7e12c2ba5306671d5fa316f745b05c85c84": {
+    "title": "Security for the agentic era, powered by Microsoft Perception",
+    "cves": [],
+    "seen_at": "2026-11-17T20:03:58.720139"
   }
 }
