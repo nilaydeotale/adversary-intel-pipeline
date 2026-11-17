@@ -5597,5 +5597,20 @@
     "title": "Optimizely supply chain attack infects major brands' sites with malware",
     "cves": [],
     "seen_at": "2026-11-17T03:50:10.206751"
+  },
+  "2be950adbadf7b0324f74bc735735fd2db5445c5027eaef12b2b98869b53db79": {
+    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+    "cves": [],
+    "seen_at": "2026-11-17T04:54:34.660695"
+  },
+  "ca905231e3b9716a34c19967892a5010b6e72b4ecaef3fbcd6c10a3e24729837": {
+    "title": "2026-11-13: Clearfake ClickFix pushes ACR/Amatera Stealer on Windows host",
+    "cves": [],
+    "seen_at": "2026-11-17T04:54:38.456727"
+  },
+  "333f5800bd1d39f5c2d81943f0c92511efb8e3d9707bd3d5ca6404e4d42948ea": {
+    "title": "2026-11-12: Clearfake ClickFix pushes Essential macOS Stealer",
+    "cves": [],
+    "seen_at": "2026-11-17T04:54:38.459635"
   }
 }
