@@ -5612,5 +5612,10 @@
     "title": "2026-11-12: Clearfake ClickFix pushes Essential macOS Stealer",
     "cves": [],
     "seen_at": "2026-11-17T04:54:38.459635"
+  },
+  "f4b3533b33f50b76aaa6910574946558598ce388b9a01901540b38770e7b5425": {
+    "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+    "cves": [],
+    "seen_at": "2026-11-17T05:55:51.445368"
   }
 }
