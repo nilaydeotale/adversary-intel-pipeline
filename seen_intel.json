@@ -5769,5 +5769,30 @@
     "title": "Fake FMCSA, DAT, and TIMOCOM Portals: 3 Cyberattacks Targeting US Logistics",
     "cves": [],
     "seen_at": "2026-11-17T14:16:39.996909"
+  },
+  "d2e3e65b5854e27dd16d1a2dce8cf6617076d56dcaee74c08a5b42426d00af95": {
+    "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+    "cves": [],
+    "seen_at": "2026-11-17T15:51:16.249290"
+  },
+  "3e6addc8752c31826045da7ccfefbae5502242de81373887a4051981a00bf372": {
+    "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+    "cves": [],
+    "seen_at": "2026-11-17T15:51:16.432711"
+  },
+  "d702db5773c620e9d6695effba3f728650c8a8f8b39c6ce9d9c86741f707d8cc": {
+    "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+    "cves": [],
+    "seen_at": "2026-11-17T15:51:16.850639"
+  },
+  "b09c7912e061bf7c257b1de6df8231afbdd916b07c193de4df993b4ef55ec953": {
+    "title": "Fridge Controller Attacks: Researchers Find Six Zero-Days in an Hour",
+    "cves": [],
+    "seen_at": "2026-11-17T15:51:17.542139"
+  },
+  "a126d4885d3e65628dc26107540d3ad7190eb91eb605860efc0c2ee2fffe8932": {
+    "title": "Who Has Access to Claude? Bring AI Identity and Access Context Into Surface Command",
+    "cves": [],
+    "seen_at": "2026-11-17T15:51:30.855893"
   }
 }
