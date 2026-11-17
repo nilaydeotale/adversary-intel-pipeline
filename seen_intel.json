@@ -5672,5 +5672,35 @@
     "title": "The 7 Best SOC Platforms For Modern Security Teams in 2027",
     "cves": [],
     "seen_at": "2026-11-17T10:59:39.353141"
+  },
+  "bd40c85c3d0a50a0eb117108f24e8ef56d06ac8be2dad37252ed55723218cedd": {
+    "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+    "cves": [],
+    "seen_at": "2026-11-17T11:52:21.581707"
+  },
+  "2e10d7ac4f0c20fb47a8e30c8176d860eff6b2cb9b5f2f6ba03f4bf69eab8f75": {
+    "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+    "cves": [],
+    "seen_at": "2026-11-17T11:52:21.584105"
+  },
+  "9c8bfbe609059c793edb9616218b12961c57550e1674d205e40b5ce493d58c5d": {
+    "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+    "cves": [],
+    "seen_at": "2026-11-17T11:52:24.676897"
+  },
+  "1b1489fbc8bcbefc7e2a58a927bd75194f5886965cf41803b20c68f8c45cf22a": {
+    "title": "Infoblox Confirms Supply Chain Breach After Attackers Access Sensitive Data",
+    "cves": [],
+    "seen_at": "2026-11-17T11:52:25.476577"
+  },
+  "aabb6d3d709ee877dcbdf48a724655e51c2f560c6e4fe02cbc224a9131be64e6": {
+    "title": "3 Cybercrime Campaigns Targeting US Logistics: How Attackers Exploit Freight Workflows",
+    "cves": [],
+    "seen_at": "2026-11-17T11:52:32.767772"
+  },
+  "721b2819ac70ab0523071e083e1dd0bc611986d1ca923c9710da1c855d1745a7": {
+    "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
+    "cves": [],
+    "seen_at": "2026-11-17T11:52:40.802145"
   }
 }
