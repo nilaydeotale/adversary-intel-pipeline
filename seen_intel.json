@@ -5727,5 +5727,47 @@
     "title": "Formal Verification of the Signal Protocol Using AI",
     "cves": [],
     "seen_at": "2026-11-17T12:57:02.953517"
+  },
+  "d4dd121328637fd930630a5dfbd463cba2776b5e08ccd9615823fc714e3b9832": {
+    "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+    "cves": [],
+    "seen_at": "2026-11-17T14:16:31.561232"
+  },
+  "50da4dd7d67f5e92b001f53cddf32a8e0a9b5ac31b12d8d8f1f3a6be8701178f": {
+    "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
+    "cves": [],
+    "seen_at": "2026-11-17T14:16:31.563101"
+  },
+  "83657bbc4a017ac6c65cbb36105e2f99a76c87839ee9d7929f654a593de54336": {
+    "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+    "cves": [],
+    "seen_at": "2026-11-17T14:16:31.673915"
+  },
+  "6424e4dc46bcf3f4acf1ddfdfa828db3692e94a5ef5c48666d580ec445f8640e": {
+    "title": "PreTxt Emerges Stealth with $5M Seed and an AI Supervision Tool",
+    "cves": [],
+    "seen_at": "2026-11-17T14:16:31.677116"
+  },
+  "3f1e22eedfa5386765c84bd73963b118bb9bc77ab222de0f7f07fc1c18a6eeba": {
+    "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+    "cves": [
+      "CVE-2026-84869"
+    ],
+    "seen_at": "2026-11-17T14:16:31.679996"
+  },
+  "85a83fc373ae8da72d96faffa39df82546080b3489d7fd7845d69ea8837196f4": {
+    "title": "Access Dental Management Data Breach Impacts Over 340,000",
+    "cves": [],
+    "seen_at": "2026-11-17T14:16:31.683108"
+  },
+  "6d4ef716bbd7ca887890ec2d09e0cce7d18a99c67413779f8d88154a6d13f156": {
+    "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
+    "cves": [],
+    "seen_at": "2026-11-17T14:16:31.686194"
+  },
+  "e1f888c50ab82dcde2fa59579b6083bd34e21e52a38c3e1f9630f2f72d90db89": {
+    "title": "Fake FMCSA, DAT, and TIMOCOM Portals: 3 Cyberattacks Targeting US Logistics",
+    "cves": [],
+    "seen_at": "2026-11-17T14:16:39.996909"
   }
 }
