@@ -5622,5 +5622,20 @@
     "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
     "cves": [],
     "seen_at": "2026-11-17T07:08:54.245178"
+  },
+  "b7ea96ddb6e623f776a2372c6f10c7a9dd2903e77486222592adfa2d0f9ae02f": {
+    "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+    "cves": [],
+    "seen_at": "2026-11-17T08:54:31.092060"
+  },
+  "4fd789d59e7786a3b66b999187536e0d0963c29237b2063e30522aacd93f9f53": {
+    "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+    "cves": [],
+    "seen_at": "2026-11-17T08:54:34.754457"
+  },
+  "82d8dc590c394aeeb9e1a1bde39300d238fab84a0a1154add9a01c90aea1a7d2": {
+    "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+    "cves": [],
+    "seen_at": "2026-11-17T08:54:34.756733"
   }
 }

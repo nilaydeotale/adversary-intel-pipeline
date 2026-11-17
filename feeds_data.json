@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-17 07:09 UTC",
+  "updated_utc": "2026-11-17 08:54 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1529,6 +1529,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-17T08:54:34.756730"
     },
     {
       "source": "Dark Reading",
