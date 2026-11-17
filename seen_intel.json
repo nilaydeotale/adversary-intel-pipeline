@@ -5652,5 +5652,25 @@
     "title": "A Glimpse Into The India-China Cyber Espionage Landscape",
     "cves": [],
     "seen_at": "2026-11-17T09:57:33.517581"
+  },
+  "62ab6da20b7f156ba1b65e16e25c62eb372ab87086f9fb2fd0e3bf0934c3e41d": {
+    "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
+    "cves": [],
+    "seen_at": "2026-11-17T10:59:34.358910"
+  },
+  "cdc9d207f73484cf2a6a096addfd6b359c45a48f890c982ec645cc02b2616b41": {
+    "title": "OPTIMJACK: BBC, CNN and Zoom Among Targets of Optimizely Script Hijacking",
+    "cves": [],
+    "seen_at": "2026-11-17T10:59:35.245851"
+  },
+  "eca1e936012a8efc2a7bf0a646dbb203edab321ee46f35a35b366244374a8de6": {
+    "title": "Best Cybersecurity Platforms For Modern Security Teams",
+    "cves": [],
+    "seen_at": "2026-11-17T10:59:39.351338"
+  },
+  "946218e6cea19713d0defd099141e93f0f4995da96bcf1a4dd58dc092571b92d": {
+    "title": "The 7 Best SOC Platforms For Modern Security Teams in 2027",
+    "cves": [],
+    "seen_at": "2026-11-17T10:59:39.353141"
   }
 }
