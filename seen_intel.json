@@ -5587,5 +5587,10 @@
     "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
     "cves": [],
     "seen_at": "2026-11-17T00:56:27.978876"
+  },
+  "e39add2c7f20d68affc5477f6be3dcd43d3a5745e260a6018b9270ef06cf0c0a": {
+    "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
+    "cves": [],
+    "seen_at": "2026-11-17T02:09:21.717493"
   }
 }
