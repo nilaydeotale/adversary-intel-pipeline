@@ -5572,5 +5572,20 @@
     "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
     "cves": [],
     "seen_at": "2026-11-16T23:39:29.769399"
+  },
+  "1cc302b78011ea4d77ad40ef7bb28c791837ebe3e60f18f7d9ad95ac39e44ae7": {
+    "title": "VideoLan VLC NUV File keyframe Out-Of-Bounds Read Vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-17T00:56:18.792770"
+  },
+  "9c5d0f4212f48c6fb5a775a7349dc5bf5d0fca447759b5d24f7258c694748d8a": {
+    "title": "VideoLan VLC Interplay MVE File Uninitialized Variable Memory Corruption Vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-17T00:56:18.795805"
+  },
+  "ba21025419848a6f93aaad1e08d5f95c363e24526cacac5efdaa1a4395774132": {
+    "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+    "cves": [],
+    "seen_at": "2026-11-17T00:56:27.978876"
   }
 }
