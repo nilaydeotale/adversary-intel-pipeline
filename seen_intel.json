@@ -5702,5 +5702,30 @@
     "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
     "cves": [],
     "seen_at": "2026-11-17T11:52:40.802145"
+  },
+  "315d9c2444b74063184a75c7b81e09a2c96daff6ca5b49709c5a2647b5b02158": {
+    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+    "cves": [],
+    "seen_at": "2026-11-17T12:57:01.318406"
+  },
+  "cc6d12a80cfdab8d09ff0d78770ad41e23de80ea70dd641e2a35270f39a37a55": {
+    "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+    "cves": [],
+    "seen_at": "2026-11-17T12:57:01.320782"
+  },
+  "7fef00163a28105fba9658744bf05515e106a74a6f1e1c4cdad3f1dcda0c1ae6": {
+    "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+    "cves": [],
+    "seen_at": "2026-11-17T12:57:02.525291"
+  },
+  "8ce4e2b450d00935905af68a27c747f3e460b353524fb6eb3912350053001d0a": {
+    "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+    "cves": [],
+    "seen_at": "2026-11-17T12:57:02.527627"
+  },
+  "106a78f0a603c9eaef68e544c89e8226ceaa1541a674481b8284f98a709fcb5c": {
+    "title": "Formal Verification of the Signal Protocol Using AI",
+    "cves": [],
+    "seen_at": "2026-11-17T12:57:02.953517"
   }
 }
