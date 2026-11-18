@@ -6067,5 +6067,39 @@
     "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
     "cves": [],
     "seen_at": "2026-11-18T07:14:43.261300"
+  },
+  "519108db25d80a709180ae1bfe6bab3413fb41658327130ef12e87d1f5cb9263": {
+    "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+    "cves": [],
+    "seen_at": "2026-11-18T08:56:58.441245"
+  },
+  "6294c1eb0bc87a88d6ac6d3ef848f5bf37edee8616c846ea1bdbc7962c86b87f": {
+    "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-18T08:56:58.445086"
+  },
+  "5b14620d5241198c1f54dfbc3f23d004ea44a9bb2479d6aeab47a60cc7870536": {
+    "title": "Oracle Patches 640 Vulnerabilities With November 2026 CSPU",
+    "cves": [],
+    "seen_at": "2026-11-18T08:56:59.960002"
+  },
+  "67231f356d2af1e3e1befaf9b8c8576f49caf94bbace03f6cbc541ddb4a6d25a": {
+    "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+    "cves": [],
+    "seen_at": "2026-11-18T08:56:59.964034"
+  },
+  "bf57716dd6e61456ae1758c0146c6f57a48609d9177f5b6afb1a26b225b1e187": {
+    "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+    "cves": [],
+    "seen_at": "2026-11-18T08:57:00.357801"
+  },
+  "1305a00a0e6fedb40fd070b4699b5f03c987066653669e0f38697521f04e955a": {
+    "title": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-18T08:57:11.654110"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18 07:14 UTC",
+  "updated_utc": "2026-11-18 08:57 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1578,6 +1578,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+      "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-18T08:56:59.964029"
     },
     {
       "source": "BleepingComputer",
