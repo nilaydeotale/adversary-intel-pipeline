@@ -6028,5 +6028,22 @@
     "title": "Microsoft agent-framework Compromised: Credential Stealer Targets Azure and CI Pipelines",
     "cves": [],
     "seen_at": "2026-11-17T23:46:12.274169"
+  },
+  "baffd5513b43447c0e05146baad03fad81f85da7517423338c63ce63d5a39426": {
+    "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+    "cves": [],
+    "seen_at": "2026-11-18T02:46:40.140445"
+  },
+  "cd860ec812275f9139cee8ff7fc1134d09b150b54542b6066dee64e699aa2631": {
+    "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-18T02:46:49.289532"
+  },
+  "314c7c7d588c517f3347e34693d43121bae1e3567653c174b72382273ee9d820": {
+    "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+    "cves": [],
+    "seen_at": "2026-11-18T02:46:50.553564"
   }
 }
