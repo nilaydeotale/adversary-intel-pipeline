@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18 19:55 UTC",
+  "updated_utc": "2026-11-18 20:50 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1613,6 +1613,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+      "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-18T20:50:32.067208"
     },
     {
       "source": "The Hacker News",

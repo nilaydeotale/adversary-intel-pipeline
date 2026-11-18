@@ -6360,5 +6360,22 @@
     "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
     "cves": [],
     "seen_at": "2026-11-18T19:55:28.878121"
+  },
+  "04df2c6ce701e48a4e6c5de2a3f58c1808ae798a27f83d44bd3d35ee2563ca6b": {
+    "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+    "cves": [],
+    "seen_at": "2026-11-18T20:50:32.067222"
+  },
+  "ac6a9c03b3f7b9e43d8c0c6e3cb38f4125ff8423861a8583e75a9cb6db4970fb": {
+    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+    "cves": [],
+    "seen_at": "2026-11-18T20:50:32.814766"
+  },
+  "c43ace5a4dfce578379aafcbba300dc476bb45f1dec07834af71fa7a9dc30ca1": {
+    "title": "Apache Roller RCE Flaw CVE-2026-129448 Under Active Attack",
+    "cves": [
+      "CVE-2026-129448"
+    ],
+    "seen_at": "2026-11-18T20:50:33.396558"
   }
 }
