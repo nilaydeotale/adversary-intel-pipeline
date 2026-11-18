@@ -6311,5 +6311,20 @@
     "title": "Criminals Have a New Favorite \u2018Point-and-Shoot\u2019 AI Hacking Tool",
     "cves": [],
     "seen_at": "2026-11-18T16:58:30.469676"
+  },
+  "76f05f5edf9b6368739a2256f52e1df4dfe8d561e5148240da693533dc5dbf62": {
+    "title": "Artex Is Criminals\u2019 New Favorite \u2018Point-and-Shoot\u2019 AI Hacking Tool",
+    "cves": [],
+    "seen_at": "2026-11-18T17:56:26.041119"
+  },
+  "3414cda977d42ba1eb8af1d3f070851650fcd83c7bd68a735dda343df4a0b1a4": {
+    "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
+    "cves": [],
+    "seen_at": "2026-11-18T17:56:27.238706"
+  },
+  "d711bec01af9cbf48a3bab2eb5c468cc989b1f58c3bd4f13b51cebb8c19c5c8c": {
+    "title": "Microsoft\u2019s Agent Framework PyPI package compromised to steal credentials",
+    "cves": [],
+    "seen_at": "2026-11-18T17:56:27.482180"
   }
 }
