@@ -6397,5 +6397,15 @@
     "title": "Cold Relic Turns One Cloud Breach Into Another",
     "cves": [],
     "seen_at": "2026-11-18T22:49:03.757774"
+  },
+  "1152463476b5b6a350b9eaf4e995667e85a235b5bdddb23a0e17d60f316c8bc4": {
+    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+    "cves": [],
+    "seen_at": "2026-11-18T23:46:39.910464"
+  },
+  "79e0d2da80eb8615086f89c2cf6da955e7bc73e16d4e85ea2bc25f2a83cdd642": {
+    "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+    "cves": [],
+    "seen_at": "2026-11-18T23:46:40.264025"
   }
 }

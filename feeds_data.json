@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18 22:49 UTC",
+  "updated_utc": "2026-11-18 23:51 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1613,6 +1613,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-18T23:46:40.264018"
     },
     {
       "source": "Dark Reading",

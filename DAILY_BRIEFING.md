@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-18 20:50 UTC | TLP:AMBER*
+*Last Updated: 2026-11-18 23:51 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | Dark Reading | [AttackIQ Research Reveals How Iranian Cyber Groups Hand...](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups) | - | `Threat` |
+| **LOW** | `25` | BleepingComputer | [Ukraine, FBI arrest ransomware gang members tied to $40...](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/) | - | `Threat` |
