@@ -6062,5 +6062,10 @@
       "CVE-2026-114938"
     ],
     "seen_at": "2026-11-18T05:58:24.102648"
+  },
+  "6dca88e84023da0cdff107fd05ddc4e64e9a376d80be8249366e6d156a3def40": {
+    "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+    "cves": [],
+    "seen_at": "2026-11-18T07:14:43.261300"
   }
 }
