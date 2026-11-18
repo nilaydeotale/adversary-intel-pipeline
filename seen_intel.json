@@ -6045,5 +6045,10 @@
     "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
     "cves": [],
     "seen_at": "2026-11-18T02:46:50.553564"
+  },
+  "6ea0978eb53acc87b894b1eb40991241f5bb65065904d1f82fbf7a9c44c19039": {
+    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+    "cves": [],
+    "seen_at": "2026-11-18T03:51:23.333034"
   }
 }
