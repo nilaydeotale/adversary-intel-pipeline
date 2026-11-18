@@ -6050,5 +6050,10 @@
     "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
     "cves": [],
     "seen_at": "2026-11-18T03:51:23.333034"
+  },
+  "b2260228f592a03969a0f02abbac3dc8ba49c3f02db6d765f39d4fa73bfd305f": {
+    "title": "2026-11-16: Unidentified ClickFix pushes NetSupport RAT",
+    "cves": [],
+    "seen_at": "2026-11-18T04:55:46.637259"
   }
 }
