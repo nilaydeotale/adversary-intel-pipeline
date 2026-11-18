@@ -6306,5 +6306,10 @@
       "CVE-2026-123007"
     ],
     "seen_at": "2026-11-18T15:55:30.294839"
+  },
+  "0224caf0e4efb84b4e0902a00cd4af755744e7efb723d98b61f74c4de8f62430": {
+    "title": "Criminals Have a New Favorite \u2018Point-and-Shoot\u2019 AI Hacking Tool",
+    "cves": [],
+    "seen_at": "2026-11-18T16:58:30.469676"
   }
 }
