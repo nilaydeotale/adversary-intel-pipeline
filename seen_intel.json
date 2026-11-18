@@ -6101,5 +6101,41 @@
       "CVE-2026-114938"
     ],
     "seen_at": "2026-11-18T08:57:11.654110"
+  },
+  "92ec8efc7b0197cbeea573d48559f76eaedc813786cdea9f388292304214d0aa": {
+    "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+    "cves": [
+      "CVE-2026-115731"
+    ],
+    "seen_at": "2026-11-18T09:58:48.754399"
+  },
+  "4ea33f3fbc3676f88ca4a3bcb49162dd2c3f0356b709251ad6ccd41044f6490c": {
+    "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-18T09:58:48.757560"
+  },
+  "3eb883a701a0578864d88122bee22a4fc5c37dad438a7595254412f683c9a56f": {
+    "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+    "cves": [],
+    "seen_at": "2026-11-18T09:58:49.497851"
+  },
+  "8ee365a3f0c1b4ef2e991bde1f2e2f10c64017d7b877de1789d4ac6bc10aa846": {
+    "title": "Microsoft announces Windows Server 2028 with hardened security",
+    "cves": [],
+    "seen_at": "2026-11-18T09:58:49.791780"
+  },
+  "dc60e71b0ce2921c89cf8da48907e950d29fefd1bce58e516e2d307e2953a4ef": {
+    "title": "U.S. CISA adds Perforce Puppet Enterprise\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+    "cves": [
+      "CVE-2026-115731"
+    ],
+    "seen_at": "2026-11-18T09:58:50.419012"
+  },
+  "3d779b055222428feba213500275f1b41f94e9cccfe2ac46749fe0a07f45b216": {
+    "title": "Run and Scale Your MSSP or SOC Like Never Before: Meet ANY.RUN\u2019s Multi-Tenant Teamspace",
+    "cves": [],
+    "seen_at": "2026-11-18T09:58:56.054415"
   }
 }
