@@ -6326,5 +6326,39 @@
     "title": "Microsoft\u2019s Agent Framework PyPI package compromised to steal credentials",
     "cves": [],
     "seen_at": "2026-11-18T17:56:27.482180"
+  },
+  "ceb15ac8cda98212a92f18c88b340afc0345829382ac74d9e64a1590a861a987": {
+    "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+    "cves": [
+      "CVE-2026-123007"
+    ],
+    "seen_at": "2026-11-18T19:55:18.223282"
+  },
+  "e7999b9d1e1050793b11cc47a4c99bd0efa2e04954cb6e868a65c498106088a3": {
+    "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+    "cves": [],
+    "seen_at": "2026-11-18T19:55:18.229387"
+  },
+  "0cd6acf130c8bcd362352594a394bf3b7216c0f6d5c789e9596c2651269caef8": {
+    "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+    "cves": [
+      "CVE-2026-129448"
+    ],
+    "seen_at": "2026-11-18T19:55:18.278354"
+  },
+  "954df4c31e78a2a779e7abc3854348eb05407022fd90cf167624dc2146ba3fe1": {
+    "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+    "cves": [],
+    "seen_at": "2026-11-18T19:55:18.493577"
+  },
+  "c60af3614fa9d04970782e5c179c03d1290f71d21213d98a0a9138318f1fa3d7": {
+    "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+    "cves": [],
+    "seen_at": "2026-11-18T19:55:19.312311"
+  },
+  "18c04acc7327d3fb5069af21f4c9a4d0002e26628b9c43cf966b157b77535b9d": {
+    "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
+    "cves": [],
+    "seen_at": "2026-11-18T19:55:28.878121"
   }
 }

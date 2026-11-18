@@ -1,6 +1,7 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-18 15:55 UTC | TLP:AMBER*
+*Last Updated: 2026-11-18 19:55 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | 0day Fans | [The State of Ransomware Q3 2026...](https://research.checkpoint.com/2026/the-state-of-ransomware-q3-2026/) | - | `Threat` |
+| **MEDIUM** | `40` | The Hacker News | [Critical Apache Roller RCE Flaw Under Active Exploitati...](https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html) | CVE-2026-129448 | `Threat` |
+| **LOW** | `25` | The Hacker News | [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in S...](https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html) | - | `Threat` |

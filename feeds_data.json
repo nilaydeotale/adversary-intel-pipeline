@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18 18:52 UTC",
+  "updated_utc": "2026-11-18 19:55 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -896,6 +896,25 @@
       "detected_utc": "2026-11-17T16:57:33.471615"
     },
     {
+      "source": "The Hacker News",
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild",
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-129448"
+      ],
+      "in_kev": [],
+      "max_epss": 0.0164,
+      "mitre": [],
+      "detected_utc": "2026-11-18T19:55:18.278347"
+    },
+    {
       "source": "Rapid7 Blog",
       "title": "Rapid7 Detected Exploitation of CVE-2026-90436 against Atlassian Confluence Data Center, N-able N-central also Exploited",
       "link": "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited",
@@ -1594,6 +1613,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-18T19:55:18.229381"
     },
     {
       "source": "0day Fans",
