@@ -6251,5 +6251,60 @@
     "title": "Open by Default, Already Occupied: Threat Actors are Renting your Compute",
     "cves": [],
     "seen_at": "2026-11-18T14:51:59.227533"
+  },
+  "256f7efad99adbac144dbf5c90f65f2e2211a7932e3e85b78beca2f68dc3961e": {
+    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+    "cves": [],
+    "seen_at": "2026-11-18T15:55:15.960954"
+  },
+  "7ce1d47f75837a218783132f265e3795558b5797852c8198e1fc1577b0c04cac": {
+    "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+    "cves": [],
+    "seen_at": "2026-11-18T15:55:17.614981"
+  },
+  "dea33d2797b12d6f21906147ee8f80ebeec009044df05fab6cf367b624a188b3": {
+    "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
+    "cves": [],
+    "seen_at": "2026-11-18T15:55:17.619131"
+  },
+  "f1f99bbdb4a19283702bbb0c71b9f07411f6a7ccad5e02673375f1e1d73cc2c8": {
+    "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+    "cves": [],
+    "seen_at": "2026-11-18T15:55:18.097643"
+  },
+  "1aac47103394f80b698ee39f412d6beef8c98cd28afbcd4ce1c0e397f871ec09": {
+    "title": "Scattered Spider Member Gets Six Years for Phishing and SIM-Swapping Attacks",
+    "cves": [],
+    "seen_at": "2026-11-18T15:55:18.553646"
+  },
+  "19a4ce5d819edce6a936e63a947540daad2c406abc81abf54c76bd8658b281f3": {
+    "title": "The State of Ransomware Q3 2026",
+    "cves": [],
+    "seen_at": "2026-11-18T15:55:18.852028"
+  },
+  "f3e13e54be496d2322dcaaa31cf5b20879dcde920e4f668d2abac808835de464": {
+    "title": "Zen 1 PSP bootrom exploit",
+    "cves": [],
+    "seen_at": "2026-11-18T15:55:18.856059"
+  },
+  "26fab79a6753e4625c427855abbc7100fa734ad03bc0e14bb638f828f2959c3b": {
+    "title": "Recorded Future Launches New Automation Capabilities for Tech Stack Watch List",
+    "cves": [],
+    "seen_at": "2026-11-18T15:55:25.572276"
+  },
+  "ebf36d35e4cf37ec7a8d87c1c2bed6004e0ee80dea58d4bf7f9b6d2f68ef0560": {
+    "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+    "cves": [
+      "CVE-2026-123007",
+      "CVE-2026-123633"
+    ],
+    "seen_at": "2026-11-18T15:55:29.704195"
+  },
+  "d0e29cefb70a47ccdca4217d289cf176220704c2c33deda28d91e99184b291b9": {
+    "title": "CVE-2026-123007: Critical NGINX HTTP/2 Integer Underflow Leads to RCE (FIXED)",
+    "cves": [
+      "CVE-2026-123007"
+    ],
+    "seen_at": "2026-11-18T15:55:30.294839"
   }
 }

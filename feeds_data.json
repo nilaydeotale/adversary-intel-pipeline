@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18 14:51 UTC",
+  "updated_utc": "2026-11-18 15:55 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1594,6 +1594,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "0day Fans",
+      "title": "The State of Ransomware Q3 2026",
+      "link": "https://research.checkpoint.com/2026/the-state-of-ransomware-q3-2026/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-18T15:55:18.852019"
     },
     {
       "source": "Dark Reading",
