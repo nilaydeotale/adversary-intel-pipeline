@@ -6055,5 +6055,12 @@
     "title": "2026-11-16: Unidentified ClickFix pushes NetSupport RAT",
     "cves": [],
     "seen_at": "2026-11-18T04:55:46.637259"
+  },
+  "feae4803a4a0f2577e6d9e52924a2aa7c206f618de76dd60e35521988bc91986": {
+    "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-18T05:58:24.102648"
   }
 }
