@@ -6392,5 +6392,10 @@
       "CVE-2026-90817"
     ],
     "seen_at": "2026-11-18T21:48:31.839691"
+  },
+  "aaa51dcb9bddb3424595cfcffc60d5f3b1408d106b885a1eee4ceb33e2280420": {
+    "title": "Cold Relic Turns One Cloud Breach Into Another",
+    "cves": [],
+    "seen_at": "2026-11-18T22:49:03.757774"
   }
 }
