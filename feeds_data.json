@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18 11:04 UTC",
+  "updated_utc": "2026-11-18 13:00 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1082,6 +1082,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+      "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "azure"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-18T13:00:33.272492"
     },
     {
       "source": "Wiz Blog",

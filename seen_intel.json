@@ -6159,5 +6159,57 @@
     "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
     "cves": [],
     "seen_at": "2026-11-18T11:04:05.811788"
+  },
+  "b7d037d2ebe98bafdab5f8cb36326a217c72bff590088be91a2ed1f6bbfaadaa": {
+    "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+    "cves": [],
+    "seen_at": "2026-11-18T13:00:32.132187"
+  },
+  "b2dfdf813858f27a6bce751ee9888f3f10021d2d28682cd5dbc2edaf692043de": {
+    "title": "Quality Isn\u2019t The Main Worry About AI Pentesting \u2014 Data Privacy and Production Safety Are",
+    "cves": [],
+    "seen_at": "2026-11-18T13:00:32.136623"
+  },
+  "a0fb660ca63281b7c5ffdf2bf7aedb04521b86a521e9a393bb589a5b98acb4f4": {
+    "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+    "cves": [],
+    "seen_at": "2026-11-18T13:00:33.259707"
+  },
+  "69e3c8c51b5c31e67649e5848fcb5e161c05af9250f041b99a67aa3494cea865": {
+    "title": "CISO Conversations: Patti Degnan \u2013 Part of the Job Is Deciding What Not to Do",
+    "cves": [],
+    "seen_at": "2026-11-18T13:00:33.264031"
+  },
+  "47af63d768715841842460dab17348de928a6c65b391d17b45d26aed0c065ce2": {
+    "title": "Chrome 158 Patches 204 Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-18T13:00:33.268178"
+  },
+  "88cb4e3e0eb9c6b99c2ff5481a7590c0e13d054decbdd62d58bfa165c454fba6": {
+    "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+    "cves": [],
+    "seen_at": "2026-11-18T13:00:33.272497"
+  },
+  "848f84371f262f7a7deeeffd694f81d650159c3bf39d1944a8801a75b67ee539": {
+    "title": "France Is Blaming Iran for the Fridge Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-18T13:00:33.606674"
+  },
+  "cf71364ff7b2b359eb283aa6d4baf3dc1e2b4647d83c6d50d9cf1609c87608e2": {
+    "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+    "cves": [],
+    "seen_at": "2026-11-18T13:00:33.708176"
+  },
+  "d6c535394975ec560a8caa238047ba489f554c1cc28362923a76563dcd03d178": {
+    "title": "Norwegian Gas Giant Equinor Says It\u2019s Under Cyberattack. Production Keeps Running",
+    "cves": [],
+    "seen_at": "2026-11-18T13:00:34.201047"
+  },
+  "aec31250205b61ac09cc27e7879dc950ff30987042ea406081845732e4899ebc": {
+    "title": "65 Characters to RCE: Inside the Java4Shell Vulnerability",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "seen_at": "2026-11-18T13:00:34.205190"
   }
 }

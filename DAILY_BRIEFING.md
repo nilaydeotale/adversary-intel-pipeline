@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-18 11:04 UTC | TLP:AMBER*
+*Last Updated: 2026-11-18 13:00 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | BleepingComputer | [Apache warns of Roller RCE vulnerability exploited in a...](https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/) | - | `Threat` |
+| **MEDIUM** | `35` | SecurityWeek | [Microsoft Agent Framework Releases Poisoned With Creden...](https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/) | - | `AZURE` |
