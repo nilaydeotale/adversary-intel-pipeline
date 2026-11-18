@@ -6377,5 +6377,20 @@
       "CVE-2026-129448"
     ],
     "seen_at": "2026-11-18T20:50:33.396558"
+  },
+  "a4d605daeccd415389aef84c4af83b8e9955c3dd44a78bbd765b3d6a828541ea": {
+    "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+    "cves": [],
+    "seen_at": "2026-11-18T21:48:24.397164"
+  },
+  "b965b40c79723d34f46bcb69762628dc01b6fe2d254bdade019f76e280a3de15": {
+    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2024-10441",
+      "CVE-2026-40217",
+      "CVE-2026-90436",
+      "CVE-2026-90817"
+    ],
+    "seen_at": "2026-11-18T21:48:31.839691"
   }
 }
