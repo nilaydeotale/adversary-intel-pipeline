@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-18 08:57 UTC | TLP:AMBER*
+*Last Updated: 2026-11-18 11:04 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | SecurityWeek | [Java4Shell Vulnerability Puts Many Enterprise Applicati...](https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/) | - | `Threat` |
+| **LOW** | `25` | BleepingComputer | [Apache warns of Roller RCE vulnerability exploited in a...](https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/) | - | `Threat` |

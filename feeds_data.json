@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18 09:59 UTC",
+  "updated_utc": "2026-11-18 11:04 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1578,6 +1578,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-18T11:03:55.183746"
     },
     {
       "source": "SecurityWeek",

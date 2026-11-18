@@ -6137,5 +6137,27 @@
     "title": "Run and Scale Your MSSP or SOC Like Never Before: Meet ANY.RUN\u2019s Multi-Tenant Teamspace",
     "cves": [],
     "seen_at": "2026-11-18T09:58:56.054415"
+  },
+  "55a76afda90911b2f9d64e253506dc0fa784160ffeebb510a16f429c574c2985": {
+    "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+    "cves": [
+      "CVE-2026-115731"
+    ],
+    "seen_at": "2026-11-18T11:03:54.661048"
+  },
+  "f4c0a98594d38ff2630ff40c916a924b07cf91be2ae1e6d593e853fa87b53571": {
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "cves": [],
+    "seen_at": "2026-11-18T11:03:55.183753"
+  },
+  "a25af134a6a5086bd6228c1f521853764640d2b08d54dbe0c921f40f32ef9afc": {
+    "title": "The challenge of defending against bulletproof dead drops on public blockchains",
+    "cves": [],
+    "seen_at": "2026-11-18T11:04:05.807342"
+  },
+  "a5a346b46bb8ea95949b78c3f855b48f4601f6f8108558efec6a0d272a882fde": {
+    "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
+    "cves": [],
+    "seen_at": "2026-11-18T11:04:05.811788"
   }
 }
