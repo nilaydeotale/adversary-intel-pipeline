@@ -6211,5 +6211,45 @@
       "CVE-2026-114938"
     ],
     "seen_at": "2026-11-18T13:00:34.205190"
+  },
+  "aa322638f5f335eea2a2ad26aef83df3749aef17c097216329c23e67602a48bc": {
+    "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+    "cves": [],
+    "seen_at": "2026-11-18T14:50:27.942729"
+  },
+  "245b33bb216a5531534272f6885d9a68aaf803074612dc0f0a9f049815840733": {
+    "title": "Major Brazilian Signature Apps Enable RCE &amp; Fraud",
+    "cves": [],
+    "seen_at": "2026-11-18T14:50:30.508381"
+  },
+  "ba05a8cca55671ca088a84a7267f7d7b73e0b1fef99f62e262570c55f4860192": {
+    "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
+    "cves": [],
+    "seen_at": "2026-11-18T14:50:30.511457"
+  },
+  "479e27bac58fbc0483cae49205edc95fdac2723ff7659ce98ac5c7446b48fdd3": {
+    "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+    "cves": [],
+    "seen_at": "2026-11-18T14:50:30.617708"
+  },
+  "9f60b5dddc555d95b80a59e4ff16acd125b99fb13af5a3cf9bef63056c290ec3": {
+    "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+    "cves": [],
+    "seen_at": "2026-11-18T14:50:30.618818"
+  },
+  "e9f4e0b0aa82aee793822564b18d08cf97d02a9514d292a5b82f92d5441aefb4": {
+    "title": "Achieving the impossible: XSS in innerHTML without equals",
+    "cves": [],
+    "seen_at": "2026-11-18T14:50:35.301512"
+  },
+  "8f3667e7610a28948ecb58d2802dbd485d7494786e8d380d760f6b46df656a35": {
+    "title": "LABScon26 Replay | Governing Just-in-Time Intelligence: AI, Dual-Use Capabilities, and the Limits of Guardrails",
+    "cves": [],
+    "seen_at": "2026-11-18T14:51:58.138206"
+  },
+  "1fccc41a2f9b35b20747f96bedda02646a318313b3fe916ae9e92a0e0850e3e0": {
+    "title": "Open by Default, Already Occupied: Threat Actors are Renting your Compute",
+    "cves": [],
+    "seen_at": "2026-11-18T14:51:59.227533"
   }
 }

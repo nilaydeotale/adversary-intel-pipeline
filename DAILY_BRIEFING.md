@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-18 13:00 UTC | TLP:AMBER*
+*Last Updated: 2026-11-18 14:51 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | SecurityWeek | [Microsoft Agent Framework Releases Poisoned With Creden...](https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/) | - | `AZURE` |
+| **LOW** | `25` | Dark Reading | [Major Brazilian Signature Apps Enable RCE &amp; Fraud...](https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud) | - | `Threat` |
