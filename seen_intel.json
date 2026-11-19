@@ -6464,5 +6464,37 @@
     "title": "NVIDIA investigating Gentlemen ransomware breach claims",
     "cves": [],
     "seen_at": "2026-11-19T09:58:13.871176"
+  },
+  "764fc7416bdb4037e78fccb35ecb4d7d74c2fc8ea0ad634f33cca3c4446c4e88": {
+    "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+    "cves": [],
+    "seen_at": "2026-11-19T10:59:48.600725"
+  },
+  "edeabf0f5ae371fe3fdbdcfe3c89e982f25f44c47302ca9e6d3d79c3f31e33f5": {
+    "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+    "cves": [],
+    "seen_at": "2026-11-19T10:59:48.603648"
+  },
+  "cf8266a976bdfe90041a56d8997c5f614e651d69d8c957ff4036482f697d67a4": {
+    "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
+    "cves": [],
+    "seen_at": "2026-11-19T10:59:50.194104"
+  },
+  "03ca8f1ac3b771e7dfce99b8abc8af3f67dcc2393da9022fb4ab147526122fba": {
+    "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
+    "cves": [],
+    "seen_at": "2026-11-19T10:59:50.196600"
+  },
+  "e66067a480c480268bab943d3f6b09aa410f23d7142f31aaf5a82b2d6211371f": {
+    "title": "Microsoft confirms app installation, launch issues after hotpatch",
+    "cves": [],
+    "seen_at": "2026-11-19T10:59:50.590855"
+  },
+  "9a322b9a8031411b1497a032cfcbba7fb33edd1dca2e94634dd1d47273679a85": {
+    "title": "nginx2root:AI Discovers Five Critical nginx Flaws and a Path to Root",
+    "cves": [
+      "CVE-2026-123007"
+    ],
+    "seen_at": "2026-11-19T10:59:51.263633"
   }
 }
