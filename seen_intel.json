@@ -6746,5 +6746,10 @@
       "CVE-2026-109619"
     ],
     "seen_at": "2026-11-19T22:45:13.514592"
+  },
+  "1002a96b314f290abb7e962eddffdc56dfac112852d032688dce7d2c85f4a971": {
+    "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+    "cves": [],
+    "seen_at": "2026-11-19T23:40:11.438030"
   }
 }
