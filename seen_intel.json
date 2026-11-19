@@ -6511,5 +6511,33 @@
     "title": "Smarter SOC Spending in 2027: Reduce Costs, Recover Capacity, Strengthen Detection",
     "cves": [],
     "seen_at": "2026-11-19T11:59:21.623947"
+  },
+  "57be4fb114cc319b0bac9c15e143bd9552f5d31e0b3a73fd87ea5ad19122dfb3": {
+    "title": "Everything Is a Web Application, Including Your Firewall",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "seen_at": "2026-11-19T13:14:46.603956"
+  },
+  "10b5ba99957f2b83d393c691332fc948a9cdb9271ea9ed480537b0885e08c507": {
+    "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
+    "cves": [],
+    "seen_at": "2026-11-19T13:14:48.233029"
+  },
+  "e246fae36c8588b494a2e42f4540fddb0bf035674a7fa94f6f1e364a0de95fdf": {
+    "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+    "cves": [],
+    "seen_at": "2026-11-19T13:14:48.237511"
+  },
+  "46d22d08b55f6df30e3d314d0e3d074e351e30478797b60cb9db009b7f3b49bc": {
+    "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+    "cves": [],
+    "seen_at": "2026-11-19T13:14:48.241889"
+  },
+  "8c1cd123976de27b13ed766d34916b246809078262c75a3a4a390bac59621904": {
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "cves": [],
+    "seen_at": "2026-11-19T13:14:48.451010"
   }
 }

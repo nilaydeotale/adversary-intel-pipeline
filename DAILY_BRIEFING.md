@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-19 11:00 UTC | TLP:AMBER*
+*Last Updated: 2026-11-19 13:16 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | The Hacker News | [CISA Warns of 4 Exploited Flaws Linked to Ransomware, C...](https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html) | - | `Threat` |
+| **LOW** | `25` | BleepingComputer | [Drupal patches critical RCE flaw, warns exploits may su...](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/) | - | `Threat` |
