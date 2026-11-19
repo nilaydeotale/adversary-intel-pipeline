@@ -6539,5 +6539,40 @@
     "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
     "cves": [],
     "seen_at": "2026-11-19T13:14:48.451010"
+  },
+  "6a6845dfc65d262cb5b8e6a940067fec4d37d57f7cce36268d845bcc066906d3": {
+    "title": "Why Holiday Security Can't Wait for Black Friday",
+    "cves": [],
+    "seen_at": "2026-11-19T14:48:42.637903"
+  },
+  "255a6d9be610c4750157b76f7c17506ede703345e2e5f318f170527f81ca941a": {
+    "title": "Nvidia Responds to Gentlemen Ransomware Claim",
+    "cves": [],
+    "seen_at": "2026-11-19T14:48:42.729084"
+  },
+  "d43b626d78d3f511dfa73ddb9f6154b44d3230a7b7350b0527e880eb382556ea": {
+    "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+    "cves": [],
+    "seen_at": "2026-11-19T14:48:42.733726"
+  },
+  "e168cbd01f5631d06e90f0c3db926efe39b9de91ed88bd1277e4a5c4638268d4": {
+    "title": "30 Years of Gatekeeper Asymmetry Doom: The Paradox that Makes Powerful LLMs More Vulnerable",
+    "cves": [],
+    "seen_at": "2026-11-19T14:48:43.789312"
+  },
+  "2068deb66a75edb8f8be8f68611220722e0b1ef3312e6f9bbee7f0dec5d77313": {
+    "title": "Regional Insights: 2027 State of Threat Intelligence",
+    "cves": [],
+    "seen_at": "2026-11-19T14:48:49.990059"
+  },
+  "ca1eaa68192c9b84efab3aa0dbacef34ef88e9325f11b2d26509f5f7a3aeebdd": {
+    "title": "ARMORY CASTLE Exploits vSphere",
+    "cves": [
+      "CVE-2025-22457",
+      "CVE-2026-102764",
+      "CVE-2026-123890",
+      "CVE-2026-59309"
+    ],
+    "seen_at": "2026-11-19T14:48:52.769341"
   }
 }
