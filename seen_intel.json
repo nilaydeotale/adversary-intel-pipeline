@@ -6678,5 +6678,15 @@
       "CVE-2024-10441"
     ],
     "seen_at": "2026-11-19T18:55:54.827286"
+  },
+  "b4c47f819afb643794b86909b4d24060511dcb96747d0af60c0f92ced6404ad9": {
+    "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+    "cves": [],
+    "seen_at": "2026-11-19T19:59:21.184120"
+  },
+  "c8b0e6cd802cced58c40dd58fd9826c5da45fdfeb955c12417fc231ddafbf0cd": {
+    "title": "The internet needs a nap (and you do, too)",
+    "cves": [],
+    "seen_at": "2026-11-19T19:59:30.935159"
   }
 }

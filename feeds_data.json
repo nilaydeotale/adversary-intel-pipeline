@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-19 18:56 UTC",
+  "updated_utc": "2026-11-19 19:59 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1613,6 +1613,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+      "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-19T19:59:21.184108"
     },
     {
       "source": "BleepingComputer",
