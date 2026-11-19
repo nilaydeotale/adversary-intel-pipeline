@@ -6634,5 +6634,25 @@
     "title": "Spying on Governments with Zero Lines of Malware: A Custom SoftEther Bridge in Webworm\u2019s Toolkit",
     "cves": [],
     "seen_at": "2026-11-19T15:56:35.644667"
+  },
+  "2ad964aad9158dbd9cdeffe9967d83995aaaddd320703e02d75b8461c979a9e3": {
+    "title": "PHP Patches Seven Critical RCE Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-19T16:59:23.440262"
+  },
+  "5336afb3f938a7c74ab22524b2864a03c5b3dc8537c4372fc8fe219b6c8b2251": {
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "cves": [],
+    "seen_at": "2026-11-19T16:59:23.758934"
+  },
+  "888236170d39427da367fb1306caf1fae5afbb4c579d3f1663f0197e75cefe6c": {
+    "title": "On-Premises vs. Cloud: Choosing the Right SOC Deployment",
+    "cves": [],
+    "seen_at": "2026-11-19T16:59:29.678781"
+  },
+  "390e450255306975c79632aa124a0524fe5be7e1f1f5de37c3feaac5b575b9a0": {
+    "title": "What Is Preemptive MDR? A Guide For Security Leaders",
+    "cves": [],
+    "seen_at": "2026-11-19T16:59:35.724626"
   }
 }
