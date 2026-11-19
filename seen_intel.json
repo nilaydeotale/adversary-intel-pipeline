@@ -6444,5 +6444,25 @@
     "title": "Vero Security Raises $11 Million for AI Security Engineering Platform",
     "cves": [],
     "seen_at": "2026-11-19T08:21:20.551425"
+  },
+  "ec4c53176d0351cc52b3e522337d6ef583270596658519c7d3093d6336caef3b": {
+    "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+    "cves": [],
+    "seen_at": "2026-11-19T09:58:12.229460"
+  },
+  "52c4a69de2acb8300b51dba2debdc4ec3f325f3c99963756ca8c07fc7ca366e9": {
+    "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+    "cves": [],
+    "seen_at": "2026-11-19T09:58:12.232958"
+  },
+  "9a30e1ff3631d25a66b0afec746b9eeee99b553e6878580c4c30ccc27383b73b": {
+    "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
+    "cves": [],
+    "seen_at": "2026-11-19T09:58:13.552529"
+  },
+  "a8142bc4e9376c9f6b89f3001b5adbe4115b520639f5be437d3cb17e7181f260": {
+    "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+    "cves": [],
+    "seen_at": "2026-11-19T09:58:13.871176"
   }
 }

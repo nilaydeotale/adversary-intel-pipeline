@@ -1,6 +1,8 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-18 23:51 UTC | TLP:AMBER*
+*Last Updated: 2026-11-19 09:58 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | BleepingComputer | [Ukraine, FBI arrest ransomware gang members tied to $40...](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/) | - | `Threat` |
+| **LOW** | `25` | The Hacker News | [Ruby Releases Fixes for 7 Regex and String Flaws, Warns...](https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html) | - | `Threat` |
+| **LOW** | `25` | The Hacker News | [Researcher Demonstrates Database RCE Exploits Affecting...](https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html) | - | `Threat` |
+| **LOW** | `25` | BleepingComputer | [NVIDIA investigating Gentlemen ransomware breach claims...](https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/) | - | `Threat` |
