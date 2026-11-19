@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-19 21:49 UTC",
+  "updated_utc": "2026-11-19 22:45 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1613,6 +1613,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Security Affairs",
+      "title": "Chaotic Eclipse Releases FastUnlock, a New Windows Zero-Day Vulnerability",
+      "link": "https://securityaffairs.com/203537/hacking/chaotic-eclipse-releases-fastunlock-a-new-windows-zero-day-vulnerability.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-19T22:45:04.736173"
     },
     {
       "source": "Wiz Blog",

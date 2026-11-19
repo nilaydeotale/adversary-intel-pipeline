@@ -6721,5 +6721,30 @@
       "CVE-2026-59309"
     ],
     "seen_at": "2026-11-19T21:49:10.165958"
+  },
+  "7c34837cbcb9540931b99380c20aca81de102c024892bc02acad236bca7c26dc": {
+    "title": "Second Norwegian Energy Company Breached in Two Days",
+    "cves": [],
+    "seen_at": "2026-11-19T22:45:02.949269"
+  },
+  "b3d3d101ecbeb565e8a2cdda2025b5443af11a31b02306be730453854940a978": {
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "cves": [],
+    "seen_at": "2026-11-19T22:45:03.883993"
+  },
+  "f0f6243574e37bc1b662dcc03a52a8044ee26cb1b88bf13466d1d8e56e1a4395": {
+    "title": "Chaotic Eclipse Releases FastUnlock, a New Windows Zero-Day Vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-19T22:45:04.736181"
+  },
+  "579f0a889d8576b571fcb301f16dc3b67e939c661b760dd93e2548124d41cf60": {
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated November 19)",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "seen_at": "2026-11-19T22:45:13.514592"
   }
 }
