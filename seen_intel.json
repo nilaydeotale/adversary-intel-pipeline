@@ -6407,5 +6407,15 @@
     "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
     "cves": [],
     "seen_at": "2026-11-18T23:46:40.264025"
+  },
+  "f6d8f823b5ebb60f832db5a8ad6685fb69f675d7b94e375c005b6cd90aeb039f": {
+    "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+    "cves": [],
+    "seen_at": "2026-11-19T02:18:53.351897"
+  },
+  "e4aff868436527ca42a0a12e7f6739dec214caabdfd6b7e430e8c259228c1e27": {
+    "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI &#x5b;Guest Diary&#x5d;, (Wed, Nov 18th)",
+    "cves": [],
+    "seen_at": "2026-11-19T02:18:53.355571"
   }
 }
