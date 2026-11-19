@@ -6688,5 +6688,15 @@
     "title": "The internet needs a nap (and you do, too)",
     "cves": [],
     "seen_at": "2026-11-19T19:59:30.935159"
+  },
+  "6f32cc5abe24a57d42bf5a23bde9e0c71890dc65ef40834e9b54e5f2f50c9c3a": {
+    "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+    "cves": [],
+    "seen_at": "2026-11-19T20:54:57.204735"
+  },
+  "ec1a4145d39ffae06970426c1683ff25b1b4bf4297e92bf7b6c7163864d2a1d9": {
+    "title": "Navigating Vulnerability Hysteria in the AI Era",
+    "cves": [],
+    "seen_at": "2026-11-19T20:55:00.653889"
   }
 }
