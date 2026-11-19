@@ -6427,5 +6427,22 @@
     "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
     "cves": [],
     "seen_at": "2026-11-19T04:58:44.158006"
+  },
+  "07f1e5b783bf8ca08f2af63b7d7b9e413f7ed74f314d775a6153b10704435978": {
+    "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
+    "cves": [],
+    "seen_at": "2026-11-19T08:21:20.362083"
+  },
+  "47251d4fbeab028e84d7aa6a9dd480ea3cdf93cffa09c3cfaa9cf87e574982a0": {
+    "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+    "cves": [
+      "CVE-2026-115560"
+    ],
+    "seen_at": "2026-11-19T08:21:20.549042"
+  },
+  "cf1bf16f9f76b2a612d7d5b10de526aac4470f1a849e343be88593cf0ad2dbbf": {
+    "title": "Vero Security Raises $11 Million for AI Security Engineering Platform",
+    "cves": [],
+    "seen_at": "2026-11-19T08:21:20.551425"
   }
 }
