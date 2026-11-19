@@ -6654,5 +6654,17 @@
     "title": "What Is Preemptive MDR? A Guide For Security Leaders",
     "cves": [],
     "seen_at": "2026-11-19T16:59:35.724626"
+  },
+  "9da3ffb1ef68a837cfae572f3bc8a2b44d632f2b7a350b3ec51df9156fd5f7d8": {
+    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+    "cves": [
+      "CVE-2026-126714"
+    ],
+    "seen_at": "2026-11-19T17:55:53.767091"
+  },
+  "83bb43bb9225658409c49e89882ac8a240d3ddc11aa0cf8cce8e12a797f02afc": {
+    "title": "Google Built a Giant \u2018Mirror Dimension\u2019 Internet to Test Its Chrome AI Agents",
+    "cves": [],
+    "seen_at": "2026-11-19T17:55:54.714293"
   }
 }
