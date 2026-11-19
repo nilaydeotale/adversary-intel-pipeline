@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-19 19:59 UTC | TLP:AMBER*
+*Last Updated: 2026-11-19 21:49 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | SecurityWeek | [Newly Patched VMware vCenter Flaw Exploited as Zero-Day...](https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/) | - | `Threat` |
+| **LOW** | `25` | Wiz Blog | [phpAfterShell and Critical PHP RCE Vulnerabilities: Eve...](https://www.wiz.io/blog/phpaftershell-critical-php-rce-vulnerabilities-cve-2026-126714) | - | `Threat` |

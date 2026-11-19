@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-19 20:57 UTC",
+  "updated_utc": "2026-11-19 21:49 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1613,6 +1613,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Wiz Blog",
+      "title": "phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know",
+      "link": "https://www.wiz.io/blog/phpaftershell-critical-php-rce-vulnerabilities-cve-2026-126714",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-19T21:49:09.288346"
     },
     {
       "source": "SecurityWeek",
