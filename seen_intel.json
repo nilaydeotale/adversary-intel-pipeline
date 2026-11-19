@@ -6574,5 +6574,65 @@
       "CVE-2026-59309"
     ],
     "seen_at": "2026-11-19T14:48:52.769341"
+  },
+  "73580eaa776dd51467a4f276585fbb12030921009ce615f16ad2cfb691d53921": {
+    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+    "cves": [
+      "CVE-2026-115560"
+    ],
+    "seen_at": "2026-11-19T15:54:09.125989"
+  },
+  "6b3b26ceaf1165b314ca64427b541086a3905863f1b8fd5f2701f69614407b60": {
+    "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+    "cves": [],
+    "seen_at": "2026-11-19T15:54:09.129672"
+  },
+  "8436513bcc058d5ccc68e372ae906f2ad098c058b2c800e494000085d3921e5f": {
+    "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+    "cves": [],
+    "seen_at": "2026-11-19T15:54:09.132933"
+  },
+  "b15bb9bd1efaeb75387fb98a35b747170a09633fb59ab91d981f9755486e0415": {
+    "title": "Five warning signs of ransomware breach before encryption or data theft",
+    "cves": [],
+    "seen_at": "2026-11-19T15:54:14.038218"
+  },
+  "d575744358dc64e716930735ec99454c8ac93bf4f21a73adbe7a544bce4f7ed1": {
+    "title": "Critical NGINX \u2018NGINX2Root\u2019 bugs let attackers hijack servers",
+    "cves": [],
+    "seen_at": "2026-11-19T15:54:14.041274"
+  },
+  "6297586b70aa83930e15b2647d21c1326be1cd641cf5dce1bef0270be075f35f": {
+    "title": "European Commission Cyberattack: ARTEX AI Tool Suspected in Prolonged Disruption",
+    "cves": [],
+    "seen_at": "2026-11-19T15:54:14.475910"
+  },
+  "65930cef5cb5d21dd0e39f9b5bada0a91fb1f3720804eff0dddc45298b177ef5": {
+    "title": "Elecbrakes EB2, VM1, ELBC2000",
+    "cves": [
+      "CVE-2026-124281",
+      "CVE-2026-125273",
+      "CVE-2026-96805"
+    ],
+    "seen_at": "2026-11-19T15:56:32.096019"
+  },
+  "dfa22286441fe98ebd86c2e71617db1c38d5fc1f2413d66cce2e5963c639afa7": {
+    "title": "libumqtt",
+    "cves": [
+      "CVE-2026-125132"
+    ],
+    "seen_at": "2026-11-19T15:56:32.156852"
+  },
+  "0067875c9d5f4ee179989c5e4641c1de3367a037f9aaeb8c961b12d866ff226c": {
+    "title": "Autonomy Logic OpenPLC Runtime",
+    "cves": [
+      "CVE-2026-126088"
+    ],
+    "seen_at": "2026-11-19T15:56:32.282787"
+  },
+  "ed5a11e814fd42facf3dc0cb3ed8bd34f4cbcfde76dd7a575497f7952ae3b156": {
+    "title": "Spying on Governments with Zero Lines of Malware: A Custom SoftEther Bridge in Webworm\u2019s Toolkit",
+    "cves": [],
+    "seen_at": "2026-11-19T15:56:35.644667"
   }
 }
