@@ -6496,5 +6496,20 @@
       "CVE-2026-123007"
     ],
     "seen_at": "2026-11-19T10:59:51.263633"
+  },
+  "7be6930acc34b7e6230f034484023608f1b423c27f6ceaf2bbbc470023d430d3": {
+    "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+    "cves": [],
+    "seen_at": "2026-11-19T11:59:15.370248"
+  },
+  "187e0dac85fa6d992376fd95eeb0c7326a0afa51b6d4cfbc8d533f15e8162ab0": {
+    "title": "PHP Warns of Critical Flaws Ahead of November Security Release",
+    "cves": [],
+    "seen_at": "2026-11-19T11:59:16.020967"
+  },
+  "e7cdacddaafa0be8c7d6e6463528e95c385d6dd926fa05cbba3a588971bd87e6": {
+    "title": "Smarter SOC Spending in 2027: Reduce Costs, Recover Capacity, Strengthen Detection",
+    "cves": [],
+    "seen_at": "2026-11-19T11:59:21.623947"
   }
 }
