@@ -6666,5 +6666,17 @@
     "title": "Google Built a Giant \u2018Mirror Dimension\u2019 Internet to Test Its Chrome AI Agents",
     "cves": [],
     "seen_at": "2026-11-19T17:55:54.714293"
+  },
+  "7c9611151e1473b34bd27fdd14bcb5d3ba0abe93801192f016f8f2975c07792f": {
+    "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+    "cves": [],
+    "seen_at": "2026-11-19T18:55:54.225804"
+  },
+  "71c2da4346ccd89b2f8093eda3b58c03cd845be23f3ac3df66b56d74ac8408e9": {
+    "title": "U.S. CISA adds Apache Axis, Vanderbilt REDCap,BerriAI LiteLLM, and Synology DSM\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+    "cves": [
+      "CVE-2024-10441"
+    ],
+    "seen_at": "2026-11-19T18:55:54.827286"
   }
 }
