@@ -6422,5 +6422,10 @@
     "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
     "cves": [],
     "seen_at": "2026-11-19T03:52:44.264269"
+  },
+  "6e0fd75fddddf15b42f210f6d983fcdd3e26718cbe03bf0f02e243cba4a34bb5": {
+    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+    "cves": [],
+    "seen_at": "2026-11-19T04:58:44.158006"
   }
 }
