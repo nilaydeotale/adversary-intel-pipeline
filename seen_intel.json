@@ -6919,5 +6919,22 @@
     "title": "JPMorgan, Visa and Mastercard Report Third-Party Data Breaches After N0n Claims",
     "cves": [],
     "seen_at": "2026-11-20T15:52:54.705041"
+  },
+  "05a70e1caa9934897db08e3183034bf323ed8a40b14bdc6e2a1adedef4a0651a": {
+    "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+    "cves": [
+      "CVE-2026-23871"
+    ],
+    "seen_at": "2026-11-20T16:54:42.526846"
+  },
+  "e246fc71371471af948181acfec0e8ea9952170b9be37793dd4ed2087d9a994d": {
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "cves": [],
+    "seen_at": "2026-11-20T16:54:42.913168"
+  },
+  "72424eca4c826c9af2b7ed1e11d0c4d0b8ee7a719408004e1b0aa40c82bf46f6": {
+    "title": "How many Phrack 73 articles used AI?",
+    "cves": [],
+    "seen_at": "2026-11-20T16:54:43.694742"
   }
 }
