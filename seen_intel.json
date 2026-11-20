@@ -7008,5 +7008,12 @@
     "title": "Dialing for Data: Inside the Com\u2019s High-Profile Heists",
     "cves": [],
     "seen_at": "2026-11-20T22:43:33.269695"
+  },
+  "e45a53aacbf80334fef6b5deaf32e3ad151e45f35e5c6bc5207aba5b9ddffb4f": {
+    "title": "CVE-2026-23871: WhatsApp Bug Helped Scammers Make Messages Look Legitimate",
+    "cves": [
+      "CVE-2026-23871"
+    ],
+    "seen_at": "2026-11-20T23:43:27.193093"
   }
 }
