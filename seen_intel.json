@@ -6756,5 +6756,10 @@
     "title": "VMware patches vCenter zero-day exploited in attacks since September",
     "cves": [],
     "seen_at": "2026-11-20T00:55:18.932419"
+  },
+  "8a8df3d4a98f30f4d33ee3bd2f65cd6ee00e40096d05e3b2cadbbd4aebc78f48": {
+    "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
+    "cves": [],
+    "seen_at": "2026-11-20T02:04:51.860199"
   }
 }
