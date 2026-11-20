@@ -6778,5 +6778,20 @@
       "CVE-2026-123890"
     ],
     "seen_at": "2026-11-20T07:14:43.637439"
+  },
+  "795f568bed7d0cb3f02d11d2bba2b38100f7846a461fd1584460dfa173e5db1f": {
+    "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+    "cves": [],
+    "seen_at": "2026-11-20T08:56:48.903005"
+  },
+  "6e3ca1d2435f68fc7b1d53a34147af5c74a600a9a421effccb58db319b0fa0d0": {
+    "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
+    "cves": [],
+    "seen_at": "2026-11-20T08:56:48.906743"
+  },
+  "2f4611bc47b05f45a5509eb3202fe354dc409d6270076a4b826b851862b45d93": {
+    "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+    "cves": [],
+    "seen_at": "2026-11-20T08:56:58.574956"
   }
 }
