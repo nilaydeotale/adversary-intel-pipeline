@@ -6761,5 +6761,10 @@
     "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
     "cves": [],
     "seen_at": "2026-11-20T02:04:51.860199"
+  },
+  "1194cda8cd055ca406cb094cbc2e7e52751ce7e789ccad74a2ceb8f32df85c5f": {
+    "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+    "cves": [],
+    "seen_at": "2026-11-20T03:49:51.458005"
   }
 }
