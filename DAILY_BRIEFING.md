@@ -1,6 +1,7 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-20 05:58 UTC | TLP:AMBER*
+*Last Updated: 2026-11-20 11:02 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | The Hacker News | [New Unpatched Windows 0-Day FastUnlock Lets Someone Hol...](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html) | - | `Threat` |
+| **MEDIUM** | `40` | SecurityWeek | [Ruby Patches Ruby2Shell Vulnerability That Could Lead t...](https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/) | CVE-2026-132825 | `Threat` |
+| **LOW** | `25` | BleepingComputer | [F5 releases emergency patches for critical BIG-IP RCE f...](https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/) | - | `Threat` |

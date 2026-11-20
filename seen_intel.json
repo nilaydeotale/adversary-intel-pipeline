@@ -6808,5 +6808,40 @@
     "title": "Hunt.io Uncovers Russian-Speaking Credential Theft Operation Targeting US Banks and Government Accounts",
     "cves": [],
     "seen_at": "2026-11-20T09:58:29.146362"
+  },
+  "56753cf12340c63014428f14aa1339c8d177e99d89ee44dad5ac63183394ee58": {
+    "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+    "cves": [],
+    "seen_at": "2026-11-20T11:00:27.237118"
+  },
+  "4cef7f106810df1c568e9ee6ae368c9588b274211b53e2644caadd849dab4210": {
+    "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+    "cves": [
+      "CVE-2026-132825"
+    ],
+    "seen_at": "2026-11-20T11:00:27.268133"
+  },
+  "67f25c7dbafef80df6ef553642f182c533dc81c4990671434d9e15bc51ecb4b5": {
+    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+    "cves": [],
+    "seen_at": "2026-11-20T11:00:27.530924"
+  },
+  "a351bd66430a0ad684fa3d71bd376be2dc95fb616176df94099353e00bae2930": {
+    "title": "Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries",
+    "cves": [
+      "CVE-2024-25420",
+      "CVE-2026-102764",
+      "CVE-2026-73571",
+      "CVE-2026-76461",
+      "CVE-2026-76519",
+      "CVE-2026-93637",
+      "CVE-2024-25420",
+      "CVE-2026-102764",
+      "CVE-2026-73571",
+      "CVE-2026-76461",
+      "CVE-2026-76519",
+      "CVE-2026-93637"
+    ],
+    "seen_at": "2026-11-20T11:02:49.149684"
   }
 }

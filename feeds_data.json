@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-20 09:58 UTC",
+  "updated_utc": "2026-11-20 11:02 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -896,6 +896,24 @@
       "detected_utc": "2026-11-17T16:57:33.471615"
     },
     {
+      "source": "SecurityWeek",
+      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+      "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-132825"
+      ],
+      "in_kev": [],
+      "max_epss": 0.00174,
+      "mitre": [],
+      "detected_utc": "2026-11-20T11:00:27.268127"
+    },
+    {
       "source": "The Hacker News",
       "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
       "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
@@ -1613,6 +1631,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-20T11:00:27.530917"
     },
     {
       "source": "The Hacker News",
