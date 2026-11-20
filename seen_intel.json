@@ -6793,5 +6793,20 @@
     "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
     "cves": [],
     "seen_at": "2026-11-20T08:56:58.574956"
+  },
+  "21ae9d0031914e1ddfcf6b14e2f55bd0679a0340b163463353f98b5de3c9eda9": {
+    "title": "N-able Blames Service Disruption on Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-20T09:58:27.560759"
+  },
+  "0cb239c8083f441ce7d31562db30db9a248c902d98c12a0743f2bc7767c61c7e": {
+    "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+    "cves": [],
+    "seen_at": "2026-11-20T09:58:28.047181"
+  },
+  "061c12bf4ca0e826fc3ebef84179b8b73a777abd6101722305580b2849edb20e": {
+    "title": "Hunt.io Uncovers Russian-Speaking Credential Theft Operation Targeting US Banks and Government Accounts",
+    "cves": [],
+    "seen_at": "2026-11-20T09:58:29.146362"
   }
 }
