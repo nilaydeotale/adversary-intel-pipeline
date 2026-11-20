@@ -6892,5 +6892,17 @@
     "title": "Trump\u2019s First Move After the Outages: Fire the Cyber Director",
     "cves": [],
     "seen_at": "2026-11-20T13:00:10.183421"
+  },
+  "3a630407e43f8a2d2c1a9c2bb29f0f92af6ef6b5e0c067df693ad23fb2761568": {
+    "title": "N-able says recent security breach led to major service outage",
+    "cves": [],
+    "seen_at": "2026-11-20T14:20:33.026786"
+  },
+  "adb1bb6448553f230c351ece9ba34423f82cb0bb080347c0dbc60e3f7cf9c4a2": {
+    "title": "Hackers Exploit Cisco Expressway Flaw CVE-2026-76466 to Breach Russian Organization",
+    "cves": [
+      "CVE-2026-76466"
+    ],
+    "seen_at": "2026-11-20T14:20:33.504188"
   }
 }
