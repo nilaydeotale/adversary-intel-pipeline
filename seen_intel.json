@@ -6766,5 +6766,10 @@
     "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
     "cves": [],
     "seen_at": "2026-11-20T03:49:51.458005"
+  },
+  "56f88ef16bf579cb4e2ae6af776734234118810af0d31760cd917aab104618ac": {
+    "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+    "cves": [],
+    "seen_at": "2026-11-20T05:57:57.170904"
   }
 }

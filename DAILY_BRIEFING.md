@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-20 00:55 UTC | TLP:AMBER*
+*Last Updated: 2026-11-20 05:58 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | BleepingComputer | [VMware patches vCenter zero-day exploited in attacks si...](https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/) | - | `Threat` |
+| **LOW** | `25` | The Hacker News | [New Unpatched Windows 0-Day FastUnlock Lets Someone Hol...](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html) | - | `Threat` |
