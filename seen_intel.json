@@ -6843,5 +6843,54 @@
       "CVE-2026-93637"
     ],
     "seen_at": "2026-11-20T11:02:49.149684"
+  },
+  "3a049cafb0bbb559d6a9f7c764d99025658ae99b14fcc1cddd49dc6ea59bed56": {
+    "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+    "cves": [
+      "CVE-2026-99312"
+    ],
+    "seen_at": "2026-11-20T13:00:01.579963"
+  },
+  "539fcc0b58aafdcce483930453436e486696daeb766a0283d5bca114807a1d20": {
+    "title": "The Path to AI Autonomy in the SOC",
+    "cves": [],
+    "seen_at": "2026-11-20T13:00:01.584552"
+  },
+  "2fdb53d5fcd1a64e142480b2a51c5d28bfdf45860d54ebc451b20a17dd886ce9": {
+    "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+    "cves": [],
+    "seen_at": "2026-11-20T13:00:01.586920"
+  },
+  "08550f4c3d99eac1df0599affea231458512762345066e0c68d7df1663a1493b": {
+    "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+    "cves": [
+      "CVE-2026-76466"
+    ],
+    "seen_at": "2026-11-20T13:00:01.612195"
+  },
+  "4b61935989102411f2d48c7eff44b9407545f5f4d5618db9e6f9b954febb74e0": {
+    "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
+    "cves": [],
+    "seen_at": "2026-11-20T13:00:09.243254"
+  },
+  "0c4bee1d7cf725b0929f8d92699ebb1efc2a43a0a9fd5338c608c314a50c65ee": {
+    "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+    "cves": [],
+    "seen_at": "2026-11-20T13:00:09.247896"
+  },
+  "8e172f38827429e5fab475ed344db3a1d146fc8edac612626327c91bb13eb663": {
+    "title": "Opening a 400-Year-Old Cryptex",
+    "cves": [],
+    "seen_at": "2026-11-20T13:00:09.552631"
+  },
+  "3c9391929e09ea663b43ca073b2cebb593e9a7c499b51c04e8d0d2edaf5e76f6": {
+    "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+    "cves": [],
+    "seen_at": "2026-11-20T13:00:09.686753"
+  },
+  "ae2afeae65abd9429800b34af306b3584320ac5bacabfec6b001f9656d99dcc2": {
+    "title": "Trump\u2019s First Move After the Outages: Fire the Cyber Director",
+    "cves": [],
+    "seen_at": "2026-11-20T13:00:10.183421"
   }
 }
