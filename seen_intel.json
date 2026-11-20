@@ -6966,5 +6966,27 @@
     "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for SIEM",
     "cves": [],
     "seen_at": "2026-11-20T18:55:09.520198"
+  },
+  "ed4ccf8932be51737f89c3abf7c8641ea447754532b2b05c373cee73c288f5db": {
+    "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+    "cves": [
+      "CVE-2026-23871"
+    ],
+    "seen_at": "2026-11-20T19:55:55.008402"
+  },
+  "77bfd462ee58d2fb90f84accff6fe92464e193e4382e22414ffc3e3ac15fbf9f": {
+    "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+    "cves": [],
+    "seen_at": "2026-11-20T19:55:56.267690"
+  },
+  "76a5a58650e7b6abedfee9ff5261b05febdcccb1cdaa364fb682046742fb6d48": {
+    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2025-42884",
+      "CVE-2026-123890",
+      "CVE-2026-129448",
+      "CVE-2026-76466"
+    ],
+    "seen_at": "2026-11-20T19:56:02.682215"
   }
 }
