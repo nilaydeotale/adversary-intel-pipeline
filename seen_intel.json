@@ -6946,5 +6946,25 @@
     "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
     "cves": [],
     "seen_at": "2026-11-20T17:53:44.151964"
+  },
+  "e21a84afc8db0f5e7441e17a369ab6a65d293fb4120d291e12b50b99822e3216": {
+    "title": "In Security, Words Matter as Much as Tools, Maybe More",
+    "cves": [],
+    "seen_at": "2026-11-20T18:54:57.761362"
+  },
+  "34aa0d852bb654d2ffe9ed63a41f094223a6901b6140e80f02d8783ca8e38400": {
+    "title": "Second Norwegian Energy Company Breached in 2 Days",
+    "cves": [],
+    "seen_at": "2026-11-20T18:54:57.764823"
+  },
+  "0cf5145abd39ebef566f8d330995b819e1453d6a8bd51af80b95d16be3f6d39b": {
+    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+    "cves": [],
+    "seen_at": "2026-11-20T18:54:58.300561"
+  },
+  "614b3facd41946b82f74d69ebebd4540a5e928df2254fa91fe6ed97cdc434354": {
+    "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for SIEM",
+    "cves": [],
+    "seen_at": "2026-11-20T18:55:09.520198"
   }
 }
