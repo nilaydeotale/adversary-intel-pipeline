@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-19 22:45 UTC | TLP:AMBER*
+*Last Updated: 2026-11-20 00:55 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | Security Affairs | [Chaotic Eclipse Releases FastUnlock, a New Windows Zero...](https://securityaffairs.com/203537/hacking/chaotic-eclipse-releases-fastunlock-a-new-windows-zero-day-vulnerability.html) | - | `Threat` |
+| **LOW** | `25` | BleepingComputer | [VMware patches vCenter zero-day exploited in attacks si...](https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/) | - | `Threat` |

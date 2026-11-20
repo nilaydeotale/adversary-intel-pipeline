@@ -6751,5 +6751,10 @@
     "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
     "cves": [],
     "seen_at": "2026-11-19T23:40:11.438030"
+  },
+  "88921e5e1d0f2e9eea4a33da0d07dc5f18f3621f8024091676b7779d2f6fb685": {
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "cves": [],
+    "seen_at": "2026-11-20T00:55:18.932419"
   }
 }
