@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-20 17:53 UTC | TLP:AMBER*
+*Last Updated: 2026-11-20 21:43 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | BleepingComputer | [Hackers use autonomous AI tool Cairn to find zero-day, ...](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/) | - | `Threat` |
+| **LOW** | `25` | Dark Reading | [China's 'Armory Castle' Lays Siege to VMware vCenter Ze...](https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day) | - | `Threat` |

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-20 20:47 UTC",
+  "updated_utc": "2026-11-20 21:43 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1631,6 +1631,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-20T21:43:46.043221"
     },
     {
       "source": "BleepingComputer",

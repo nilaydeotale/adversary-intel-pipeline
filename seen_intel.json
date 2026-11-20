@@ -6988,5 +6988,15 @@
       "CVE-2026-76466"
     ],
     "seen_at": "2026-11-20T19:56:02.682215"
+  },
+  "a6b6dc7a6a575456081decf91bf22ff00bf8ad6a2c9dbee54f144e4a387119fc": {
+    "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+    "cves": [],
+    "seen_at": "2026-11-20T21:43:46.043232"
+  },
+  "0145874770ec0e20e05d2af420e89b5945933ef20222e8c4b61fb21850384bac": {
+    "title": "AI Joins the Industrial Attack Workflow",
+    "cves": [],
+    "seen_at": "2026-11-20T21:43:54.778893"
   }
 }
