@@ -6936,5 +6936,15 @@
     "title": "How many Phrack 73 articles used AI?",
     "cves": [],
     "seen_at": "2026-11-20T16:54:43.694742"
+  },
+  "21984648bc6da5d542b50d1ef208e243afc8203344e1f403c53e2280b0ac6195": {
+    "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+    "cves": [],
+    "seen_at": "2026-11-20T17:53:42.743690"
+  },
+  "a23aa46acf4cf81c2205e3882de683d7bd40742ff920711beeae85f0f96dc94f": {
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "cves": [],
+    "seen_at": "2026-11-20T17:53:44.151964"
   }
 }

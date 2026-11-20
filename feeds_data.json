@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-20 16:54 UTC",
+  "updated_utc": "2026-11-20 17:53 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1631,6 +1631,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-20T17:53:44.151954"
     },
     {
       "source": "BleepingComputer",
