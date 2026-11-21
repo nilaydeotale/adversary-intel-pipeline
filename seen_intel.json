@@ -7032,5 +7032,17 @@
       "CVE-2026-129448"
     ],
     "seen_at": "2026-11-21T09:44:28.272632"
+  },
+  "32f3e2fc53782637e67512705868fa364ffea1a26c48789ad8ff7373444d41de": {
+    "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+    "cves": [
+      "CVE-2026-129975"
+    ],
+    "seen_at": "2026-11-21T11:41:41.699936"
+  },
+  "4217bed62781701c6b969e2a7d0c1198d6b2583f54d691e5007720724870f72d": {
+    "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+    "cves": [],
+    "seen_at": "2026-11-21T11:41:41.704667"
   }
 }
