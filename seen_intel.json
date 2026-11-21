@@ -7064,5 +7064,10 @@
     "title": "FBI reportedly hacked again, this time targeting nationwide police database",
     "cves": [],
     "seen_at": "2026-11-21T14:46:21.234433"
+  },
+  "645bb8df045fa64265987a9587a6f52c9087a6291abbde24792e69df9d33c898": {
+    "title": "BADBOX 3.0 botnet returns with record-breaking 40 billion daily ad requests",
+    "cves": [],
+    "seen_at": "2026-11-21T15:40:31.875309"
   }
 }
