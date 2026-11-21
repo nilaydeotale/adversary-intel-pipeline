@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-21 17:40 UTC | TLP:AMBER*
+*Last Updated: 2026-11-21 18:40 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | Security Affairs | [Cairn AI Framework Used in Autonomous Zero-Day Exploita...](https://securityaffairs.com/203664/ai/cairn-ai-framework-used-in-autonomous-zero-day-exploitation.html) | - | `Threat` |
+| **MEDIUM** | `35` | BleepingComputer | [Microsoft Entra Connect Health flaw exploited to steal ...](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/) | - | `ENTRA` |

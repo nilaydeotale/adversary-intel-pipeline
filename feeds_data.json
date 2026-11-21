@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-21 17:40 UTC",
+  "updated_utc": "2026-11-21 18:40 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1119,6 +1119,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "entra"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-21T18:39:54.005686"
     },
     {
       "source": "SecurityWeek",

@@ -7084,5 +7084,10 @@
     "title": "Cairn AI Framework Used in Autonomous Zero-Day Exploitation",
     "cves": [],
     "seen_at": "2026-11-21T17:38:27.112970"
+  },
+  "33163f038ce44e7074159aa82c74bf6a2afdfb6fe36c549046f8f7cf4d8d3003": {
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "cves": [],
+    "seen_at": "2026-11-21T18:39:54.005699"
   }
 }
