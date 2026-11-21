@@ -7079,5 +7079,10 @@
     "title": "U.S. CISA adds Cisco Expressway, SAP NetWeaver, Broadcom VMware vCenter, and Apache Roller\u00a0flaws to its Known Exploited Vulnerabilities catalog",
     "cves": [],
     "seen_at": "2026-11-21T16:41:25.793013"
+  },
+  "aeb076d11229cfe7f3ca6b43d320a1014175682de4ad0627dbc3cb691a7ecdc4": {
+    "title": "Cairn AI Framework Used in Autonomous Zero-Day Exploitation",
+    "cves": [],
+    "seen_at": "2026-11-21T17:38:27.112970"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-21 16:41 UTC",
+  "updated_utc": "2026-11-21 17:40 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1631,6 +1631,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Security Affairs",
+      "title": "Cairn AI Framework Used in Autonomous Zero-Day Exploitation",
+      "link": "https://securityaffairs.com/203664/ai/cairn-ai-framework-used-in-autonomous-zero-day-exploitation.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-21T17:38:27.112958"
     },
     {
       "source": "SecurityWeek",
