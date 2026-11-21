@@ -7059,5 +7059,10 @@
     "title": "The Outages Are Just Getting Started",
     "cves": [],
     "seen_at": "2026-11-21T13:54:57.759524"
+  },
+  "23faf5e5e5b2e0ecc07366957cb53248ceb05693ac4b12fe63c06982b1b75ea0": {
+    "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+    "cves": [],
+    "seen_at": "2026-11-21T14:46:21.234433"
   }
 }
