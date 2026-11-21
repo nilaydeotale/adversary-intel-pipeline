@@ -7069,5 +7069,15 @@
     "title": "BADBOX 3.0 botnet returns with record-breaking 40 billion daily ad requests",
     "cves": [],
     "seen_at": "2026-11-21T15:40:31.875309"
+  },
+  "eaa75f58d21ebbff76dcfed2aca53ac4d2c742602f784c4aa634829647361a31": {
+    "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+    "cves": [],
+    "seen_at": "2026-11-21T16:41:24.871553"
+  },
+  "6815b2c9eb735b02f2ad22599e9cfc76f4f768b89b4d2eb67b1df7c2edab0a66": {
+    "title": "U.S. CISA adds Cisco Expressway, SAP NetWeaver, Broadcom VMware vCenter, and Apache Roller\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+    "cves": [],
+    "seen_at": "2026-11-21T16:41:25.793013"
   }
 }
