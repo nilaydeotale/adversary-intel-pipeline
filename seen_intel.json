@@ -7094,5 +7094,10 @@
     "title": "Cyberattack on Austrian Foreign Ministry Exposes Diplomatic Staff Data",
     "cves": [],
     "seen_at": "2026-11-21T19:43:44.910674"
+  },
+  "0e4df6e3b36591c74eed2c6daef15afc270b41a051762abe24838e5a373a6f2f": {
+    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+    "cves": [],
+    "seen_at": "2026-11-21T23:33:47.248303"
   }
 }
