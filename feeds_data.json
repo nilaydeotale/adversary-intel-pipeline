@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-21 11:41 UTC",
+  "updated_utc": "2026-11-21 12:49 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1631,6 +1631,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Amazon: China-Linked Hackers\u2019 AI Agents Exploited Medical Software Zero-Day",
+      "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-21T12:48:47.279596"
     },
     {
       "source": "The Hacker News",

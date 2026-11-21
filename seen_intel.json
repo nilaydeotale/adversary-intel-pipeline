@@ -7044,5 +7044,15 @@
     "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
     "cves": [],
     "seen_at": "2026-11-21T11:41:41.704667"
+  },
+  "1e521d88a49edad67a9662a0c6c7aa89ef17d4085866581aace0a095e8044af8": {
+    "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+    "cves": [],
+    "seen_at": "2026-11-21T12:48:45.480605"
+  },
+  "9383bb57ee2f2d8f0c65bceb7a0ab4d90cc491694e050f811261398e884cf605": {
+    "title": "Amazon: China-Linked Hackers\u2019 AI Agents Exploited Medical Software Zero-Day",
+    "cves": [],
+    "seen_at": "2026-11-21T12:48:47.279603"
   }
 }
