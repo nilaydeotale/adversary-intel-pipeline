@@ -7020,5 +7020,17 @@
     "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
     "cves": [],
     "seen_at": "2026-11-21T00:58:10.308809"
+  },
+  "450361a07a50f72e6dda97c7d252e0be277e069dc752822403ac107e64eebf78": {
+    "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+    "cves": [],
+    "seen_at": "2026-11-21T09:44:28.269248"
+  },
+  "ce99ca9f87a13f24b41e7eddfd0532972a26beda921016f29dbd7ad8acd8326f": {
+    "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+    "cves": [
+      "CVE-2026-129448"
+    ],
+    "seen_at": "2026-11-21T09:44:28.272632"
   }
 }
