@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-20 23:43 UTC",
+  "updated_utc": "2026-11-21 00:58 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1631,6 +1631,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-21T00:58:10.308800"
     },
     {
       "source": "Dark Reading",

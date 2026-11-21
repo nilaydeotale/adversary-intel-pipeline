@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-20 21:43 UTC | TLP:AMBER*
+*Last Updated: 2026-11-21 00:58 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | Dark Reading | [China's 'Armory Castle' Lays Siege to VMware vCenter Ze...](https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day) | - | `Threat` |
+| **LOW** | `25` | Krebs on Security | [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud...](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) | - | `Threat` |

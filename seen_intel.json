@@ -7015,5 +7015,10 @@
       "CVE-2026-23871"
     ],
     "seen_at": "2026-11-20T23:43:27.193093"
+  },
+  "e74e83ca94d87ce1565d960a4d936c2d864e76939525ba19939be8145314834c": {
+    "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
+    "cves": [],
+    "seen_at": "2026-11-21T00:58:10.308809"
   }
 }
