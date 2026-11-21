@@ -7089,5 +7089,10 @@
     "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
     "cves": [],
     "seen_at": "2026-11-21T18:39:54.005699"
+  },
+  "dc39506873ef0f021ab159ea3a51105a11161762796d7d7337e016414864b366": {
+    "title": "Cyberattack on Austrian Foreign Ministry Exposes Diplomatic Staff Data",
+    "cves": [],
+    "seen_at": "2026-11-21T19:43:44.910674"
   }
 }
