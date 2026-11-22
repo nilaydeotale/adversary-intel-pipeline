@@ -7169,5 +7169,10 @@
     "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
     "cves": [],
     "seen_at": "2026-11-22T19:46:32.772459"
+  },
+  "e06fa639623c0a9cb953ce5b1178dbb3265ecbfbdb0b16b499fc3c6a08268d4e": {
+    "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+    "cves": [],
+    "seen_at": "2026-11-22T23:38:10.466676"
   }
 }
