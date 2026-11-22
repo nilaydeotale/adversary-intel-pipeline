@@ -7149,5 +7149,15 @@
     "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
     "cves": [],
     "seen_at": "2026-11-22T16:41:32.621903"
+  },
+  "1b62232073d42be493dff00b67e127ba88e483ce7320db452b0949025ada5408": {
+    "title": "Signal Is Blocking AI Agents From Reading Your Screen",
+    "cves": [],
+    "seen_at": "2026-11-22T18:40:32.923115"
+  },
+  "63672a5d25666ae6d72a64c77fa9e969a65cbd5e927525a8bfc8fd91a13f6d45": {
+    "title": "A brief history of syslog timestamps, (Wed, Nov 18th)",
+    "cves": [],
+    "seen_at": "2026-11-22T18:40:43.929446"
   }
 }
