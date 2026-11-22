@@ -7159,5 +7159,15 @@
     "title": "A brief history of syslog timestamps, (Wed, Nov 18th)",
     "cves": [],
     "seen_at": "2026-11-22T18:40:43.929446"
+  },
+  "93e978e75b23027900b812954408616625bb251b726e9bbee32a29f9d21a78be": {
+    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+    "cves": [],
+    "seen_at": "2026-11-22T19:46:21.428078"
+  },
+  "7d56bf64452f20c2d9334195266b696b7a010be9275d57a5ff40918430c45df5": {
+    "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
+    "cves": [],
+    "seen_at": "2026-11-22T19:46:32.772459"
   }
 }
