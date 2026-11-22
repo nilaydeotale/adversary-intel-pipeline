@@ -7119,5 +7119,10 @@
     "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
     "cves": [],
     "seen_at": "2026-11-22T06:59:09.690775"
+  },
+  "825b793afd4d7e9af54921cd1ee915a00869f8069730dbeab7c37bc65cca88c6": {
+    "title": "Update: Uranium Glass",
+    "cves": [],
+    "seen_at": "2026-11-22T11:40:08.770132"
   }
 }
