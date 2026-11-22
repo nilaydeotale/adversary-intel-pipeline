@@ -7134,5 +7134,15 @@
     "title": "Security Affairs newsletter Round 605 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
     "cves": [],
     "seen_at": "2026-11-22T14:45:40.230657"
+  },
+  "f5b3712d8b9280de881af50567c56fc48bc9cffcd0ea6cf4e82648dbc3171158": {
+    "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+    "cves": [],
+    "seen_at": "2026-11-22T15:40:16.138636"
+  },
+  "7b14a2e5a0183d23aeda64c73b9892928ca50232928a7d1c3a64a0ebb0e4c5f7": {
+    "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 9",
+    "cves": [],
+    "seen_at": "2026-11-22T15:40:16.819364"
   }
 }
