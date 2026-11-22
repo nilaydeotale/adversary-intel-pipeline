@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-21 18:40 UTC | TLP:AMBER*
+*Last Updated: 2026-11-22 06:59 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | BleepingComputer | [Microsoft Entra Connect Health flaw exploited to steal ...](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/) | - | `ENTRA` |
+| **LOW** | `25` | The Hacker News | [Researchers Demonstrate Ghostscript Sandbox-Escape RCE ...](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html) | - | `Threat` |

@@ -7109,5 +7109,15 @@
     "title": "President Trump Taps Kirsten Davies as National Cyber Director",
     "cves": [],
     "seen_at": "2026-11-22T02:03:12.213207"
+  },
+  "747f53b1fefdc856f59345914f46ddc84ef238c079b2307699f0effcbe70be0a": {
+    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "cves": [],
+    "seen_at": "2026-11-22T06:59:09.685755"
+  },
+  "9f579d1d39e4de58fb54b436866fecce59bd6947d11130d5191d1a6da29e249b": {
+    "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "cves": [],
+    "seen_at": "2026-11-22T06:59:09.690775"
   }
 }

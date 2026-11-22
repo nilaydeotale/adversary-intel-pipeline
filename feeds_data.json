@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-22 05:52 UTC",
+  "updated_utc": "2026-11-22 06:59 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1647,6 +1647,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-22T06:59:09.690762"
     },
     {
       "source": "Security Affairs",
