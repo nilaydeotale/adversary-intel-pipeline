@@ -7099,5 +7099,10 @@
     "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
     "cves": [],
     "seen_at": "2026-11-21T23:33:47.248303"
+  },
+  "a934f1051cd117816a747b3890a60e39d27d42e2116dd6a269155799fa59c7f2": {
+    "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+    "cves": [],
+    "seen_at": "2026-11-22T00:54:08.945678"
   }
 }
