@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23 13:11 UTC",
+  "updated_utc": "2026-11-23 14:57 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1666,6 +1666,38 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "phpAfterShell Vulnerability Revives PHP2Shell\u2019s Attack Path",
+      "link": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-23T14:57:40.351731"
+    },
+    {
+      "source": "Wiz Blog",
+      "title": "Agentic Attacks: In The Wild",
+      "link": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-23T14:57:51.151458"
     },
     {
       "source": "The Hacker News",

@@ -1,6 +1,7 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-23 11:01 UTC | TLP:AMBER*
+*Last Updated: 2026-11-23 14:57 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `40` | The Hacker News | [Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw...](https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html) | CVE-2026-131914 | `Threat` |
+| **LOW** | `25` | SecurityWeek | [phpAfterShell Vulnerability Revives PHP2Shell’s Attack ...](https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/) | - | `Threat` |
+| **LOW** | `25` | Wiz Blog | [Agentic Attacks: In The Wild...](https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks) | - | `Threat` |

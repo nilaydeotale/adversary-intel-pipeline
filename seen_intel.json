@@ -7280,5 +7280,32 @@
     "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
     "cves": [],
     "seen_at": "2026-11-23T13:08:49.135650"
+  },
+  "f670472bec8a5566b752383c3af57b7847d6593d3f25939fe61e086b80764136": {
+    "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+    "cves": [
+      "CVE-2026-134814"
+    ],
+    "seen_at": "2026-11-23T14:57:39.071364"
+  },
+  "7d02d14c1b720bbc860ea6fa7ae6e7301cf5139cd01b1863f49579fccdbf643d": {
+    "title": "phpAfterShell Vulnerability Revives PHP2Shell\u2019s Attack Path",
+    "cves": [],
+    "seen_at": "2026-11-23T14:57:40.351738"
+  },
+  "f7bbd6df2e5358ca916d1f811dec58ccf9671433e3e885d960d373ebbe04ad5c": {
+    "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
+    "cves": [],
+    "seen_at": "2026-11-23T14:57:40.354535"
+  },
+  "66142c4d1c28dbf715291c550bb6e6452ecbaad1f5c441e72bbae7036b856707": {
+    "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+    "cves": [],
+    "seen_at": "2026-11-23T14:57:40.801233"
+  },
+  "e18e18248f3bd9317d67bea284981b13efab6d8cf0318e25fd4942d22064935a": {
+    "title": "Agentic Attacks: In The Wild",
+    "cves": [],
+    "seen_at": "2026-11-23T14:57:51.151474"
   }
 }
