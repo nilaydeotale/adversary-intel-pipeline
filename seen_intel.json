@@ -7382,5 +7382,15 @@
     "title": "VirtualBox Process Hardening on Windows 2026 Edition: What\u2019s a Single Bit Between Friends?",
     "cves": [],
     "seen_at": "2026-11-23T19:58:33.211024"
+  },
+  "d819fdd872a1b6dea0057a689dea959fdcda41181d94308b54824f89df879d0b": {
+    "title": "US Cyber Director Pick Signals Shift Toward Expertise",
+    "cves": [],
+    "seen_at": "2026-11-23T20:53:43.882190"
+  },
+  "90084c2d5c863201574ac8605ad87240223bccd2d88ef887e5573bc88c31e1d9": {
+    "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+    "cves": [],
+    "seen_at": "2026-11-23T20:53:44.244970"
   }
 }
