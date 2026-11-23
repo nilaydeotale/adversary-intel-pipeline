@@ -7405,5 +7405,20 @@
       "CVE-2026-134624"
     ],
     "seen_at": "2026-11-23T21:48:42.724337"
+  },
+  "66f877a29ef797fe0d26f5c07fb6fe3117e898b15429a27d93d9e30516945829": {
+    "title": "Industrial Serial Gateways Broadcast That They're Insecure",
+    "cves": [],
+    "seen_at": "2026-11-23T22:49:09.559541"
+  },
+  "5cebbe766c4875936cf45f44d24f5d609165c2ee28030620037843b115a6542c": {
+    "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
+    "cves": [],
+    "seen_at": "2026-11-23T22:49:09.562093"
+  },
+  "c61fe49e4b411fa1d77bf16e941b7b11ee585c3a373aa14b83faf5228e56f95a": {
+    "title": "What are threat intelligence feeds?",
+    "cves": [],
+    "seen_at": "2026-11-23T22:49:16.745045"
   }
 }
