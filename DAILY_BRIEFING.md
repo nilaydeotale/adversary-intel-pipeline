@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-23 18:55 UTC | TLP:AMBER*
+*Last Updated: 2026-11-23 19:58 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | Dark Reading | [Behind the Alias: How One Researcher Unmasked a Decade ...](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors) | - | `Threat` |
+| **MEDIUM** | `35` | BleepingComputer | [Microsoft Azure flaw exploited to steal customers' API ...](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/) | - | `AZURE` |

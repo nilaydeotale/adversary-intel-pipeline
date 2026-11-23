@@ -7367,5 +7367,20 @@
     "title": "Spanish LaLiga confirms hackers stole soccer fans\u2019 personal data",
     "cves": [],
     "seen_at": "2026-11-23T18:55:14.896564"
+  },
+  "70bd805aeb732f8918a41ec69133208e21227a0e3bfaaaaa9144a74d31f51bbf": {
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+    "cves": [],
+    "seen_at": "2026-11-23T19:58:32.282456"
+  },
+  "5472edd12b2f8c9180a97330dc2486a0467792613c3392e74b7f1367edd2ce6a": {
+    "title": "Cleverbridge Confirms Attackers Copied Payment Card Data From Its Platform",
+    "cves": [],
+    "seen_at": "2026-11-23T19:58:32.845333"
+  },
+  "72e893d357b6fefd3c43c0e3d41be50cba5da439957a2efda373d143c4fc17af": {
+    "title": "VirtualBox Process Hardening on Windows 2026 Edition: What\u2019s a Single Bit Between Friends?",
+    "cves": [],
+    "seen_at": "2026-11-23T19:58:33.211024"
   }
 }
