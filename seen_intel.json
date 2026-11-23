@@ -7184,5 +7184,10 @@
     "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
     "cves": [],
     "seen_at": "2026-11-23T05:17:47.703109"
+  },
+  "c7153aa993a3f80af689a929643867648feca8036209c1d0c26e82e287bd5d5f": {
+    "title": "Spain Stops NoName057(16) From Getting a Physical Foothold",
+    "cves": [],
+    "seen_at": "2026-11-23T07:25:09.421143"
   }
 }
