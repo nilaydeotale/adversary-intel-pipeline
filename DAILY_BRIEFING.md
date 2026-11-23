@@ -1,7 +1,7 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-23 16:04 UTC | TLP:AMBER*
+*Last Updated: 2026-11-23 17:55 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | SecurityWeek | [Azure Flaw Exploited to Target Secrets at Norwegian Ene...](https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/) | - | `AZURE` |
-| **MEDIUM** | `35` | Security Affairs | [Microsoft Entra Connect Health Breach Exposes Tenant Me...](https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html) | - | `ENTRA` |
+| **LOW** | `25` | The Hacker News | [⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, R...](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html) | - | `Threat` |
+| **LOW** | `25` | Dark Reading | [AI Agents Zip From Flaw Discovery to Root Access in 11 ...](https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes) | - | `Threat` |

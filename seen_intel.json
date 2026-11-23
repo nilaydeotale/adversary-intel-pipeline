@@ -7332,5 +7332,20 @@
     "title": "Holiday Lures, Real Threats: 5 Thanksgiving and Black Friday Campaigns from 2026",
     "cves": [],
     "seen_at": "2026-11-23T16:03:55.174306"
+  },
+  "7ce433182cd2d18d8f993b3be9f50ec8ee7ad4974ee9e132476c522cf3625abd": {
+    "title": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+    "cves": [],
+    "seen_at": "2026-11-23T17:55:09.435824"
+  },
+  "27449418c3ea9ae52127e6405d6bcf0dd9cd58ac2533190b3c93cc6666e7a202": {
+    "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
+    "cves": [],
+    "seen_at": "2026-11-23T17:55:10.196129"
+  },
+  "32b9d8a064f9c64785541b0ab0d1d5261a0d1bc73c407738a1943db003c5ed2e": {
+    "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+    "cves": [],
+    "seen_at": "2026-11-23T17:55:10.547943"
   }
 }
