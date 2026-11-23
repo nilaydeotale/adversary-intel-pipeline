@@ -7209,5 +7209,22 @@
     "title": "BADBOX 3.0 Exposed: Massive Botnet Hides Ad Fraud Inside Android TV Boxes",
     "cves": [],
     "seen_at": "2026-11-23T09:18:43.461544"
+  },
+  "51596a4943a4be38327109aa8ec46a7691f6a5ddac1f29d6f496a821f2686400": {
+    "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+    "cves": [
+      "CVE-2026-131914"
+    ],
+    "seen_at": "2026-11-23T11:01:42.988194"
+  },
+  "21b0f9a07bd5660e839dfb2ee235965c049446813b81265cc5e39aabd74eb30f": {
+    "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+    "cves": [],
+    "seen_at": "2026-11-23T11:01:42.993271"
+  },
+  "2b93d402ac90ae5702a00a7239d95aac4e672fbb1a2a52967b0d65a5602b7863": {
+    "title": "Bulgaria Discovers Massive Government Breach After Five Years of Undetected Spying",
+    "cves": [],
+    "seen_at": "2026-11-23T11:01:45.012506"
   }
 }

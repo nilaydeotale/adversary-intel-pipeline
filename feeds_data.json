@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23 09:19 UTC",
+  "updated_utc": "2026-11-23 11:01 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -894,6 +894,25 @@
         "T1621"
       ],
       "detected_utc": "2026-11-17T16:57:33.471615"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild",
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-131914"
+      ],
+      "in_kev": [],
+      "max_epss": 0.00614,
+      "mitre": [],
+      "detected_utc": "2026-11-23T11:01:42.988183"
     },
     {
       "source": "SecurityWeek",
