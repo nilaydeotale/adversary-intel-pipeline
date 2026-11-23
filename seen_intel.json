@@ -7179,5 +7179,10 @@
     "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
     "cves": [],
     "seen_at": "2026-11-23T02:16:45.379680"
+  },
+  "5680172940bf19dd8b560aef8d6cbf883f6084b1258728070c4cfb4240278c8f": {
+    "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+    "cves": [],
+    "seen_at": "2026-11-23T05:17:47.703109"
   }
 }
