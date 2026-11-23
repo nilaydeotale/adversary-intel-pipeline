@@ -7392,5 +7392,18 @@
     "title": "OpenRouter drops AI providers over leaked prompts and secrets",
     "cves": [],
     "seen_at": "2026-11-23T20:53:44.244970"
+  },
+  "d31afddae6606d0323f68eda0fce3ea9e0b5e41aa6be2526c6cddb59901d2e45": {
+    "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million",
+    "cves": [],
+    "seen_at": "2026-11-23T21:48:34.823567"
+  },
+  "9dc44940a2311603179cb49419f924b7e6bc2ec62a5ed9fca2f6f4ecca0f8d66": {
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-133968",
+      "CVE-2026-134624"
+    ],
+    "seen_at": "2026-11-23T21:48:42.724337"
   }
 }
