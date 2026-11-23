@@ -7189,5 +7189,25 @@
     "title": "Spain Stops NoName057(16) From Getting a Physical Foothold",
     "cves": [],
     "seen_at": "2026-11-23T07:25:09.421143"
+  },
+  "5dcd2430a6903945efe8cf699730dfc2ca68c0c5479a042b370eefb9a7832c4d": {
+    "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+    "cves": [],
+    "seen_at": "2026-11-23T09:18:40.784050"
+  },
+  "d786c704b1be50042bc6e3e1f17efc33fb46f2db2c1a9385447028ac79948a8f": {
+    "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+    "cves": [],
+    "seen_at": "2026-11-23T09:18:42.596194"
+  },
+  "1b4607b4ea264312ceb08ecd3c34aa74bd9cf9dd77a1b95de44943588c4c4982": {
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+    "cves": [],
+    "seen_at": "2026-11-23T09:18:42.597625"
+  },
+  "b5de5701d6c22e4e401d463f55cd1f08c78471f91be78457dcd958d1ef6b8655": {
+    "title": "BADBOX 3.0 Exposed: Massive Botnet Hides Ad Fraud Inside Android TV Boxes",
+    "cves": [],
+    "seen_at": "2026-11-23T09:18:43.461544"
   }
 }
