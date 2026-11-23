@@ -7307,5 +7307,30 @@
     "title": "Agentic Attacks: In The Wild",
     "cves": [],
     "seen_at": "2026-11-23T14:57:51.151474"
+  },
+  "cb9966cde7cbc7f1136799d26e6c20e94aec07f525f7064c75fe1ab17868feb6": {
+    "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
+    "cves": [],
+    "seen_at": "2026-11-23T16:03:45.379865"
+  },
+  "8de2f6f3a9d8dfd07d0de0eee9bb2a63bb05971fc3e4fc5db20ced1bff4f1447": {
+    "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-23T16:03:45.383718"
+  },
+  "0e002d5318a9c0508aa05c50524744b4ac86da4c59a5677aa98ca1b4ecfec65e": {
+    "title": "AI Agents Are Creating a Shared Responsibility Gap",
+    "cves": [],
+    "seen_at": "2026-11-23T16:03:45.838923"
+  },
+  "1a6b2df4b664b757de77f8a351c0a0a688973b496dac16f7140063c67e5174f9": {
+    "title": "Microsoft Entra Connect Health Breach Exposes Tenant Metadata and Admin Details",
+    "cves": [],
+    "seen_at": "2026-11-23T16:03:46.608521"
+  },
+  "e73c0bad2bb984ad957570fc18c6bf741494c0cfefc30f8cc75d2b2c0fcd376a": {
+    "title": "Holiday Lures, Real Threats: 5 Thanksgiving and Black Friday Campaigns from 2026",
+    "cves": [],
+    "seen_at": "2026-11-23T16:03:55.174306"
   }
 }

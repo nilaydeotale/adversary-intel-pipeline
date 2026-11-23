@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23 14:57 UTC",
+  "updated_utc": "2026-11-23 16:04 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1138,6 +1138,38 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
+      "link": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "azure"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-23T16:03:45.379854"
+    },
+    {
+      "source": "Security Affairs",
+      "title": "Microsoft Entra Connect Health Breach Exposes Tenant Metadata and Admin Details",
+      "link": "https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "entra"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-23T16:03:46.608512"
     },
     {
       "source": "BleepingComputer",
