@@ -7347,5 +7347,25 @@
     "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
     "cves": [],
     "seen_at": "2026-11-23T17:55:10.547943"
+  },
+  "5e24c1b462bc9ba32dc1dbb66a649dde6b6ff40c1e20a3fc40afcbea15e6f529": {
+    "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+    "cves": [],
+    "seen_at": "2026-11-23T18:55:12.501847"
+  },
+  "b4d19b4e5d1de20404ea5d6633ecc303b043ef6758238d5b6432805a5d3398d2": {
+    "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+    "cves": [],
+    "seen_at": "2026-11-23T18:55:14.486351"
+  },
+  "b0d2bb313b541c86e0b487e921080e7085d3e2d09f669006dce53985774e9d7e": {
+    "title": "Nok et norsk energiselskap har blitt utsatt for et datainnbrudd p\u00e5 to dager",
+    "cves": [],
+    "seen_at": "2026-11-23T18:55:14.491079"
+  },
+  "627864a914d9ce38f7b02e20be9581d491bb39030d1addeb35c21f06eb429be4": {
+    "title": "Spanish LaLiga confirms hackers stole soccer fans\u2019 personal data",
+    "cves": [],
+    "seen_at": "2026-11-23T18:55:14.896564"
   }
 }

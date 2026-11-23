@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23 17:55 UTC",
+  "updated_utc": "2026-11-23 18:55 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1698,6 +1698,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+      "link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-23T18:55:14.486344"
     },
     {
       "source": "The Hacker News",
