@@ -7467,5 +7467,35 @@
     "title": "LATAM\u2019s Financial Fraud Ecosystem: Key Threats and Strategies for Business Protection",
     "cves": [],
     "seen_at": "2026-11-24T10:03:35.278448"
+  },
+  "7adce78b4b90e22ab43f666a3dff911621292f97d432378b3100ddb46193cbf3": {
+    "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+    "cves": [],
+    "seen_at": "2026-11-24T11:54:17.003009"
+  },
+  "069e08b2f2525d1ce68a80fee6e3cfe64e8c33f2d5b53ab2a0acc9c09bf6322a": {
+    "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+    "cves": [],
+    "seen_at": "2026-11-24T11:54:17.006675"
+  },
+  "041c2bb6951b05b6905b750978f7c72ba7965d69d9d15d41a59063340ae284ff": {
+    "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
+    "cves": [],
+    "seen_at": "2026-11-24T11:54:18.320086"
+  },
+  "5cbdc1c99ea19dfa24323243452fbb65afa92e9629925b6d7babde8fd98e0b6d": {
+    "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+    "cves": [],
+    "seen_at": "2026-11-24T11:54:18.871397"
+  },
+  "c6e63b7a98c8392bf5ba0108010e39e33fc709aa2438e9d6d368232117d7c463": {
+    "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+    "cves": [],
+    "seen_at": "2026-11-24T11:54:18.874911"
+  },
+  "2b5e8d198bc826a7f9b38439b466d2bcf9d5c963f89cec2de8c70d5720bb4256": {
+    "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+    "cves": [],
+    "seen_at": "2026-11-24T11:54:18.878455"
   }
 }

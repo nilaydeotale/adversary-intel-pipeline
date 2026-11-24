@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-23 19:58 UTC | TLP:AMBER*
+*Last Updated: 2026-11-24 11:56 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | BleepingComputer | [Microsoft Azure flaw exploited to steal customers' API ...](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/) | - | `AZURE` |
+| **MEDIUM** | `35` | The Hacker News | [Microsoft Fixes Azure API Management Classic Flaw as Ac...](https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html) | - | `AZURE` |
