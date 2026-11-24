@@ -7671,5 +7671,10 @@
     "title": "Turnitin discloses cyberattack affecting customer-facing systems",
     "cves": [],
     "seen_at": "2026-11-24T19:58:43.371928"
+  },
+  "4d38a0a03aa7e4f6bb1323394787c2a31c5392af067bf56f3a60e94c7f991fb7": {
+    "title": "New Inception extortion gang launches large-scale vishing campaign",
+    "cves": [],
+    "seen_at": "2026-11-24T20:55:00.665790"
   }
 }

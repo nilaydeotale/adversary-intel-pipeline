@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-24 19:58 UTC",
+  "updated_utc": "2026-11-24 20:55 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1156,6 +1156,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "sso"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-24T20:55:00.665781"
     },
     {
       "source": "The Hacker News",
