@@ -7676,5 +7676,29 @@
     "title": "New Inception extortion gang launches large-scale vishing campaign",
     "cves": [],
     "seen_at": "2026-11-24T20:55:00.665790"
+  },
+  "c208cc60d0ee433e093b9551ad1c25b4e905c08105e0410da7cd8a5deae65f1c": {
+    "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+    "cves": [],
+    "seen_at": "2026-11-24T21:53:21.664637"
+  },
+  "bfe10f8d8cb90a0b65c269efa4474691e294683325e82bbfe0cbf6032250a6f5": {
+    "title": "Rackspace shuts down Spot cloud platform after security breach",
+    "cves": [],
+    "seen_at": "2026-11-24T21:53:22.174824"
+  },
+  "98680cf36ff73c9c6f539082cdf6613fff24c66f30696a60afe2e9b807a469c8": {
+    "title": "EU Academy Users\u2019 Names and Emails Exposed in EU Commission Hack",
+    "cves": [],
+    "seen_at": "2026-11-24T21:53:22.728741"
+  },
+  "cba93854b489acf2b2a025f228d6a447dcb278dcfef566c73bd93e1314ee0b58": {
+    "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-131914",
+      "CVE-2026-132165",
+      "CVE-2026-132224"
+    ],
+    "seen_at": "2026-11-24T21:53:29.163721"
   }
 }
