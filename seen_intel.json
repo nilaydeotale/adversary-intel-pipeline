@@ -7700,5 +7700,20 @@
       "CVE-2026-132224"
     ],
     "seen_at": "2026-11-24T21:53:29.163721"
+  },
+  "4612ae95d11fb0646a4ccb4565c2885739d49d26c8540eb681834338c933f6b6": {
+    "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+    "cves": [],
+    "seen_at": "2026-11-24T22:53:27.418487"
+  },
+  "10e189fecd15fd423daf1cc3c93bcedd2e4c85fa1e8db7e3fcbc47afdce66ce0": {
+    "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+    "cves": [],
+    "seen_at": "2026-11-24T22:53:27.423624"
+  },
+  "f312e3c247533ff3eeb593bdd451adbb28d55a7ca13302f80404b95bec06388c": {
+    "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+    "cves": [],
+    "seen_at": "2026-11-24T22:53:27.525474"
   }
 }
