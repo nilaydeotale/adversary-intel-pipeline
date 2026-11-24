@@ -7420,5 +7420,20 @@
     "title": "What are threat intelligence feeds?",
     "cves": [],
     "seen_at": "2026-11-23T22:49:16.745045"
+  },
+  "ee174e5b28d573f4f4e4c380bf8545176984dcf70c55a279826303c00898024b": {
+    "title": "Hangzhou Hikvision Digital Technology Co., Ltd. EZVIZ CS-C6N cloud snapshot improper certificate validation vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-24T02:16:48.075798"
+  },
+  "ff421cc22907e7d6891f25caee1ed4df75abd63fe5b086054e692bece71dfb28": {
+    "title": "Hangzhou Hikvision Digital Technology Co., Ltd. EZVIZ CS-C6N MQTT authentication bypass vulnerability",
+    "cves": [],
+    "seen_at": "2026-11-24T02:16:48.079893"
+  },
+  "ef7bfcbafd18b9d7f116665266760e00a243a5f68a61d85b63ff68b9c892aff3": {
+    "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
+    "cves": [],
+    "seen_at": "2026-11-24T02:16:56.674075"
   }
 }
