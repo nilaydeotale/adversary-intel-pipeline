@@ -7715,5 +7715,23 @@
     "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
     "cves": [],
     "seen_at": "2026-11-24T22:53:27.525474"
+  },
+  "02b632528b6820aa0088d9f055d778aebf4af0b3f938adf3e3430fed4240fb9c": {
+    "title": "Jensen Huang\u2019s Return Shows Nvidia Is Too Big to Police",
+    "cves": [],
+    "seen_at": "2026-11-24T23:45:41.622705"
+  },
+  "6ac798e0aa993ec44a6836c616b995be402462f9f045c7f0538d2dc7b930350e": {
+    "title": "VMware patches critical vCenter authentication bypass and ESX flaws",
+    "cves": [],
+    "seen_at": "2026-11-24T23:45:43.129474"
+  },
+  "cea2c37a92533708203e0e6040eb231b226018d10623d4a11ce206a362c5cc0e": {
+    "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+    "cves": [
+      "CVE-2026-123633",
+      "CVE-2026-123633"
+    ],
+    "seen_at": "2026-11-24T23:45:51.999648"
   }
 }
