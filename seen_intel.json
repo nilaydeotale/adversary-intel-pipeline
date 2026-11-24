@@ -7626,5 +7626,40 @@
     "title": "Recent Trends and Tactics of Agentic AI Attacks",
     "cves": [],
     "seen_at": "2026-11-24T16:01:54.606442"
+  },
+  "98859368a06fa4597bad590aa809d0b1302cf9b382cacf2cc2062148895d13b5": {
+    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+    "cves": [],
+    "seen_at": "2026-11-24T17:50:07.622121"
+  },
+  "1d5dbe9cc410b2a741bb1245feaf665409f42d6168fe1fea64aaeb91566df7cd": {
+    "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+    "cves": [],
+    "seen_at": "2026-11-24T17:50:09.182286"
+  },
+  "122310e95d1a0691a2f8ddd2492ca369d8f7513f009d7a671f5f9aedbaea74ac": {
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "cves": [],
+    "seen_at": "2026-11-24T17:50:09.565632"
+  },
+  "9bd2a12937d7f0b0171adc58c3a49389b0c9e0bb874b8358fc2af5d90be96f3c": {
+    "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+    "cves": [],
+    "seen_at": "2026-11-24T17:50:09.570778"
+  },
+  "68f8cd8ac581f44e6269cefe51f48d070f25a0db22e8050ce9c1dee3ef9610a4": {
+    "title": "European Commission confirms data theft in EU Academy breach",
+    "cves": [],
+    "seen_at": "2026-11-24T17:50:09.575831"
+  },
+  "f2d151a626da3edc8938b598d24c8bd4cee65280afe057106acc33047fd70d62": {
+    "title": "Hackers compromise Check Point Servers in 22 organizations",
+    "cves": [],
+    "seen_at": "2026-11-24T17:50:09.580891"
+  },
+  "1cde5b7076df27cb77318dc86ca84c9211ec601b8a4a9cebc0b46049160863e9": {
+    "title": "How to compare MDR providers when every proposal looks promising",
+    "cves": [],
+    "seen_at": "2026-11-24T17:50:21.661440"
   }
 }
