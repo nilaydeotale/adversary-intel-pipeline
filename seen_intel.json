@@ -7580,5 +7580,51 @@
       "CVE-2026-123890"
     ],
     "seen_at": "2026-11-24T14:54:35.981492"
+  },
+  "d12b1abe9597c64b148fcd0e61b0e44e70fdf95556edba0a9213e745b9517a69": {
+    "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+    "cves": [],
+    "seen_at": "2026-11-24T16:01:44.425812"
+  },
+  "638a4c803395a2cc9cd4e1a26b036e8c43643051ac99c67387f5181a15c94158": {
+    "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+    "cves": [],
+    "seen_at": "2026-11-24T16:01:44.978315"
+  },
+  "81698ba78f93c9237a4ef5a509bc397985674b47556ea73381de96a143756ff5": {
+    "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+    "cves": [],
+    "seen_at": "2026-11-24T16:01:44.980109"
+  },
+  "0c0040489a7d68f0966e52dfd89b6390d0167f6e2d1a4947a10ac9db847204b5": {
+    "title": "The Cyber Threats Behind Space Race 2.0",
+    "cves": [],
+    "seen_at": "2026-11-24T16:01:51.002091"
+  },
+  "5cf6e9122e9ca02bd4cda2c6482dbd7dff92787ff61510f5e465a828b2ca9e9c": {
+    "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+    "cves": [
+      "CVE-2026-119055"
+    ],
+    "seen_at": "2026-11-24T16:01:51.512272"
+  },
+  "3b9e0a034dd4bbb8cbf886e9ef27b40b8120465837a5a628051cb71dca3a0a4b": {
+    "title": "Danfoss AK-SM 8xxA Series",
+    "cves": [
+      "CVE-2026-129713"
+    ],
+    "seen_at": "2026-11-24T16:01:51.566623"
+  },
+  "5efb2bf709d3c4c5878fa40d989f5fe7f5e53c66609cd0b317f83deda1d9d268": {
+    "title": "AutomationDirect C-More EA9 Programming Software",
+    "cves": [
+      "CVE-2026-127280"
+    ],
+    "seen_at": "2026-11-24T16:01:51.606920"
+  },
+  "c9b36e2d4b87b0201ee2582245b2d4e161c1ad580ed1582f1a57cfa97bc209a5": {
+    "title": "Recent Trends and Tactics of Agentic AI Attacks",
+    "cves": [],
+    "seen_at": "2026-11-24T16:01:54.606442"
   }
 }
