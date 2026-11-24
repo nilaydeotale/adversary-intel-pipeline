@@ -7445,5 +7445,22 @@
     "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
     "cves": [],
     "seen_at": "2026-11-24T06:02:00.129421"
+  },
+  "ea7f292a8b4ccca7fdb723cc93e9fedc56206686553cd50b139f4280cb5d5074": {
+    "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+    "cves": [],
+    "seen_at": "2026-11-24T08:26:57.496006"
+  },
+  "f6c27301f58f220513c41858fb44a1b698c5528c2eba28c077acc73c953f4561": {
+    "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+    "cves": [
+      "CVE-2026-134624"
+    ],
+    "seen_at": "2026-11-24T08:26:57.499352"
+  },
+  "dcf491ba30e62430a39320ea77bf090290370eb3af23bdd6f4a28b9804884ae2": {
+    "title": "Hackers May Have Breached FBI Database Used by Police Nationwide",
+    "cves": [],
+    "seen_at": "2026-11-24T08:27:01.804515"
   }
 }
