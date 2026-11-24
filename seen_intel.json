@@ -7440,5 +7440,10 @@
     "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
     "cves": [],
     "seen_at": "2026-11-24T03:54:43.368807"
+  },
+  "2dd6b5425d45872fbaaa537d985937132085f09eb479701ffc7cefa5b3d7cd57": {
+    "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-24T06:02:00.129421"
   }
 }
