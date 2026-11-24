@@ -7661,5 +7661,10 @@
     "title": "How to compare MDR providers when every proposal looks promising",
     "cves": [],
     "seen_at": "2026-11-24T17:50:21.661440"
+  },
+  "bd316f6ce6c3e5433da2b50e9d2601d0afc84982f0f12eb7d202940166751dde": {
+    "title": "\u201cDo Good Security\u201d and Other Lessons from Wiz\u2019s FedRAMP VDR & VER Event",
+    "cves": [],
+    "seen_at": "2026-11-24T18:56:45.007183"
   }
 }
