@@ -7435,5 +7435,10 @@
     "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
     "cves": [],
     "seen_at": "2026-11-24T02:16:56.674075"
+  },
+  "064b19b94a02e9725496f001347581e6e37256f7e7cfd93e0e6889f0d3a072c9": {
+    "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
+    "cves": [],
+    "seen_at": "2026-11-24T03:54:43.368807"
   }
 }
