@@ -7524,5 +7524,61 @@
     "title": "We Get the Infrastructure We Pay For",
     "cves": [],
     "seen_at": "2026-11-24T13:08:20.885806"
+  },
+  "326b41850fa50bd7690546364a397cd153650b3edf3c3e765967cbc59b7c2577": {
+    "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+    "cves": [
+      "CVE-2026-123903"
+    ],
+    "seen_at": "2026-11-24T14:54:22.475571"
+  },
+  "2a5d69e66adde784c297ba568646f531dd6966b42d3dc1307d7756699b883981": {
+    "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+    "cves": [],
+    "seen_at": "2026-11-24T14:54:22.480941"
+  },
+  "241b64cf8a15b39d571e4c45f7b1a4061cdda0b9b111290b73cca63e9bbe7ac7": {
+    "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+    "cves": [],
+    "seen_at": "2026-11-24T14:54:24.448686"
+  },
+  "3de7dd5ce00c32b222c395334ca4b6bb903a2183051fa5baffee03f03918b62e": {
+    "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+    "cves": [],
+    "seen_at": "2026-11-24T14:54:24.453366"
+  },
+  "f5329e8d61cbc1e74611fd3697733ebd39c6f9e9b739d95e6cd609d354e6c9fa": {
+    "title": "McDonald's Japan data breach exposes customer location information",
+    "cves": [],
+    "seen_at": "2026-11-24T14:54:24.927230"
+  },
+  "481a8c3688ee73fe7f24b1df1961e595daa8201d71cd0a194acb06873fcd14c6": {
+    "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+    "cves": [],
+    "seen_at": "2026-11-24T14:54:24.931980"
+  },
+  "521f14128d189f319c349410a8ebda9aa2f464c98ff86a37bc6c941b5b67d40c": {
+    "title": "U.S. CISA adds N-able MailAssure and Project MONAI\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+    "cves": [
+      "CVE-2026-133968"
+    ],
+    "seen_at": "2026-11-24T14:54:25.474212"
+  },
+  "d010ee0b2bd7fa3a2a90dd35f34e6ad12495abf343e330f19f21877b8b2c6248": {
+    "title": "Volant Manticore: Flying Under the Radar",
+    "cves": [],
+    "seen_at": "2026-11-24T14:54:25.762076"
+  },
+  "46b0040fe2532ed6d57c308a158f40dc9525396de40d0728d1b8928a44692ec9": {
+    "title": "Powering the OpenAI Daybreak Defense Factory with Wiz Security Intelligence",
+    "cves": [],
+    "seen_at": "2026-11-24T14:54:35.256456"
+  },
+  "bacc9323cee036503f06a7c3183da93b3cb0c0d149181a9ba4917cf0b6b40f8c": {
+    "title": "Rapid7 Analysis: VMware vCenter SRP Authentication Bypass to Root (CVE-2026-123890)",
+    "cves": [
+      "CVE-2026-123890"
+    ],
+    "seen_at": "2026-11-24T14:54:35.981492"
   }
 }

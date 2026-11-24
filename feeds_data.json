@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-24 13:08 UTC",
+  "updated_utc": "2026-11-24 14:54 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -897,6 +897,24 @@
     },
     {
       "source": "The Hacker News",
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [
+        "CVE-2026-123903"
+      ],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-24T14:54:22.475559"
+    },
+    {
+      "source": "The Hacker News",
       "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
       "score": 40,
@@ -1138,6 +1156,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "okta"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-24T14:54:22.480935"
     },
     {
       "source": "The Hacker News",
