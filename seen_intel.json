@@ -7497,5 +7497,32 @@
     "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
     "cves": [],
     "seen_at": "2026-11-24T11:54:18.878455"
+  },
+  "da71c042c77dfc4a2289fb50160e35c4cff850b6451110e5fc98d996bc4bde9e": {
+    "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+    "cves": [
+      "CVE-2026-87268"
+    ],
+    "seen_at": "2026-11-24T13:08:19.283778"
+  },
+  "eea8e276762db99bd78203982288f2aa62097769c09284c8f91c3e2011b22b9c": {
+    "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+    "cves": [],
+    "seen_at": "2026-11-24T13:08:19.288807"
+  },
+  "81f9ce1284eb5d439857d10b3bf82514c63e04eaf27ec93f5366391f1a2b26ad": {
+    "title": "In Security, Words Matter as Much as Tools \u2014 Maybe More",
+    "cves": [],
+    "seen_at": "2026-11-24T13:08:20.426018"
+  },
+  "ea6982d7802d0de69c7ab565756e0be7e8cf5061a343739b021d2ed9c7170efd": {
+    "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+    "cves": [],
+    "seen_at": "2026-11-24T13:08:20.565887"
+  },
+  "b2cfc93a7f9d4561a8596175f956de2fd2e20ca7008735be25953eedeaafaf9b": {
+    "title": "We Get the Infrastructure We Pay For",
+    "cves": [],
+    "seen_at": "2026-11-24T13:08:20.885806"
   }
 }
