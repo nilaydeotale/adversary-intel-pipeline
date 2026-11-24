@@ -7666,5 +7666,10 @@
     "title": "\u201cDo Good Security\u201d and Other Lessons from Wiz\u2019s FedRAMP VDR & VER Event",
     "cves": [],
     "seen_at": "2026-11-24T18:56:45.007183"
+  },
+  "350b11587b66703393a048f2ebb602c69e44154d9c6bd8c73a18a2281e7507a3": {
+    "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+    "cves": [],
+    "seen_at": "2026-11-24T19:58:43.371928"
   }
 }
