@@ -7997,5 +7997,31 @@
     "title": "Rapid7 Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Integrated Security Operations Center Systems",
     "cves": [],
     "seen_at": "2026-11-25T19:53:24.009390"
+  },
+  "600a726f45e6ff1c0e793f41950090f701b13bb86fee35549826b708253c5a70": {
+    "title": "1Password customer data stolen after employee GitHub account breach",
+    "cves": [],
+    "seen_at": "2026-11-25T21:54:21.508669"
+  },
+  "0573b4822504f92b3ed3479b63cb074857c3f4efc22657ea6bb762ed446e27ec": {
+    "title": "Switzerland Confirms First AI-Agent Cyberattacks on Local Organisations",
+    "cves": [],
+    "seen_at": "2026-11-25T21:54:22.163562"
+  },
+  "fd2801d468b4acacb30c817ebe4bc303ad60a4ef3d9cc56269f5bb813e43ee79": {
+    "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2023-25914",
+      "CVE-2023-25915",
+      "CVE-2025-41450",
+      "CVE-2026-103406",
+      "CVE-2026-133275",
+      "CVE-2026-133303",
+      "CVE-2026-133311",
+      "CVE-2026-133323",
+      "CVE-2026-133324",
+      "CVE-2026-133469"
+    ],
+    "seen_at": "2026-11-25T21:56:40.043369"
   }
 }
