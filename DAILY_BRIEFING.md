@@ -1,6 +1,7 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-24 20:55 UTC | TLP:AMBER*
+*Last Updated: 2026-11-25 10:14 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **MEDIUM** | `35` | BleepingComputer | [New Inception extortion gang launches large-scale vishi...](https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/) | - | `SSO` |
+| **LOW** | `25` | The Hacker News | [Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromi...](https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html) | - | `Threat` |
+| **LOW** | `25` | BleepingComputer | [Hackers now exploit critical Drupal RCE flaw to hijack ...](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/) | - | `Threat` |

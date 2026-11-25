@@ -7778,5 +7778,32 @@
     "title": "Maritime industry faces growing cyber threats as 50 ships targeted",
     "cves": [],
     "seen_at": "2026-11-25T08:59:44.107578"
+  },
+  "48b2b48d1ad1ff8800b719d979305e8febba220bb9814fdc6214c4bfc1c88295": {
+    "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+    "cves": [],
+    "seen_at": "2026-11-25T10:14:07.049521"
+  },
+  "d8e1c0a99102d5d0f55c2636345ba9e80e4fc08b3088059a721671b6de06c785": {
+    "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+    "cves": [
+      "CVE-2026-131914"
+    ],
+    "seen_at": "2026-11-25T10:14:08.701703"
+  },
+  "6a7a9d8d8f6189d872de4d74f8b38482aa635f27eaa4cef2d4ceb900689cc0d4": {
+    "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+    "cves": [],
+    "seen_at": "2026-11-25T10:14:08.921170"
+  },
+  "1a3c1c8df29527551a22fa772b955a8a4652058ddbddc08c2ade843333274364": {
+    "title": "Microsoft confirms authentication issues after November updates",
+    "cves": [],
+    "seen_at": "2026-11-25T10:14:08.926465"
+  },
+  "31da20d5c1e4f963bb2cd36a09ee3ae032fb8502f45ee70edbda276c7884b8aa": {
+    "title": "DORA for SOC Teams: 10 Requirements That Turn into Actual Security Work",
+    "cves": [],
+    "seen_at": "2026-11-25T10:14:15.088078"
   }
 }
