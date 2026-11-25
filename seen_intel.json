@@ -7733,5 +7733,10 @@
       "CVE-2026-123633"
     ],
     "seen_at": "2026-11-24T23:45:51.999648"
+  },
+  "47796e1d136a3e6e36396514255fc58898cf78f09edbe15fb032431047748ad5": {
+    "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+    "cves": [],
+    "seen_at": "2026-11-25T02:53:14.178942"
   }
 }
