@@ -7743,5 +7743,20 @@
     "title": "Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'",
     "cves": [],
     "seen_at": "2026-11-25T05:06:45.956079"
+  },
+  "b3a8929948dd166cb9cd4c1565a58f172b814758eb10543a4015d35d7ab882d2": {
+    "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+    "cves": [],
+    "seen_at": "2026-11-25T07:10:33.031041"
+  },
+  "de48be7158cdc3f20fe24b2cc7d0d553f9e36cdf3a0443f720ceebb700e7ba2e": {
+    "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+    "cves": [],
+    "seen_at": "2026-11-25T07:10:33.036526"
+  },
+  "30913745b61c108132e6d66aa2b6164111d917883f23a01c9adfe16fe7557f5a": {
+    "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+    "cves": [],
+    "seen_at": "2026-11-25T07:10:33.041712"
   }
 }
