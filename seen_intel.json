@@ -7758,5 +7758,25 @@
     "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
     "cves": [],
     "seen_at": "2026-11-25T07:10:33.041712"
+  },
+  "c33150437aa2514febe2100f6e67d73db311733f5d08a1eb7d1b9b86dfc87847": {
+    "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+    "cves": [],
+    "seen_at": "2026-11-25T08:59:42.967840"
+  },
+  "4e5ee542c22dcaa61a3555d9ada22a5625b64e12e19c7a014516e2439b4d156a": {
+    "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
+    "cves": [],
+    "seen_at": "2026-11-25T08:59:42.972934"
+  },
+  "e6706e31099a4b294aef6ed844f0119aa16ccdae3fd12f9c5e21ceac1fdd69d4": {
+    "title": "Hackers reportedly breached CIA intelligence analysis system",
+    "cves": [],
+    "seen_at": "2026-11-25T08:59:43.414127"
+  },
+  "1946279ccd6f3b0720bfcb70d1da308b78fa58cfc8385975daf54ab77a69eb9b": {
+    "title": "Maritime industry faces growing cyber threats as 50 ships targeted",
+    "cves": [],
+    "seen_at": "2026-11-25T08:59:44.107578"
   }
 }
