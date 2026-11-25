@@ -7840,5 +7840,44 @@
     "title": "Securing Grandma's groceries with Pierre Cadieux",
     "cves": [],
     "seen_at": "2026-11-25T11:57:27.327498"
+  },
+  "4300571643460abd529ebc052a393afbf23cef9feb843a2d75baecedc0ab553d": {
+    "title": "Credential Remediation Is Slow When You Don\u2019t Know What Will Break",
+    "cves": [],
+    "seen_at": "2026-11-25T13:17:10.285797"
+  },
+  "7b363ad50763b5a028ebba932c0e0970b90d1280439ceb55aeecbd0da07bbd21": {
+    "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+    "cves": [
+      "CVE-2026-132165"
+    ],
+    "seen_at": "2026-11-25T13:17:10.291343"
+  },
+  "072e99b80c3c6d9a82811d8a5f313d88da014acb1f4c03123f291d1a5ce6b42c": {
+    "title": "Tracking Incidents of Hacking Using AI Tools",
+    "cves": [],
+    "seen_at": "2026-11-25T13:17:11.725100"
+  },
+  "1b537a93221665f141eb4e6b919c5955462ddaffb13144a1f86a61c87a64ff68": {
+    "title": "U.S. CISA adds Drupal Core, Idunno AntiCsrf, and Optimizely Web Experimentation\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+    "cves": [
+      "CVE-2026-131914"
+    ],
+    "seen_at": "2026-11-25T13:17:12.248371"
+  },
+  "4172982a1c55ca61250d130aa479b5a4dec2e4ba4abe3b9b6d5d3aef83f8eb8e": {
+    "title": "CVE-2026-123903: Critical VMware Directory Service Authentication Bypass affects vCenter",
+    "cves": [
+      "CVE-2026-123890",
+      "CVE-2026-123903",
+      "CVE-2026-123904",
+      "CVE-2026-123905",
+      "CVE-2026-123906",
+      "CVE-2026-123907",
+      "CVE-2026-123908",
+      "CVE-2026-123909",
+      "CVE-2026-123890"
+    ],
+    "seen_at": "2026-11-25T13:17:23.906918"
   }
 }
