@@ -7805,5 +7805,40 @@
     "title": "DORA for SOC Teams: 10 Requirements That Turn into Actual Security Work",
     "cves": [],
     "seen_at": "2026-11-25T10:14:15.088078"
+  },
+  "88e8de944da3bf2466788728aced0ac6cfbc5323a49b168d8325d7c120e9b51c": {
+    "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+    "cves": [],
+    "seen_at": "2026-11-25T11:57:16.466073"
+  },
+  "823e3e31c27d80a585e49527983ad357d344d6f5b3044247ee16b5b1c2b028c5": {
+    "title": "The \u2018True Crime Community\u2019 Is Inspiring Violent Attacks Through TikTok",
+    "cves": [],
+    "seen_at": "2026-11-25T11:57:16.980273"
+  },
+  "a07776791c1f93ae6fe15a16865ff6f8e581439fc901845081503bdf45683763": {
+    "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
+    "cves": [],
+    "seen_at": "2026-11-25T11:57:17.565236"
+  },
+  "741b659a6183c37a0751fe794ce125959e36a7fbb653d8a35a3529c498a67e4d": {
+    "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+    "cves": [],
+    "seen_at": "2026-11-25T11:57:17.805248"
+  },
+  "027be1a72a43c403190fd572bcbaf97a19fbe2b8b43a4fb92578b942ab3cdf89": {
+    "title": "GT13: AI-Assisted Hackers Target 22 Organizations Through Check Point Servers",
+    "cves": [],
+    "seen_at": "2026-11-25T11:57:18.590601"
+  },
+  "0d448f78d7747ccdcb2915ee33b10827cb4b7551f569800d113914021be6ec0f": {
+    "title": "The Great Escape: Tradecraft insights from an agentic swarm",
+    "cves": [],
+    "seen_at": "2026-11-25T11:57:27.322696"
+  },
+  "e24f16dcc8dc70430269c058bf28db5da1ebbcaa77d5af79286ec4b65968b6cb": {
+    "title": "Securing Grandma's groceries with Pierre Cadieux",
+    "cves": [],
+    "seen_at": "2026-11-25T11:57:27.327498"
   }
 }

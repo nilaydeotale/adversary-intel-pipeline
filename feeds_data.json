@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-25 10:14 UTC",
+  "updated_utc": "2026-11-25 11:57 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1780,6 +1780,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Cisco Talos",
+      "title": "The Great Escape: Tradecraft insights from an agentic swarm",
+      "link": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "in the wild"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-25T11:57:27.322685"
     },
     {
       "source": "The Hacker News",
