@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-25 13:17 UTC",
+  "updated_utc": "2026-11-25 14:58 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -897,6 +897,25 @@
     },
     {
       "source": "The Hacker News",
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "score": 40,
+      "severity": "MEDIUM",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [
+        "CVE-2026-120705",
+        "CVE-2026-129243"
+      ],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-25T14:58:15.946777"
+    },
+    {
+      "source": "The Hacker News",
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
       "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
       "score": 40,
@@ -1156,6 +1175,22 @@
       "max_epss": 0.00353,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:37.623396"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+      "link": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+      "score": 35,
+      "severity": "MEDIUM",
+      "stack_hits": [
+        "okta"
+      ],
+      "exploit_hits": [],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-25T14:58:18.256750"
     },
     {
       "source": "BleepingComputer",
@@ -1780,6 +1815,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "Rapid7 Blog",
+      "title": "Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and What Changed",
+      "link": "https://www.rapid7.com/blog/post/it-2026-cybersecurity-predictions-wrong-or-right",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "ransomware"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-25T14:58:31.126772"
     },
     {
       "source": "Cisco Talos",

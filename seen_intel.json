@@ -7879,5 +7879,63 @@
       "CVE-2026-123890"
     ],
     "seen_at": "2026-11-25T13:17:23.906918"
+  },
+  "92164dfd6f15c733a553e53cf02f3a4c4f45e2aeca9f58310a431865e7c7e5e8": {
+    "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+    "cves": [
+      "CVE-2026-120705",
+      "CVE-2026-129243"
+    ],
+    "seen_at": "2026-11-25T14:58:15.946786"
+  },
+  "0303e2ae8078bbd1d220dca2cfa20d513bafe7c82c7115b0adb55a87d85bcecc": {
+    "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:15.952707"
+  },
+  "7ce3d2baa1d5f4a5a4fe35e7a1acc3c8c2c063a28237aa2f1e8dd44109099806": {
+    "title": "It's a Bot World. We're Just Living in It",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:18.097262"
+  },
+  "b5cf36a57c319b22ad3e2f862a813b178f474b4cc16e629473150d4578623c22": {
+    "title": "Latin America Sees Cyberattacks on Ports, Pipelines &amp; Manufacturing",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:18.102658"
+  },
+  "c9e77fc294c54e4e5ad2604b6ef910dc007e69992bcc8d42e90f4667124b5870": {
+    "title": "How Southeastern University Got a Handle on Its Data",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:18.107937"
+  },
+  "66fc142341f961e1376973c41bac2a23b323a78003c4400360422e20fa4e2851": {
+    "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:18.256755"
+  },
+  "410804bf54760df16eced043d6ca7f2bbbe0c4e31d4e79bedad54e6808445212": {
+    "title": "US Treasury\u2019s FinCEN Disconnects Systems Following Cyber Incident",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:18.262156"
+  },
+  "4d96543970918c151e873e44d6119648214c3f0d83da84c862ceac761f379392": {
+    "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:18.264556"
+  },
+  "616aff14dfb8adbed46ee2bd9633bb2b8129768ffa7ae8c543120d74f80e1d64": {
+    "title": "Electrolux Smart Boilers in Ukraine Connect to Russian Servers, Raising Privacy Concerns",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:19.399697"
+  },
+  "959a75cbd5ed0c23b32f63aa33c94e7ddf3b29854406d3db1d4e26bebd296a40": {
+    "title": "Inside Agentic Offensive Frameworks: Intent IDs",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:30.361595"
+  },
+  "e15270fcd6f1187c03b500b011feda8dd4811e45ae73dc1368405cb39a8bbcd1": {
+    "title": "Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and What Changed",
+    "cves": [],
+    "seen_at": "2026-11-25T14:58:31.126779"
   }
 }
