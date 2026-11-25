@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-25 14:58 UTC",
+  "updated_utc": "2026-11-25 16:07 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1815,6 +1815,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "SecurityWeek",
+      "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+      "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-25T16:07:04.500506"
     },
     {
       "source": "Rapid7 Blog",

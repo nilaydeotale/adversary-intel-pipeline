@@ -7937,5 +7937,35 @@
     "title": "Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and What Changed",
     "cves": [],
     "seen_at": "2026-11-25T14:58:31.126779"
+  },
+  "bd2bd985ae84f3911673847e959319f2acfc2b3b9767d0258b089617c11a0a9d": {
+    "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+    "cves": [],
+    "seen_at": "2026-11-25T16:07:04.415824"
+  },
+  "7b2fb94a02689b5a54ffbb344cc3429f15202cd2efa27494c9838f02988a41d5": {
+    "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+    "cves": [],
+    "seen_at": "2026-11-25T16:07:04.500513"
+  },
+  "6751ec26766ce5643119e8ca855f73d493527c9e80760ded705f48d55ee11d75": {
+    "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+    "cves": [],
+    "seen_at": "2026-11-25T16:07:04.989992"
+  },
+  "ba7d59a9a1b24a0521c4bebcd170fc64343d4a203e908accc5121fddac2e6a1d": {
+    "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+    "cves": [],
+    "seen_at": "2026-11-25T16:07:04.994089"
+  },
+  "125fa7a16a3b4469718e079c88020e6c854bd8126d5ffb6e93444345d2f683e2": {
+    "title": "Analyzing a SOCKS connection close bug in chisel and revsocks",
+    "cves": [],
+    "seen_at": "2026-11-25T16:07:06.763949"
+  },
+  "cf0c064e07c7c050a51cce769a15c45b0d178bf47f7e2a1b3277a591c0c2a3d6": {
+    "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
+    "cves": [],
+    "seen_at": "2026-11-25T16:07:16.414823"
   }
 }
