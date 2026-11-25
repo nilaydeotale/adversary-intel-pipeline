@@ -8023,5 +8023,10 @@
       "CVE-2026-133469"
     ],
     "seen_at": "2026-11-25T21:56:40.043369"
+  },
+  "e2019612156b59255fe036930c7dd88554ca410dc50aaac1591778dec2bfc994": {
+    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+    "cves": [],
+    "seen_at": "2026-11-25T22:51:16.813480"
   }
 }
