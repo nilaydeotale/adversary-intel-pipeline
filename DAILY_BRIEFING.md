@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-26 15:57 UTC | TLP:AMBER*
+*Last Updated: 2026-11-26 18:53 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | BleepingComputer | [Remus malware steals Gmail messages via fake Google She...](https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/) | - | `Threat` |
+| **MEDIUM** | `35` | BleepingComputer | [Fake paid expert interviews impersonate brands to steal...](https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/) | - | `OKTA` |
