@@ -8152,5 +8152,17 @@
     "title": "Fake paid expert interviews impersonate brands to steal Google logins",
     "cves": [],
     "seen_at": "2026-11-26T18:53:24.502920"
+  },
+  "51d1a9ee12a8b46e26157e79d1b2357029bebf1e2bb7c1ce689ff5af78acf3db": {
+    "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+    "cves": [],
+    "seen_at": "2026-11-26T20:56:48.433248"
+  },
+  "88b07042ff8f314c8c3f10dd52e3120055420e5392e0578d67e1277a70fb2e16": {
+    "title": "Drupal Warns of New Critical Flaw Exploited in the Wild",
+    "cves": [
+      "CVE-2026-136716"
+    ],
+    "seen_at": "2026-11-26T20:56:51.136231"
   }
 }
