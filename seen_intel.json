@@ -8105,5 +8105,17 @@
     "title": "1Password Hacked: Customer Names and Emails Copied, Vaults Untouched",
     "cves": [],
     "seen_at": "2026-11-26T11:55:53.354679"
+  },
+  "8b22ee09468f3e25e090ba564c0d1c96d47d1a21c6c30c75228fce69aacfc9ce": {
+    "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+    "cves": [
+      "CVE-2026-103406"
+    ],
+    "seen_at": "2026-11-26T13:12:24.601722"
+  },
+  "b64d9d84936e1e30fa83804e9e639b2c034542c4d8ea8329421aec32a8c5bfff": {
+    "title": "Australia\u2019s Flight Centre Data Breach Exposes Customer Records and Passport Details",
+    "cves": [],
+    "seen_at": "2026-11-26T13:12:25.970492"
   }
 }
