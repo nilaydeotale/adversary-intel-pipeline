@@ -8043,5 +8043,17 @@
     "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
     "cves": [],
     "seen_at": "2026-11-26T05:01:35.223814"
+  },
+  "ef4f78a41d60cd2da1728258003e6df1fe6148ee44653ffc5cbba5f825ccd253": {
+    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+    "cves": [],
+    "seen_at": "2026-11-26T07:08:43.423324"
+  },
+  "460868239bac409208c889e28adde81d80b67a93d5514f235ea3d49fc6783fa6": {
+    "title": "U.S. CISA adds HPE, Danfoss, Mitel MiCollab, and Vates Xen Orchestra\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+    "cves": [
+      "CVE-2023-25914"
+    ],
+    "seen_at": "2026-11-26T07:08:45.932058"
   }
 }
