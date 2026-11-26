@@ -8038,5 +8038,10 @@
     "title": "A Feast for AI: What Wiz Agents are Thankful For",
     "cves": [],
     "seen_at": "2026-11-26T02:51:50.841721"
+  },
+  "30cad8c5c9570f5da75f4c0ac6c67827a2b407f6e7fb12871d19365a6c15a271": {
+    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+    "cves": [],
+    "seen_at": "2026-11-26T05:01:35.223814"
   }
 }
