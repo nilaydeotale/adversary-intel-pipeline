@@ -8028,5 +8028,15 @@
     "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
     "cves": [],
     "seen_at": "2026-11-25T22:51:16.813480"
+  },
+  "82f58afd341d98aeaf4c9925623bdd422961e686f8941e6d33d48c8ef15e758a": {
+    "title": "Introducing Wiz ADR: Strengthening Cloud and AI Detection and Response with Application Context",
+    "cves": [],
+    "seen_at": "2026-11-26T02:51:50.836641"
+  },
+  "70c363206ce26a1688ccbcbc204c438b3fd7e3f9ba531db3bdcab01242c80527": {
+    "title": "A Feast for AI: What Wiz Agents are Thankful For",
+    "cves": [],
+    "seen_at": "2026-11-26T02:51:50.841721"
   }
 }
