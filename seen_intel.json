@@ -8085,5 +8085,25 @@
     "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
     "cves": [],
     "seen_at": "2026-11-26T10:10:41.722662"
+  },
+  "47ee5b08f2bceedc1e23593707d25afb54cb88db32ea55816fa6096eb2573af5": {
+    "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+    "cves": [],
+    "seen_at": "2026-11-26T11:55:50.481354"
+  },
+  "1d972a4ae8546514a6d54addc83246ce44585922aaf06850734a7f3a8f047227": {
+    "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+    "cves": [],
+    "seen_at": "2026-11-26T11:55:51.942382"
+  },
+  "0b8869875c713b15d6cf73ae51e2906291da5d063b1fd55249744c8575020f86": {
+    "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+    "cves": [],
+    "seen_at": "2026-11-26T11:55:52.450508"
+  },
+  "91776faa889fe0635c3b396534344dfbe95cf2eaa63ba26cc73b303b958682f5": {
+    "title": "1Password Hacked: Customer Names and Emails Copied, Vaults Untouched",
+    "cves": [],
+    "seen_at": "2026-11-26T11:55:53.354679"
   }
 }
