@@ -8055,5 +8055,30 @@
       "CVE-2023-25914"
     ],
     "seen_at": "2026-11-26T07:08:45.932058"
+  },
+  "b6dfd6fdfbea59048529ba8801631c0953a72aa6d30efbf00bd9bf47edda3014": {
+    "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+    "cves": [
+      "CVE-2026-132165",
+      "CVE-2026-136716"
+    ],
+    "seen_at": "2026-11-26T08:58:19.589163"
+  },
+  "249700280842d0162b672dc8a4f0fcb76a272cac5e381186f315731bea74f17a": {
+    "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+    "cves": [
+      "CVE-2026-133275"
+    ],
+    "seen_at": "2026-11-26T08:58:19.593386"
+  },
+  "8f520bfdb6ea32304386093dbea6240127c5f8d2d4c2b47c5229762ca5e1da15": {
+    "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+    "cves": [],
+    "seen_at": "2026-11-26T08:58:20.925601"
+  },
+  "7bbd182b16cbc91e00d81d50d6126000aa00e5e57627fdaed7a2a95fcc4293ea": {
+    "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+    "cves": [],
+    "seen_at": "2026-11-26T08:58:21.014564"
   }
 }
