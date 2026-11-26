@@ -8164,5 +8164,10 @@
       "CVE-2026-136716"
     ],
     "seen_at": "2026-11-26T20:56:51.136231"
+  },
+  "8d51ef8d0bb5b465a7258665efcf026c5985ee0c4c9594a89794283941648993": {
+    "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+    "cves": [],
+    "seen_at": "2026-11-26T21:53:33.709112"
   }
 }
