@@ -8080,5 +8080,10 @@
     "title": "1Password Breach Exposes Customer Data, Internal Source Code",
     "cves": [],
     "seen_at": "2026-11-26T08:58:21.014564"
+  },
+  "42376c207246956537b581e14b28c595ebfc24ccbc396d01c79632702edc0e6f": {
+    "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+    "cves": [],
+    "seen_at": "2026-11-26T10:10:41.722662"
   }
 }
