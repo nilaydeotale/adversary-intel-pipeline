@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-25 16:07 UTC | TLP:AMBER*
+*Last Updated: 2026-11-26 15:57 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | SecurityWeek | [Two Newly Disclosed GeoServer Vulnerabilities Under Att...](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/) | - | `Threat` |
+| **LOW** | `25` | BleepingComputer | [Remus malware steals Gmail messages via fake Google She...](https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/) | - | `Threat` |

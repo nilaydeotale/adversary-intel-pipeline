@@ -8117,5 +8117,25 @@
     "title": "Australia\u2019s Flight Centre Data Breach Exposes Customer Records and Passport Details",
     "cves": [],
     "seen_at": "2026-11-26T13:12:25.970492"
+  },
+  "528b265398eadc6925025bf88fc3d58e7d518d687d3fffbc2b6800bba9a57a09": {
+    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+    "cves": [],
+    "seen_at": "2026-11-26T15:56:57.080951"
+  },
+  "6c9456958c00b7dc5b80f697443f0215d9607adf1640b09cd8b7cbb6f975d403": {
+    "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+    "cves": [],
+    "seen_at": "2026-11-26T15:56:59.140881"
+  },
+  "8c35849dd196391feb48783d33ae0a9ff30b6700eff9ce2cb0c8214e9927b1cb": {
+    "title": "Linux/EasyShell: MalwareMustDie Identifies One of the Earliest Publicly Documented RATs Built for LoongArch Linux",
+    "cves": [],
+    "seen_at": "2026-11-26T15:56:59.998780"
+  },
+  "2d435d320d9255ca6194abe645ba9d69e21d58352446dc3b0ee144ed4103ff71": {
+    "title": "What is Strategic Threat Intelligence? | Recorded Future",
+    "cves": [],
+    "seen_at": "2026-11-26T15:57:06.554071"
   }
 }
