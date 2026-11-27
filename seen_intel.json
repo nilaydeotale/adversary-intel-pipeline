@@ -8286,5 +8286,15 @@
     "title": "Air Force Cloud One Breach: Updates Blocked, Migration Paused, Scope Unknown",
     "cves": [],
     "seen_at": "2026-11-27T15:55:38.783701"
+  },
+  "160dc3614e6825f77c6def983c514fbcca1155afae20c207d3f2b93523ac2235": {
+    "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+    "cves": [],
+    "seen_at": "2026-11-27T17:01:51.777423"
+  },
+  "00fe33ae7d76fb0cdd21e570d1f3b79f1430d6eb8a75f9ad8525d4fd5c422df3": {
+    "title": "Matters.AI Lands India\u2019s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+    "cves": [],
+    "seen_at": "2026-11-27T17:01:54.063242"
   }
 }
