@@ -8196,5 +8196,25 @@
       "CVE-2026-99362"
     ],
     "seen_at": "2026-11-27T08:58:50.461064"
+  },
+  "c40389fe2e3fc757ed6ec149380f34f857e164c8e95cd95265f6a707d8d7c014": {
+    "title": "100,000 Potentially Impacted by Colorado Data Breach",
+    "cves": [],
+    "seen_at": "2026-11-27T10:07:36.820389"
+  },
+  "d35dda325a4b261c334e7f533ad87f5694dc373872926d5a0a988e38a3321214": {
+    "title": "SAP confirms security incident after suspicious GitHub activity",
+    "cves": [],
+    "seen_at": "2026-11-27T10:07:37.367933"
+  },
+  "c40be28220fdcdf2ba57a90cc59b5e72517f7ac012b9d501552e50f02cd6e605": {
+    "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+    "cves": [],
+    "seen_at": "2026-11-27T10:07:37.373440"
+  },
+  "f47336ab36e565652b8e518c6203ffa324379ef29253935f2904964346b4f185": {
+    "title": "FIFA Confirms a Cyberattack, Hackers Claim 12 GB of Internal Files",
+    "cves": [],
+    "seen_at": "2026-11-27T10:07:38.128979"
   }
 }
