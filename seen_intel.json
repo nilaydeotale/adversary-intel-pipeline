@@ -8246,5 +8246,20 @@
     "title": "Drupal warns of new site takeover flaw exploited in attacks",
     "cves": [],
     "seen_at": "2026-11-27T11:53:27.378975"
+  },
+  "5187382e4d985e0e082a4f480a5273aede7efcc4f055b5b47d8aedae97971413": {
+    "title": "Recent Outages Have Economic Causes",
+    "cves": [],
+    "seen_at": "2026-11-27T13:06:25.078406"
+  },
+  "2b1ceea7bc109e0b6f8f65ceb3a24d886daea4b6174847ccf21f909f538af01b": {
+    "title": "SAP Security Incident: Stolen Tokens Raise Supply Chain Concerns",
+    "cves": [],
+    "seen_at": "2026-11-27T13:06:26.015609"
+  },
+  "0cb113e00f3ff35df9faf2a9fa1eb6352b76b68b238a77983fea9276f56c141f": {
+    "title": "Rad Pro Random Number Generator",
+    "cves": [],
+    "seen_at": "2026-11-27T13:06:26.646963"
   }
 }
