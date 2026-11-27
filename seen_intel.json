@@ -8179,5 +8179,22 @@
     "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
     "cves": [],
     "seen_at": "2026-11-27T07:09:35.082383"
+  },
+  "cc7e9d7aa7ee820bcaccff8972020cc92f14a0fa87fb66f1d31e7995fdb299b6": {
+    "title": "Hex Package Manager Warns of Potential Data Breach",
+    "cves": [],
+    "seen_at": "2026-11-27T08:58:49.904009"
+  },
+  "ec023d6d1752e64e1a0669df4d94ee83e7b720c31f92e94dc3069f40b29761c8": {
+    "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+    "cves": [],
+    "seen_at": "2026-11-27T08:58:49.909549"
+  },
+  "e1b44e4993f3044a1a76b4a54a5f760685e630a0a19b523733d763b715558a35": {
+    "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+    "cves": [
+      "CVE-2026-99362"
+    ],
+    "seen_at": "2026-11-27T08:58:50.461064"
   }
 }
