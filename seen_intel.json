@@ -8311,5 +8311,14 @@
     "title": "New Boston Scientific data breach exposes personal, medical info",
     "cves": [],
     "seen_at": "2026-11-27T19:55:22.772600"
+  },
+  "6a2d24a9da4b6b33115a153ccddaa8a4ba7309c5b071f94a4063f372badf62f6": {
+    "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+    "cves": [
+      "CVE-2026-120705",
+      "CVE-2026-129243",
+      "CVE-2026-136716"
+    ],
+    "seen_at": "2026-11-27T20:52:47.783701"
   }
 }
