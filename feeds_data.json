@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-27 05:02 UTC",
+  "updated_utc": "2026-11-27 07:09 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1831,6 +1831,23 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "rce",
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-27T07:09:35.082378"
     },
     {
       "source": "BleepingComputer",

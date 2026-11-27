@@ -8169,5 +8169,15 @@
     "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
     "cves": [],
     "seen_at": "2026-11-26T21:53:33.709112"
+  },
+  "011bac00ddc7a0afa7c8578d5be58aa41db99870c5bd49819c2049ccc660bbb7": {
+    "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "cves": [],
+    "seen_at": "2026-11-27T07:09:35.076032"
+  },
+  "d01f33a5e0cd2a23e6c0c826ec17951ce579580d7a9c47d0d01c04e2c615239d": {
+    "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+    "cves": [],
+    "seen_at": "2026-11-27T07:09:35.082383"
   }
 }
