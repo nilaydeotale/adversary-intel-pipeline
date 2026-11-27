@@ -8320,5 +8320,10 @@
       "CVE-2026-136716"
     ],
     "seen_at": "2026-11-27T20:52:47.783701"
+  },
+  "43201691f9f1ad21c19fe1dc0d6324644bd3b1c946051f26ee00bd511c658338": {
+    "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
+    "cves": [],
+    "seen_at": "2026-11-27T22:52:46.061181"
   }
 }
