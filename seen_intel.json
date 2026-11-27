@@ -8216,5 +8216,35 @@
     "title": "FIFA Confirms a Cyberattack, Hackers Claim 12 GB of Internal Files",
     "cves": [],
     "seen_at": "2026-11-27T10:07:38.128979"
+  },
+  "0abb99909f2c15d0c4d0b02cdc583d921b52c41520c9aa035bbf634a470c62c3": {
+    "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+    "cves": [],
+    "seen_at": "2026-11-27T11:53:26.233766"
+  },
+  "4cffe8ff3f91233c7bdabb2d89a17bf91d8472d1e6d088958b735a8daad4a6b2": {
+    "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+    "cves": [],
+    "seen_at": "2026-11-27T11:53:26.240046"
+  },
+  "81b50023a55c6c0b486edf1787f21aaa976beacb4c49c8bae753a406ddae63bc": {
+    "title": "The British Government is Turning Everyone Into a Prepper",
+    "cves": [],
+    "seen_at": "2026-11-27T11:53:26.699792"
+  },
+  "5f037e1619c798dd736711738901ef2d0b1fd82019e3381d75df6e2668e49b16": {
+    "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+    "cves": [],
+    "seen_at": "2026-11-27T11:53:27.174860"
+  },
+  "83b278172b971757508a648a3d335c835adc7c738799b899b563dd61e17b5a4d": {
+    "title": "Microsoft removes WSUS server role in Windows Server 2028",
+    "cves": [],
+    "seen_at": "2026-11-27T11:53:27.373340"
+  },
+  "4e33d6cd0dab6ac2ed132ae5ed8a619dbaa4ff350665b7ae202e93c8842bb73b": {
+    "title": "Drupal warns of new site takeover flaw exploited in attacks",
+    "cves": [],
+    "seen_at": "2026-11-27T11:53:27.378975"
   }
 }
