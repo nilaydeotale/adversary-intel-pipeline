@@ -8296,5 +8296,10 @@
     "title": "Matters.AI Lands India\u2019s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
     "cves": [],
     "seen_at": "2026-11-27T17:01:54.063242"
+  },
+  "b46557b2d7ce1e48db327b36ee7b3048f5ca1b68778ac3b2150544d2b27c2348": {
+    "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+    "cves": [],
+    "seen_at": "2026-11-27T18:52:20.177548"
   }
 }

@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-27 07:09 UTC | TLP:AMBER*
+*Last Updated: 2026-11-27 18:52 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | The Hacker News | [Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP ...](https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html) | - | `Threat` |
+| **LOW** | `25` | BleepingComputer | [Unpatched Cacti zero-day with public PoC gives remote c...](https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/) | - | `Threat` |

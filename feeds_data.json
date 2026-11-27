@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-27 17:02 UTC",
+  "updated_utc": "2026-11-27 18:52 UTC",
   "items": [
     {
       "source": "Rapid7 Blog",
@@ -1831,6 +1831,22 @@
       "max_epss": 0.0,
       "mitre": [],
       "detected_utc": "2026-11-02T15:52:46.553531"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "score": 25,
+      "severity": "LOW",
+      "stack_hits": [],
+      "exploit_hits": [
+        "zero-day"
+      ],
+      "cves": [],
+      "in_kev": [],
+      "max_epss": 0.0,
+      "mitre": [],
+      "detected_utc": "2026-11-27T18:52:20.177541"
     },
     {
       "source": "The Hacker News",
