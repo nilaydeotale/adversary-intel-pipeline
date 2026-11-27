@@ -8301,5 +8301,15 @@
     "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
     "cves": [],
     "seen_at": "2026-11-27T18:52:20.177548"
+  },
+  "d4298727b2e9cb1aacda9bab806eb233b89fdb82ac0fc5ccf8d960fc24ab0c2c": {
+    "title": "pCloud confirms password manager hack after suspicious login alerts",
+    "cves": [],
+    "seen_at": "2026-11-27T19:55:22.768996"
+  },
+  "7ef11d39cb6077be32d490c9459a83220c9ad82aa705a4d5a067aeb71b1a7942": {
+    "title": "New Boston Scientific data breach exposes personal, medical info",
+    "cves": [],
+    "seen_at": "2026-11-27T19:55:22.772600"
   }
 }
