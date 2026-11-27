@@ -8261,5 +8261,15 @@
     "title": "Rad Pro Random Number Generator",
     "cves": [],
     "seen_at": "2026-11-27T13:06:26.646963"
+  },
+  "96771022e8824a19bd6cd9b172cc2e496a6612c5d2171cb4aa778d0c97ebc1f1": {
+    "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+    "cves": [],
+    "seen_at": "2026-11-27T14:51:06.324095"
+  },
+  "3118bffe84a4bafd37e6fbe2e4f3647480ebc172e8ba5b6ec9e7a09af67cacd6": {
+    "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+    "cves": [],
+    "seen_at": "2026-11-27T14:51:08.343856"
   }
 }
