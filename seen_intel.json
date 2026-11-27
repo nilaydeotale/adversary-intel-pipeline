@@ -8271,5 +8271,20 @@
     "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
     "cves": [],
     "seen_at": "2026-11-27T14:51:08.343856"
+  },
+  "21c201faa5c5ea0e3ee5e867d361c9679ae136f33a3b26fa18ebbd312e1625f5": {
+    "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+    "cves": [],
+    "seen_at": "2026-11-27T15:55:38.352441"
+  },
+  "dc94617767fcf50bf44f1c2faa4c6418a7081fee30af629ced06928b4ade8b54": {
+    "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+    "cves": [],
+    "seen_at": "2026-11-27T15:55:38.356365"
+  },
+  "a594e602e5f62508d9e3ebf5c784fce05e6a5cf54482e01023d2413a519955d7": {
+    "title": "Air Force Cloud One Breach: Updates Blocked, Migration Paused, Scope Unknown",
+    "cves": [],
+    "seen_at": "2026-11-27T15:55:38.783701"
   }
 }
