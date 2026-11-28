@@ -8330,5 +8330,10 @@
     "title": "Fake Government App Exposes Italy\u2019s Expanding Spyware Surveillance Industry",
     "cves": [],
     "seen_at": "2026-11-28T01:02:01.148602"
+  },
+  "8fe929c1f6ee6f2907eb8d95ca13e4d631af6b7cf34b89317799aae77bd2788e": {
+    "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+    "cves": [],
+    "seen_at": "2026-11-28T08:47:26.124424"
   }
 }
