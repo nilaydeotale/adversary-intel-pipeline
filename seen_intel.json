@@ -8335,5 +8335,10 @@
     "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
     "cves": [],
     "seen_at": "2026-11-28T08:47:26.124424"
+  },
+  "047871cbef7b539d733b90c3adcc3872583a97c2656aa9e392062b48ac09ccac": {
+    "title": "Booba Ransomware Attack on Water Plant Reveals Monitoring Blind Spot",
+    "cves": [],
+    "seen_at": "2026-11-28T11:45:18.931794"
   }
 }

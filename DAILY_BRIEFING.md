@@ -1,6 +1,6 @@
 # 🗞️ Daily Adversary Intelligence Briefing
-*Last Updated: 2026-11-27 18:52 UTC | TLP:AMBER*
+*Last Updated: 2026-11-28 11:45 UTC | TLP:AMBER*
 
 | Severity | Score | Source | Headline | CVEs / KEV | Stack Tags |
 |---|---|---|---|---|---|
-| **LOW** | `25` | BleepingComputer | [Unpatched Cacti zero-day with public PoC gives remote c...](https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/) | - | `Threat` |
+| **LOW** | `25` | Security Affairs | [Booba Ransomware Attack on Water Plant Reveals Monitori...](https://securityaffairs.com/204166/cyber-crime/booba-ransomware-attack-on-water-plant-reveals-monitoring-blind-spot.html) | - | `Threat` |
